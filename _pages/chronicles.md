@@ -6,4 +6,4 @@ permalink: /chronicles/
 
 # Overzicht
 
-Overzicht van alle kronieken
+Overzicht van alle kronieken, doei
