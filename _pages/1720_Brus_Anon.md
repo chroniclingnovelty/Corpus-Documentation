@@ -1,0 +1,41 @@
+---
+layout: default
+title: 1720_Brus_Anon
+permalink: /chronicles/1720_Brus_Anon/
+parent: Chronicles
+--- 
+
+
+# Oudtheden ofte Chronychsche jaerboek der prinselijcke Stadt Brussel bijeen vergaedert uijt verscheijde schrijvers der stadt Brussel door eenen liefhebber van het vaderlandt 
+
+Anoniem. “Oudtheden Ofte Chronychsche Jaerboek Der Prinselijcke Stadt Brussel Bijeen Vergaedert Uijt Verscheijde Schrijvers Der Stadt Brussel Door Eenen Liefhebber van Het Vaderlandt.” Brussel, 1720. ASB Archives historiques, Registre 2959B. Stadsarchief Brussel. 
+
+## Auteursgegevens 
+
+| | | 
+| --------------- | --------------- | 
+| Naam |   | 
+| Geslacht | u | 
+
+## Inhoud van de tekst 
+
+| | | 
+| --------------- | --------------- | 
+| Beschreven begin | 974 | 
+| Plaats onderwerp | Brussel | 
+
+[<img src="..\..\barplots_chronicles\1720_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1720_Brus_Anon.jpg) 
+
+## Notes 
+
+<div data-schema-version="8"><p>De Kroniek</p>
+<p>&nbsp;</p>
+<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
+<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
+<p>Als bijschrift bij de transcriptie schrijft zij:</p>
+<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
+<p>&nbsp;</p>
+</div> 
+
+## Literatuur 
+
