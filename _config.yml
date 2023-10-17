@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chronicling Novelty - de metadata
+title: Kroniekbeschrijvingen
 email: chroniclingnovelty@hum.leidenuniv.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Deze website bevat metadata van alle kronieken in het corpus 'Chronicling Novelty'.
