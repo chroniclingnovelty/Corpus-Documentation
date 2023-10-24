@@ -37,14 +37,7 @@ Godewijck, Pieter van. Dese heerlicke stadt: een zeventiende eeuwse kroniek van 
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 9 08 2023</p>\n<p>Informatie ontleend aan W.M. van der Schouw, <em>Dese heerlicke stadt. Eem zeventiende eeuwse kroniek van Dordrecht &nbsp;door Pieter Govertsz van Godewijck (1593-1669)</em>, Dordtse bronnen 1 (Dordrecht 2006), die in zijn inleiding aantoont waarom Van Godewijck de auteur is.</p>\n<p><a href="https://www.oud-dordrecht.nl/wp-content/uploads/2019/10/DB01_17e_eeuw_dese_heerlicke_stadt.pdf" rel="noopener noreferrer nofollow">https://www.oud-dordrecht.nl/wp-content/uploads/2019/10/DB01_17e_eeuw_dese_heerlicke_stadt.pdf</a></p>\n<p>Pieter van Godewijck (geb Dordrecht 1593-gest Dordrecht 1669). Begraven in de Augustijnenkerk. Bezoekt Latijnse School Dordt, wordt daar in 1619 ‘duytse meester’ , en later ook toegelaten als ‘franse schoolmeester’. Getrouwd 1626 met Sara Cornelis Pijpelaersdochter, kreeg twee dochters, Margaretha en Cornelia (Cornelia werd dichteres, en kreeg van hem onderwijs oa Italiaans, Frans, Engels, sterrenkunde. rekenkunde, wiskunde). Bekend met de gebroeders De Witt en lokale auteurs Balen en Van Beverwijck. Dicht zelf ook, oa. Remedie voor de Pest (1636).</p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

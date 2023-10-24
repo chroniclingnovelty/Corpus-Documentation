@@ -36,14 +36,7 @@ Boonen, Willem. Geschiedenis van Leuven, geschreven in de jaren 1593 en 1594. On
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Dit is een heel grote band met daarin meerdere kronieken. Het begint met een kroniek van Brabant/Hertogen van Brabant vanaf de oudheid/ middeleeuwen en wordt dan steeds meer een stadskroniek (pagina\'s 1-178). Waarschijnlijk is de kroniek eigentijds vanaf 1567. </p>\n<p>De uitgever zegt het volgende over de inhoud (xiv)</p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">‘Het gedeelte van dit boek handelende over de gebeurtenissen onder Philips II, bevat vrij belangrijke plaatsen, als de aankomst te Leuven, in 1567, van den hertog van Alva; de wegvoering van den graaf van Buren, in 1568; het beleg, door den Prins van Oranje, in 1572; de overstrooming in 1573; de feesten gegeven, in 1577, ter eere van don Juan van Oostenrijk; de pest van 1578; de verdediging der stad door Fabio Fusco de Mataloni, in 1581; de ontvangst van Ernest van Oostenrijk, in 1594, enz.’</span></span>Eindigt in 1594</p>\n<p>&nbsp;Over de auteur Willem Boonen (Leuven, 1547-1618)</p>\n<p>▪ Leuvens magistratengeslacht</p>\n<p>▪ stadsambtenaar sinds 1579</p>\n<p>▪ archivaris sinds 1594</p>\n<p>▪ werken:</p>\n<p>▪ Een cort verhael oft memorieboeck van de hertoghen van Brabant, van den ouderdom der stadt Loven, van de seven oude origineele geslachten der selver stadt ende haere Sinte-Peetersmannen bedeylt in vier deelen oft capittelen (1593)</p>\n<p>Vanaf blz. 399-436 wordt dit een Kronijk van Leuven van 1599 tot 1766, opgesteld door Willem Leunckens (1700-1773) begonnen in 1755, tot 1766, die we niet hebben opgenomen in het corpus.</p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

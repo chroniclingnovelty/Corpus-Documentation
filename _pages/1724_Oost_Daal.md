@@ -34,14 +34,7 @@ Daalder, Jan Sijmons. “Kroniek Daalder” : Aantekeningen Betreffende Huweli
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p><span style="color: #2a2a2a"><span style="background-color: transparent">Deze Kroniek, getranscribeerd door J. Dane- Ruijter, bevat aantekingen betreffende huwelijken, overlijdens, predikanten en plaatselijke gebeurtenissen in Oostzaan in de jaren 1682 - 1724. &nbsp;De auteur lijkt nauw betrokken te zijn bij de gereformeerde kerk en fungeerde wellicht als koster oid. </span></span></p>\n<p><span style="color: #2a2a2a"><span style="background-color: transparent">De kroniek is vermoedelijk samengesteld door Jan Sijmons Daalder (1655 - 1724) een telg uit een vooraanstaande familie in Oostzaan.</span></span></p>\n<p><span style="color: #2a2a2a"><span style="background-color: transparent">Noord-Hollands Archief, collectie Losse Aanwinsten (toegang 176, inv.nr. 1079)</span></span></p>\n<p>&nbsp;</p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

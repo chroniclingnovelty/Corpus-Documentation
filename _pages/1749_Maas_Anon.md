@@ -30,14 +30,7 @@ Anoniem. “Chronyk van Maestrigt, 1750-1800.” Maastricht, 1749. Handschriften
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP/EK juli/aug 2023</p>\n<p>Het gaat hier om kroniek van een militair, lid van het garnizoen, en gereformeerd, getuige veel mededelingen over collectes voor gereformeerde slachtoffers in buitenlanden, bid- en bededag, omschrijven van katholieken als ‘rooms’ en soms als ‘bygelovig’. Veel over misdaad en straf, ook in garnizoen (inclusief zaken rond bestialiteit en sodomie), en biedt inzicht in manier waarop troepen ook worden ingezet om boeren etc in bedwang te houden. Mooi voor studie van beleid in generaliteitslanden.</p>\n<p>De tekst komt sterk overeen met 1762_Maas_Anon.</p>\n<p>Tekst vermeldt, opmerkelijk, dat er geen ‘Turkse slaven’ mogen worden toegelaten zonder attestatie gezondheid (net als St Jacobs pelgrims en ‘vreemde bedelaars’.</p>\n<p>Handschrift verdeeld in drie delen.</p>\n<p>Deel 1 tot 1700</p>\n<p>deel 2 1700-1725</p>\n<p>deel 3 1726-1749</p>\n<p><span style="color: black">Er is geen afsluiting of afsluitende gebeurtenis. De anonieme auteur zou daarom in 1749 overleden kunnen zijn.</span></p>\n</div>'] 
 
 ## Literatuur 
 

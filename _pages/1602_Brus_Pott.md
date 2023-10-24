@@ -37,14 +37,7 @@ Pottre, Jan de. Dagboek van Jan de Pottre, 1549-1602. Vol. 3rd series, 5. Maatsc
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p><strong>‘Jan de Pottre </strong>(1525–1601), was a Brussels merchant, who also held some local offices. He married in 1564 and had five children. He was overseer of the poor in St Nicolas Church, served on the board of Mercers’ Guild, and was a councillor during the Revolt. Initially an ardent ‘patriot’, he was deeply disappointed in the Revolt. His account was published as <em>Dagboek van Jan de Pottre, 1549–1602</em>, ed. Jules L. D. de Saint-Genois, Maatschappij der Vlaamsche Bibliophilen, 3rd series 5 (Ghent, 1861). Although Pottre’s comments are usually terse, the fact that he covered events over more than five decades allows the reader to trace the development of his political and religious views. Because of his frequent comments on public spectacles and processions, the diary was mined by&nbsp; Margit Thøfner, <em>A Common Art. Urban Ceremonial in Antwerp and Brussels during and after the Dutch Revolt</em>. Studies in Netherlandish art and cultural history 7 (Zwolle, 2007)’&lt;sup&gt;1&lt;/sup&gt;</p>\n<p>[1] Judith Pollmann, <em>Catholic identity and the Revolt of the Netherlands, 1520-1635</em> (Oxford 2011), 205</p>\n<p>&nbsp;</p>\n</div>'] 
 
 ## Literatuur 
 

@@ -34,14 +34,7 @@ Haexbergen, Hendrik. ‘Memoriaal van de stadssecretaris Hendrik van Haexbergen,
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Het gaat hier eigenlijk om een journaal waarin deze secretaris van Deventer gedurende 1610-1631 zijn persoonlijke en ambtelijke activiteiten en financien bijhoudt, en is dus eigenlijk geen kroniek. Mooie details over wat hij allemaal koopt en bestelt, en hoeveel geld hij van allerlei mensen krijgt voor zijn ‘moeite’. Hier en daar summaries van brieven die hij schrijft, en volledige tekst als die naar de Prins gaan. Vermeldt ook bijv ontvangst van nieuws over executie Oldenbarnevelt en diverse gesprekken daarover, plus daarna weer brieven. Beschrijft onder welke voorwaarden hij iemand in de leer wil nemen - moppert dat die in een duitse hand schrijft en nog geen nederlands, maar kan veel leren bij hem. Ook informatie dat hij zijn dochter naar een schrijfmeester stuurt - ze moet het goed leren. Ook druk met aankopen - zijde, spaanse schoenen etc. en de verbouwing van zijn huis (met prijsopgave) Hij lijkt mij een man on the make.</p>\n<p>Informatie via:</p>\n<p><a href="https://gw.geneanet.org/ervespelberg?lang=en&amp;n=van+haexbergen&amp;oc=0&amp;p=hendrik" rel="noopener noreferrer nofollow">https://gw.geneanet.org/ervespelberg?lang=en&amp;n=van+haexbergen&amp;oc=0&amp;p=hendrik</a></p>\n<p></p>\n<p></p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

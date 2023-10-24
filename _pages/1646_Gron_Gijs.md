@@ -33,14 +33,7 @@ Gijsbers, Tamme. ‘Kroniek van Tamme Gijsbers’. Groningen, 1646. LTK 2293. Un
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p><span style="color: #000000"><span style="background-color: #f3f4f5">Tamme Geijsbers (Gijsbers), Dagboek over de periode 1594-1647. - Groningen, ca. 1636-1647. 1 deel, eigenhandig geschreven, 2+43+1 fol.; 98×73 mm. - Papier in duodecimo. Katernbouw: &lt; 6IV (i-iii, 1-43, i-ii) &gt; eerste en laatste blad fungerend als dekblad. Moderne potloodfoliëring 1-43. Schrijfspiegel aangebracht middels kantlijn (1-36). Gotische cursief één hand. Band van rood leer, gestempeld met wapen van Groningen (voorplat). - Vermoedelijk omstreeks 1636-1637 begonnen en daarna herhaaldelijk bijgewerkt. Tamme Gijsbers (geb. 1583) was actief als koopman en reisde meermaals door Europa. Woonde in de jaren 1606-1611 in Dantzig, 1613-1615 in Amsterdam, 1615-1616 in Frankrijk, 1617 getrouwd. Werd op 4 september 1623 aangenomen als boekhouder van de West-Indische Compagnie (18r). In de jaren 1633-1638/39 was hij voogd van het Aduarder Gasthuis te Groningen (vgl. Groninger Archieven, inv. 1363 Aduarder Gasthuis 1604-1984). Dit feit is ook in het dagboek vermeld (30v). Bevat mededelingen over bruiloften, geboorten en sterfgevallen in familiekring, maar ook over gebeurtenissen van algemeen belang. [LTK 2293]</span></span></p>\n<p>&nbsp;</p>\n</div>'] 
 
 ## Literatuur 
 

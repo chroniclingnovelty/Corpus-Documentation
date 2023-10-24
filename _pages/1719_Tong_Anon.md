@@ -31,14 +31,7 @@ Anoniem. “Chronijk van Maestricht tot 1719.” 3. Tongeren, 1719. 18.A  Hands
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 3 juli 2023</p>\n<p>Begonnen als een geschiedenis van Tongeren/Maastricht in 1701 door een auteur met initialen</p>\n<p>J:B:P:</p>\n<p>Zeer moeilijk om hier iets biografisch aan te plakken, behalve dat de auteur een inwoner was van Tongeren, misschien ook enige tijd van Maastricht. en moet zijn gestorven na 1719. Hij was over sommige zaken goed geinformeerd, maar er zitten flinke gaten in de tijd. </p>\n<p>Lijsten met executies en martelpraktijken. Veel kerkgeschiedenis, enig Latijn. &nbsp;Mogelijk bekleedde de auteur zelf een functie binnen de kerk. Veel over beleg Wenen en de strijd tegen de Turken. &nbsp;Uitvoerig gedicht over brand Tongeren - joden krijgen de schuld. Compilatie. </p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

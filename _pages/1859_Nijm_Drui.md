@@ -36,14 +36,9 @@ Druijnen, Jan Willem van, and Gerrit van Druijnen. Leven aan de Waal, of Vervolg
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<p>Inleiding 1-76</p>\n<p>Tekst 77-330</p>\n<p>Kroniek bijgehouden door wijnhandelaar Jan Willem van Druijnen (1790-1854) en zijn zoon Gerrit van Druijnen (1825-1876), die verantwoordelijk was voor de aantekeningen van 1853-1858. Deze laatste verliet de stad, misschien vanwege een mesalliance, en hield (daarom?) op met de kroniek</p>', '<div data-schema-version="8"><p>De kroniek is een rechtstreeks vervolg op de kroniek van vader en zoon Johan en Gijsbert In de Betouw (die op hun beurt de kroniek van vader en zoon Smetius hebben voortgezet).</p>\n<p>Meer gegevens over de familie Van druijnen en de voorgangers van deze kroniek in \'Leven aan de Waal\', ed. A. Bosch et al., Nijmegen Vantilt 2011.</p>\n<p>CL/ 24 juni 2023</p>\n</div>'] 
+
+['<p>Inleiding 1-76</p>\n<p>Tekst 77-330</p>\n<p>Kroniek bijgehouden door wijnhandelaar Jan Willem van Druijnen (1790-1854) en zijn zoon Gerrit van Druijnen (1825-1876), die verantwoordelijk was voor de aantekeningen van 1853-1858. Deze laatste verliet de stad, misschien vanwege een mesalliance, en hield (daarom?) op met de kroniek</p>', '<div data-schema-version="8"><p>De kroniek is een rechtstreeks vervolg op de kroniek van vader en zoon Johan en Gijsbert In de Betouw (die op hun beurt de kroniek van vader en zoon Smetius hebben voortgezet).</p>\n<p>Meer gegevens over de familie Van druijnen en de voorgangers van deze kroniek in \'Leven aan de Waal\', ed. A. Bosch et al., Nijmegen Vantilt 2011.</p>\n<p>CL/ 24 juni 2023</p>\n</div>'] 
 
 ## Literatuur 
 

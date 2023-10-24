@@ -31,14 +31,7 @@ Anoniem. De kroniek van het St.-Geertruiklooster te ’s-Hertogenbosch. Den Bosc
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>EK</p>\n<p>Kroniek van de stad en Meierij van \'s-Hertogenbosch in de jaren 1140-1699. De kroniek wordt sinds 1977 als die "van (het) Sint-Geertrui(klooster)" aangeduid, hoewel de werkelijke identiteit van de auteur onbekend is.<br><br>De tekst geeft aan dat de auteur erg geinteresseerd was in het grote politieke nieuws, criminaliteit, Bossche schutterijen, maar ook economische en godsdienstige gegevens. De kroniek is de jongste in een traditie van Bossche kronieken die sinds de late vijftiende eeuw in de stad zijn opgetekend. De kroniek is voor de geschiedenis van de stad \'s-Hertogenbosch, maar ook de regionale geschiedenis van oostelijk Noord-Brabant van groot belang vanwege de vele nieuwe gegevens. Met name geldt dat voor het gedeelte over de periode 1579-1699, omdat er voor die jaren weinig andere kronieken ter beschikking zijn en omdat de schrijver een deel van die tijd zelf heeft meegemaakt.</p>\n</div>'] 
 
 ## Literatuur 
 

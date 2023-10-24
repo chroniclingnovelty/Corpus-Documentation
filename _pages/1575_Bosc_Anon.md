@@ -32,14 +32,7 @@ Alfen, H., red. Kroniek eener kloosterzuster van het voormalig Bossche klooster 
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>De Bossche kroniek van de Tertiarissenzusters aan de Uilenburg in Den Bosch is door een onbekende zuster opgetekend. Deze was een minder geschoold schrijfster, gezien de stijl, inconsequente spelling, taalgebruik en organisatie van de tekst. Ze springt van de hak op de tak. Van Alfen stelt dat de onregelmatigheden deels ook aan een kopiist te wijten kunnen zijn.</p>\n<p>De kroniek begint in 1566 met de beeldenstorm, en eindigt in 1575.</p>\n<p>Neeltje van Aardenne, student aan de universiteit Leiden, observeerde in haar scriptie dat de kroniek is opgesteld om de algemene troebelen van de Opstand&nbsp; in voornamelijk Den Bosch vast te leggen; de schrijfster vangt namelijk aan in 1566 bij het indienen van het Smeekschrift der Edelen en vervolgens het uitbarsten van de beeldenstormen en niet bij de stichting van het klooster. De troebelen zijn het subject, niet de dagelijkse beslommeringen in het klooster. Slechts één keer wordt een zuster - de mater - bij naam genoemd en er zijn geen serieuze financiële aantekeningen in opgenomen. Daarnaast waaiert de schrijfster uit naar andere plaatsen die slachtoffer worden van oorlogsgeweld en plunderingen zoals Haarlem, slot Loevestein en omringende plaatsen als Oisterwijk, Geertruidenberg en Grave. Zelfs internationale ontwikkelingen worden opgenomen, zoals Philips’ overwinningen op de Turken, het noodweer in Montpellier en de dood van Gaspard de Coligny in Parijs.&nbsp; De kroniek moet bedoeld zijn om een beeld te geven van al wat de goede Katholieke wereld werd aangedaan door hen die ‘onder den scyn van goet die Confessy van Outsborch int lant (wensen te) brengen’.&nbsp; Zij worden gelukkig vaak tegengewerkt door allerhande wonderen, zoals wanneer een aantal Geuzen een beeld van St. Jan beschimpt en zij accuut worden afgestraft met algehele verlamming.</p>\n</div>'] 
 
 ## Literatuur 
 

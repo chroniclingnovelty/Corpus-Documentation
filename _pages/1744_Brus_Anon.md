@@ -30,14 +30,7 @@ Anoniem. “De Vermaerde Ende Wonderlycke Geschiedenissen Der Prinselycke Stadt 
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 15 8 2023</p>\n<p>Het eerste deel van deze tekst gaat grotendeels over de kwestie Anneessens, <span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">een&nbsp;</span></span><span style="color: rgb(6, 69, 173)"><a href="https://nl.wikipedia.org/wiki/Deken_(gilde)" title="Deken (gilde)" rel="noopener noreferrer nofollow">gildedeken</a></span><span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">&nbsp;in Brussel die op de&nbsp;</span></span><span style="color: rgb(6, 69, 173)"><a href="https://nl.wikipedia.org/wiki/Grote_Markt_(Brussel)" title="Grote Markt (Brussel)" rel="noopener noreferrer nofollow">Grote Markt</a></span><span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">&nbsp;werd&nbsp;</span></span><span style="color: rgb(6, 69, 173)"><a href="https://nl.wikipedia.org/wiki/Onthoofding" title="Onthoofding" rel="noopener noreferrer nofollow">onthoofd</a></span><span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">&nbsp;wegens zijn betrokkenheid bij een opstand tegen de plannen van het Oostenrijks-Habsburgse bewind in Brussel om de macht van de ambatchten te breken. V</span></span>erder zeer veel belangstelling voor optochten en processies met name rond St Gudula. Op het eind een zeer juridische tekst - wellicht overgeschreven. De auteur is katholiek maar verder onduidelijk wie hij is. Veel over ‘onse borgers’ &nbsp;- contrast met het ‘canalie’. Misschien zelf schutter?</p>\n</div>'] 
 
 ## Literatuur 
 

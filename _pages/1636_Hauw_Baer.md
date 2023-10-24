@@ -35,14 +35,7 @@ Baerntsz, Claes. “Kort Verhaal Der Gedenckwaerdijgste Gheschiedenissen van Wes
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP juni 2023</p>\n<p>De auteur was bastaardzoon, geboren <span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">Claes Barentsz. &nbsp;in 1574</span></span> van een welvarende vader. Twee familieleden stierven aan de pest. Hij was gereformeerd en ouderling. Hij was molenmeester van de Vier Noorder Koggen wil zeggen dat hij in die hoedanigheid werkte voor het college van ingelanden van het <span style="color: rgb(34, 34, 34)"><span style="background-color: rgb(255, 255, 255)">Houtwouderambacht of Hoogwouderambacht.</span></span></p>\n<p>Biografische gegevens auteur ontleend aan <a href="http://www.westfriesefamilies.nl/kwartaalbladen/1976/wf1976_010_012.php" rel="noopener noreferrer nofollow">http://www.westfriesefamilies.nl/kwartaalbladen/1976/wf1976_010_012.php</a></p>\n<p>en</p>\n<p>http://historisch-hauwert.nl/ClaesBaerntsz.html</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

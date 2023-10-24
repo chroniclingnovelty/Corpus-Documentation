@@ -31,14 +31,9 @@ Anoniem. “Chronycke van Waes, et Le Chiffre Couronné de Léopold 1er.” Waas
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<p>Komt grotendeels overeen met deel 2. TD</p>\n<p>1756_Waas_anon_01</p>\n<p>\xa0</p>', '<div data-schema-version="8"><p>JP juli 23</p>\n<p>Geschreven in Sint Niklaas in het land van Waas, door iemand met toegang tot de archieven.</p>\n<p>Over jaren 1580 lange passages geciteerd uit Henricus Costerius 1591, die ook in 1749_Loke_Smet wordt besproken, over wolven, tovenaars en honger. Er wordt ook verder uitvoerig uit gedrukte en ongedrukte bronnen geciteerd. Eindigt met een beschrijving van een landjuweel met veel details over de gildes</p>\n<p></p>\n</div>'] 
+
+['<p>Komt grotendeels overeen met deel 2. TD</p>\n<p>1756_Waas_anon_01</p>\n<p>\xa0</p>', '<div data-schema-version="8"><p>JP juli 23</p>\n<p>Geschreven in Sint Niklaas in het land van Waas, door iemand met toegang tot de archieven.</p>\n<p>Over jaren 1580 lange passages geciteerd uit Henricus Costerius 1591, die ook in 1749_Loke_Smet wordt besproken, over wolven, tovenaars en honger. Er wordt ook verder uitvoerig uit gedrukte en ongedrukte bronnen geciteerd. Eindigt met een beschrijving van een landjuweel met veel details over de gildes</p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

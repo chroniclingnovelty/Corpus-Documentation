@@ -35,14 +35,7 @@ Overveldt, Nicolaas van. ‘“Historie van Philipinne met hetgeene daer merkwae
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 17 juli 2023</p>\n<p>Nicolaas van Overvelt was gereformeerd predikant, en getrouwd met een predikantsdochter.</p>\n<p><a href="https://www.bossche-encyclopedie.nl/personen/leyendecker,%20johannes%20[zoon%20van%20isa%C3%A4c].htm?p1=_index.1.htm?title=Personen&amp;t1=Personen&amp;title=Johannes%20Leyendecker%20(zoon%20van%20Isa%26%23228%3Bc)" rel="noopener noreferrer nofollow">https://www.bossche-encyclopedie.nl/personen/leyendecker,%20johannes%20[zoon%20van%20isa%C3%A4c].htm?p1=_index.1.htm?title=Personen&amp;t1=Personen&amp;title=Johannes%20Leyendecker%20(zoon%20van%20Isa%26%23228%3Bc)</a></p>\n<p><a href="https://www.europeana.eu/mt/item/92065/BibliographicResource_1000056101604" rel="noopener noreferrer nofollow">https://www.europeana.eu/mt/item/92065/BibliographicResource_1000056101604</a></p>\n<p>Hij was waarschijnlijk ook de auteur van dit treurspel.</p>\n<p><a href="https://www.dbnl.org/tekst/aa__001biog17_01/aa__001biog17_01_0588.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/aa__001biog17_01/aa__001biog17_01_0588.php</a></p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

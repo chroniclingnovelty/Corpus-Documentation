@@ -37,14 +37,7 @@ Alting, Egbert. Diarium van Egbert Alting, 1553-1594. Onder redactie van W.J. Fo
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>in NNBW deel 1 93-94&nbsp;</p>\n<p>‘ALTING (Egbertus), zoon van Menso (2), 1518-1596; secretaris van Groningen en gezant te Brussel, huwde de weduwe van Joachim Canter en had 2 kinderen, Joachim (kol. 97) en Sara 1558-1575.</p>\n<p>Zijn geschilderd portret is in het bezit van de familie von Kretschmar van Veen.’</p>\n<p>Zie verder de uitvoerige inleiding van de bezorgers van deze editie:</p>\n<p><a href="https://resources.huygens.knaw.nl/retroboeken/diarium_alting/#page=0&amp;accessor=toc&amp;view=imagePane" rel="noopener noreferrer nofollow">https://resources.huygens.knaw.nl/retroboeken/diarium_alting/#page=0&amp;accessor=toc&amp;view=imagePane</a></p>\n<p>waarin o.a. het volgende</p>\n<p>Het dagboek (diarium) bevat aantekeningen uit de jaren 1553-1594, met een hiaat voor de periode 1566-1569, die verloren is gegaan. De inhoud is in drie categorieën in te delen: informatie over rechterlijke zaken, informatie over bestuurszaken en informatie van allerlei aard, waaronder familieaangelegenheden. Bij het definitief vaststellen van de criteria voor de uitgave werd besloten van de eerste categorie alleen de belangrijkste aantekeningen op te nemen; van de tweede en derde categorie zijn alle aantekeningen opgenomen.</p>\n<p>Het dagboek is een belangrijke bron voor de geschiedenis van Groningen, omdat het laat zien hoe de politieke verhoudingen binnen het stadsbestuur lagen en hoe de relatie tussen de Stad en de Ommelanden in deze periode verslechterde en eindigde in de vorming van een eigen Ommelander bestuur. &nbsp;</p>\n</div>'] 
 
 ## Literatuur 
 

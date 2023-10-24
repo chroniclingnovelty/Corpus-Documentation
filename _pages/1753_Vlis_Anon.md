@@ -32,14 +32,7 @@ Anoniem. ‘Beschrivinge van Vlissinge - uijt verscheide Schrivers bij een - ver
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p></p>\n<p>JP 25/7/23</p>\n<p>Het handschrift van deze kroniek is in privébezit. </p>\n<p>Onduidelijk wie de auteur is, vanaf ca. 1700 min of meer contemporain, Orangist, gereformeerd. Overgrootvader Pieter van Laren zat op de Latijnse school, die was waarschijnlijk toch wel familie van Joos van Laren, predikant van Vlissingen 1608-1618, die in Antwer[em was geboren. 3 x getrouwd. Veel Van Larens in het DTB van Vlissingen.</p>\n<p><a href="https://resources.huygens.knaw.nl/retroboeken/blnp/#source=5&amp;page=333&amp;view=imagePane" rel="noopener noreferrer nofollow">https://resources.huygens.knaw.nl/retroboeken/blnp/#source=5&amp;page=333&amp;view=imagePane</a></p>\n<p></p>\n<p></p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

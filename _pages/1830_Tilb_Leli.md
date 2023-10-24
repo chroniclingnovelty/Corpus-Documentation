@@ -35,14 +35,7 @@ Lelie, Laurens de. “Cronijkje van Eenige Zaken Die Zedert En in Het Jaar 1774 
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Laurens de Lelie is een broer van de schilder Adriaan de Lelie, zie einde kroniek:</p>\n<p>\'Dit afschrift is gemaakt naar het handschrift</p>\n<p>opgesteld door den Heer Laurens de Lelie,</p>\n<p>broeder van den schilder Lelie, en daar</p>\n<p>mede na vergelijking eensluidend bevonden</p>\n<p>L.R. Hermans 18 7/2 43.\'</p>\n<p>Het gaat hier dus ook om een kopie van het originele handschrift. Voorin staat vermeld dat de kroniek is \'afgeschreven door de hr. Veenhorst\'.</p>\n<p>CL juni 2023</p>\n</div>'] 
 
 ## Literatuur 
 

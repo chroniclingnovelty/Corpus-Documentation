@@ -32,14 +32,7 @@ Anoniem. “Verhaal van het beleg van het kasteel Vredenburg te Utrecht in 1576,
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Volgens bezorger Samuel Muiler was de auteur in elk geval ‘aanzienlijk burger’ en conservatief, misschien lid van de Statenvergadering en kanunnik van St. Marie:</p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">“De politieke zienswijze van den schrijver is gematigd, goed gemotiveerd, zonder hartstocht. Gehecht aan zijn koning, dien hij vereert als een welwillend en goed vorst, gevoelt hij zich tot hem te sterker getrokken uit eerbied voor den beroemden naam zijns vaders keizer Karel, wiens nagedachtenis hij in dankbare herinnering houdt. Hij schijnt de oude godsdienst toegedaan, en spreekt met eerbied van den aartsbisschop, die toch als gierig en lastig bekend stond, terwijl zijn bizonder leven verre van vlekkeloos was. Ja, hij prijst het in Philips, dat hij strenge middelen gebruikt heeft om de ketterij uitteroeien. Des te verstoorder is hij dan ook op die van de nieuwe religie, die aanleiding hebben gegeven tot eene verandering in den ouden toestand en tot de komst der Spanjaarden. Want dezen haat hij met een volkomen haat. Geen kleuren zijn hem schel genoeg om de gruwelen te schilderen, die de Nederlanders van deze gehate natie hebben ondervonden; geene woorden kunnen den afkeer uitdrukken, dien de schrijver voor deze indringers koestert. Aan hen wijt hij alle rampen, aan hen de lange duur der troubelen, die de hertogin van Parma reeds door haar wijs beleid bijna tot een bevredigend slot had gebracht.”&lt;sup&gt;1&lt;/sup&gt;</span></span></p>\n<p>[1] Anoniem, ‘Verhaal van het beleg van het kasteel Vredenburg te Utrecht in 1576, door eenen ooggetuige’, onder redactie van Samuel Fzn Muller, <em>Bijdragen en Mededelingen van het Historisch Genootschap</em> 6 (1883): 147-216, aldaar 152-153.</p>\n</div>'] 
 
 ## Literatuur 
 

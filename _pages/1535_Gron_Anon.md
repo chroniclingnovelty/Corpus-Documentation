@@ -35,14 +35,7 @@ Anoniem. “Kroniekje van Groningen, uit de 16de eeuw.” Edited by W. Zuidema. 
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Van deze auteur weten we alleen dat hij burger van Groningen was, en vrij goed ingevoerd maar geen bestuurder - uitgever Zuidema denkt dat hij lid was van de gezworen meente of iets vergelijkbaars.</p>\n<p>De kroniek is deels gebaseerd op, en deels een voortzetting van, de kroniek van Lemgo en Sybe Jarich. Er bestaat een later 16e eeuws afschrift van en een Latijnse vertaling, dus kennelijk is het een bekend stuk. </p>\n<p>De kroniek is vooral een militair verhaal over allianties en conflicten met heren van Gelre, Sassen, en Emden. De auteurs spreekt op een enkele plek over een medeburger. De uitgever denkt dat hij geen priester kan zijn geweest omdat zijn Latijn te slecht was. Volgens de uitgever hoort hij tot de Gelderse partij.</p>\n<p>Het is niet precies te zien waar de kroniek contemporain wordt, maar waarschijnlijk in 1495. Het stuk 1445-1514 is oorspronkelijk - daarna volgt een leeg stuk, met daarna nog paar dingen over 1534-5. Het is niet echt een lokale kroniek.</p>\n</div>'] 
 
 ## Literatuur 
 

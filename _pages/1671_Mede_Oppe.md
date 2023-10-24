@@ -35,14 +35,7 @@ Opperdoes, Cornelis Jansz. “Een Kroniek van Medemblik.” Edited by Johan Belo
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>MVW/JP 9 aug 2023</p>\n<p>Kroniek is geschreven door Cornelis Jan van Opperdoes, klerk bij de secretarie van Medemblik.</p>\n<p>Auteursinformatie uit:</p>\n<p><a href="https://www.researchgate.net/publication/327534485_Het_Geslacht_Opperdoes_herkomst_en_beschrijving_version_8-8-2018" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327534485_Het_Geslacht_Opperdoes_herkomst_en_beschrijving_version_8-8-2018</a></p>\n<p>‘Cornelis Jansz Opperdoes, de hierboven al vermelde gemeentesecretaris van Medemblik, werd geboren rond 1640. Hij was waarschijnlijk een kleinzoon van Cornelis Jansen van Opperdoes (1600), waarbij het tussenvoegsel “van” is verdwenen. Uit zijn eerste huwelijk met Jannetjen Claas Amelenberchs kreeg hij vier kinderen: Jacob, Maeritje, Geertje en Cornelis. Uit zijn tweede huwelijk met Aeltjen Hens, kreeg hij, toen hij al zo’n vijftig jaar oud was, nog twee dochters. Dit Medemblikse geslacht Opperdoes eindigt met Cornelis Jacobsz Opperdoes, geboren in 1673, die jammergenoeg kinderloos bleef.’</p>\n<p>Auteur lijkt is <span style="color: rgb(51, 51, 51)"><span style="background-color: rgb(255, 255, 255)">Gereformeerd gedoopt, getuige doopinschrijvingen, 1619-1667., Medemblik, archive 1702-20, inventory number 1, 15-02-1625, folio 22</span></span></p>\n<p>Bronnen:</p>\n<p>zie J. Belonje en R. Kaptein, ‘Een kroniek van Medemblik’, <em>Bijdragen en mededelingen van het Historisch Genootschap</em> 64 (1943), 45-107.</p>\n<p><a href="https://resources.huygens.knaw.nl/retroboeken/bmhg/#source=64&amp;page=158&amp;view=imagePane&amp;accessor=toc" rel="noopener noreferrer nofollow">https://resources.huygens.knaw.nl/retroboeken/bmhg/#source=64&amp;page=158&amp;view=imagePane&amp;accessor=toc</a></p>\n<p></p>\n<p>Zie hierover het artikel van </p>\n<ul>\n<li>\n<a href="http://www.biografischportaal.nl/persoon/22104862" rel="noopener noreferrer nofollow">http://www.biografischportaal.nl/persoon/22104862</a>\n</li>\n</ul>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

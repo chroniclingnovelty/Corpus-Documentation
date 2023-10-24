@@ -36,14 +36,7 @@ Moorsel, Hendrik Godefridus van. Kronijk, of Aantekening der merkwaardige voorva
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Auteur is geboren in 1793 in Duinkerken, zoon van een patriot (meester Hendrik van Moorsel en Johanna Maria Vonken). Nooit getrouwd. Opgenomen in de Garde honeur van Napoleon in zijn jeugd en kapitein van de schutterij. Overleden 4 juni 1851.</p>\n<p>HIj was secretaris van Heeze, Leende en Someren. Op een aantal plaatsen is de kroniek aangevuld door de Deken Bartholomeus Kemps. (1836-1916)</p>\n<p>Kroniek dateert uit de jaren 1842-44. Is waarschijnlijk gestopt omdat het boek vol was.</p>\n<p>Handschrift berust in het parochie-archief sint Martinus te Heeze. Een paar pagina\'s missen.</p>\n<p>De auteur tekende ook gebouwen en gewassen.</p>\n<p>De transcriptie geeft het handschrift getrouw weer; spelling onveranderd. Met voetnoten.</p>\n</div>'] 
 
 ## Literatuur 
 

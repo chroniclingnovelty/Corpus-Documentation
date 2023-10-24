@@ -32,14 +32,7 @@ Anoniem. “Kroniek van Gent, 1301-1568.” Gent, 1568. Boekentoren, BHSL.HS.248
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Deze anonieme kroniek begint al in 707, wordt uitvoerig vanaf veertiende eeuw, steeds namen van bestuurders en vooral schepenen van de keure. In het zestiende eeuwse deel is zeer veel aandacht voor misdaad, executies en dergelijke, wat ook wijst op omgeving schepenbank. Maar ook andere informatie, over processies, inkomsten, dingen die voor het eerst gebeuren en soms ook prijzen, ziekten etc. Hier en daar andere teksten overgenomen, bijv beschrijving van leven vorstin. Waarschijnlijk is de kroniek contemporain vanaf ongeveer 1530.</p>\n</div>'] 
 
 ## Literatuur 
 

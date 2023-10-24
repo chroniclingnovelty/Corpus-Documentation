@@ -36,14 +36,7 @@ Van Walleghem, Jozef. Merckenweerdigste voorvallen en Daegelijcksche gevallen Br
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 18 8 2023</p>\n<p>De bezorgers en inleiders van de tekst geven de volgende informatie over de auteur.</p>\n<p>Jozef van Walleghem was derde zoon van een wolwever, die optrad als vinder en deken van zijn ambacht. Hij werd als 17 &nbsp;jarige ‘mercenier’, wat hem recht gaf om te handelen in allerlei soorten ijzerwaren, stoffen en fournituren, in de hoogste categorie. In 1790 werd hij vinder en in 1792 en 94 deken van de merceniers. Hij trouwde in 1778 met een 23 jaar oudere vrouw, Jozefa Gareels, kreeg geen kinderen, en woonde op de Eiermarkt. Hij begon op zijn 22ste kroniek te houden, wellicht naar voorbeeld van de gedrukte Brugse jaarboeken van Charles Custis. &nbsp;<a href="https://nl.wikipedia.org/wiki/Charles_Custis" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Charles_Custis</a>. Overleden in 1801 en begraven op het kerkhof van de Jacobskerk. </p>\n</div>'] 
 
 ## Literatuur 
 

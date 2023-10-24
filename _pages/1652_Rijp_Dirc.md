@@ -32,14 +32,7 @@ Dircksen, Meijnert. “Dagboekjes van Dagelijkse Voorvallen En Ambtelijke Zaken,
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>MVW</p>\n<p>Auteursgegevens uit Ruud Lindeman, Yvonne Scherf en Rudolf Dekker, <em>Egodocumenten van Noord-Nederlanders uit de zestiende tot begin negentiende eeuw. Een chronologische lijst</em> (Rotterdam 1993): </p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(248, 247, 235)">‘1.1. Meijnert Dircksen.<br>1.3. In 1636 schepen en in 1651 gaarder in De Rijp.<br>2.1. RA Noord-Holland, coll. losse aanwinsten 1549.<br>2.2. 2 dln.; (a) 33 x 11; 104 p.; (b) 32,5 x 11; 35 p.<br>2.3. (a) (Omslag) Notitie ofte memorijen beginnende in den jare 1636; (b) Memorien 1651. Alsoo Jan Jansen Happius den 25 merte 1651 t\' mijnen huise gecomen is...<br>3.1. Dagboek.<br>4.1. (a) 30 april 1636 - 24 mei 1641; (b) 25 maart 1651 - maart 1652.<br>4.2. Aantekeningen van dagelijkse voorvallen, vooral met betrekking tot de ambten die hij uitoefent, waaronder problemen over de afdracht van gelden aan de schepenen.’</span></span></p>\n</div>'] 
 
 ## Literatuur 
 

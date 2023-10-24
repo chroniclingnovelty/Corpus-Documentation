@@ -34,14 +34,7 @@ Biesten, Hendrik van. “Anteykeningen, gedaen van Broer Hendrik van Biesten, Or
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>De auteur is orateur van de minderbroeders in Amsterdam. Hij werd de stad uitgezet bij de Alteratie van Amsterdam in 1578, maar keerde vrijwel meteen terug. Hij schreef in zijn kroniek over de geschiedenis van Amsterdam in de zestiende eeuw, de wederdopers in de jaren 1530, de Beeldenstorm van 1566 en over de eerste jaren van de Opstand. Het is dus vooral een crisiskroniek. </p>\n<p>De kroniek bevat ook het lied ‘Liedeken op het jaer 1572’.</p>\n<p>Van de kroniek bestaan twee handschriften:</p>\n<p>1534-1567; Brussels handschrift, dat in dit project is gebruikt.</p>\n<p>1567-1574: Haarlems handschrift. Dat is helaas niet in het corpus opgenomen, maar is wel te vinden op de DBNL.</p>\n<p></p>\n<p></p>\n<p></p>\n<p style="text-align: justify">&nbsp;</p>\n</div>'] 
 
 ## Literatuur 
 

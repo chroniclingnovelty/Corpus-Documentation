@@ -33,14 +33,7 @@ Anoniem. “Kroniek van Gent, 1538-1542.” Gent, 1542. Boekentoren, BHSL.HS.234
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Deze kroniek is anoniem. Over de auteur weten we niets anders dan dat hij een privepersoon was met een uitgesproken mening over de gebeurtenissen rond de Gentse opstand van 1549. Een groot deel is rapportage wat er gebeurt in de collatie en over de positie van de neringen daarin, maar de auteur is zelf waarschijnlijk geen wever (de wevers waren een belangrijke partij in het oproer), want hij is ook kritisch over hun optreden en het scheuren (of eigenlijk afkrabben) van het omstreden ‘kalfsvel’.</p>\n<p>De auteur heeft daarnaast ook van alles te melden over rederijkers .</p>\n</div>'] 
 
 ## Literatuur 
 

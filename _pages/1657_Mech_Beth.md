@@ -31,14 +31,7 @@ Anoniem. “Chronyke van Bethanien.” 3. Mechelen, 1657. EE Kronieken en Jaarbo
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>autograaf (meer dan één hand); kroniek door een kloosterzuster; de beginwoorden<br>“Item naerdemael dat ...” duiden erop dat er een voorafgaand deel moet<br>geweest zijn; een vergelijking wijst uit dat het inderdaad een oudere versie is van EE XXIX 1, dat met dezelfde tekst begint<br>delen: 1 band in octavo (21,5 x 15,5), s.p., papier in halve band met lederen rug</p>\n<p>&nbsp;</p>\n</div>'] 
 
 ## Literatuur 
 

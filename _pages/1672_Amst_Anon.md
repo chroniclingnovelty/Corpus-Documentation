@@ -31,14 +31,7 @@ Anoniem. ‘Een dagboek uit het “rampjaar” 1672’. Onder redactie van J.F. 
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>MVW/JP 11 08 2023</p>\n<p>Deze anonieme kroniek werd lang toegeschreven aan Lucas van Watering maar de UvA scriptie van Hanna de Lange, ‘Bloote gerugten’ en ‘quade tijdingen’ Vroegmodern nieuws door de ogen van een zeventiende-eeuwse dagboekauteur, 1672-1673, toont aan dat de auteur waarschijnlijk niet Lucas Watering is.</p>\n<p><a href="https://www.vriendenvandewitt.nl/assets/files/hanna-de-lange-rmascriptie-mei-2017.pdf" rel="noopener noreferrer nofollow">https://www.vriendenvandewitt.nl/assets/files/hanna-de-lange-rmascriptie-mei-2017.pdf</a></p>\n<p>De Lange deed voorbeeldig onderzoek naar de bronnen die Van de Watering gebruikte.</p>\n</div>'] 
 
 ## Literatuur 
 

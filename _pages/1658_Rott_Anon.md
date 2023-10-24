@@ -33,14 +33,7 @@ Anoniem, en Jan Gerritsz Waerschut. ‘Kroniek van Rotterdam’. Rotterdam, 1658
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>MvW/JP 10 aug 23</p>\n<table>\n<tbody>\n<tr>\n<td>\n<p>Datering:</p>\n</td>\n<td>\n<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp;</p>\n</td>\n<td>\n<p>1426-1658. Afschrift uit het midden der 17e eeuw</p>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n<tr>\n<td>\n<p>NB:</p>\n</td>\n<td>\n<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp;</p>\n</td>\n<td>\n<p>Gemaakt van een afschrift der kroniek van Van Waerschut. Met bvanaf p. 32 een zelfstandig vervolg tot december 1658. Zie</p>\n<p>Unger, J.H.W., en W. Bezemer, <em>De oudste kronieken en beschrijvingen van Rotterdam en Schieland</em>, Bronnen voor de Geschiedenis van Rotterdam II (Rotterdam: Van Waesberge 1895). II, p. XIII, No 12 en p. 230. K 12</p>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n<tr>\n<td>\n<p>Omvang:</p>\n</td>\n<td>\n<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp;</p>\n</td>\n<td>\n<p>1 deeltje</p>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n</div>'] 
 
 ## Literatuur 
 

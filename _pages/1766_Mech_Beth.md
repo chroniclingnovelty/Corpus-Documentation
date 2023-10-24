@@ -31,14 +31,7 @@ Anoniem. ‘Een cort begrijp van de fondatie ende oprichtinghe des Cloosters van
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 2023</p>\n<p>Deze kloosterkroniek lijkt vanaf de late zestiende eeuw doorlopend te zijn bijgehouden. Begint met verhaal over de lotgevallen van de zusters tijdens de Opstand, als ze moeten vluchten en verspreid raken, en de heropbouw van hun convent na 1584.</p>\n<p>Over individ. auteurs is niet veel zinnigs te zeggen, al zijn er wel hier en daar veranderingen in wat en hoe er genoteerd wordt (bijv. iemand die bijhoudt welke gebeden er worden gezegd, gebruik arabische cijfers, en aandacht voor de jubilés van de zusters, die gevierd worden met een hoop lekkere dingen en extra weken recreatie, waar ze vol van genieten).</p>\n<p>Gaat vooral om professies, jubilea, sterfgevallen, electie nieuwe maters, verbouwingen etc in het klooster, af en toe financien, maar er worden ook belangrijke gebeurtenissen van buiten gemeld, bijv bombardement Brussel, en de aardbeving van Lissabon, plus dingen die Mechelen als geheel raken, zoals overstromingen en aardbevingen.</p>\n</div>'] 
 
 ## Literatuur 
 

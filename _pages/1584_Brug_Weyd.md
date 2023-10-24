@@ -35,14 +35,7 @@ Weydts, Guillaume. Chronique Flamande 1571-1584. Edited by Emile-Charles Varenbe
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>“<strong>Willem Weijdts</strong> (c. 1545–after 1618) was a tailor in Bruges. He had worked for some time in Spain before settling and marrying in Bruges. Apart from his diary he also left genealogical notes, a travel account, and some poetry. His account was published as Guillaume Weydts, Chronique Flamande, 1571–1584, ed. Émile Varenbergh (Ghent, 1869); some additional material can be found in R. Willemyns, ‘Een teruggevonden handschrift van de 16 de-eeuwse Brugse kroniekschrijver en “poeet” Willem Weydts’, Verslagen en mededelingen van de koninklijke Vlaamse academie voor taal- en letterkunde, new series (1969), 1–41. The text is very immediate and lively, and gives a good insight into the confusion and anger caused by the political and religious developments, especially during the Calvinist republic.”&lt;su&gt;1&lt;/sup&gt;</p>\n<p>[1] Judith Pollmann, <em>Catholic identity and the Revolt of the Netherlands, 1520-1635</em> (Oxford 2011), 206.</p>\n</div>'] 
 
 ## Literatuur 
 

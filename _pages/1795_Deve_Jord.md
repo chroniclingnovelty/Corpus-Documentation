@@ -36,14 +36,7 @@ Jordens, Coenraad Alexander. “Relaes van Het Gepasseerde Te Deventer Eenigen T
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 17 8 2023</p>\n<p>Onderstaande is gebaseerd op</p>\n<p><a href="http://hdebie45.deds.nl/Genea/Egodoc-Jordens/Index-egodoc-Jordens.html" rel="noopener noreferrer nofollow">Index Egodocumenten Jordens (deds.nl)</a></p>\n<p><img alt="" data-attachment-key="9PLWW466" width="483" height="300"></p>\n<p></p>\n<p><span style="color: navy">Mr. Coenraad Alexander Jordens (1749-1807) en zijn vrouw Johanna Wilhelmina Scheltinga (1746-1822; dochter van Gerlach en Jacoba Margaretha Marienburg) H. van Velhoven 1769. IB K46-3</span><span style="color: rgb(0, 0, 128)"><span style="background-color: rgb(255, 255, 255)"><br><br>Jordens was patriot en en was als zodanig in 1787 na een zittingsperiode van 4 jaar als Raad en Burgemeester van Deventer afgezet. In de kroniek beschrijft hij de gevolgen van de Bataafse omwenteling <br> "Relaas van het gepasseerde te Deventer eenige tijd voor en na de omwenteling van 1795 met het gebeurdes te mijner huize." &nbsp;Na de Franse inval werd C.A. Jordens lid van de municipaliliteit van Deventer (1795-1798 1799-1802), ambtman van Colmschate(nu wijk van Deventer, 1797-1802) Lid magistraat van Deventer (1802-1803) en lid wetgevend lichaam voor Overijssel (1803-1805).</span></span></p>\n<p></p>\n<p><br></p>\n</div>'] 
 
 ## Literatuur 
 

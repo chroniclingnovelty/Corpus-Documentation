@@ -37,14 +37,7 @@ Hermans, Geert, Johan van Breda, Heyman Brant, en Cornelis Meeus. ‘Liber Diver
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>Toelichting voornamelijk op basis van Peter Bakker, <em>De Annalibus quaedam</em> (digitale editie) <a href="http://kroniekvankampen.huygens.knaw.nl/" rel="noopener noreferrer nofollow">http://kroniekvankampen.huygens.knaw.nl/</a> en Bakker, P. (2020). <em>Kamper kronieken: Stedelijke geschiedschrijving in de Noordelijke Nederlanden </em>(ca. 1450- 1550). [proefschrift Vrije Universiteit Amsterdam] (<a href="https://research.vu.nl/ws/portalfiles/portal/99086995/734607.pdf" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/portalfiles/portal/99086995/734607.pdf</a>)</p>\n<p>Deze kroniek is het werk van een reeks stadssecretarissen van Kampen. Johan van Breda is, met hulp van Heyman Brant, verantwoordelijk voor het deel 1505-1540. Daarna is de kroniek voortgezet door Cornelis Meeus en Geert Hermans. De tekst begint vooral met afschriften van oorkonden en brieven (en lijkt daarin op de kroniek voor de periode daaraan voorafgaand die door Peter Bakker is beschreven) maar wordt vanaf jaar 1517 in ell geval contemporain, en geleidelijk aan informatiever over de context van de afspraken, maar vooral ook over wat er in Kampen gebeurt, of op plekken waar de Kampense raad naar toe gaat (zoals gedetailleerde beschrijvingen van alle inhuldigingen van Bisschop Filips van Bourgondie (1517-1524), lokale feesten en ontvangsten, maar ook een hele grote vis op de Kampense markt etc) De bredere context zijn de veranderende machtsverhoudingen door het oprukken van de Habsburgs in de regio, hun overname van Utrecht en het Sticht en de oorlogen met Gelre. Hier en daar schemert er een mening door.</p>\n</div>'] 
 
 ## Literatuur 
 

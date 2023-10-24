@@ -32,14 +32,7 @@ Vermeersch, J. “Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de Voornae
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>EK </p>\n<p>Betreft een kopie uit 1789</p>\n<p>Op het schutblad:</p>\n<p>Dit Bouxken is inde Maendt Julij 1789 geschreven</p>\n<p>Ende in t\'nette gestelt door fr. Govaert senior in sijnen ouderdom van circa tachtentig Jaeren</p>\n<p>Auteur is J. Vermeersch, \'coster der Parochie van Varsoenaere\' [=Varsenare] </p>\n<p>Hij begint met de extreem koude winter van 1740 en meldt dan ook dat hij vrouw en kinderen heeft.</p>\n<p>Verder over de Oostenrijkse Successieoorlog en de gebeurtenissen in de omgeving</p>\n<p></p>\n<p></p>\n</div>'] 
 
 ## Literatuur 
 

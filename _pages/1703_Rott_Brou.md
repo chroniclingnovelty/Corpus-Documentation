@@ -33,14 +33,7 @@ Brouwer, Jan Gijsbertsz. ‘Dagboek van Jan Gijsbertsz. Brouwer, binnenvader van
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 27 2 2023</p>\n<p>Jan Brouwers, geen gegevens over afkomst, jeugd, opleiding; hij wordt in 1663 benoemd als binnenvader van pest- en dolhuis. Hij blijft dat 40 jaar lang, tot 1703. Deze tekst begint 1679. maar er was waarschijnlijk een eerdere - zet hem voort tot 1701.Vele privédetails over famillie, gezondheid, boeken, vrienden, muziek etc maar ook over leven in R;dam. Hij correspondeert met een vriend in Suriname. Zoon wordt scheepschirurgijn. Div zaken over abonnementen kranten, en mondelinge bronnen. Nieuws over aardbeving en veel over pest.</p>\n<p>Informatie over zijn omgeving en de vernieuwingen in het Pest- en Dolhuis waar hij werkte. Zie: Van Lieburg, M.J., ‘Dagboek (1679-1903) van Jan Brouwer, binnenvader van het Rotterdamse dolhuis’, Rotterdams Jaarboekje (1981) 243–259</p>\n</div>'] 
 
 ## Literatuur 
 

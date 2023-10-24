@@ -31,14 +31,7 @@ Anoniem. “Kroniek van Het Sint-Elisabethsconvent Te Huissen (1667-1752 En 1782
 
 ## Notes 
 
-<div data-schema-version="8"><p>De Kroniek</p>
-<p>&nbsp;</p>
-<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile van Boven- van Aerssen.</p>
-<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>
-<p>Als bijschrift bij de transcriptie schrijft zij:</p>
-<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.</span></span></p>
-<p>&nbsp;</p>
-</div> 
+['<div data-schema-version="8"><p>JP 18 08 2023</p>\n<p>Over het onstaan van deze kroniek zeggen de transcribenten het volgende: </p>\n<p>‘Zoals de eerste schrijfster opmerkt, is men met de kroniek begonnen in 1713. De ruim veertig jaar voordien werden uit het geheugen van oude zusters en uit bewaard gebleven documenten gereconstrueerd. Daardoor loopt de kroniek door vanaf 1670. In de jaren 1747 t/m 1781 is de kroniek niet bijgehouden, maar in 1782 heeft men getracht de jaren in te vullen. Dat leverde van 1748 t/m 1752 nog een bevredigend resultaat, maar de rest van de gereserveerde bladzijden bleef leeg. Van 1782 t/m 1801 is de kroniek weer goed bijgehouden. Het jaartal 1802 is geplaatst, maar daarna volgt geen tekst meer. In 1812 werd het klooster op last van Napoleon gesloten. <br></p>\n<p>Wat te lezen is, is een mengsel van verhalen uit het convent zelf, een aantal godsdienstige zaken en een blik in het achttiende eeuwse Huissen. Als zodanig is het een belangrijke verhalende bron over Pruisisch Huissen. ‘</p>\n</div>'] 
 
 ## Literatuur 
 
