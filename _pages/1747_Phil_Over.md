@@ -35,7 +35,22 @@ Overveldt, Nicolaas van. ‘“Historie van Philipinne met hetgeene daer merkwae
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 17 juli 2023</p>\n<p>Nicolaas van Overvelt was gereformeerd predikant, en getrouwd met een predikantsdochter.</p>\n<p><a href="https://www.bossche-encyclopedie.nl/personen/leyendecker,%20johannes%20[zoon%20van%20isa%C3%A4c].htm?p1=_index.1.htm?title=Personen&amp;t1=Personen&amp;title=Johannes%20Leyendecker%20(zoon%20van%20Isa%26%23228%3Bc)" rel="noopener noreferrer nofollow">https://www.bossche-encyclopedie.nl/personen/leyendecker,%20johannes%20[zoon%20van%20isa%C3%A4c].htm?p1=_index.1.htm?title=Personen&amp;t1=Personen&amp;title=Johannes%20Leyendecker%20(zoon%20van%20Isa%26%23228%3Bc)</a></p>\n<p><a href="https://www.europeana.eu/mt/item/92065/BibliographicResource_1000056101604" rel="noopener noreferrer nofollow">https://www.europeana.eu/mt/item/92065/BibliographicResource_1000056101604</a></p>\n<p>Hij was waarschijnlijk ook de auteur van dit treurspel.</p>\n<p><a href="https://www.dbnl.org/tekst/aa__001biog17_01/aa__001biog17_01_0588.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/aa__001biog17_01/aa__001biog17_01_0588.php</a></p>\n<p></p>\n</div>'] 
+JP 17 juli 2023
+
+Nicolaas van Overvelt was gereformeerd predikant, en getrouwd met een
+predikantsdochter.
+
+[https://www.bossche-
+encyclopedie.nl/personen/leyendecker,%20johannes%20[zoon%20van%20isa%C3%A4c].htm?p1=_index.1.htm?title=Personen&t1=Personen&title=Johannes%20Leyendecker%20(zoon%20van%20Isa%26%23228%3Bc)](https://www.bossche-
+encyclopedie.nl/personen/leyendecker,%20johannes%20\[zoon%20van%20isa%C3%A4c\].htm?p1=_index.1.htm?title=Personen&t1=Personen&title=Johannes%20Leyendecker%20\(zoon%20van%20Isa%26%23228%3Bc\))
+
+<https://www.europeana.eu/mt/item/92065/BibliographicResource_1000056101604>
+
+Hij was waarschijnlijk ook de auteur van dit treurspel.
+
+<https://www.dbnl.org/tekst/aa__001biog17_01/aa__001biog17_01_0588.php>
+
+
 
 ## Literatuur 
 

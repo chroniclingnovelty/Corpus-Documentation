@@ -32,7 +32,26 @@ Vermeersch, J. “Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de Voornae
 
 ## Notes 
 
-['<div data-schema-version="8"><p>EK </p>\n<p>Betreft een kopie uit 1789</p>\n<p>Op het schutblad:</p>\n<p>Dit Bouxken is inde Maendt Julij 1789 geschreven</p>\n<p>Ende in t\'nette gestelt door fr. Govaert senior in sijnen ouderdom van circa tachtentig Jaeren</p>\n<p>Auteur is J. Vermeersch, \'coster der Parochie van Varsoenaere\' [=Varsenare] </p>\n<p>Hij begint met de extreem koude winter van 1740 en meldt dan ook dat hij vrouw en kinderen heeft.</p>\n<p>Verder over de Oostenrijkse Successieoorlog en de gebeurtenissen in de omgeving</p>\n<p></p>\n<p></p>\n</div>'] 
+EK
+
+Betreft een kopie uit 1789
+
+Op het schutblad:
+
+Dit Bouxken is inde Maendt Julij 1789 geschreven
+
+Ende in t'nette gestelt door fr. Govaert senior in sijnen ouderdom van circa
+tachtentig Jaeren
+
+Auteur is J. Vermeersch, 'coster der Parochie van Varsoenaere' [=Varsenare]
+
+Hij begint met de extreem koude winter van 1740 en meldt dan ook dat hij vrouw
+en kinderen heeft.
+
+Verder over de Oostenrijkse Successieoorlog en de gebeurtenissen in de
+omgeving
+
+
 
 ## Literatuur 
 

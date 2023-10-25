@@ -31,7 +31,17 @@ Anoniem. “Chronyke van Bethanien.” 3. Mechelen, 1657. EE Kronieken en Jaarbo
 
 ## Notes 
 
-['<div data-schema-version="8"><p>autograaf (meer dan één hand); kroniek door een kloosterzuster; de beginwoorden<br>“Item naerdemael dat ...” duiden erop dat er een voorafgaand deel moet<br>geweest zijn; een vergelijking wijst uit dat het inderdaad een oudere versie is van EE XXIX 1, dat met dezelfde tekst begint<br>delen: 1 band in octavo (21,5 x 15,5), s.p., papier in halve band met lederen rug</p>\n<p>&nbsp;</p>\n</div>'] 
+autograaf (meer dan één hand); kroniek door een kloosterzuster; de
+beginwoorden  
+“Item naerdemael dat ...” duiden erop dat er een voorafgaand deel moet  
+geweest zijn; een vergelijking wijst uit dat het inderdaad een oudere versie
+is van EE XXIX 1, dat met dezelfde tekst begint  
+delen: 1 band in octavo (21,5 x 15,5), s.p., papier in halve band met lederen
+rug
+
+
+
+
 
 ## Literatuur 
 

@@ -32,7 +32,16 @@ Anoniem. “Memorye. Kroniek van godsdienstige en politieke twisten in Alkmaar, 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Deze anonieme kroniek loopt van Oktober 1618 - maart 1621 en gaat uitsluitend over onrust en maatregelen tegen remonstranten in Alkmaar. De auteur gebruikt initialen en is voorzichtig. Hij lijkt ons remonstrants sympathisant, maar spreekt wel steeds over sijne princelijke excellentie.</p>\n<p>Mooie details, o.a. over hoe een ‘pasquil’ (pamflet) besproken is tijdens een bijeenkomst van een muziekcollege. Een ‘surgijn’ die daarbij aanwezig is krijgt er later moeilijkheden mee.</p>\n</div>'] 
+Deze anonieme kroniek loopt van Oktober 1618 - maart 1621 en gaat uitsluitend
+over onrust en maatregelen tegen remonstranten in Alkmaar. De auteur gebruikt
+initialen en is voorzichtig. Hij lijkt ons remonstrants sympathisant, maar
+spreekt wel steeds over sijne princelijke excellentie.
+
+Mooie details, o.a. over hoe een ‘pasquil’ (pamflet) besproken is tijdens een
+bijeenkomst van een muziekcollege. Een ‘surgijn’ die daarbij aanwezig is
+krijgt er later moeilijkheden mee.
+
+
 
 ## Literatuur 
 

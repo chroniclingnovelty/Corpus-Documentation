@@ -31,7 +31,11 @@ Anoniem. “Merkwaerdige Geschiedenis van Het Land van Waes.” Waasland, 1756. 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>TD Deze kroniek is een bijna identiek afschrift te zijn van deel 1.</p>\n<p>&nbsp;</p>\n</div>'] 
+TD Deze kroniek is een bijna identiek afschrift te zijn van deel 1.
+
+
+
+
 
 ## Literatuur 
 

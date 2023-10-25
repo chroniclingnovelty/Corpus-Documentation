@@ -30,7 +30,32 @@ Matthijsz. Rol, Jacob, Jan Buyes, Anonymus, Anonymus, en Jan Buyes. ‘“Origo 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Dit verzamelhandschrift bevat:</p>\n<p>\'Origo civitatis Hornensis\' over de jaren 1316-1536; folio 1 r. t/m 54 anoniem, vermoedelijk een kruisheer.</p>\n<p>Dan volgt een index op de Origo door een andere hand (f. 55r-59v).</p>\n<p>Een cort verhael van \'t geene in Hollant ende den omleggende plaetsen geschiet is over 1572-1575\', overgeschreven van Jacob Matthijsz. Rol, oud-burgemeester van Purmerend (f. 65r-75r.).</p>\n<p>Brevissima Chronologia et Topographia Ecclesiarum et Conventuum civitatis Hoemensis\' over de jaren 1330-1526, anoniem, eind 16e eeuw, Anoniem, Latijn (79r.-84v)</p>\n<p>Tenslotte De prima fundatione Civitatis hoernensis\' 1310-1526, Latijn, anoniem (85r.-95r.)</p>\n<p>De afschrijver is Jan Buyes, geboren in 1561. Hij studeerde rechten en werd in 1586 benoemd tot pensionaris en tresorier van Monnickendam, gevolgd door een carriere in de politiek. Hij was bevriend met Hugo de Groot en werd uiteindelijk Raadsheer bij het Hof van Holland. Hij overleed in 1614.</p>\n<p></p>\n<p>&nbsp;</p>\n<p></p>\n<p></p>\n</div>'] 
+Dit verzamelhandschrift bevat:
+
+'Origo civitatis Hornensis' over de jaren 1316-1536; folio 1 r. t/m 54
+anoniem, vermoedelijk een kruisheer.
+
+Dan volgt een index op de Origo door een andere hand (f. 55r-59v).
+
+Een cort verhael van 't geene in Hollant ende den omleggende plaetsen geschiet
+is over 1572-1575', overgeschreven van Jacob Matthijsz. Rol, oud-burgemeester
+van Purmerend (f. 65r-75r.).
+
+Brevissima Chronologia et Topographia Ecclesiarum et Conventuum civitatis
+Hoemensis' over de jaren 1330-1526, anoniem, eind 16e eeuw, Anoniem, Latijn
+(79r.-84v)
+
+Tenslotte De prima fundatione Civitatis hoernensis' 1310-1526, Latijn, anoniem
+(85r.-95r.)
+
+De afschrijver is Jan Buyes, geboren in 1561. Hij studeerde rechten en werd in
+1586 benoemd tot pensionaris en tresorier van Monnickendam, gevolgd door een
+carriere in de politiek. Hij was bevriend met Hugo de Groot en werd
+uiteindelijk Raadsheer bij het Hof van Holland. Hij overleed in 1614.
+
+
+
+
 
 ## Literatuur 
 

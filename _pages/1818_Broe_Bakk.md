@@ -35,7 +35,17 @@ Bakker, Symon. “Kroniek van Broek in Waterland over de Jaren 1282-1818, Sameng
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Auteur is sterk anti-Frans: </p>\n<p>De Franschen (onze Broeders gelijk de zo</p>\n<p>genaamde Patriotten hier Noemden bragten</p>\n<p>niet dan allerleijen Onheijlen voor ons aan.</p>\n<p>Juli 2023 CL</p>\n</div>'] 
+Auteur is sterk anti-Frans:
+
+De Franschen (onze Broeders gelijk de zo
+
+genaamde Patriotten hier Noemden bragten
+
+niet dan allerleijen Onheijlen voor ons aan.
+
+Juli 2023 CL
+
+
 
 ## Literatuur 
 

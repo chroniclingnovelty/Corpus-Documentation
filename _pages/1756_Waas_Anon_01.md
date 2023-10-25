@@ -31,9 +31,23 @@ Anoniem. “Chronycke van Waes, et Le Chiffre Couronné de Léopold 1er.” Waas
 
 ## Notes 
 
-['<p>Komt grotendeels overeen met deel 2. TD</p>\n<p>1756_Waas_anon_01</p>\n<p>\xa0</p>', '<div data-schema-version="8"><p>JP juli 23</p>\n<p>Geschreven in Sint Niklaas in het land van Waas, door iemand met toegang tot de archieven.</p>\n<p>Over jaren 1580 lange passages geciteerd uit Henricus Costerius 1591, die ook in 1749_Loke_Smet wordt besproken, over wolven, tovenaars en honger. Er wordt ook verder uitvoerig uit gedrukte en ongedrukte bronnen geciteerd. Eindigt met een beschrijving van een landjuweel met veel details over de gildes</p>\n<p></p>\n</div>'] 
+Komt grotendeels overeen met deel 2. TD
 
-['<p>Komt grotendeels overeen met deel 2. TD</p>\n<p>1756_Waas_anon_01</p>\n<p>\xa0</p>', '<div data-schema-version="8"><p>JP juli 23</p>\n<p>Geschreven in Sint Niklaas in het land van Waas, door iemand met toegang tot de archieven.</p>\n<p>Over jaren 1580 lange passages geciteerd uit Henricus Costerius 1591, die ook in 1749_Loke_Smet wordt besproken, over wolven, tovenaars en honger. Er wordt ook verder uitvoerig uit gedrukte en ongedrukte bronnen geciteerd. Eindigt met een beschrijving van een landjuweel met veel details over de gildes</p>\n<p></p>\n</div>'] 
+1756_Waas_anon_01
+
+
+
+JP juli 23
+
+Geschreven in Sint Niklaas in het land van Waas, door iemand met toegang tot
+de archieven.
+
+Over jaren 1580 lange passages geciteerd uit Henricus Costerius 1591, die ook
+in 1749_Loke_Smet wordt besproken, over wolven, tovenaars en honger. Er wordt
+ook verder uitvoerig uit gedrukte en ongedrukte bronnen geciteerd. Eindigt met
+een beschrijving van een landjuweel met veel details over de gildes
+
+
 
 ## Literatuur 
 

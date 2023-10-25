@@ -28,7 +28,10 @@ Anoniem. “Oudtheden Ofte Chronychsche Jaerboek Der Prinselijcke Stadt Brussel 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>We hebben geen nadere informatie over de auteur/samensteller of ontstaansgeschiedenis van deze kroniek weten te vinden.</p>\n</div>'] 
+We hebben geen nadere informatie over de auteur/samensteller of
+ontstaansgeschiedenis van deze kroniek weten te vinden.
+
+
 
 ## Literatuur 
 

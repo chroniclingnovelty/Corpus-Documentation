@@ -31,7 +31,20 @@ Anoniem. ‘Een dagboek uit het “rampjaar” 1672’. Onder redactie van J.F. 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>MVW/JP 11 08 2023</p>\n<p>Deze anonieme kroniek werd lang toegeschreven aan Lucas van Watering maar de UvA scriptie van Hanna de Lange, ‘Bloote gerugten’ en ‘quade tijdingen’ Vroegmodern nieuws door de ogen van een zeventiende-eeuwse dagboekauteur, 1672-1673, toont aan dat de auteur waarschijnlijk niet Lucas Watering is.</p>\n<p><a href="https://www.vriendenvandewitt.nl/assets/files/hanna-de-lange-rmascriptie-mei-2017.pdf" rel="noopener noreferrer nofollow">https://www.vriendenvandewitt.nl/assets/files/hanna-de-lange-rmascriptie-mei-2017.pdf</a></p>\n<p>De Lange deed voorbeeldig onderzoek naar de bronnen die Van de Watering gebruikte.</p>\n</div>'] 
+MVW/JP 11 08 2023
+
+Deze anonieme kroniek werd lang toegeschreven aan Lucas van Watering maar de
+UvA scriptie van Hanna de Lange, ‘Bloote gerugten’ en ‘quade tijdingen’
+Vroegmodern nieuws door de ogen van een zeventiende-eeuwse dagboekauteur,
+1672-1673, toont aan dat de auteur waarschijnlijk niet Lucas Watering is.
+
+<https://www.vriendenvandewitt.nl/assets/files/hanna-de-lange-rmascriptie-
+mei-2017.pdf>
+
+De Lange deed voorbeeldig onderzoek naar de bronnen die Van de Watering
+gebruikte.
+
+
 
 ## Literatuur 
 

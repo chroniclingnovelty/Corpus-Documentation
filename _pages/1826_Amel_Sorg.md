@@ -36,7 +36,15 @@ Sorgdrager, Cornelis Pieter. Memorij: Het Dagboek van Cornelis Pieter Sorgdrager
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Sorgdrager was doopsgezind. Er waren nogal wat doopsgezinde stromingen op Ameland en Sorgdrager behoorde tot de strenge Jan Jacobsgezinden. Hij was ook voorganger bij deze gemeente.</p>\n<p>In het dagelijks leven was Sorgdrager winkelier en timmerman.</p>\n<p>CL juli 2023</p>\n</div>'] 
+Sorgdrager was doopsgezind. Er waren nogal wat doopsgezinde stromingen op
+Ameland en Sorgdrager behoorde tot de strenge Jan Jacobsgezinden. Hij was ook
+voorganger bij deze gemeente.
+
+In het dagelijks leven was Sorgdrager winkelier en timmerman.
+
+CL juli 2023
+
+
 
 ## Literatuur 
 

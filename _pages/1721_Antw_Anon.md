@@ -33,7 +33,14 @@ Anoniem. “Antwerpsche Kronijk, 1685-1721.” 1. Antwerpen, 1721. Pk. 119. Stad
 
 ## Notes 
 
-['<div data-schema-version="8"><p>EK </p>\n<p>Auteur moet een brouwer zijn of anderszins actief in de bier branche want de helft van de mededelingen gaat over bier. Hij is katholiek. </p>\n<p>&nbsp;</p>\n</div>'] 
+EK
+
+Auteur moet een brouwer zijn of anderszins actief in de bier branche want de
+helft van de mededelingen gaat over bier. Hij is katholiek.
+
+
+
+
 
 ## Literatuur 
 

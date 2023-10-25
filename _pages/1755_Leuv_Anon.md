@@ -30,7 +30,14 @@ Anoniem. “Historien Oft Kort Verhael van Eenige Gedenckweirdige Gebeurtenissen
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP/EK juli 23</p>\n<p>Van deze auteur weten we eigenlijk alleen dat hij katholiek is, ook veel schrijft over de wereld buiten Leuven, en dol is op sensatieverhalen, oa over zeer oud geworden mensen en mensen van boven de 100 die trouwen, en ook een voorliefde heeft voor getalsmatige details.</p>\n<p></p>\n</div>'] 
+JP/EK juli 23
+
+Van deze auteur weten we eigenlijk alleen dat hij katholiek is, ook veel
+schrijft over de wereld buiten Leuven, en dol is op sensatieverhalen, oa over
+zeer oud geworden mensen en mensen van boven de 100 die trouwen, en ook een
+voorliefde heeft voor getalsmatige details.
+
+
 
 ## Literatuur 
 

@@ -36,11 +36,51 @@ Buma, Anna Elisabeth. “Kroniek van belangrijke buitenlandse, landelijke, regio
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Motief: memory, events, crises</p>\n</div>', '<div data-schema-version="8"><p>JP 18 8 2023</p>\n<p><span style="color: #1c1e21">Kroniek van A.E. Buma 1766-1796: Historisch Centrum Leeuwarden toegangsnummer 1759, inv.-nr. 374.</span></p>\n<p><strong><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">BUMA, Anna Elisabeth</span></span></strong><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">&nbsp;(geb. IJsbrechtum, Friesland 16-12-1750 – gest. Leeuwarden 23-8-1825), vertaalster en auteur. Dochter van Hanso Buma (1716-1772), predikant, en Binke Tuinhout (1717-1801). Anna Elisabeth Buma bleef ongehuwd. Na de dood van haar vader verhuisde ze naar Leeuwarden en zorgde voor haar moeder. Haar overtuigingen lijken remonstrants. </span></span></p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">Haar kroniek heeft een zeer brede focus - veel nationale en internationale ontwikkelingen, een grote interesse voor luchtballonnen. Op het eind gaat het over de Bataafse omwenteling in Leeuwarden, die ze niet toejuicht. </span></span></p>\n<p>De belangrijkste biografische informatie over Buma is te vinden in een artikel in het Digitaal Vrouwenlexicon <span style="color: black"><a href="http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma" rel="noopener noreferrer nofollow">http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma</a>:</span></p>\n<p>UL student Tinka de Haan schreef over haar een BA scriptie</p>\n<p><strong><span style="color: rgb(13, 13, 14)"><span style="background-color: rgb(255, 255, 255)">De geleerde juffer; het literaire leven van Anna Elisabeth Buma (1750-1825) (2020), met een analyse van haar andere eigen geschriften en brieven.</span></span></strong></p>\n<p>Zie over haar onderzoek ook:</p>\n<p><a href="http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-anna-elisabeth-buma/" rel="noopener noreferrer nofollow">http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-anna-elisabeth-buma/</a></p>\n</div>', '<div data-schema-version="8"><p>Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb 1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.</p>\n<p>Zie over haar scriptie Tinka de Haan UL</p>\n<p><a href="https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x" rel="noopener noreferrer nofollow">https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x</a></p>\n<p></p>\n</div>'] 
+Motief: memory, events, crises
 
-['<div data-schema-version="8"><p>Motief: memory, events, crises</p>\n</div>', '<div data-schema-version="8"><p>JP 18 8 2023</p>\n<p><span style="color: #1c1e21">Kroniek van A.E. Buma 1766-1796: Historisch Centrum Leeuwarden toegangsnummer 1759, inv.-nr. 374.</span></p>\n<p><strong><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">BUMA, Anna Elisabeth</span></span></strong><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">&nbsp;(geb. IJsbrechtum, Friesland 16-12-1750 – gest. Leeuwarden 23-8-1825), vertaalster en auteur. Dochter van Hanso Buma (1716-1772), predikant, en Binke Tuinhout (1717-1801). Anna Elisabeth Buma bleef ongehuwd. Na de dood van haar vader verhuisde ze naar Leeuwarden en zorgde voor haar moeder. Haar overtuigingen lijken remonstrants. </span></span></p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">Haar kroniek heeft een zeer brede focus - veel nationale en internationale ontwikkelingen, een grote interesse voor luchtballonnen. Op het eind gaat het over de Bataafse omwenteling in Leeuwarden, die ze niet toejuicht. </span></span></p>\n<p>De belangrijkste biografische informatie over Buma is te vinden in een artikel in het Digitaal Vrouwenlexicon <span style="color: black"><a href="http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma" rel="noopener noreferrer nofollow">http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma</a>:</span></p>\n<p>UL student Tinka de Haan schreef over haar een BA scriptie</p>\n<p><strong><span style="color: rgb(13, 13, 14)"><span style="background-color: rgb(255, 255, 255)">De geleerde juffer; het literaire leven van Anna Elisabeth Buma (1750-1825) (2020), met een analyse van haar andere eigen geschriften en brieven.</span></span></strong></p>\n<p>Zie over haar onderzoek ook:</p>\n<p><a href="http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-anna-elisabeth-buma/" rel="noopener noreferrer nofollow">http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-anna-elisabeth-buma/</a></p>\n</div>', '<div data-schema-version="8"><p>Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb 1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.</p>\n<p>Zie over haar scriptie Tinka de Haan UL</p>\n<p><a href="https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x" rel="noopener noreferrer nofollow">https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x</a></p>\n<p></p>\n</div>'] 
 
-['<div data-schema-version="8"><p>Motief: memory, events, crises</p>\n</div>', '<div data-schema-version="8"><p>JP 18 8 2023</p>\n<p><span style="color: #1c1e21">Kroniek van A.E. Buma 1766-1796: Historisch Centrum Leeuwarden toegangsnummer 1759, inv.-nr. 374.</span></p>\n<p><strong><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">BUMA, Anna Elisabeth</span></span></strong><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">&nbsp;(geb. IJsbrechtum, Friesland 16-12-1750 – gest. Leeuwarden 23-8-1825), vertaalster en auteur. Dochter van Hanso Buma (1716-1772), predikant, en Binke Tuinhout (1717-1801). Anna Elisabeth Buma bleef ongehuwd. Na de dood van haar vader verhuisde ze naar Leeuwarden en zorgde voor haar moeder. Haar overtuigingen lijken remonstrants. </span></span></p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">Haar kroniek heeft een zeer brede focus - veel nationale en internationale ontwikkelingen, een grote interesse voor luchtballonnen. Op het eind gaat het over de Bataafse omwenteling in Leeuwarden, die ze niet toejuicht. </span></span></p>\n<p>De belangrijkste biografische informatie over Buma is te vinden in een artikel in het Digitaal Vrouwenlexicon <span style="color: black"><a href="http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma" rel="noopener noreferrer nofollow">http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma</a>:</span></p>\n<p>UL student Tinka de Haan schreef over haar een BA scriptie</p>\n<p><strong><span style="color: rgb(13, 13, 14)"><span style="background-color: rgb(255, 255, 255)">De geleerde juffer; het literaire leven van Anna Elisabeth Buma (1750-1825) (2020), met een analyse van haar andere eigen geschriften en brieven.</span></span></strong></p>\n<p>Zie over haar onderzoek ook:</p>\n<p><a href="http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-anna-elisabeth-buma/" rel="noopener noreferrer nofollow">http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-anna-elisabeth-buma/</a></p>\n</div>', '<div data-schema-version="8"><p>Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb 1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.</p>\n<p>Zie over haar scriptie Tinka de Haan UL</p>\n<p><a href="https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x" rel="noopener noreferrer nofollow">https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x</a></p>\n<p></p>\n</div>'] 
+
+JP 18 8 2023
+
+Kroniek van A.E. Buma 1766-1796: Historisch Centrum Leeuwarden toegangsnummer
+1759, inv.-nr. 374.
+
+**BUMA, Anna Elisabeth**  (geb. IJsbrechtum, Friesland 16-12-1750 – gest.
+Leeuwarden 23-8-1825), vertaalster en auteur. Dochter van Hanso Buma
+(1716-1772), predikant, en Binke Tuinhout (1717-1801). Anna Elisabeth Buma
+bleef ongehuwd. Na de dood van haar vader verhuisde ze naar Leeuwarden en
+zorgde voor haar moeder. Haar overtuigingen lijken remonstrants.
+
+Haar kroniek heeft een zeer brede focus - veel nationale en internationale
+ontwikkelingen, een grote interesse voor luchtballonnen. Op het eind gaat het
+over de Bataafse omwenteling in Leeuwarden, die ze niet toejuicht.
+
+De belangrijkste biografische informatie over Buma is te vinden in een artikel
+in het Digitaal Vrouwenlexicon
+<http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma>:
+
+UL student Tinka de Haan schreef over haar een BA scriptie
+
+**De geleerde juffer; het literaire leven van Anna Elisabeth Buma (1750-1825)
+(2020), met een analyse van haar andere eigen geschriften en brieven.**
+
+Zie over haar onderzoek ook:
+
+<http://journalistiekennieuwemedia.nl/jnm/2020/03/04/vrouw-van-het-vaderland-
+anna-elisabeth-buma/>
+
+
+
+Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in
+luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
+1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en
+honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.
+
+Zie over haar scriptie Tinka de Haan UL
+
+<https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x>
+
+
 
 ## Literatuur 
 

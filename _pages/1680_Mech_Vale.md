@@ -38,7 +38,158 @@ Valerius, Remmerus. Chronycke van Mechelen door Remmerus Valerius Pastoor in Muy
 
 ## Notes 
 
-['<div data-schema-version="8"><p>MVW/JP 11 aug 2023</p>\n<p>Auteur is Remmerus Valerius, beter bekend als <span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">Remigius&nbsp;Wouters.</span></span></p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(255, 255, 255)">De bezorgers zeggen over zijn leven het volgende:</span></span></p>\n<table>\n<tbody>\n<tr>\n<td>\n<h3><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Kort verhael&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">van het leven van</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;Remmerus Valerius, in synen tyde pastoor&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">tot Muysen.</span></span></em></h3>\n<p><strong><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">R</span></span></strong><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Emigius&nbsp;Wouters, bekent onder den Naem van Remmerus&nbsp;Valerius, was geboortich van&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Berchem</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;een Dorp onder de Landtdecanye van&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Os</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;in het Bisdom van s\'Hertogen-Bossche; synen Vader is ons onbekent, maer syne Moeder vindmen aengeteekent in de Memorien van de Pastorye van Muysen op den naem van&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Helena Wouters</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;Moeder van den Heere Pastoor op het jaer sesthien-hondert ses-en-sestigh alsdan oudt synde hondert jaeren, ende wort</span></span></p>\n</td>\n<td>\n<h3><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Over het gehele werk</span></span></h3>\n<h4><span style="color: var(--menu-bg)"><span style="background-color: inherit">PLAATSEN</span></span></h4>\n<ul>\n<li>\n<span style="background-color: inherit">over&nbsp;</span><span style="color: var(--main-controls-color)"><span style="background-color: inherit"><a href="https://www.dbnl.org/atlas/plaats.php?id=meche001" rel="noopener noreferrer nofollow">Mechelen</a></span></span>\n</li>\n</ul>\n<p><span style="background-color: inherit"><br></span></p>\n<h3><span style="background-color: inherit">Over dit hoofdstuk/artikel</span></h3>\n<h4><span style="color: var(--menu-bg)"><span style="background-color: inherit">PLAATSEN</span></span></h4>\n<ul>\n<li>\n<span style="background-color: inherit">over&nbsp;</span><span style="color: var(--main-controls-color)"><span style="background-color: inherit"><a href="https://www.dbnl.org/atlas/plaats.php?id=muize002" rel="noopener noreferrer nofollow">Muizen</a></span></span>\n</li>\n</ul>\n<p><span style="background-color: inherit"><br></span></p>\n<h4><span style="background-color: inherit">DATUMS</span></h4>\n<ul>\n<li>\n<span style="color: var(--main-controls-color)"><span style="background-color: inherit"><a href="https://www.dbnl.org/calendarium/?d=16360000" rel="noopener noreferrer nofollow">1636</a></span></span>\n</li>\n<li>\n<span style="color: var(--main-controls-color)"><span style="background-color: inherit"><a href="https://www.dbnl.org/calendarium/?d=16480000" rel="noopener noreferrer nofollow">1648</a></span></span>\n</li>\n<li>\n<span style="color: var(--main-controls-color)"><span style="background-color: inherit"><a href="https://www.dbnl.org/calendarium/?d=16490000" rel="noopener noreferrer nofollow">1649</a></span></span>\n</li>\n</ul>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">[p. jv]</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">bevonden de selve gestorven te zyn op den ses-thienden january van het volgende jaer ses-thienhondert seven-en-sestigh.</span></span></p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">De oorsaeke waerom Remmerus&nbsp;Valerius&nbsp;synen naem verandert ofte gelatinizeert heeft, schynt geweest te zyn de gewoonte van dien ende voorgaenden tyde, want veele geleerde Mannen ende wel besonderlyk die geboortich waren uyt den Kempen (welck Landt ons menichte van de Geleerste Mannen voortsgebracht heeft) hunnen eygen naem veranderden, als synde meest persoonen van kleyne en onbekende afkomste, zigh willende door de deught ende studien eenen particulieren naem achterlaeten, hunnen eygen Toenaem ende sommige oock den Voornaem verkeerende ende Latinizerende op verscheyde manieren, als onder andere den vermaerden Valerius&nbsp;Andreas&nbsp;geboortich van&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Tesschel</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;een Dorp onder de Landtdecanye</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">[p. v]</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">van&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Geel</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;van het Bisdom van s\'Hertogen-Bossche wiens eygen Voornaem was&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Wouter</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;ofte&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Wauter</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;ende Toenaem&nbsp;</span></span><em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Driessens</span></span></em><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">&nbsp;den welcken de Philosophie gehoort heeft in de Universiteyt van Douay ende is ten jaere 1621. Doctoor geworden in de Rechten in de Universiteyt van Loven.</span></span></p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">Het is waerschynelyk dat Remmerus&nbsp;Valerius&nbsp;naer het exempel van synen Landtsman Valerius&nbsp;Andreas&nbsp;van wien hy schynt nagevolgt te hebben het veranderen van den Naem, oock in syne jonkheyt ende misschien in de Philosophie tot Douay gestudeert heeft, vermits hy de Fransche Tale konde schryven welck ten dien tyde in een Brabantschen Kempenaer seer raer was.</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<h4><span style="color: var(--blauw)"><span style="background-color: inherit">1636</span></span></h4>\n<p><span style="background-color: inherit">Ten jaere ses-thien-hondert ses-en-dertigh ontrent den Feest-dag van de geboorte van den&nbsp;</span><em><span style="background-color: inherit">H. Joannes Baptista</span></em><span style="background-color: inherit">, is Remmerus&nbsp;Valerius&nbsp;Pastoor geworden van de Kercke</span></p>\n</td>\n<td>\n<h4></h4>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">[p. vj]</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">van S. Lambrecht tot Muysen, welck een Dorp is onder de Jurisdictie van Mechelen gebruykende de selve Coustumen ende genietende de selve Vryheden ende Privilegien, gelegen ontrent een half myle van de Stadt.</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<h4><span style="color: var(--blauw)"><span style="background-color: inherit">1648</span></span></h4>\n<p><span style="background-color: inherit">Het Pastoreel Huys van Muysen door de Oorlogen gedestrueert synde is hy genootsaekt geweest een Huys te hueren tot den jaere ses-thien-hondert acht-en-veertigh als wanneer den Peys tusschen Spaignien en Hollant gemaekt zynde, de Magistraet van Mechelen hebben afgedanckt hunne Soldaten, welcke Magistraet gelaten heeft de Baracken gemaekt op het Kerck-hof van Muysen alwaer Remmerus&nbsp;Valerius&nbsp;zich heeft moeten contenteren, soo hy selfs schryft in sekere Memorie ontrent den jaere 1665., met slechte Huyskens van de Soldaten de welcke door ouderdom seer vervallen waren.</span></p>\n</td>\n<td>\n<h4></h4>\n</td>\n</tr>\n<tr>\n<td>\n<p></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">[p. vjj]</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<h4 style="text-align: left"><span style="color: var(--blauw)"><span style="background-color: inherit">1649</span></span></h4>\n<p><span style="background-color: inherit">Ten jaere ses-thienhon-dert negen-en-veertigh op den 21. November is door synen iver in de Kercke van Muysen ingestelt een Broederschap onder den Titel van den soeten naem Jesu, ter welkers occasie alsdan een Kerck-Vaen gemaekt is waer in onder andere geschildert is het Portrait van Remmerus&nbsp;Valerius&nbsp;door&nbsp;</span><em><span style="background-color: inherit">Jan Verhoeven</span></em><span style="background-color: inherit">&nbsp;Schilder van Mechelen welck Vaen alnoch tot Muysen bewaert wort ende waer naer eene Copie geteekent ende syn Afbeeldtsel in eene Copere Plaete gesneden is door&nbsp;</span><em><span style="background-color: inherit">A. Opdebeeck</span></em><span style="background-color: inherit">&nbsp;tot Mechelen ten Jaere 1758.</span></p>\n<p><span style="background-color: inherit">In de Kercke van Muysen beneffens den hoogen Autaer aen de zyde van het Evangelie ligt eenen Serck-steen waer in synen Ouderdom, Bedieninge ende Schriften in\'t kort seer net beschreven worden in de volgende woorden</span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit">[p. vjjj]</span></span></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: inherit"><br><br></span></span><img src="https://www.dbnl.org/tekst/vale010chro01_01/vale010chro01ill0002.gif" alt="illustratie"></p>\n</td>\n<td>\n<p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Valerius was auteur van een reeks gedrukte kronieken van Mechelen, die ook in de inleiding bij de editie uitvoerig worden opgesomd. De bezorgers hebben er ook een index op gemaakt.</p>\n<p></p>\n</div>'] 
+MVW/JP 11 aug 2023
+
+Auteur is Remmerus Valerius, beter bekend als Remigius Wouters.
+
+De bezorgers zeggen over zijn leven het volgende:
+
+### Kort verhael  _van het leven van_  Remmerus Valerius, in synen tyde
+pastoor  _tot Muysen._
+
+**R** Emigius Wouters, bekent onder den Naem van Remmerus Valerius, was
+geboortich van  _Berchem_  een Dorp onder de Landtdecanye van  _Os_  in het
+Bisdom van s'Hertogen-Bossche; synen Vader is ons onbekent, maer syne Moeder
+vindmen aengeteekent in de Memorien van de Pastorye van Muysen op den naem van
+_Helena Wouters_  Moeder van den Heere Pastoor op het jaer sesthien-hondert
+ses-en-sestigh alsdan oudt synde hondert jaeren, ende wort
+
+|
+
+### Over het gehele werk
+
+#### PLAATSEN
+
+  * over [Mechelen](https://www.dbnl.org/atlas/plaats.php?id=meche001)
+
+  
+
+### Over dit hoofdstuk/artikel
+
+#### PLAATSEN
+
+  * over [Muizen](https://www.dbnl.org/atlas/plaats.php?id=muize002)
+
+  
+
+#### DATUMS
+
+  * [1636](https://www.dbnl.org/calendarium/?d=16360000)
+  * [1648](https://www.dbnl.org/calendarium/?d=16480000)
+  * [1649](https://www.dbnl.org/calendarium/?d=16490000)
+
+  
+  
+---|---  
+  
+[p. jv]
+
+|  
+  
+bevonden de selve gestorven te zyn op den ses-thienden january van het
+volgende jaer ses-thienhondert seven-en-sestigh.
+
+De oorsaeke waerom Remmerus Valerius synen naem verandert ofte gelatinizeert
+heeft, schynt geweest te zyn de gewoonte van dien ende voorgaenden tyde, want
+veele geleerde Mannen ende wel besonderlyk die geboortich waren uyt den Kempen
+(welck Landt ons menichte van de Geleerste Mannen voortsgebracht heeft) hunnen
+eygen naem veranderden, als synde meest persoonen van kleyne en onbekende
+afkomste, zigh willende door de deught ende studien eenen particulieren naem
+achterlaeten, hunnen eygen Toenaem ende sommige oock den Voornaem verkeerende
+ende Latinizerende op verscheyde manieren, als onder andere den vermaerden
+Valerius Andreas geboortich van  _Tesschel_  een Dorp onder de Landtdecanye
+
+|  
+  
+[p. v]
+
+|  
+  
+van  _Geel_  van het Bisdom van s'Hertogen-Bossche wiens eygen Voornaem was
+_Wouter_  ofte  _Wauter_  ende Toenaem  _Driessens_  den welcken de
+Philosophie gehoort heeft in de Universiteyt van Douay ende is ten jaere 1621.
+Doctoor geworden in de Rechten in de Universiteyt van Loven.
+
+Het is waerschynelyk dat Remmerus Valerius naer het exempel van synen
+Landtsman Valerius Andreas van wien hy schynt nagevolgt te hebben het
+veranderen van den Naem, oock in syne jonkheyt ende misschien in de
+Philosophie tot Douay gestudeert heeft, vermits hy de Fransche Tale konde
+schryven welck ten dien tyde in een Brabantschen Kempenaer seer raer was.
+
+|  
+  
+#### 1636
+
+Ten jaere ses-thien-hondert ses-en-dertigh ontrent den Feest-dag van de
+geboorte van den  _H. Joannes Baptista_ , is Remmerus Valerius Pastoor
+geworden van de Kercke
+
+|
+
+####  
+  
+[p. vj]
+
+|  
+  
+van S. Lambrecht tot Muysen, welck een Dorp is onder de Jurisdictie van
+Mechelen gebruykende de selve Coustumen ende genietende de selve Vryheden ende
+Privilegien, gelegen ontrent een half myle van de Stadt.
+
+|  
+  
+#### 1648
+
+Het Pastoreel Huys van Muysen door de Oorlogen gedestrueert synde is hy
+genootsaekt geweest een Huys te hueren tot den jaere ses-thien-hondert acht-
+en-veertigh als wanneer den Peys tusschen Spaignien en Hollant gemaekt zynde,
+de Magistraet van Mechelen hebben afgedanckt hunne Soldaten, welcke Magistraet
+gelaten heeft de Baracken gemaekt op het Kerck-hof van Muysen alwaer Remmerus
+Valerius zich heeft moeten contenteren, soo hy selfs schryft in sekere Memorie
+ontrent den jaere 1665., met slechte Huyskens van de Soldaten de welcke door
+ouderdom seer vervallen waren.
+
+|
+
+####  
+  
+|  
+  
+[p. vjj]
+
+|  
+  
+#### 1649
+
+Ten jaere ses-thienhon-dert negen-en-veertigh op den 21. November is door
+synen iver in de Kercke van Muysen ingestelt een Broederschap onder den Titel
+van den soeten naem Jesu, ter welkers occasie alsdan een Kerck-Vaen gemaekt is
+waer in onder andere geschildert is het Portrait van Remmerus Valerius door
+_Jan Verhoeven_  Schilder van Mechelen welck Vaen alnoch tot Muysen bewaert
+wort ende waer naer eene Copie geteekent ende syn Afbeeldtsel in eene Copere
+Plaete gesneden is door  _A. Opdebeeck_  tot Mechelen ten Jaere 1758.
+
+In de Kercke van Muysen beneffens den hoogen Autaer aen de zyde van het
+Evangelie ligt eenen Serck-steen waer in synen Ouderdom, Bedieninge ende
+Schriften in't kort seer net beschreven worden in de volgende woorden
+
+|  
+  
+[p. vjjj]
+
+|  
+  
+  
+  
+![illustratie](https://www.dbnl.org/tekst/vale010chro01_01/vale010chro01ill0002.gif)
+
+|  
+  
+Valerius was auteur van een reeks gedrukte kronieken van Mechelen, die ook in
+de inleiding bij de editie uitvoerig worden opgesomd. De bezorgers hebben er
+ook een index op gemaakt.
+
+
 
 ## Literatuur 
 

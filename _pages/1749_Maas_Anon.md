@@ -30,7 +30,34 @@ Anoniem. “Chronyk van Maestrigt, 1750-1800.” Maastricht, 1749. Handschriften
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP/EK juli/aug 2023</p>\n<p>Het gaat hier om kroniek van een militair, lid van het garnizoen, en gereformeerd, getuige veel mededelingen over collectes voor gereformeerde slachtoffers in buitenlanden, bid- en bededag, omschrijven van katholieken als ‘rooms’ en soms als ‘bygelovig’. Veel over misdaad en straf, ook in garnizoen (inclusief zaken rond bestialiteit en sodomie), en biedt inzicht in manier waarop troepen ook worden ingezet om boeren etc in bedwang te houden. Mooi voor studie van beleid in generaliteitslanden.</p>\n<p>De tekst komt sterk overeen met 1762_Maas_Anon.</p>\n<p>Tekst vermeldt, opmerkelijk, dat er geen ‘Turkse slaven’ mogen worden toegelaten zonder attestatie gezondheid (net als St Jacobs pelgrims en ‘vreemde bedelaars’.</p>\n<p>Handschrift verdeeld in drie delen.</p>\n<p>Deel 1 tot 1700</p>\n<p>deel 2 1700-1725</p>\n<p>deel 3 1726-1749</p>\n<p><span style="color: black">Er is geen afsluiting of afsluitende gebeurtenis. De anonieme auteur zou daarom in 1749 overleden kunnen zijn.</span></p>\n</div>'] 
+JP/EK juli/aug 2023
+
+Het gaat hier om kroniek van een militair, lid van het garnizoen, en
+gereformeerd, getuige veel mededelingen over collectes voor gereformeerde
+slachtoffers in buitenlanden, bid- en bededag, omschrijven van katholieken als
+‘rooms’ en soms als ‘bygelovig’. Veel over misdaad en straf, ook in garnizoen
+(inclusief zaken rond bestialiteit en sodomie), en biedt inzicht in manier
+waarop troepen ook worden ingezet om boeren etc in bedwang te houden. Mooi
+voor studie van beleid in generaliteitslanden.
+
+De tekst komt sterk overeen met 1762_Maas_Anon.
+
+Tekst vermeldt, opmerkelijk, dat er geen ‘Turkse slaven’ mogen worden
+toegelaten zonder attestatie gezondheid (net als St Jacobs pelgrims en
+‘vreemde bedelaars’.
+
+Handschrift verdeeld in drie delen.
+
+Deel 1 tot 1700
+
+deel 2 1700-1725
+
+deel 3 1726-1749
+
+Er is geen afsluiting of afsluitende gebeurtenis. De anonieme auteur zou
+daarom in 1749 overleden kunnen zijn.
+
+
 
 ## Literatuur 
 

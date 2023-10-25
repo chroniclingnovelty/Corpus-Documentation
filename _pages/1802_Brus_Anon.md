@@ -30,7 +30,11 @@ Anoniem. ‘Chronyken der principaelste geschiedenissen, voorgevallen tenteyde d
 
 ## Notes 
 
-['<div data-schema-version="8"><p>RL: wel of niet? JP: niet</p>\n<p>TD; motivatie:</p>\n<p><img alt="" data-attachment-key="2HB8LF66" width="846" height="790"></p>\n</div>'] 
+RL: wel of niet? JP: niet
+
+TD; motivatie:
+
+
 
 ## Literatuur 
 

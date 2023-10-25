@@ -31,7 +31,24 @@ Anoniem. “Chronijk van Maestricht tot 1719.” 3. Tongeren, 1719. 18.A  Hands
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 3 juli 2023</p>\n<p>Begonnen als een geschiedenis van Tongeren/Maastricht in 1701 door een auteur met initialen</p>\n<p>J:B:P:</p>\n<p>Zeer moeilijk om hier iets biografisch aan te plakken, behalve dat de auteur een inwoner was van Tongeren, misschien ook enige tijd van Maastricht. en moet zijn gestorven na 1719. Hij was over sommige zaken goed geinformeerd, maar er zitten flinke gaten in de tijd. </p>\n<p>Lijsten met executies en martelpraktijken. Veel kerkgeschiedenis, enig Latijn. &nbsp;Mogelijk bekleedde de auteur zelf een functie binnen de kerk. Veel over beleg Wenen en de strijd tegen de Turken. &nbsp;Uitvoerig gedicht over brand Tongeren - joden krijgen de schuld. Compilatie. </p>\n<p></p>\n</div>'] 
+JP 3 juli 2023
+
+Begonnen als een geschiedenis van Tongeren/Maastricht in 1701 door een auteur
+met initialen
+
+J:B:P:
+
+Zeer moeilijk om hier iets biografisch aan te plakken, behalve dat de auteur
+een inwoner was van Tongeren, misschien ook enige tijd van Maastricht. en moet
+zijn gestorven na 1719. Hij was over sommige zaken goed geinformeerd, maar er
+zitten flinke gaten in de tijd.
+
+Lijsten met executies en martelpraktijken. Veel kerkgeschiedenis, enig Latijn.
+Mogelijk bekleedde de auteur zelf een functie binnen de kerk. Veel over beleg
+Wenen en de strijd tegen de Turken.  Uitvoerig gedicht over brand Tongeren -
+joden krijgen de schuld. Compilatie.
+
+
 
 ## Literatuur 
 

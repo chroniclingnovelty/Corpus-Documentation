@@ -34,9 +34,15 @@ Jager, Cornelis Hendriksz Dirksz de. Dorpskroniek van Een Hilversumse Oud-Kathol
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Uitgave ter gelegenheid van het 100-jarig bestaan van het kerkgebouw van de oud-katholieke parochie van de H. Vitus aan het Melkpad te Hilversum</p>\n</div>', '<div data-schema-version="8"><p>Zie over de kroniekschrijver ook: M. Parmentier, Geschiedenis van (oud-)katholiek Hilversum 1589-1889, Hilversum 1989. CL</p>\n<p></p>\n</div>'] 
+Uitgave ter gelegenheid van het 100-jarig bestaan van het kerkgebouw van de
+oud-katholieke parochie van de H. Vitus aan het Melkpad te Hilversum
 
-['<div data-schema-version="8"><p>Uitgave ter gelegenheid van het 100-jarig bestaan van het kerkgebouw van de oud-katholieke parochie van de H. Vitus aan het Melkpad te Hilversum</p>\n</div>', '<div data-schema-version="8"><p>Zie over de kroniekschrijver ook: M. Parmentier, Geschiedenis van (oud-)katholiek Hilversum 1589-1889, Hilversum 1989. CL</p>\n<p></p>\n</div>'] 
+
+
+Zie over de kroniekschrijver ook: M. Parmentier, Geschiedenis van
+(oud-)katholiek Hilversum 1589-1889, Hilversum 1989. CL
+
+
 
 ## Literatuur 
 

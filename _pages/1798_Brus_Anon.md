@@ -30,7 +30,14 @@ Anoniem. ‘Opmerkingen van eenige zaeken in de stad Brussel voorgevallen’. Br
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 28 juli 2023 Deze kroniek loopt tot 1798 en is na 1841 overgeschreven door iemand die er nog opmerkingen bij heeft geplaatst. De auteur is zeer pro-Habsburgs en vooral geinteresseerd in de wandaden van patriotten en Franse republikeinen, met name over de behandeling van geestelijken en kerkgebouwen maar ook in bredere zin. Wellicht kerkelijk milieu, maar zelf geen priester, vermoed ik.</p>\n</div>'] 
+JP 28 juli 2023 Deze kroniek loopt tot 1798 en is na 1841 overgeschreven door
+iemand die er nog opmerkingen bij heeft geplaatst. De auteur is zeer pro-
+Habsburgs en vooral geinteresseerd in de wandaden van patriotten en Franse
+republikeinen, met name over de behandeling van geestelijken en kerkgebouwen
+maar ook in bredere zin. Wellicht kerkelijk milieu, maar zelf geen priester,
+vermoed ik.
+
+
 
 ## Literatuur 
 

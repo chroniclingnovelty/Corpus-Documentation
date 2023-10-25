@@ -25,6 +25,7 @@ Filleul, Jan Baptiste. “Tydscronyck, Deel 7.” Kortrijk, 1855. Stadsfonds, 93
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1846 | 
+| Contemporain begin | 1846 | 
 | Plaats onderwerp | Kortrijk | 
 
 [<img src="..\..\barplots_chronicles\1855_Kort_Fill_07.jpg" width="750"/>](..\..\barplots_chronicles\1855_Kort_Fill_07.jpg) 

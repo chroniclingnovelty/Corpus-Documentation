@@ -30,15 +30,34 @@ Druijnen, Jan Willem van, and Gerrit van Druijnen. Leven aan de Waal, of Vervolg
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1819 | 
+| Contemporain begin | 1819 | 
 | Plaats onderwerp | Nijmegen | 
 
 [<img src="..\..\barplots_chronicles\1859_Nijm_Drui.jpg" width="750"/>](..\..\barplots_chronicles\1859_Nijm_Drui.jpg) 
 
 ## Notes 
 
-['<p>Inleiding 1-76</p>\n<p>Tekst 77-330</p>\n<p>Kroniek bijgehouden door wijnhandelaar Jan Willem van Druijnen (1790-1854) en zijn zoon Gerrit van Druijnen (1825-1876), die verantwoordelijk was voor de aantekeningen van 1853-1858. Deze laatste verliet de stad, misschien vanwege een mesalliance, en hield (daarom?) op met de kroniek</p>', '<div data-schema-version="8"><p>De kroniek is een rechtstreeks vervolg op de kroniek van vader en zoon Johan en Gijsbert In de Betouw (die op hun beurt de kroniek van vader en zoon Smetius hebben voortgezet).</p>\n<p>Meer gegevens over de familie Van druijnen en de voorgangers van deze kroniek in \'Leven aan de Waal\', ed. A. Bosch et al., Nijmegen Vantilt 2011.</p>\n<p>CL/ 24 juni 2023</p>\n</div>'] 
+Inleiding 1-76
 
-['<p>Inleiding 1-76</p>\n<p>Tekst 77-330</p>\n<p>Kroniek bijgehouden door wijnhandelaar Jan Willem van Druijnen (1790-1854) en zijn zoon Gerrit van Druijnen (1825-1876), die verantwoordelijk was voor de aantekeningen van 1853-1858. Deze laatste verliet de stad, misschien vanwege een mesalliance, en hield (daarom?) op met de kroniek</p>', '<div data-schema-version="8"><p>De kroniek is een rechtstreeks vervolg op de kroniek van vader en zoon Johan en Gijsbert In de Betouw (die op hun beurt de kroniek van vader en zoon Smetius hebben voortgezet).</p>\n<p>Meer gegevens over de familie Van druijnen en de voorgangers van deze kroniek in \'Leven aan de Waal\', ed. A. Bosch et al., Nijmegen Vantilt 2011.</p>\n<p>CL/ 24 juni 2023</p>\n</div>'] 
+Tekst 77-330
+
+Kroniek bijgehouden door wijnhandelaar Jan Willem van Druijnen (1790-1854) en
+zijn zoon Gerrit van Druijnen (1825-1876), die verantwoordelijk was voor de
+aantekeningen van 1853-1858. Deze laatste verliet de stad, misschien vanwege
+een mesalliance, en hield (daarom?) op met de kroniek
+
+
+
+De kroniek is een rechtstreeks vervolg op de kroniek van vader en zoon Johan
+en Gijsbert In de Betouw (die op hun beurt de kroniek van vader en zoon
+Smetius hebben voortgezet).
+
+Meer gegevens over de familie Van druijnen en de voorgangers van deze kroniek
+in 'Leven aan de Waal', ed. A. Bosch et al., Nijmegen Vantilt 2011.
+
+CL/ 24 juni 2023
+
+
 
 ## Literatuur 
 

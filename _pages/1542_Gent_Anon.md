@@ -33,7 +33,17 @@ Anoniem. “Kroniek van Gent, 1538-1542.” Gent, 1542. Boekentoren, BHSL.HS.234
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Deze kroniek is anoniem. Over de auteur weten we niets anders dan dat hij een privepersoon was met een uitgesproken mening over de gebeurtenissen rond de Gentse opstand van 1549. Een groot deel is rapportage wat er gebeurt in de collatie en over de positie van de neringen daarin, maar de auteur is zelf waarschijnlijk geen wever (de wevers waren een belangrijke partij in het oproer), want hij is ook kritisch over hun optreden en het scheuren (of eigenlijk afkrabben) van het omstreden ‘kalfsvel’.</p>\n<p>De auteur heeft daarnaast ook van alles te melden over rederijkers .</p>\n</div>'] 
+Deze kroniek is anoniem. Over de auteur weten we niets anders dan dat hij een
+privepersoon was met een uitgesproken mening over de gebeurtenissen rond de
+Gentse opstand van 1549. Een groot deel is rapportage wat er gebeurt in de
+collatie en over de positie van de neringen daarin, maar de auteur is zelf
+waarschijnlijk geen wever (de wevers waren een belangrijke partij in het
+oproer), want hij is ook kritisch over hun optreden en het scheuren (of
+eigenlijk afkrabben) van het omstreden ‘kalfsvel’.
+
+De auteur heeft daarnaast ook van alles te melden over rederijkers .
+
+
 
 ## Literatuur 
 

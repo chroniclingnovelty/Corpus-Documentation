@@ -25,6 +25,7 @@ Filleul, Jan Baptiste. “Tydscronyck, Deel 5.” Kortrijk, 1855. Stadsfonds, 93
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1821 | 
+| Contemporain begin | 1821 | 
 | Plaats onderwerp | Kortrijk | 
 
 [<img src="..\..\barplots_chronicles\1855_Kort_Fill_05.jpg" width="750"/>](..\..\barplots_chronicles\1855_Kort_Fill_05.jpg) 

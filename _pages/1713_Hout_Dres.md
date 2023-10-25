@@ -33,7 +33,20 @@ Dresens, Joannes. “Kroniek Joannes Dresens, Schepen van Houthem 1673-1713.” 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP/EK/FM 30 juni 2023</p>\n<p>De eerste drie pagina\'s zijn in het Frans - het is niet duidelijk waarom. </p>\n<p>Dresens trouwt in 1681, twee jaar nadat hij rentmeester van Mr. Bliisia (?) is geworden. Vrouw sterft 1711. Veel kinderen. Eea over broers en andere familie, legers,hoge prijzen, kometen en over misdaad o.a. door joden. Redelijk uitvoerige beschrijving van het beleg van Maastricht in 1676.</p>\n<p>Een eeuw later heeft een nabestaande aan het einde een stuk toegevoegd:’1823 den 23 october ben ik Jan Vanderzande getrouwt met Johanna Dresens S\' morgen ontrent de 11 uren in de parochie van St Nicolaas’.</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n</div>'] 
+JP/EK/FM 30 juni 2023
+
+De eerste drie pagina's zijn in het Frans - het is niet duidelijk waarom.
+
+Dresens trouwt in 1681, twee jaar nadat hij rentmeester van Mr. Bliisia (?) is
+geworden. Vrouw sterft 1711. Veel kinderen. Eea over broers en andere familie,
+legers,hoge prijzen, kometen en over misdaad o.a. door joden. Redelijk
+uitvoerige beschrijving van het beleg van Maastricht in 1676.
+
+Een eeuw later heeft een nabestaande aan het einde een stuk toegevoegd:’1823
+den 23 october ben ik Jan Vanderzande getrouwt met Johanna Dresens S' morgen
+ontrent de 11 uren in de parochie van St Nicolaas’.
+
+
 
 ## Literatuur 
 

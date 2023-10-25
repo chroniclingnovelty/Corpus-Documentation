@@ -36,7 +36,12 @@ Baake, Nicolaas Johannes. “Journaal van 1802 tot 1813 door N.J. Baake.” 1. D
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Baake is gedoopt in de Grote Kerk in Den Haag en was dus gereformeerd (of Nederduitsch Hervormd, zoals hij zelf die kerk noemt)</p>\n<p>Juli 2023, CL</p>\n</div>'] 
+Baake is gedoopt in de Grote Kerk in Den Haag en was dus gereformeerd (of
+Nederduitsch Hervormd, zoals hij zelf die kerk noemt)
+
+Juli 2023, CL
+
+
 
 ## Literatuur 
 

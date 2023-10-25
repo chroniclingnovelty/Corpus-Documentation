@@ -26,6 +26,7 @@ Hellema, Doeke Wijgers. ‘De dagboeken van Doeke Wijgers Hellema, 1766-1856’.
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1821 | 
+| Contemporain begin | 1821 | 
 | Plaats onderwerp | Wirdum | 
 
 [<img src="..\..\barplots_chronicles\1856_Wird_Hell.jpg" width="750"/>](..\..\barplots_chronicles\1856_Wird_Hell.jpg) 

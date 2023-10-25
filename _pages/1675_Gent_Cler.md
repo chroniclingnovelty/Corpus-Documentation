@@ -30,7 +30,11 @@ Clercq, de, J. Adolphus. ‘Chronijcke ofte Cort Verhael van de principaelste GH
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP juni 2023</p>\n<p>Wij hebben in de tekst geen geen informatie over auteur gevonden.</p>\n<p></p>\n</div>'] 
+JP juni 2023
+
+Wij hebben in de tekst geen geen informatie over auteur gevonden.
+
+
 
 ## Literatuur 
 

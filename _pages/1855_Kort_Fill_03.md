@@ -25,6 +25,7 @@ Filleul, Jan Baptiste. “Tydscronyck, Deel 3.” Kortrijk, 1855. Stadsfonds, 93
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1810 | 
+| Contemporain begin | 1810 | 
 | Plaats onderwerp | Kortrijk | 
 
 [<img src="..\..\barplots_chronicles\1855_Kort_Fill_03.jpg" width="750"/>](..\..\barplots_chronicles\1855_Kort_Fill_03.jpg) 

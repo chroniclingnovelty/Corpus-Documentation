@@ -32,6 +32,7 @@ Ackersdijk, Willem Cornelis. “Kronyk Der Hoofdstad ’s Hertogenbosch. Inhoude
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1790 | 
+| Contemporain begin | 1790 | 
 | Plaats onderwerp | Den Bosch | 
 
 [<img src="..\..\barplots_chronicles\1794_Bosc_Acke_02.jpg" width="750"/>](..\..\barplots_chronicles\1794_Bosc_Acke_02.jpg) 

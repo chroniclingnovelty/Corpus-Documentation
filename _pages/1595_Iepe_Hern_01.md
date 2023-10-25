@@ -37,7 +37,150 @@ Hernighem, van, Augustyn. ‘Beschrijving der stad Yper, deel 1’, 1595. Fonds 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP/AK aug 2023</p>\n<p><strong>‘Augustijn van Hernighem</strong> (c. 1540?–after 1617) was a corn inspector in Ypres and kept a Cronyk, or diary,&nbsp; from 1562–1592, in seven volumes. In 1593 he became a corporal in the civic militia. He married in 1565 and had five children. His diaries are a rich source, and not just because they cover such a long period. His duties brought him into frequent contact with peasants, and he noted many of the stories they told him about events in the countryside. He reports that he used his own diaries to reflect on the developments of his lifetime. The original volumes are in the Stadsbibliotheek Kortrijk, Collection&nbsp; Goethals,&nbsp; Ms 296 and 297, with the exception of volume IV, which is in the&nbsp; University Library of Ghent, Ms. 3700.&nbsp; Only the notes for the years 1585–6 are missing. An early edition of vols II, IV and V appeared as Augustijn van Hermelghem, <em>Nederlandsche historie 1572–1591</em>, ed. F. van de Putte, 2 vols., Maatschappij der Vlaamsche Bibliophilen, 3rd series 10 (Ghent, 1864–67). Its many flaws began with the misspelling of the writer’s name, as was pointed out by Victor Fris, ‘La chronique d’Ypres d’Augustin van Hernighem, (Oct 1562– Juillet 1595), <em>Bulletin de la Commission </em>&nbsp;<em>Royale d’Histoire</em> 85 (1921) 1–76, who analysed its shortcomings and suggested corrections. Book I was published as Augustijn van Hernighem, <em>Eerste bouck van beschrijfvinghe van alle geschiedenesse (1562–1572)</em>, ed. A.L.E. Verheyden, Collection de Documents Historiques 4 (Brussels, 1978)’.</p>\n<p>Bron: Judith Pollmann, <em>Catholic identity and the Revolt of the Netherlands, 1520-1635</em> (Oxford 2011), 204.</p>\n<p><u>Auteursinformatie (Astrid Koersvelt)</u></p>\n<p><strong>Naam auteur Augustyn van Hernighem, filius Jans</strong>&lt;su&gt;1&lt;/sup&gt;</p>\n<p></p>\n<p><strong>Geboren:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Datum: +- 1540<a href="#_ftn2" rel="noopener noreferrer nofollow">&lt;sup&gt;2</a>&lt;/sup&gt;, doop, vader: Jan<a href="#_ftn3" rel="noopener noreferrer nofollow">&lt;sup&gt;3</a>&lt;/sup&gt;, moeder</p>\n<p><strong>Gestorven:&nbsp;&nbsp;&nbsp;&nbsp; </strong>Datum: na 1617<a href="#_ftn4" rel="noopener noreferrer nofollow">&lt;sup&gt;4</a>&lt;/sup&gt;</p>\n<p><strong>Begraven:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Datum, extra info uit doodsboeken</p>\n<p><strong>Getrouwd:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Datum: rond 1565<a href="#_ftn5" rel="noopener noreferrer nofollow">&lt;sup&gt;5</a>&lt;sup&gt;, naam echtgenote: onbekend, zij was een Ieperse vrouw<a href="#_ftn6" rel="noopener noreferrer nofollow">&lt;sup&gt;6</a>&lt;sup&gt;, eventueel schoonfamilie: onbekend</p>\n<p><strong>Religie: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rooms-Katholiek</strong><a href="#_ftn7" rel="noopener noreferrer nofollow">&lt;sup&gt;7</a>&lt;sup&gt;</p>\n<p><strong>Professie: </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Broodweger, Korenmeter en korporaal in de stadsmilitie.&nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Motief</strong></p>\n<p style="text-align: left">“… <span style="color: black">met gods hulpe augustyn van hernichem hoopt oprechtelyc metter waerheyt Te bescryfven zeer ghetrauwelyc bidde tzelve alle goede </span><span style="color: blue">menschen in dancke te ontfanghen …”<a href="#_ftn8" rel="noopener noreferrer nofollow">&lt;sup&gt;8</a>&lt;/sup&gt;</span></p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Public Roles/profession</strong></p>\n<p><strong>&nbsp;</strong>Broodweger, korporaal in de stadsmilitie.<a href="#_ftn9" rel="noopener noreferrer nofollow">&lt;sup&gt;9</a>&lt;/sup&gt;Korenmeter.&lt;sup&gt;10&lt;/sup&gt;</p>\n<p><strong>Biografische gegevens</strong></p>\n<ul>\n<li>\nAugustyn van Hernighem was een gegoede poorter van Ieper<a href="#_ftn11" rel="noopener noreferrer nofollow">&lt;sup&gt;11</a>&lt;/sup&gt; en hield tussen 1562 en 1595 (alle) gebeurtenissen bij die zich in Ieper voordeden.<a href="#_ftn12" rel="noopener noreferrer nofollow">&lt;sup&gt;12</a>&lt;sup&gt;\n</li>\n<li>\nAugustyn van Hernighem was kerkganger van de Sint-Niklaasparochie in Ieper.<a href="#_ftn13" rel="noopener noreferrer nofollow">&lt;sup&gt;13</a>&lt;/sup&gt;\n</li>\n<li>\nAugustyn van Hernighem had vier kinderen: Tincken (gestorven in 1568), Haentgen (geboren 1568), Willekin (1570-1590), Martinken (geboren 1571).<a href="#_ftn14" rel="noopener noreferrer nofollow">&lt;sup&gt;14</a>&lt;/sup&gt;\n</li>\n<li>\nAugustyn van Hernighem heeft een broer Jan (gestorven in 1574 en een zus Mayken (gestorven in 1575)\n</li>\n<li>\nAugustyn van Hernighem was lid van de rederijkerskamer <em>Lichtgeladen</em>.<a href="#_ftn15" rel="noopener noreferrer nofollow">&lt;sup&gt;15</a>&lt;/sup&gt;\n</li>\n</ul>\n<p></p>\n<ul>\n<li>\nAlle kronieken bevatten gebeurtenissen die belangrijk waren voor de stad Ieper, waarbij er in het bijzonder veel aandacht geschonken werd aan de precaire bevoorradingssituatie. De waarde van alle werken ligt in de goede trouw waarmee alle gebeurtenissen genoteerd werden. Topografisch als chronologisch werkte hij Augustyn zeer nauwkeurig. Deze nauwkeurigheid was mogelijk omdat Augustyn goed geïntroduceerd was in het politieke en culturele leven van Ieper.<a href="#_ftn16" rel="noopener noreferrer nofollow">&lt;sup&gt;16</a>&lt;/sup&gt;\n</li>\n</ul>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Van de hand van ...</strong></p>\n<p>Er zijn in totaal zeven dagboekdelen:<a href="#_ftn17" rel="noopener noreferrer nofollow">&lt;sup&gt;17</a>&lt;/sup&gt;</p>\n<p>Boek 1 (oktober 1562 – juli 1572)</p>\n<p>Boek 2 (17 juli 1572 – 31 december 1583)</p>\n<p>Boek 3 (1&nbsp; januari 1584 – 16 september 1584) <strong><u>(verloren gegaan)</u></strong></p>\n<p>Boek 4 (17 september 1584 – 10 november 1587)</p>\n<p>Boek 5 (10 november 1587 – 31 december 1588)</p>\n<p>Boek 6 (8 januari 1589 – 25 december 1591)</p>\n<p>Boek 7 (1 januari 1592 – 18 juli 1595)</p>\n<p><strong>Linkadressen</strong></p>\n<p><a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a></p>\n<p><a href="https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php</a>&nbsp;</p>\n<p><a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p></p>\n<p><a href="#_ftnref1" rel="noopener noreferrer nofollow">[1]</a> Kroniek 1587_Iepe_Hern_005</p>\n<p><a href="#_ftnref2" rel="noopener noreferrer nofollow">[2]</a> https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php</p>\n<p><a href="#_ftnref3" rel="noopener noreferrer nofollow">[3]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref4" rel="noopener noreferrer nofollow">[4]</a> https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php</p>\n<p><a href="#_ftnref5" rel="noopener noreferrer nofollow">[5]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref6" rel="noopener noreferrer nofollow">[6]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref7" rel="noopener noreferrer nofollow">[7]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref8" rel="noopener noreferrer nofollow">[8]</a> Kroniek 1587_Iepe_Hern_004</p>\n<p><a href="#_ftnref9" rel="noopener noreferrer nofollow">[9]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref10" rel="noopener noreferrer nofollow">[10]</a> https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php</p>\n<p><a href="#_ftnref11" rel="noopener noreferrer nofollow">[11]</a> https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php</p>\n<p><a href="#_ftnref12" rel="noopener noreferrer nofollow">[12]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref13" rel="noopener noreferrer nofollow">[13]</a> https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php</p>\n<p><a href="#_ftnref14" rel="noopener noreferrer nofollow">[14]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref15" rel="noopener noreferrer nofollow">[15]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref16" rel="noopener noreferrer nofollow">[16]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p><a href="#_ftnref17" rel="noopener noreferrer nofollow">[17]</a> <a href="https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem</a> (mogelijk van <a href="https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956</a></p>\n<p>&nbsp;</p>\n<p></p>\n</div>'] 
+JP/AK aug 2023
+
+**‘Augustijn van Hernighem** (c. 1540?–after 1617) was a corn inspector in
+Ypres and kept a Cronyk, or diary,  from 1562–1592, in seven volumes. In 1593
+he became a corporal in the civic militia. He married in 1565 and had five
+children. His diaries are a rich source, and not just because they cover such
+a long period. His duties brought him into frequent contact with peasants, and
+he noted many of the stories they told him about events in the countryside. He
+reports that he used his own diaries to reflect on the developments of his
+lifetime. The original volumes are in the Stadsbibliotheek Kortrijk,
+Collection  Goethals,  Ms 296 and 297, with the exception of volume IV, which
+is in the  University Library of Ghent, Ms. 3700.  Only the notes for the
+years 1585–6 are missing. An early edition of vols II, IV and V appeared as
+Augustijn van Hermelghem, _Nederlandsche historie 1572–1591_ , ed. F. van de
+Putte, 2 vols., Maatschappij der Vlaamsche Bibliophilen, 3rd series 10 (Ghent,
+1864–67). Its many flaws began with the misspelling of the writer’s name, as
+was pointed out by Victor Fris, ‘La chronique d’Ypres d’Augustin van
+Hernighem, (Oct 1562– Juillet 1595), _Bulletin de la Commission_   _Royale
+d’Histoire_ 85 (1921) 1–76, who analysed its shortcomings and suggested
+corrections. Book I was published as Augustijn van Hernighem, _Eerste bouck
+van beschrijfvinghe van alle geschiedenesse (1562–1572)_ , ed. A.L.E.
+Verheyden, Collection de Documents Historiques 4 (Brussels, 1978)’.
+
+Bron: Judith Pollmann, _Catholic identity and the Revolt of the Netherlands,
+1520-1635_ (Oxford 2011), 204.
+
+_Auteursinformatie (Astrid Koersvelt)_
+
+**Naam auteur Augustyn van Hernighem, filius Jans** <su>1</sup>
+
+**Geboren:         **Datum: +- 1540<sup>2</sup>, doop, vader: Jan<sup>3</sup>,
+moeder
+
+**Gestorven:      **Datum: na 1617<sup>4</sup>
+
+**Begraven:        **Datum, extra info uit doodsboeken
+
+**Getrouwd:      **Datum: rond 1565<sup>5<sup>, naam echtgenote: onbekend, zij
+was een Ieperse vrouw<sup>6<sup>, eventueel schoonfamilie: onbekend
+
+**Religie:           Rooms-Katholiek**<sup>7<sup>
+
+**Professie:**       Broodweger, Korenmeter en korporaal in de stadsmilitie.
+
+** **
+
+**Motief**
+
+“… met gods hulpe augustyn van hernichem hoopt oprechtelyc metter waerheyt Te
+bescryfven zeer ghetrauwelyc bidde tzelve alle goede menschen in dancke te
+ontfanghen …”<sup>8</sup>
+
+** **
+
+**Public Roles/profession**
+
+** ** Broodweger, korporaal in de
+stadsmilitie.<sup>9</sup>Korenmeter.<sup>10</sup>
+
+**Biografische gegevens**
+
+  * Augustyn van Hernighem was een gegoede poorter van Ieper<sup>11</sup> en hield tussen 1562 en 1595 (alle) gebeurtenissen bij die zich in Ieper voordeden.<sup>12<sup>
+  * Augustyn van Hernighem was kerkganger van de Sint-Niklaasparochie in Ieper.<sup>13</sup>
+  * Augustyn van Hernighem had vier kinderen: Tincken (gestorven in 1568), Haentgen (geboren 1568), Willekin (1570-1590), Martinken (geboren 1571).<sup>14</sup>
+  * Augustyn van Hernighem heeft een broer Jan (gestorven in 1574 en een zus Mayken (gestorven in 1575) 
+  * Augustyn van Hernighem was lid van de rederijkerskamer _Lichtgeladen_.<sup>15</sup>
+
+  * Alle kronieken bevatten gebeurtenissen die belangrijk waren voor de stad Ieper, waarbij er in het bijzonder veel aandacht geschonken werd aan de precaire bevoorradingssituatie. De waarde van alle werken ligt in de goede trouw waarmee alle gebeurtenissen genoteerd werden. Topografisch als chronologisch werkte hij Augustyn zeer nauwkeurig. Deze nauwkeurigheid was mogelijk omdat Augustyn goed geïntroduceerd was in het politieke en culturele leven van Ieper.<sup>16</sup>
+
+** **
+
+**Van de hand van ...**
+
+Er zijn in totaal zeven dagboekdelen:<sup>17</sup>
+
+Boek 1 (oktober 1562 – juli 1572)
+
+Boek 2 (17 juli 1572 – 31 december 1583)
+
+Boek 3 (1  januari 1584 – 16 september 1584) **_(verloren gegaan)_**
+
+Boek 4 (17 september 1584 – 10 november 1587)
+
+Boek 5 (10 november 1587 – 31 december 1588)
+
+Boek 6 (8 januari 1589 – 25 december 1591)
+
+Boek 7 (1 januari 1592 – 18 juli 1595)
+
+**Linkadressen**
+
+<https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem>
+
+<https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php>
+
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[1] Kroniek 1587_Iepe_Hern_005
+
+[2] https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php
+
+[3] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[4] https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php
+
+[5] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[6] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[7] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[8] Kroniek 1587_Iepe_Hern_004
+
+[9] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[10] https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php
+
+[11] https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php
+
+[12] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[13] https://www.dbnl.org/tekst/_bie001195801_01/_bie001195801_01_0036.php
+
+[14] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[15] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[16] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+[17] <https://nl.wikipedia.org/wiki/Augustijn_van_Hernighem> (mogelijk van
+<https://www.persee.fr/doc/bcrh_0001-415x_1921_num_85_1_1956>
+
+
+
+
 
 ## Literatuur 
 

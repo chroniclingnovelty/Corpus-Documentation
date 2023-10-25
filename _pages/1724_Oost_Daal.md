@@ -34,7 +34,20 @@ Daalder, Jan Sijmons. “Kroniek Daalder” : Aantekeningen Betreffende Huweli
 
 ## Notes 
 
-['<div data-schema-version="8"><p><span style="color: #2a2a2a"><span style="background-color: transparent">Deze Kroniek, getranscribeerd door J. Dane- Ruijter, bevat aantekingen betreffende huwelijken, overlijdens, predikanten en plaatselijke gebeurtenissen in Oostzaan in de jaren 1682 - 1724. &nbsp;De auteur lijkt nauw betrokken te zijn bij de gereformeerde kerk en fungeerde wellicht als koster oid. </span></span></p>\n<p><span style="color: #2a2a2a"><span style="background-color: transparent">De kroniek is vermoedelijk samengesteld door Jan Sijmons Daalder (1655 - 1724) een telg uit een vooraanstaande familie in Oostzaan.</span></span></p>\n<p><span style="color: #2a2a2a"><span style="background-color: transparent">Noord-Hollands Archief, collectie Losse Aanwinsten (toegang 176, inv.nr. 1079)</span></span></p>\n<p>&nbsp;</p>\n<p></p>\n</div>'] 
+Deze Kroniek, getranscribeerd door J. Dane- Ruijter, bevat aantekingen
+betreffende huwelijken, overlijdens, predikanten en plaatselijke
+gebeurtenissen in Oostzaan in de jaren 1682 - 1724.  De auteur lijkt nauw
+betrokken te zijn bij de gereformeerde kerk en fungeerde wellicht als koster
+oid.
+
+De kroniek is vermoedelijk samengesteld door Jan Sijmons Daalder (1655 - 1724)
+een telg uit een vooraanstaande familie in Oostzaan.
+
+Noord-Hollands Archief, collectie Losse Aanwinsten (toegang 176, inv.nr. 1079)
+
+
+
+
 
 ## Literatuur 
 

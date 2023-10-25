@@ -37,11 +37,152 @@ Barnaart junior, Jacobus. “Dagverhaal van Merkwaardige Voorvallen Aangetekend 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>De Kroniek</p>\n<p>&nbsp;</p>\n<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie \'Jacobus Barnaart, een kind van de Verlichting?\' van Cécile van Boven- van Aerssen.</p>\n<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>\n<p>Als bijschrift bij de transcriptie schrijft zij:</p>\n<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \\ / zijn tussenvoegsels van Jacobus.</span></span></p>\n<p>&nbsp;</p>\n</div>', '<div data-schema-version="8"><p>Met dank aan Tinka de Haan</p>\n<p><u>Auteursinformatie<br></u></p>\n<p><strong>Jacobus Barnaart (junior)</strong></p>\n<p>&nbsp;</p>\n<p><strong>Geboren:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> 1726, Haarlem</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vader: Jacobus Barnaart</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moeder: Margaretha van Elten&nbsp;</p>\n<p><strong>Gestorven:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </strong>1780, Haarlem</p>\n<p><strong>Begraven:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</strong> (nog) niet bekend</p>\n<p><strong>Getrouwd:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Nee</p>\n<p><strong>Religie: </strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Doopsgezind</p>\n<p><strong>Professie: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Handelaar in manufacturen</p>\n<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Een van de vijf eerste directeuren van het Teylinger genootschap en museum</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><strong>Motief</strong></p>\n<p>Niet bekend</p>\n<p><strong>Public Roles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p>\n<p>Geen (voor zover bekend)</p>\n<p><strong>Education</strong></p>\n<p>Latijnse school</p>\n<p>Universiteit (niet duidelijk waarin, misschien sterrenkunde?)</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Profession</strong></p>\n<p>Net als zijn vader, die fabrikant en handelaar was in zijden stoffen, ging Jacobus handelen in stoffen. In zijn geval betrof het geweven stoffen, manufacturaat genoemd. In 1756 werd hij door Pieter Teyler van der Hulst, een goede vriend, aangewezen als één der vijf directeuren van het Teylinger genootschap dat zich bezig zou gaan houden met natuurkunde, dichtkunde, historiekunde, tekenkunde en penningkunde.&lt;sup&gt;1&lt;/sup&gt; Mede door aandringen van Jacobus Barnaart kwam er een ‘boek- en liefhebberyzaal’; het begin van het huidige Teylermuseum.</p>\n<p>&nbsp;</p>\n<p><strong>Biografische gegevens</strong></p>\n<p>Jacobus Barnaart behoorde tot de rijkst tak van een doopsgezinde, Haarlemse familie. Zowel zijn vader als hijzelf waren geïnteresseerd in de natuurwetenschappen. Beide waren actief in het ‘Genoodschap der Liefhebbers in de Natuuren Sterrenkunde’.&lt;sup&gt;2&lt;/sup&gt; Hier deden ze meteorologische en sterrenkundige waarnemingen en fysische experimenten, en wisselden informatie uit met amateurs en geleerden in binnen- en buitenland. Jacobus onderhield jarenland briefcontact met een sterrenkundige kenner die in 1751 naar Leiden was verhuisd, Dirk Klinkenberg. Volgens Martinus van Marum, een bekend lid van het Teylinger genootschap, was Jacobus de kundigste van het Physisch gezelschap.&lt;sup&gt;3&lt;/sup&gt; Jacobus bleef zijn hele leven ongehuwd.</p>\n<p><strong>Van de hand van ...</strong></p>\n<p>Geen andere werken van hem gevonden.</p>\n<p><strong>Linkadressen &nbsp;</strong></p>\n<p><strong>Artikel over Teyler in Tijdschrift voor tijdschriftstudies (over Barnaart vanaf pagina 19).</strong></p>\n<p><a href="https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Familieverbanden van Jacobus Barnaart Jr.</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Uittreksel van het testament van Jacous Barnaart Jr.</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Wikipedia</strong></p>\n<p><a href="https://en.wikipedia.org/wiki/Jacobus_Barnaart" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacobus_Barnaart</a></p>\n<p>&nbsp;</p>\n<p><strong>DBNL</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/index.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/index.php</a></p>\n<p>&nbsp;</p>\n<p><a href="#_ftnref1" rel="noopener noreferrer nofollow">[1]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 19.</p>\n<p><a href="#_ftnref2" rel="noopener noreferrer nofollow">[2]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 20.</p>\n<p><a href="#_ftnref3" rel="noopener noreferrer nofollow">[3]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 19.</p>\n</div>', '<div data-schema-version="8"><p>EK brongebruik. passsage over grieks vuur letterlijk overgeschreven uit de Europische mercurius: <a href="https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&amp;gbpv=1&amp;dq=callinicus+vuur&amp;pg=PA132&amp;printsec=frontcover" rel="noopener noreferrer nofollow">https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&amp;gbpv=1&amp;dq=callinicus+vuur&amp;pg=PA132&amp;printsec=frontcover</a></p>\n<p>1744</p>\n</div>'] 
+De Kroniek
 
-['<div data-schema-version="8"><p>De Kroniek</p>\n<p>&nbsp;</p>\n<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie \'Jacobus Barnaart, een kind van de Verlichting?\' van Cécile van Boven- van Aerssen.</p>\n<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>\n<p>Als bijschrift bij de transcriptie schrijft zij:</p>\n<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \\ / zijn tussenvoegsels van Jacobus.</span></span></p>\n<p>&nbsp;</p>\n</div>', '<div data-schema-version="8"><p>Met dank aan Tinka de Haan</p>\n<p><u>Auteursinformatie<br></u></p>\n<p><strong>Jacobus Barnaart (junior)</strong></p>\n<p>&nbsp;</p>\n<p><strong>Geboren:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> 1726, Haarlem</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vader: Jacobus Barnaart</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moeder: Margaretha van Elten&nbsp;</p>\n<p><strong>Gestorven:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </strong>1780, Haarlem</p>\n<p><strong>Begraven:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</strong> (nog) niet bekend</p>\n<p><strong>Getrouwd:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Nee</p>\n<p><strong>Religie: </strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Doopsgezind</p>\n<p><strong>Professie: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Handelaar in manufacturen</p>\n<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Een van de vijf eerste directeuren van het Teylinger genootschap en museum</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><strong>Motief</strong></p>\n<p>Niet bekend</p>\n<p><strong>Public Roles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p>\n<p>Geen (voor zover bekend)</p>\n<p><strong>Education</strong></p>\n<p>Latijnse school</p>\n<p>Universiteit (niet duidelijk waarin, misschien sterrenkunde?)</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Profession</strong></p>\n<p>Net als zijn vader, die fabrikant en handelaar was in zijden stoffen, ging Jacobus handelen in stoffen. In zijn geval betrof het geweven stoffen, manufacturaat genoemd. In 1756 werd hij door Pieter Teyler van der Hulst, een goede vriend, aangewezen als één der vijf directeuren van het Teylinger genootschap dat zich bezig zou gaan houden met natuurkunde, dichtkunde, historiekunde, tekenkunde en penningkunde.&lt;sup&gt;1&lt;/sup&gt; Mede door aandringen van Jacobus Barnaart kwam er een ‘boek- en liefhebberyzaal’; het begin van het huidige Teylermuseum.</p>\n<p>&nbsp;</p>\n<p><strong>Biografische gegevens</strong></p>\n<p>Jacobus Barnaart behoorde tot de rijkst tak van een doopsgezinde, Haarlemse familie. Zowel zijn vader als hijzelf waren geïnteresseerd in de natuurwetenschappen. Beide waren actief in het ‘Genoodschap der Liefhebbers in de Natuuren Sterrenkunde’.&lt;sup&gt;2&lt;/sup&gt; Hier deden ze meteorologische en sterrenkundige waarnemingen en fysische experimenten, en wisselden informatie uit met amateurs en geleerden in binnen- en buitenland. Jacobus onderhield jarenland briefcontact met een sterrenkundige kenner die in 1751 naar Leiden was verhuisd, Dirk Klinkenberg. Volgens Martinus van Marum, een bekend lid van het Teylinger genootschap, was Jacobus de kundigste van het Physisch gezelschap.&lt;sup&gt;3&lt;/sup&gt; Jacobus bleef zijn hele leven ongehuwd.</p>\n<p><strong>Van de hand van ...</strong></p>\n<p>Geen andere werken van hem gevonden.</p>\n<p><strong>Linkadressen &nbsp;</strong></p>\n<p><strong>Artikel over Teyler in Tijdschrift voor tijdschriftstudies (over Barnaart vanaf pagina 19).</strong></p>\n<p><a href="https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Familieverbanden van Jacobus Barnaart Jr.</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Uittreksel van het testament van Jacous Barnaart Jr.</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Wikipedia</strong></p>\n<p><a href="https://en.wikipedia.org/wiki/Jacobus_Barnaart" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacobus_Barnaart</a></p>\n<p>&nbsp;</p>\n<p><strong>DBNL</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/index.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/index.php</a></p>\n<p>&nbsp;</p>\n<p><a href="#_ftnref1" rel="noopener noreferrer nofollow">[1]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 19.</p>\n<p><a href="#_ftnref2" rel="noopener noreferrer nofollow">[2]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 20.</p>\n<p><a href="#_ftnref3" rel="noopener noreferrer nofollow">[3]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 19.</p>\n</div>', '<div data-schema-version="8"><p>EK brongebruik. passsage over grieks vuur letterlijk overgeschreven uit de Europische mercurius: <a href="https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&amp;gbpv=1&amp;dq=callinicus+vuur&amp;pg=PA132&amp;printsec=frontcover" rel="noopener noreferrer nofollow">https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&amp;gbpv=1&amp;dq=callinicus+vuur&amp;pg=PA132&amp;printsec=frontcover</a></p>\n<p>1744</p>\n</div>'] 
 
-['<div data-schema-version="8"><p>De Kroniek</p>\n<p>&nbsp;</p>\n<p>Een getranscribeerde versie is te vinden op DBNL als onderdeel van de doctoraalscriptie \'Jacobus Barnaart, een kind van de Verlichting?\' van Cécile van Boven- van Aerssen.</p>\n<p><img alt="" data-attachment-key="XMKBAG3I" width="606" height="329"></p>\n<p>Als bijschrift bij de transcriptie schrijft zij:</p>\n<p><span style="color: #000000"><span style="background-color: #f3f4f5">Het&nbsp;</span></span><em><span style="color: #000000"><span style="background-color: #f3f4f5">Dagverhaal</span></span></em><span style="color: #000000"><span style="background-color: #f3f4f5">&nbsp;van Jacobus Barnaart wordt bewaard in het Gemeentearchief van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder archiefnummer 44-001564 M.<br>De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de bladindeling. Woorden tussen \\ / zijn tussenvoegsels van Jacobus.</span></span></p>\n<p>&nbsp;</p>\n</div>', '<div data-schema-version="8"><p>Met dank aan Tinka de Haan</p>\n<p><u>Auteursinformatie<br></u></p>\n<p><strong>Jacobus Barnaart (junior)</strong></p>\n<p>&nbsp;</p>\n<p><strong>Geboren:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> 1726, Haarlem</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vader: Jacobus Barnaart</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moeder: Margaretha van Elten&nbsp;</p>\n<p><strong>Gestorven:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </strong>1780, Haarlem</p>\n<p><strong>Begraven:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</strong> (nog) niet bekend</p>\n<p><strong>Getrouwd:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Nee</p>\n<p><strong>Religie: </strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Doopsgezind</p>\n<p><strong>Professie: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Handelaar in manufacturen</p>\n<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Een van de vijf eerste directeuren van het Teylinger genootschap en museum</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><strong>Motief</strong></p>\n<p>Niet bekend</p>\n<p><strong>Public Roles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p>\n<p>Geen (voor zover bekend)</p>\n<p><strong>Education</strong></p>\n<p>Latijnse school</p>\n<p>Universiteit (niet duidelijk waarin, misschien sterrenkunde?)</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Profession</strong></p>\n<p>Net als zijn vader, die fabrikant en handelaar was in zijden stoffen, ging Jacobus handelen in stoffen. In zijn geval betrof het geweven stoffen, manufacturaat genoemd. In 1756 werd hij door Pieter Teyler van der Hulst, een goede vriend, aangewezen als één der vijf directeuren van het Teylinger genootschap dat zich bezig zou gaan houden met natuurkunde, dichtkunde, historiekunde, tekenkunde en penningkunde.&lt;sup&gt;1&lt;/sup&gt; Mede door aandringen van Jacobus Barnaart kwam er een ‘boek- en liefhebberyzaal’; het begin van het huidige Teylermuseum.</p>\n<p>&nbsp;</p>\n<p><strong>Biografische gegevens</strong></p>\n<p>Jacobus Barnaart behoorde tot de rijkst tak van een doopsgezinde, Haarlemse familie. Zowel zijn vader als hijzelf waren geïnteresseerd in de natuurwetenschappen. Beide waren actief in het ‘Genoodschap der Liefhebbers in de Natuuren Sterrenkunde’.&lt;sup&gt;2&lt;/sup&gt; Hier deden ze meteorologische en sterrenkundige waarnemingen en fysische experimenten, en wisselden informatie uit met amateurs en geleerden in binnen- en buitenland. Jacobus onderhield jarenland briefcontact met een sterrenkundige kenner die in 1751 naar Leiden was verhuisd, Dirk Klinkenberg. Volgens Martinus van Marum, een bekend lid van het Teylinger genootschap, was Jacobus de kundigste van het Physisch gezelschap.&lt;sup&gt;3&lt;/sup&gt; Jacobus bleef zijn hele leven ongehuwd.</p>\n<p><strong>Van de hand van ...</strong></p>\n<p>Geen andere werken van hem gevonden.</p>\n<p><strong>Linkadressen &nbsp;</strong></p>\n<p><strong>Artikel over Teyler in Tijdschrift voor tijdschriftstudies (over Barnaart vanaf pagina 19).</strong></p>\n<p><a href="https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Familieverbanden van Jacobus Barnaart Jr.</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Uittreksel van het testament van Jacous Barnaart Jr.</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php</a></p>\n<p>&nbsp;</p>\n<p><strong>Wikipedia</strong></p>\n<p><a href="https://en.wikipedia.org/wiki/Jacobus_Barnaart" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacobus_Barnaart</a></p>\n<p>&nbsp;</p>\n<p><strong>DBNL</strong></p>\n<p><a href="https://www.dbnl.org/tekst/barn025dagv01_01/index.php" rel="noopener noreferrer nofollow">https://www.dbnl.org/tekst/barn025dagv01_01/index.php</a></p>\n<p>&nbsp;</p>\n<p><a href="#_ftnref1" rel="noopener noreferrer nofollow">[1]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 19.</p>\n<p><a href="#_ftnref2" rel="noopener noreferrer nofollow">[2]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 20.</p>\n<p><a href="#_ftnref3" rel="noopener noreferrer nofollow">[3]</a> René Bosch, ‘Met wie las Pieter Teyler van der Hulst de <em>Vaderlandsche Letteroefeningen?’</em> in: <em>Ts. Tijdschrift voor tijdschriftstudies </em>(1999) 19.</p>\n</div>', '<div data-schema-version="8"><p>EK brongebruik. passsage over grieks vuur letterlijk overgeschreven uit de Europische mercurius: <a href="https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&amp;gbpv=1&amp;dq=callinicus+vuur&amp;pg=PA132&amp;printsec=frontcover" rel="noopener noreferrer nofollow">https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&amp;gbpv=1&amp;dq=callinicus+vuur&amp;pg=PA132&amp;printsec=frontcover</a></p>\n<p>1744</p>\n</div>'] 
+
+Een getranscribeerde versie is te vinden op DBNL als onderdeel van de
+doctoraalscriptie 'Jacobus Barnaart, een kind van de Verlichting?' van Cécile
+van Boven- van Aerssen.
+
+Als bijschrift bij de transcriptie schrijft zij:
+
+Het  _Dagverhaal_  van Jacobus Barnaart wordt bewaard in het Gemeentearchief
+van Haarlem, tegenwoordig het archief Kennemerland en is te vinden onder
+archiefnummer 44-001564 M.  
+De tekst is getrouw weergegeven, evenals de lengte van de zinnen en de
+bladindeling. Woorden tussen \ / zijn tussenvoegsels van Jacobus.
+
+
+
+
+
+Met dank aan Tinka de Haan
+
+_Auteursinformatie  
+_
+
+**Jacobus Barnaart (junior)**
+
+
+
+**Geboren:           ** 1726, Haarlem
+
+                            Vader: Jacobus Barnaart
+
+                            Moeder: Margaretha van Elten 
+
+**Gestorven:         **1780, Haarlem
+
+**Begraven:          ** (nog) niet bekend
+
+**Getrouwd:          **Nee
+
+**Religie:**               Doopsgezind
+
+**Professie:          **Handelaar in manufacturen
+
+                            Een van de vijf eerste directeuren van het Teylinger genootschap en museum
+
+                                   
+
+**Motief**
+
+Niet bekend
+
+**Public Roles          **
+
+Geen (voor zover bekend)
+
+**Education**
+
+Latijnse school
+
+Universiteit (niet duidelijk waarin, misschien sterrenkunde?)
+
+** **
+
+**Profession**
+
+Net als zijn vader, die fabrikant en handelaar was in zijden stoffen, ging
+Jacobus handelen in stoffen. In zijn geval betrof het geweven stoffen,
+manufacturaat genoemd. In 1756 werd hij door Pieter Teyler van der Hulst, een
+goede vriend, aangewezen als één der vijf directeuren van het Teylinger
+genootschap dat zich bezig zou gaan houden met natuurkunde, dichtkunde,
+historiekunde, tekenkunde en penningkunde.<sup>1</sup> Mede door aandringen
+van Jacobus Barnaart kwam er een ‘boek- en liefhebberyzaal’; het begin van het
+huidige Teylermuseum.
+
+
+
+**Biografische gegevens**
+
+Jacobus Barnaart behoorde tot de rijkst tak van een doopsgezinde, Haarlemse
+familie. Zowel zijn vader als hijzelf waren geïnteresseerd in de
+natuurwetenschappen. Beide waren actief in het ‘Genoodschap der Liefhebbers in
+de Natuuren Sterrenkunde’.<sup>2</sup> Hier deden ze meteorologische en
+sterrenkundige waarnemingen en fysische experimenten, en wisselden informatie
+uit met amateurs en geleerden in binnen- en buitenland. Jacobus onderhield
+jarenland briefcontact met een sterrenkundige kenner die in 1751 naar Leiden
+was verhuisd, Dirk Klinkenberg. Volgens Martinus van Marum, een bekend lid van
+het Teylinger genootschap, was Jacobus de kundigste van het Physisch
+gezelschap.<sup>3</sup> Jacobus bleef zijn hele leven ongehuwd.
+
+**Van de hand van ...**
+
+Geen andere werken van hem gevonden.
+
+**Linkadressen  **
+
+**Artikel over Teyler in Tijdschrift voor tijdschriftstudies (over Barnaart
+vanaf pagina 19).**
+
+<https://www.dbnl.org/tekst/_tst001199901_01/_tst001199901_01_0013.php>
+
+
+
+**Familieverbanden van Jacobus Barnaart Jr.**
+
+<https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0010.php>
+
+
+
+**Uittreksel van het testament van Jacous Barnaart Jr.**
+
+<https://www.dbnl.org/tekst/barn025dagv01_01/barn025dagv01_01_0016.php>
+
+
+
+**Wikipedia**
+
+<https://en.wikipedia.org/wiki/Jacobus_Barnaart>
+
+
+
+**DBNL**
+
+<https://www.dbnl.org/tekst/barn025dagv01_01/index.php>
+
+
+
+[1] René Bosch, ‘Met wie las Pieter Teyler van der Hulst de _Vaderlandsche
+Letteroefeningen?’_ in: _Ts. Tijdschrift voor tijdschriftstudies_ (1999) 19.
+
+[2] René Bosch, ‘Met wie las Pieter Teyler van der Hulst de _Vaderlandsche
+Letteroefeningen?’_ in: _Ts. Tijdschrift voor tijdschriftstudies_ (1999) 20.
+
+[3] René Bosch, ‘Met wie las Pieter Teyler van der Hulst de _Vaderlandsche
+Letteroefeningen?’_ in: _Ts. Tijdschrift voor tijdschriftstudies_ (1999) 19.
+
+
+
+EK brongebruik. passsage over grieks vuur letterlijk overgeschreven uit de
+Europische mercurius:
+[https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&gbpv=1&dq=callinicus+vuur&pg=PA132&printsec=frontcover](https://www.google.nl/books/edition/Nederlandsch_gedenkboek_of_Europische_Me/grBpLl7rCLQC?hl=nl&gbpv=1&dq=callinicus+vuur&pg=PA132&printsec=frontcover)
+
+1744
+
+
 
 ## Literatuur 
 

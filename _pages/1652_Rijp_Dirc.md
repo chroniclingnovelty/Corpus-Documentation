@@ -32,7 +32,26 @@ Dircksen, Meijnert. “Dagboekjes van Dagelijkse Voorvallen En Ambtelijke Zaken,
 
 ## Notes 
 
-['<div data-schema-version="8"><p>MVW</p>\n<p>Auteursgegevens uit Ruud Lindeman, Yvonne Scherf en Rudolf Dekker, <em>Egodocumenten van Noord-Nederlanders uit de zestiende tot begin negentiende eeuw. Een chronologische lijst</em> (Rotterdam 1993): </p>\n<p><span style="color: rgb(0, 0, 0)"><span style="background-color: rgb(248, 247, 235)">‘1.1. Meijnert Dircksen.<br>1.3. In 1636 schepen en in 1651 gaarder in De Rijp.<br>2.1. RA Noord-Holland, coll. losse aanwinsten 1549.<br>2.2. 2 dln.; (a) 33 x 11; 104 p.; (b) 32,5 x 11; 35 p.<br>2.3. (a) (Omslag) Notitie ofte memorijen beginnende in den jare 1636; (b) Memorien 1651. Alsoo Jan Jansen Happius den 25 merte 1651 t\' mijnen huise gecomen is...<br>3.1. Dagboek.<br>4.1. (a) 30 april 1636 - 24 mei 1641; (b) 25 maart 1651 - maart 1652.<br>4.2. Aantekeningen van dagelijkse voorvallen, vooral met betrekking tot de ambten die hij uitoefent, waaronder problemen over de afdracht van gelden aan de schepenen.’</span></span></p>\n</div>'] 
+MVW
+
+Auteursgegevens uit Ruud Lindeman, Yvonne Scherf en Rudolf Dekker,
+_Egodocumenten van Noord-Nederlanders uit de zestiende tot begin negentiende
+eeuw. Een chronologische lijst_ (Rotterdam 1993):
+
+‘1.1. Meijnert Dircksen.  
+1.3. In 1636 schepen en in 1651 gaarder in De Rijp.  
+2.1. RA Noord-Holland, coll. losse aanwinsten 1549.  
+2.2. 2 dln.; (a) 33 x 11; 104 p.; (b) 32,5 x 11; 35 p.  
+2.3. (a) (Omslag) Notitie ofte memorijen beginnende in den jare 1636; (b)
+Memorien 1651. Alsoo Jan Jansen Happius den 25 merte 1651 t' mijnen huise
+gecomen is...  
+3.1. Dagboek.  
+4.1. (a) 30 april 1636 - 24 mei 1641; (b) 25 maart 1651 - maart 1652.  
+4.2. Aantekeningen van dagelijkse voorvallen, vooral met betrekking tot de
+ambten die hij uitoefent, waaronder problemen over de afdracht van gelden aan
+de schepenen.’
+
+
 
 ## Literatuur 
 

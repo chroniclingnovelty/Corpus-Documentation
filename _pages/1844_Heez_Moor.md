@@ -36,7 +36,26 @@ Moorsel, Hendrik Godefridus van. Kronijk, of Aantekening der merkwaardige voorva
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Auteur is geboren in 1793 in Duinkerken, zoon van een patriot (meester Hendrik van Moorsel en Johanna Maria Vonken). Nooit getrouwd. Opgenomen in de Garde honeur van Napoleon in zijn jeugd en kapitein van de schutterij. Overleden 4 juni 1851.</p>\n<p>HIj was secretaris van Heeze, Leende en Someren. Op een aantal plaatsen is de kroniek aangevuld door de Deken Bartholomeus Kemps. (1836-1916)</p>\n<p>Kroniek dateert uit de jaren 1842-44. Is waarschijnlijk gestopt omdat het boek vol was.</p>\n<p>Handschrift berust in het parochie-archief sint Martinus te Heeze. Een paar pagina\'s missen.</p>\n<p>De auteur tekende ook gebouwen en gewassen.</p>\n<p>De transcriptie geeft het handschrift getrouw weer; spelling onveranderd. Met voetnoten.</p>\n</div>'] 
+Auteur is geboren in 1793 in Duinkerken, zoon van een patriot (meester Hendrik
+van Moorsel en Johanna Maria Vonken). Nooit getrouwd. Opgenomen in de Garde
+honeur van Napoleon in zijn jeugd en kapitein van de schutterij. Overleden 4
+juni 1851.
+
+HIj was secretaris van Heeze, Leende en Someren. Op een aantal plaatsen is de
+kroniek aangevuld door de Deken Bartholomeus Kemps. (1836-1916)
+
+Kroniek dateert uit de jaren 1842-44. Is waarschijnlijk gestopt omdat het boek
+vol was.
+
+Handschrift berust in het parochie-archief sint Martinus te Heeze. Een paar
+pagina's missen.
+
+De auteur tekende ook gebouwen en gewassen.
+
+De transcriptie geeft het handschrift getrouw weer; spelling onveranderd. Met
+voetnoten.
+
+
 
 ## Literatuur 
 

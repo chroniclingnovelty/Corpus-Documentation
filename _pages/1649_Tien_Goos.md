@@ -33,7 +33,33 @@ Goossens, Eemont. Diverse Notabele Dingen (ca. 1649) Door Eemont Goossens, Rentm
 
 ## Notes 
 
-['<div data-schema-version="8"><p>EK</p>\n<p>Auteur Eemont Goossens geboren ca. 1569, overleden 1650. Loopt over periode 1536-1649. Onderstaande info op basis van inleiding bezorger.</p>\n<p>Uitgave van een handschrift uit 1649 van Eemont Goossens, rentmeester van Tienen. Bevat allerlei vermeldenswaardige feiten uit de geschiedenis van de stad..</p>\n<p>Werd al eerder uitgegeven door Fr. de Ridder in de Hagelandse gedenkschriften.</p>\n<p>Eemont Goosens was van aanzienlijke afkomst. geb. omstreeks 1569. Was ondermeer schepen, burgemeester en rentmeester.</p>\n<p>De tekst werd met tussenpauzen opgetekend. NIet te zeggen wanneer. Wat wel opvalt is dat de tekst heen en weer springt in de tijd en min of meer thematisch geordend is. Dit doet vermoeden dat de auteur het inderdaad in de jaren veertig heeft geschreven toen hij tegen de tachtig liep.</p>\n<p>Hij beschrijft eigen herinneringen, herinneringen van zijn grootvader, maar dateert ook de bouw van kerken in de middeleeuwen.</p>\n<p>De tekst is heel droog / emotieloos geschreven. Sobere feiten. Alleen bij enkele oorlogstaferelen zoals de plundering in 1635 zegt hij wel hoe verschrikkelijk het was. Het is allemaal uiterst beknopt.</p>\n<p></p>\n</div>'] 
+EK
+
+Auteur Eemont Goossens geboren ca. 1569, overleden 1650. Loopt over periode
+1536-1649. Onderstaande info op basis van inleiding bezorger.
+
+Uitgave van een handschrift uit 1649 van Eemont Goossens, rentmeester van
+Tienen. Bevat allerlei vermeldenswaardige feiten uit de geschiedenis van de
+stad..
+
+Werd al eerder uitgegeven door Fr. de Ridder in de Hagelandse gedenkschriften.
+
+Eemont Goosens was van aanzienlijke afkomst. geb. omstreeks 1569. Was
+ondermeer schepen, burgemeester en rentmeester.
+
+De tekst werd met tussenpauzen opgetekend. NIet te zeggen wanneer. Wat wel
+opvalt is dat de tekst heen en weer springt in de tijd en min of meer
+thematisch geordend is. Dit doet vermoeden dat de auteur het inderdaad in de
+jaren veertig heeft geschreven toen hij tegen de tachtig liep.
+
+Hij beschrijft eigen herinneringen, herinneringen van zijn grootvader, maar
+dateert ook de bouw van kerken in de middeleeuwen.
+
+De tekst is heel droog / emotieloos geschreven. Sobere feiten. Alleen bij
+enkele oorlogstaferelen zoals de plundering in 1635 zegt hij wel hoe
+verschrikkelijk het was. Het is allemaal uiterst beknopt.
+
+
 
 ## Literatuur 
 

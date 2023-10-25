@@ -31,7 +31,26 @@ Anoniem. ‘Een cort begrijp van de fondatie ende oprichtinghe des Cloosters van
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 2023</p>\n<p>Deze kloosterkroniek lijkt vanaf de late zestiende eeuw doorlopend te zijn bijgehouden. Begint met verhaal over de lotgevallen van de zusters tijdens de Opstand, als ze moeten vluchten en verspreid raken, en de heropbouw van hun convent na 1584.</p>\n<p>Over individ. auteurs is niet veel zinnigs te zeggen, al zijn er wel hier en daar veranderingen in wat en hoe er genoteerd wordt (bijv. iemand die bijhoudt welke gebeden er worden gezegd, gebruik arabische cijfers, en aandacht voor de jubilés van de zusters, die gevierd worden met een hoop lekkere dingen en extra weken recreatie, waar ze vol van genieten).</p>\n<p>Gaat vooral om professies, jubilea, sterfgevallen, electie nieuwe maters, verbouwingen etc in het klooster, af en toe financien, maar er worden ook belangrijke gebeurtenissen van buiten gemeld, bijv bombardement Brussel, en de aardbeving van Lissabon, plus dingen die Mechelen als geheel raken, zoals overstromingen en aardbevingen.</p>\n</div>'] 
+JP 2023
+
+Deze kloosterkroniek lijkt vanaf de late zestiende eeuw doorlopend te zijn
+bijgehouden. Begint met verhaal over de lotgevallen van de zusters tijdens de
+Opstand, als ze moeten vluchten en verspreid raken, en de heropbouw van hun
+convent na 1584.
+
+Over individ. auteurs is niet veel zinnigs te zeggen, al zijn er wel hier en
+daar veranderingen in wat en hoe er genoteerd wordt (bijv. iemand die bijhoudt
+welke gebeden er worden gezegd, gebruik arabische cijfers, en aandacht voor de
+jubilés van de zusters, die gevierd worden met een hoop lekkere dingen en
+extra weken recreatie, waar ze vol van genieten).
+
+Gaat vooral om professies, jubilea, sterfgevallen, electie nieuwe maters,
+verbouwingen etc in het klooster, af en toe financien, maar er worden ook
+belangrijke gebeurtenissen van buiten gemeld, bijv bombardement Brussel, en de
+aardbeving van Lissabon, plus dingen die Mechelen als geheel raken, zoals
+overstromingen en aardbevingen.
+
+
 
 ## Literatuur 
 

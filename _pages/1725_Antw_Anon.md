@@ -28,7 +28,13 @@ Anoniem. “Kronijk van Het Jaar 1725.” 1. Antwerpen, 1725. PK 124. Stadsarchi
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 4juli Deze kroniek gaat helemaal over een controversiele zaak tegen een groep Antwerpers die in 1725 werden beschuldigd van betrokkenheid bij valsemunterij. Ze werden uiteindelijk vrijgesproken, en keren terug in de stad. Onduidelijk of en hoe de auteur betrokken is en/of dit voor publicatie was bedoeld.</p>\n</div>'] 
+JP 4juli Deze kroniek gaat helemaal over een controversiele zaak tegen een
+groep Antwerpers die in 1725 werden beschuldigd van betrokkenheid bij
+valsemunterij. Ze werden uiteindelijk vrijgesproken, en keren terug in de
+stad. Onduidelijk of en hoe de auteur betrokken is en/of dit voor publicatie
+was bedoeld.
+
+
 
 ## Literatuur 
 

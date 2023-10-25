@@ -30,7 +30,13 @@ Anoniem. ‘Dagverhaal van de gebeurtenissen te Franeker’. 1. Franeker, 1787. 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 28 juli 2023</p>\n<p>Over deze auteur valt weinig te zeggen, behalve dat hij anti-patriots was, en boos dat de patriotse acties hadden geleid tot het verlies van de lokale privileges</p>\n</div>'] 
+JP 28 juli 2023
+
+Over deze auteur valt weinig te zeggen, behalve dat hij anti-patriots was, en
+boos dat de patriotse acties hadden geleid tot het verlies van de lokale
+privileges
+
+
 
 ## Literatuur 
 

@@ -36,7 +36,12 @@ Vree, Johannes Josephus van. “Kroniek Uit de Lingestreek (1800-1820) Uitgegeve
 
 ## Notes 
 
-['<div data-schema-version="8"><p>De zoon van de auteur is na het herstel van de bisschoppelijke hiërarchie in Nederland de eerste Bisschop van Haarlem geworden.</p>\n<p>Juli 2023 CL</p>\n</div>'] 
+De zoon van de auteur is na het herstel van de bisschoppelijke hiërarchie in
+Nederland de eerste Bisschop van Haarlem geworden.
+
+Juli 2023 CL
+
+
 
 ## Literatuur 
 

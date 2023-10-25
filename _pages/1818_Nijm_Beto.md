@@ -37,7 +37,14 @@ Betouw, Johannes in de. Vervolg der Kronijk van Nijmegen, tot den jare 1818. Edi
 
 ## Notes 
 
-['<div data-schema-version="8"><p>De kroniek is een vervolg op de ‘Chronijk van de Stad der Batavieren’ van Johannes Smetius: in het voorwoord schrijft de auteur dat hij de kroniek van vader en zoon Smetius, dat met aantekeningen herdrukt is tot 1784, aanvult tot het jaar 1818. Hij is &nbsp;zelf een achter- achterkleinzoon van Johannes Smetius.</p>\n<p>Met dank aan Ineke van Gelder</p>\n</div>'] 
+De kroniek is een vervolg op de ‘Chronijk van de Stad der Batavieren’ van
+Johannes Smetius: in het voorwoord schrijft de auteur dat hij de kroniek van
+vader en zoon Smetius, dat met aantekeningen herdrukt is tot 1784, aanvult tot
+het jaar 1818. Hij is  zelf een achter- achterkleinzoon van Johannes Smetius.
+
+Met dank aan Ineke van Gelder
+
+
 
 ## Literatuur 
 

@@ -35,7 +35,25 @@ Lelie, Laurens de. “Cronijkje van Eenige Zaken Die Zedert En in Het Jaar 1774 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Laurens de Lelie is een broer van de schilder Adriaan de Lelie, zie einde kroniek:</p>\n<p>\'Dit afschrift is gemaakt naar het handschrift</p>\n<p>opgesteld door den Heer Laurens de Lelie,</p>\n<p>broeder van den schilder Lelie, en daar</p>\n<p>mede na vergelijking eensluidend bevonden</p>\n<p>L.R. Hermans 18 7/2 43.\'</p>\n<p>Het gaat hier dus ook om een kopie van het originele handschrift. Voorin staat vermeld dat de kroniek is \'afgeschreven door de hr. Veenhorst\'.</p>\n<p>CL juni 2023</p>\n</div>'] 
+Laurens de Lelie is een broer van de schilder Adriaan de Lelie, zie einde
+kroniek:
+
+'Dit afschrift is gemaakt naar het handschrift
+
+opgesteld door den Heer Laurens de Lelie,
+
+broeder van den schilder Lelie, en daar
+
+mede na vergelijking eensluidend bevonden
+
+L.R. Hermans 18 7/2 43.'
+
+Het gaat hier dus ook om een kopie van het originele handschrift. Voorin staat
+vermeld dat de kroniek is 'afgeschreven door de hr. Veenhorst'.
+
+CL juni 2023
+
+
 
 ## Literatuur 
 

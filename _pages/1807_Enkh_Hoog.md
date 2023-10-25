@@ -28,6 +28,7 @@ Hoogland, Luijt. Chronologische Aanteekeningen, Betrekkelijk de Stad Enkhuizen, 
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1732 | 
+| Contemporain begin | Ca 1747 | 
 | Plaats onderwerp | Enkhuizen | 
 
 [<img src="..\..\barplots_chronicles\1807_Enkh_Hoog.jpg" width="750"/>](..\..\barplots_chronicles\1807_Enkh_Hoog.jpg) 

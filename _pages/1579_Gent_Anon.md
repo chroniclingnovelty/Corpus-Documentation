@@ -31,7 +31,15 @@ Anoniem. “Kroniek Der Stad Gent, 1569-1579.” Gent, 1579. Boekentoren, BHSL.H
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Van de auteur weten we niet meer dan dat hij katholiek was, en misschien een geestelijke.</p>\n<p>Het manuscript lijkt contemporain, en is blijkens potloodaantekeningen gebruikt door/vertoont overeenkomsten met ‘D.J.’, wellicht Bernardus De Jonghe\'s Gendsche Geschiedenisse (1747); dit is dus wellicht een tekst die hij gebruikte. Interessante details, geen overheidsdocument.</p>\n</div>'] 
+Van de auteur weten we niet meer dan dat hij katholiek was, en misschien een
+geestelijke.
+
+Het manuscript lijkt contemporain, en is blijkens potloodaantekeningen
+gebruikt door/vertoont overeenkomsten met ‘D.J.’, wellicht Bernardus De
+Jonghe's Gendsche Geschiedenisse (1747); dit is dus wellicht een tekst die hij
+gebruikte. Interessante details, geen overheidsdocument.
+
+
 
 ## Literatuur 
 

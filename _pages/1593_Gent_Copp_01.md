@@ -35,7 +35,33 @@ Coppens, Gillis. ‘Kroniek van Gent, 1566-1593’. Gent, 1593. Boekentoren, BHS
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Anne Laure van Bruaene van de Universiteit Gent identificeerde de auteur van deze kroniek aan de hand van de volgende passage: &nbsp;</p>\n<p>“…die hier ghescreven es al met der hant van Gillis Coppens filius Bernaerts, gheboren inde prochie van Mere bij Aelst in zijnen leven vrij sceppere te Ghendt ende daer naer lakensnider woenende int herts hooft inde curte Rijcstrate bijden putte beginnende van sincxene XVc zes ende vijftich [<em>sic, in feite 1566</em>] continewerende voort.”</p>\n<p>Vol. 2, aparte katern tussen fol. 430 en 431</p>\n<p>‘Verder is daar aan toe te voegen dat hij vingtenier (i.e. hoofd van een divisie van de burgerwacht) was tijdens het Wonderjaar en dat hij te categoriseren is als een gematigde supporter van het calvinistische regime.</p>\n<p>Zie ook:</p>\n<p>Van Bruaene, Anne-Laure. “The Adieu and Willecomme for Jan van Hembyze, or: The Battle between Script and Print in Calvinist Ghent.”&nbsp;<em>Archiv fur Reformationsgeschichte</em>&nbsp;105 (2014): 206–229.</p>\n<p>Vermeersch, Louise.&nbsp;<em>Multimedia in de stad: interacties tussen het geschreven, gedrukte en gesproken woord in de Gentse publieke sfeer (1550-1585).&nbsp;</em>Proefschrift voorgelegd tot het behalen van de graad van Doctor in de Geschiedenis, Universiteit Gent, 2019.’</p>\n<p></p>\n<p></p>\n</div>'] 
+Anne Laure van Bruaene van de Universiteit Gent identificeerde de auteur van
+deze kroniek aan de hand van de volgende passage:  
+
+“…die hier ghescreven es al met der hant van Gillis Coppens filius Bernaerts,
+gheboren inde prochie van Mere bij Aelst in zijnen leven vrij sceppere te
+Ghendt ende daer naer lakensnider woenende int herts hooft inde curte
+Rijcstrate bijden putte beginnende van sincxene XVc zes ende vijftich [ _sic,
+in feite 1566_ ] continewerende voort.”
+
+Vol. 2, aparte katern tussen fol. 430 en 431
+
+‘Verder is daar aan toe te voegen dat hij vingtenier (i.e. hoofd van een
+divisie van de burgerwacht) was tijdens het Wonderjaar en dat hij te
+categoriseren is als een gematigde supporter van het calvinistische regime.
+
+Zie ook:
+
+Van Bruaene, Anne-Laure. “The Adieu and Willecomme for Jan van Hembyze, or:
+The Battle between Script and Print in Calvinist Ghent.”  _Archiv fur
+Reformationsgeschichte_  105 (2014): 206–229.
+
+Vermeersch, Louise.  _Multimedia in de stad: interacties tussen het
+geschreven, gedrukte en gesproken woord in de Gentse publieke sfeer
+(1550-1585).  _Proefschrift voorgelegd tot het behalen van de graad van Doctor
+in de Geschiedenis, Universiteit Gent, 2019.’
+
+
 
 ## Literatuur 
 

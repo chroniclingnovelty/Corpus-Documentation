@@ -30,7 +30,22 @@ Anoniem. “De Vermaerde Ende Wonderlycke Geschiedenissen Der Prinselycke Stadt 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>JP 15 8 2023</p>\n<p>Het eerste deel van deze tekst gaat grotendeels over de kwestie Anneessens, <span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">een&nbsp;</span></span><span style="color: rgb(6, 69, 173)"><a href="https://nl.wikipedia.org/wiki/Deken_(gilde)" title="Deken (gilde)" rel="noopener noreferrer nofollow">gildedeken</a></span><span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">&nbsp;in Brussel die op de&nbsp;</span></span><span style="color: rgb(6, 69, 173)"><a href="https://nl.wikipedia.org/wiki/Grote_Markt_(Brussel)" title="Grote Markt (Brussel)" rel="noopener noreferrer nofollow">Grote Markt</a></span><span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">&nbsp;werd&nbsp;</span></span><span style="color: rgb(6, 69, 173)"><a href="https://nl.wikipedia.org/wiki/Onthoofding" title="Onthoofding" rel="noopener noreferrer nofollow">onthoofd</a></span><span style="color: rgb(32, 33, 34)"><span style="background-color: rgb(255, 255, 255)">&nbsp;wegens zijn betrokkenheid bij een opstand tegen de plannen van het Oostenrijks-Habsburgse bewind in Brussel om de macht van de ambatchten te breken. V</span></span>erder zeer veel belangstelling voor optochten en processies met name rond St Gudula. Op het eind een zeer juridische tekst - wellicht overgeschreven. De auteur is katholiek maar verder onduidelijk wie hij is. Veel over ‘onse borgers’ &nbsp;- contrast met het ‘canalie’. Misschien zelf schutter?</p>\n</div>'] 
+JP 15 8 2023
+
+Het eerste deel van deze tekst gaat grotendeels over de kwestie Anneessens,
+een [gildedeken](https://nl.wikipedia.org/wiki/Deken_\(gilde\) "Deken
+\(gilde\)") in Brussel die op de [Grote
+Markt](https://nl.wikipedia.org/wiki/Grote_Markt_\(Brussel\) "Grote Markt
+\(Brussel\)") werd [onthoofd](https://nl.wikipedia.org/wiki/Onthoofding
+"Onthoofding") wegens zijn betrokkenheid bij een opstand tegen de plannen van
+het Oostenrijks-Habsburgse bewind in Brussel om de macht van de ambatchten te
+breken. Verder zeer veel belangstelling voor optochten en processies met name
+rond St Gudula. Op het eind een zeer juridische tekst - wellicht
+overgeschreven. De auteur is katholiek maar verder onduidelijk wie hij is.
+Veel over ‘onse borgers’  \- contrast met het ‘canalie’. Misschien zelf
+schutter?
+
+
 
 ## Literatuur 
 

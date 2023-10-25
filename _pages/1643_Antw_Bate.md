@@ -26,6 +26,7 @@ Anoniem. “Oudheden 1510-1643.” 3. Antwerpen, 1643. Pk. 113. Stadsarchief Ant
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1510 | 
+| Contemporain begin | 1608 | 
 | Plaats onderwerp | Antwerpen | 
 
 [<img src="..\..\barplots_chronicles\1643_Antw_Bate.jpg" width="750"/>](..\..\barplots_chronicles\1643_Antw_Bate.jpg) 

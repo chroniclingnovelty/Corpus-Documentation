@@ -26,6 +26,7 @@ Rybens, Joannes Baptista, Thomas De Roo Sr., and Thomas De Roo Jr. Beschryving D
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1770 | 
+| Contemporain begin | c. 1840 | 
 | Plaats onderwerp | Nieuwpoort | 
 
 [<img src="..\..\barplots_chronicles\1876_Nieu_Rybe.jpg" width="750"/>](..\..\barplots_chronicles\1876_Nieu_Rybe.jpg) 

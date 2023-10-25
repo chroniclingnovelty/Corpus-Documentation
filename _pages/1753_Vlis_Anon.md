@@ -32,7 +32,19 @@ Anoniem. ‘Beschrivinge van Vlissinge - uijt verscheide Schrivers bij een - ver
 
 ## Notes 
 
-['<div data-schema-version="8"><p></p>\n<p>JP 25/7/23</p>\n<p>Het handschrift van deze kroniek is in privébezit. </p>\n<p>Onduidelijk wie de auteur is, vanaf ca. 1700 min of meer contemporain, Orangist, gereformeerd. Overgrootvader Pieter van Laren zat op de Latijnse school, die was waarschijnlijk toch wel familie van Joos van Laren, predikant van Vlissingen 1608-1618, die in Antwer[em was geboren. 3 x getrouwd. Veel Van Larens in het DTB van Vlissingen.</p>\n<p><a href="https://resources.huygens.knaw.nl/retroboeken/blnp/#source=5&amp;page=333&amp;view=imagePane" rel="noopener noreferrer nofollow">https://resources.huygens.knaw.nl/retroboeken/blnp/#source=5&amp;page=333&amp;view=imagePane</a></p>\n<p></p>\n<p></p>\n<p></p>\n</div>'] 
+JP 25/7/23
+
+Het handschrift van deze kroniek is in privébezit.
+
+Onduidelijk wie de auteur is, vanaf ca. 1700 min of meer contemporain,
+Orangist, gereformeerd. Overgrootvader Pieter van Laren zat op de Latijnse
+school, die was waarschijnlijk toch wel familie van Joos van Laren, predikant
+van Vlissingen 1608-1618, die in Antwer[em was geboren. 3 x getrouwd. Veel Van
+Larens in het DTB van Vlissingen.
+
+[https://resources.huygens.knaw.nl/retroboeken/blnp/#source=5&page=333&view=imagePane](https://resources.huygens.knaw.nl/retroboeken/blnp/#source=5&page=333&view=imagePane)
+
+
 
 ## Literatuur 
 

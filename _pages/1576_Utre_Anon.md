@@ -26,14 +26,17 @@ Anoniem. “Utrechtse kroniek over 1566-1576.” Edited by H. Brugmans. Bijdrage
 | | | 
 | --------------- | --------------- | 
 | Beschreven begin | 1566 | 
-| Contemporain begin |   | 
+| Contemporain begin | 1566 | 
 | Plaats onderwerp | Utrecht | 
 
 [<img src="..\..\barplots_chronicles\1576_Utre_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1576_Utre_Anon.jpg) 
 
 ## Notes 
 
-['<div data-schema-version="8"><p>Deze kroniek is retrospectief, maar niet lang na de gebeurtenissen geschreven. De editie is helaas niet volledig.</p>\n<p></p>\n</div>'] 
+Deze kroniek is retrospectief, maar niet lang na de gebeurtenissen geschreven.
+De editie is helaas niet volledig.
+
+
 
 ## Literatuur 
 

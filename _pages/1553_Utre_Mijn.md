@@ -34,7 +34,21 @@ Mijnden, Herberen van. ‘Gedenkschriften van Jhr. Herberen van Mijnden’. Onde
 
 ## Notes 
 
-['<div data-schema-version="8"><p>IG Schrijver Jhr. Herberen van Mijnden denkelijk geboren omstreeks 1500, overleden omstreeks 1552; de tweede zoon van Wouter Van Aemstel van Mijnden en eene jonkvrouw van Merenburch. Edelman, lid van de Utrechtse ridderschap. Liet 2 zonen en twee dochters na.</p>\n<p>Biografisch portaal: <a href="http://www.biografischportaal.nl/personen?search_name=herberen+van+mijnden" rel="noopener noreferrer nofollow">http://www.biografischportaal.nl/personen?search_name=herberen+van+mijnden</a></p>\n<p>&nbsp;</p>\n<p>RL: Is dit fout/iemand anders? </p>\n<p></p>\n<p>JP Nee, het is de goede en deze info mag worden toegevoegd op de webpagina.</p>\n<p></p>\n</div>'] 
+IG Schrijver Jhr. Herberen van Mijnden denkelijk geboren omstreeks 1500,
+overleden omstreeks 1552; de tweede zoon van Wouter Van Aemstel van Mijnden en
+eene jonkvrouw van Merenburch. Edelman, lid van de Utrechtse ridderschap. Liet
+2 zonen en twee dochters na.
+
+Biografisch portaal:
+<http://www.biografischportaal.nl/personen?search_name=herberen+van+mijnden>
+
+
+
+RL: Is dit fout/iemand anders?
+
+JP Nee, het is de goede en deze info mag worden toegevoegd op de webpagina.
+
+
 
 ## Literatuur 
 
