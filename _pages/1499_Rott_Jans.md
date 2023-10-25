@@ -1,8 +1,10 @@
 ---
 layout: default
 title: 1499_Rott_Jans
-permalink: /corpus-documentation/chronicles/1499_Rott_Jans
+permalink: /chronicles/1499_Rott_Jans/
+parent: Chronicles
 --- 
+
 
 # Rotterdamse kroniek: aantekeningen van Rotterdamse stadssecretarissen, 1315-1499 (1570) 
 
