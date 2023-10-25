@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1499_Rott_Jans
-permalink: /chronicles/1499_Rott_Jans/
+permalink: /chronicles/1499_Rott_Jans
 parent: Chronicles
 --- 
 
