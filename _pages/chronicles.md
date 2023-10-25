@@ -9,7 +9,7 @@ exclude_from_top_menu: true
 
 ### Vijftiende en zestiende eeuw
 
-- [1499_Rott_Jans](/chronicles/1499_Rott_Jans)
+- [1499_Rott_Jans](/corpus-documentation/chronicles/1499_Rott_Jans)
 - [1507_Beek_Trec](/chronicles/1507_Beek_Trec)
 - [1509_Zier_Anon](/chronicles/1509_Zier_Anon)
 - [1526_Zwol_Stee](/chronicles/1526_Zwol_Stee)
