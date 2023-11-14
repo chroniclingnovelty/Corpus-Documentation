@@ -50,6 +50,7 @@ exclude_from_top_menu: true
 - [1594_Gron_Alti](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1594_Gron_Alti)
 - [1594_Leuv_Boon](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1594_Leuv_Boon)
 - [1595_Iepe_Hern_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1595_Iepe_Hern_01), [1595_Iepe_Hern_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1595_Iepe_Hern_02), [1595_Iepe_Hern_04](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1595_Iepe_Hern_04), [1595_Iepe_Hern_05](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1595_Iepe_Hern_05), [1595_Iepe_Hern_06](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1595_Iepe_Hern_06), [1595_Iepe_Hern_07](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1595_Iepe_Hern_07)
+
 ### Zeventiende eeuw
 
 - [1602_Brus_Pott](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1602_Brus_Pott)
