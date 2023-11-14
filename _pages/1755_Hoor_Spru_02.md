@@ -16,7 +16,7 @@ Spruijt, Jurriaan. ‘Het tweede deel off vervolg van de historie der stad Hoorn
 | --------------- | --------------- | 
 | Naam | Jurriaan Spruijt | 
 | Geslacht | m | 
- | Geboortedatum | 1701 | 
+| Geboortedatum | 1701 | 
 | Geboorteplaats | Hoorn | 
 | Datum overlijden | 1779 | 
 | Plaats overlijden | Westwoud | 

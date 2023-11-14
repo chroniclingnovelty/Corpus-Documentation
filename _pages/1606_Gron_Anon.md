@@ -16,7 +16,7 @@ Anoniem. Kroniekje van Een Ommelander Boer in de Zestiende Eeuw. Edited by W. Be
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1545 | 
+| Geboortedatum | Voor 1545 | 
 | Geboorteplaats | Fivelingo? | 
 | Datum overlijden | Na 1606 | 
 | Plaats overlijden | Fivelingo | 

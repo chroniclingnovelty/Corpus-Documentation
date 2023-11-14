@@ -16,7 +16,7 @@ Groeneyk, Olivier. Kronijk van Zierikzee, ten vervolge op die van J. de Kanter P
 | --------------- | --------------- | 
 | Naam | Olivier Groeneijk | 
 | Geslacht | m | 
- | Geboortedatum | 1771 | 
+| Geboortedatum | 1771 | 
 | Geboorteplaats | Woerden | 
 | Datum overlijden | 1835 | 
 | Plaats overlijden | Zierikzee | 

@@ -16,7 +16,7 @@ Sluyterman, Lammoraal Albertus Aemilius. “Journaal off Dagregister.” Leeuwar
 | --------------- | --------------- | 
 | Naam | Lammoraal Albertus Aemilius Sluyterman | 
 | Geslacht | m | 
- | Geboortedatum | 1757 | 
+| Geboortedatum | 1757 | 
 | Geboorteplaats | Balk | 
 | Datum overlijden | 1838 | 
 | Plaats overlijden | Workum | 

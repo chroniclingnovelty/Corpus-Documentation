@@ -16,7 +16,7 @@ Storm, Roelof. ‘Dagboeken van Roelof Storm’. Leeuwarden, 1779, 1795-1796 en 
 | --------------- | --------------- | 
 | Naam | Roelof Storm | 
 | Geslacht | m | 
- | Geboortedatum | 1733 | 
+| Geboortedatum | 1733 | 
 | Geboorteplaats | Leeuwarden | 
 | Datum overlijden | 1819 | 
 | Plaats overlijden | Leeuwarden | 

@@ -16,7 +16,7 @@ Anoniem. “Chronijk van Maestricht tot 1719.” 3. Tongeren, 1719. 18.A  Hands
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | u | 
- | Geboortedatum | Na 1719 | 
+| Geboortedatum | Na 1719 | 
 | Religie | Katholiek | 
 
 ## Inhoud van de tekst 

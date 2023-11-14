@@ -16,7 +16,7 @@ Bontius de Waal, Joachim. “Oorspronck en opkomst der stede Alckmaar, beginnend
 | --------------- | --------------- | 
 | Naam | Joachim Bontius | 
 | Geslacht | m | 
- | Geboortedatum | 1702 | 
+| Geboortedatum | 1702 | 
 | Geboorteplaats | Alkmaar | 
 | Datum overlijden | 1759 | 
 | Plaats overlijden | Alkmaar | 

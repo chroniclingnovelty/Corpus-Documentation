@@ -16,7 +16,7 @@ Meer, D.J. van der, and Hielkje Kamminga. “Meer, D.H. Van Der, and Hielkje Kam
 | --------------- | --------------- | 
 | Naam | Dirk Meer | 
 | Geslacht | m | 
- | Geboortedatum | 1772 | 
+| Geboortedatum | 1772 | 
 | Datum overlijden | 1845 | 
 | Religie | hervormd | 
 | Beroep | Geneesheer/chirurgijn | 

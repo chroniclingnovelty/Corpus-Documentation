@@ -16,7 +16,7 @@ Anoniem. “Een Zierikzeese kroniek (693-1473).” Edited by J.G. Smit. Kroniek 
 | --------------- | --------------- | 
 | Naam | onbekend  | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1430 | 
+| Geboortedatum | Voor 1430 | 
 | Geboorteplaats | zierikzee | 
 | Datum overlijden | 1473? | 
 | Plaats overlijden | zierikzee? | 

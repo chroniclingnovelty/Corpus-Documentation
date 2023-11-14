@@ -16,7 +16,7 @@ Beer, Jan Baptist de. ‘Aantekeningen-kahier 2, behorende bij Kroniekje van Til
 | --------------- | --------------- | 
 | Naam | Jan Baptist Beer | 
 | Geslacht | m | 
- | Geboortedatum | 1787 | 
+| Geboortedatum | 1787 | 
 | Datum overlijden | 1856 | 
 | Plaats overlijden | Tilburg | 
 | Religie | katholiek | 

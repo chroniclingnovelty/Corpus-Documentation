@@ -16,7 +16,7 @@ Dekker, Cornelis Kartensz. ‘Aantekeningen in chronologische volgorde, bijgehou
 | --------------- | --------------- | 
 | Naam | Cornelis Dekker | 
 | Geslacht | m | 
- | Geboortedatum | 1741 | 
+| Geboortedatum | 1741 | 
 | Datum overlijden | 1816 | 
 | Religie | mennoniet | 
 | Beroep | Onduidelijk, heeft veel banen voor korte tijd gehad | 

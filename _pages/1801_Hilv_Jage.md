@@ -16,7 +16,7 @@ Jager, Cornelis Hendriksz Dirksz de. Dorpskroniek van Een Hilversumse Oud-Kathol
 | --------------- | --------------- | 
 | Naam | Cornelis Jager | 
 | Geslacht | m | 
- | Geboortedatum | 1735 | 
+| Geboortedatum | 1735 | 
 | Geboorteplaats | hilversum | 
 | Datum overlijden | 1816 | 
 | Plaats overlijden | Hilversum | 

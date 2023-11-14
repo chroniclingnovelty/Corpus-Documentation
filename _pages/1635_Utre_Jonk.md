@@ -16,7 +16,7 @@ Jonkgesel, Cornelis Cornelisz. “Utrechtsch Kronijkjen.” In Archief Voor Kerk
 | --------------- | --------------- | 
 | Naam | Cornelis Jonkgesel | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1590 | 
+| Geboortedatum | Voor 1590 | 
 | Datum overlijden | Na 1625 | 
 | Religie | Gereformeerd (contra-remonstrant) | 
 

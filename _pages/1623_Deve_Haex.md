@@ -16,7 +16,7 @@ Haexbergen, Hendrik. ‘Memoriaal van de stadssecretaris Hendrik van Haexbergen,
 | --------------- | --------------- | 
 | Naam | Hendrik Haexbergen | 
 | Geslacht | m | 
- | Geboortedatum | 1584 | 
+| Geboortedatum | 1584 | 
 | Datum overlijden | 1635 | 
 | Plaats overlijden | Deventer | 
 | Religie | gereformeerd | 

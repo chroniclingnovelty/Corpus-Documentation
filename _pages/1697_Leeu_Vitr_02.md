@@ -16,7 +16,7 @@ Vitringa, Horatius. ‘Annotatien van Eenige aanmerckensweerdige dingen soo in a
 | --------------- | --------------- | 
 | Naam | Horatius Vitringa | 
 | Geslacht | m | 
- | Geboortedatum | 1632 | 
+| Geboortedatum | 1632 | 
 | Geboorteplaats | Leeuwarden | 
 | Datum overlijden | 1699 | 
 | Plaats overlijden | Leeuwarden | 

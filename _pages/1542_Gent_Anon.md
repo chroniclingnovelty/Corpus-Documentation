@@ -16,7 +16,7 @@ Anoniem. “Kroniek van Gent, 1538-1542.” Gent, 1542. Boekentoren, BHSL.HS.234
 | --------------- | --------------- | 
 | Naam | onbekend onbekend | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1520 | 
+| Geboortedatum | Voor 1520 | 
 | Datum overlijden | Na 1542 | 
 | Religie | katholiek | 
 | Beroep | milieu neringen | 

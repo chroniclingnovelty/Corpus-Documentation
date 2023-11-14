@@ -16,7 +16,7 @@ Jong, Lieuwe Jans de. De Dagboeken (1825-1855) van Lieuwe Jans de Jong, Boer Te 
 | --------------- | --------------- | 
 | Naam | Lieuwe Jong | 
 | Geslacht | m | 
- | Geboortedatum | 1798 | 
+| Geboortedatum | 1798 | 
 | Datum overlijden | 1855 | 
 | Religie | doopsgezind | 
 | Beroep | boer | 

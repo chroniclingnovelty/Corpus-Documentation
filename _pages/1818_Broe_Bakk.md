@@ -16,7 +16,7 @@ Bakker, Symon. “Kroniek van Broek in Waterland over de Jaren 1282-1818, Sameng
 | --------------- | --------------- | 
 | Naam | Symon Petrus Bakker | 
 | Geslacht | m | 
- | Geboortedatum | 1783 | 
+| Geboortedatum | 1783 | 
 | Geboorteplaats | Broek in Waterland | 
 | Datum overlijden | 1836 | 
 | Plaats overlijden | Amsterdam | 

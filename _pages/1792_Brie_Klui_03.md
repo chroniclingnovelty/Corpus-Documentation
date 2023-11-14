@@ -16,7 +16,7 @@ Kluit, Jan. “Historische Jaerboeken Der Stad Briel, Deel 2, 1e Stuk, 1757-1762
 | --------------- | --------------- | 
 | Naam | Jan Kluit | 
 | Geslacht | m | 
- | Geboortedatum | 1722 | 
+| Geboortedatum | 1722 | 
 | Geboorteplaats | Brielle | 
 | Datum overlijden | 1811 | 
 | Plaats overlijden | Brielle | 

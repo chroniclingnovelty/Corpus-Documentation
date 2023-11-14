@@ -16,7 +16,7 @@ Rantere, Bartolomeus de. Geschiedenis van Oudenaarde van 1701 tot 1786. Onder re
 | --------------- | --------------- | 
 | Naam | Bartolomeus Rantere | 
 | Geslacht | m | 
- | Geboortedatum | 1775 | 
+| Geboortedatum | 1775 | 
 | Geboorteplaats | Oudenaarde | 
 | Datum overlijden | 1831 | 
 | Plaats overlijden | Oudenaarde | 

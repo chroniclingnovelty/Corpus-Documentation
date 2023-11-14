@@ -16,7 +16,7 @@ Anoniem. “Narratio rerum Silvaducessium.” Den Bosch, 1604. EK-A0046. Stadsar
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1550 | 
+| Geboortedatum | Voor 1550 | 
 | Datum overlijden | Na 1609 | 
 | Religie | katholiek | 
 | Publieke rollen | Mogelijk omgeving stadsbestuur | 

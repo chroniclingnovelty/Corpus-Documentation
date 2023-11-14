@@ -16,7 +16,7 @@ Goossens, Eemont. Diverse Notabele Dingen (ca. 1649) Door Eemont Goossens, Rentm
 | --------------- | --------------- | 
 | Naam | Eemont Goossens | 
 | Geslacht | m | 
- | Geboortedatum | 1569? | 
+| Geboortedatum | 1569? | 
 | Datum overlijden | 1650 | 
 | Religie | katholiek | 
 | Publieke rollen | schepen, burgemeester | 

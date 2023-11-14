@@ -16,7 +16,7 @@ Hesman, Gerrit. “Omstandig verhaal van hetgeen sedert den jare 10... tot den j
 | --------------- | --------------- | 
 | Naam |  anoniem | 
 | Geslacht | u | 
- | Geboortedatum | Voor 1693 | 
+| Geboortedatum | Voor 1693 | 
 | Datum overlijden | Na 1735 | 
 | Religie | gereformeerd | 
 

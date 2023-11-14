@@ -16,7 +16,7 @@ Van Hernighem, Augustyn. “Kroniek van Vlaanderen En Brabant. 4: 1584-1587.” 
 | --------------- | --------------- | 
 | Naam | Augustyn Hernighem | 
 | Geslacht | m | 
- | Geboortedatum | 1540? | 
+| Geboortedatum | 1540? | 
 | Geboorteplaats | Ieper? | 
 | Datum overlijden | 1617? | 
 | Plaats overlijden | Ieper? | 

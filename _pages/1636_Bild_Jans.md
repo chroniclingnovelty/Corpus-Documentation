@@ -16,7 +16,7 @@ Jansz, Dirck. Het Aantekeningenboek van Dirck Jansz. Edited by Johannes Alle Fab
 | --------------- | --------------- | 
 | Naam | Dirck Jansz | 
 | Geslacht | m | 
- | Geboortedatum | 1604 | 
+| Geboortedatum | 1604 | 
 | Geboorteplaats | Sint Annaparochie | 
 | Datum overlijden | 1636 | 
 | Plaats overlijden | St Annaparochie | 

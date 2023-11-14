@@ -16,7 +16,7 @@ Baake, Nicolaas Johannes. “Journaal van 1802 tot 1813 door N.J. Baake.” 1. D
 | --------------- | --------------- | 
 | Naam | Nicolaas Johannes Baake | 
 | Geslacht | m | 
- | Geboortedatum | 1781 | 
+| Geboortedatum | 1781 | 
 | Geboorteplaats | Den Haag | 
 | Datum overlijden | 1816 | 
 | Plaats overlijden | Den Haag | 

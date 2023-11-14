@@ -16,7 +16,7 @@ Anoniem. “Oudheden 1510-1643.” 3. Antwerpen, 1643. Pk. 113. Stadsarchief Ant
 | --------------- | --------------- | 
 | Naam | Guiliam Baten | 
 | Geslacht | m | 
- | Geboortedatum | 1585? | 
+| Geboortedatum | 1585? | 
 | Religie | katholiek | 
 | Publieke rollen | Collecteur van het recht en hessenhuis Antwerpen;lid sodaliteit jezuiten | 
 | Beroep | Collecteur van het recht en hessenhuis Antwerpen | 

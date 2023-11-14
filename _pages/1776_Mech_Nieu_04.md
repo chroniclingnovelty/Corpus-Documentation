@@ -16,7 +16,7 @@ Nieuwenhuysen, Hendrik Dominik van den. “Deel 4 Kroniek van Mechelen Door Kape
 | --------------- | --------------- | 
 | Naam | Hendrik Dominik Nieuwenhuysen | 
 | Geslacht | m | 
- | Geboortedatum | 1724 | 
+| Geboortedatum | 1724 | 
 | Datum overlijden | 1780 | 
 | Religie | katholiek | 
 | Publieke rollen | provisor en directeur van de Putterij, armenschool St Helwijch | 

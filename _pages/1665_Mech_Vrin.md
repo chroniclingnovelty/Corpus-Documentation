@@ -16,7 +16,7 @@ Vrindts, Dominicus. “Historie van Mechelen.” Mechelen, 1665. EE Kronieken en
 | --------------- | --------------- | 
 | Naam | Dominicus Vrindts | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1617 | 
+| Geboortedatum | Voor 1617 | 
 | Datum overlijden | 1669? | 
 | Religie | Katholiek | 
 | Publieke rollen | schermmeester van het Schermersgilde | 

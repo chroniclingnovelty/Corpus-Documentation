@@ -16,7 +16,7 @@ Filleul, Jan Baptiste. “Tydscronyck, Deel 4.” Kortrijk, 1855. Stadsfonds, 93
 | --------------- | --------------- | 
 | Naam | Jan Baptiste Filleul | 
 | Geslacht | m | 
- | Geboortedatum | 1775 | 
+| Geboortedatum | 1775 | 
 | Datum overlijden | 1855 | 
 | Religie | katholiek | 
 

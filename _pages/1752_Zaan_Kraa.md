@@ -16,7 +16,7 @@ Kraamer, Simon Jacobsz. “Aantekeningen Betreffende de Geschiedenis van Zaandam
 | --------------- | --------------- | 
 | Naam | Simon Kraamer | 
 | Geslacht | m | 
- | Geboortedatum | 1700? | 
+| Geboortedatum | 1700? | 
 | Datum overlijden | 1752 | 
 | Religie | doopsgezind | 
 | Beroep | veehouder | 

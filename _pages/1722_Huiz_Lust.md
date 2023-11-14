@@ -16,7 +16,7 @@ Lustigh, Lambert Rijckxz. Kroniek I van Lambert Rijckxz Lustigh. Huizen: Drukker
 | --------------- | --------------- | 
 | Naam | Lambert Lustigh | 
 | Geslacht | m | 
- | Geboortedatum | 1656? | 
+| Geboortedatum | 1656? | 
 | Geboorteplaats | Huizen | 
 | Datum overlijden | 1727 | 
 | Religie | Gereformeerd | 

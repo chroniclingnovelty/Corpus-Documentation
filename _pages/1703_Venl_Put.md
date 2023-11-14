@@ -16,7 +16,7 @@ Put, Barbara de. Liederen van Mechteldis van Lom en andere annuntiaten, voorafge
 | --------------- | --------------- | 
 | Naam | Barbara Put | 
 | Geslacht | v | 
- | Geboortedatum | 1585? | 
+| Geboortedatum | 1585? | 
 | Datum overlijden | 1635 | 
 | Religie | katholiek | 
 | Beroep | kloosterzuster(s) | 

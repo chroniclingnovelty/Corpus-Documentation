@@ -16,7 +16,7 @@ Booth, Everard. “Dagelijksche aanteekeningen gedurende het verblijf der Fransc
 | --------------- | --------------- | 
 | Naam | Everard Booth | 
 | Geslacht | m | 
- | Geboortedatum | 1638 | 
+| Geboortedatum | 1638 | 
 | Datum overlijden | 1714 | 
 | Religie | gereformeerd | 
 | Publieke rollen | gedeputeerde in de admiraliteit in Friesland, lid van het Hof van Utrecht, heer van Mijdrecht | 

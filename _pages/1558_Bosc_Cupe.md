@@ -16,7 +16,7 @@ Cuperinus, Adelbertus. “Die Chronicke van Der Vermaerder En de Vromer Stad van
 | --------------- | --------------- | 
 | Naam | Adelbertus Cuperinus | 
 | Geslacht | m | 
- | Geboortedatum | 1500? | 
+| Geboortedatum | 1500? | 
 | Datum overlijden | 1560? | 
 | Religie | katholiek | 
 | Beroep | priester/'brueder' | 

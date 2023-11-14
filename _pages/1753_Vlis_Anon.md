@@ -16,7 +16,7 @@ Anoniem. ‘Beschrivinge van Vlissinge - uijt verscheide Schrivers bij een - ver
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1680 | 
+| Geboortedatum | Voor 1680 | 
 | Datum overlijden | Na 1753 | 
 | Religie | gereformeerd | 
 | Educatie | overgrootvader had Latijnse school en was predikant | 

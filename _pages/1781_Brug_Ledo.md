@@ -16,7 +16,7 @@ Inbona, Jacques, en Pieter Ledoulx. ‘Rare geschriften behelsende het gedenckwe
 | --------------- | --------------- | 
 | Naam | Pieter Ledoulx | 
 | Geslacht | m | 
- | Geboortedatum | 1730 | 
+| Geboortedatum | 1730 | 
 | Geboorteplaats | Brugge | 
 | Datum overlijden | 1807 | 
 | Plaats overlijden | Brugge | 

@@ -16,7 +16,7 @@ Allertsz, Jan, en Jansz, Cornelis. Rotterdamse kroniek: aantekeningen van Rotter
 | --------------- | --------------- | 
 | Naam | H. Boom | 
 | Geslacht | m | 
- | Geboortedatum | 1464 | 
+| Geboortedatum | 1464 | 
 | Datum overlijden | 1527 | 
 | Plaats overlijden | Rotterdam | 
 | Religie | katholiek | 

@@ -16,7 +16,7 @@ Rechthout, Pieter Joossen. â€œDe Kroniek van Pieter Joossen Altijt Recht Hout.â€
 | --------------- | --------------- | 
 | Naam | Pieter Joossen | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1566 | 
+| Geboortedatum | Voor 1566 | 
 | Datum overlijden | 1626 | 
 | Plaats overlijden | Middelburg | 
 | Religie | gereformeerd | 

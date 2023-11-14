@@ -16,7 +16,7 @@ Anoniem, en Anoniem. ‘Chronijk (van Maastricht)’. Maastricht, 1762. Handschr
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1729 | 
+| Geboortedatum | Voor 1729 | 
 | Datum overlijden | Na 1762 | 
 | Beroep | militair, lid van het garnizoen in Maastricht | 
 

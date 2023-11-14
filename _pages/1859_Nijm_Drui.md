@@ -16,7 +16,7 @@ Druijnen, Jan Willem van, and Gerrit van Druijnen. Leven aan de Waal, of Vervolg
 | --------------- | --------------- | 
 | Naam | Jan Willem Druijnen | 
 | Geslacht | m | 
- | Geboortedatum | 1790 | 
+| Geboortedatum | 1790 | 
 | Geboorteplaats | Nijmegen | 
 | Datum overlijden | 1854 | 
 | Plaats overlijden | Nijmegen | 

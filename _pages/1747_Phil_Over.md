@@ -16,7 +16,7 @@ Overveldt, Nicolaas van. ‘“Historie van Philipinne met hetgeene daer merkwae
 | --------------- | --------------- | 
 | Naam | Nicolaas Overveldt | 
 | Geslacht | m | 
- | Geboortedatum | 1693 | 
+| Geboortedatum | 1693 | 
 | Geboorteplaats | Leiden | 
 | Datum overlijden | 1751 | 
 | Religie | gereformeerd | 

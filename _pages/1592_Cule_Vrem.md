@@ -16,7 +16,7 @@ Vremdt, Gerard. “Geschiedkundige Aanteekeningen van Gerard Vremdt, Notabel Bur
 | --------------- | --------------- | 
 | Naam | Gerard Vremdt | 
 | Geslacht | m | 
- | Geboortedatum | 1544? | 
+| Geboortedatum | 1544? | 
 | Datum overlijden | 1622? | 
 | Religie | gereformeerd? | 
 | Publieke rollen | burgemeester en schout | 

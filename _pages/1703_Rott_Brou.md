@@ -16,7 +16,7 @@ Brouwer, Jan Gijsbertsz. ‘Dagboek van Jan Gijsbertsz. Brouwer, binnenvader van
 | --------------- | --------------- | 
 | Naam | Jan Brouwer | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1643 | 
+| Geboortedatum | Voor 1643 | 
 | Datum overlijden | Na 1703 | 
 | Religie | gereformeerd? | 
 | Beroep | binnenvader van het pest- en dolhuis sinds 1663 | 

@@ -16,7 +16,7 @@ Leurink, Aleida. Tot Losser Gekomen. Het Notitieboek van Aleida Leurink 1698-175
 | --------------- | --------------- | 
 | Naam | Aleida Leurink | 
 | Geslacht | v | 
- | Geboortedatum | 1682 | 
+| Geboortedatum | 1682 | 
 | Datum overlijden | 1755 | 
 | Religie | gereformeerd | 
 | Beroep | Dominees vrouw en boerin | 

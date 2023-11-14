@@ -16,7 +16,7 @@ Elsacker, [Jufvrou van]. “Kronijkje van Jufvrouw van Elsacker. 1769-1819.” E
 | --------------- | --------------- | 
 | Naam |  Loosen | 
 | Geslacht | v | 
- | Geboortedatum | 1746/1747 | 
+| Geboortedatum | 1746/1747 | 
 | Geboorteplaats | Roermond | 
 | Datum overlijden | 1837 | 
 | Plaats overlijden | Roermond | 

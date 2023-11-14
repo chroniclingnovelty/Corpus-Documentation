@@ -16,7 +16,7 @@ Goofers, Lambertus. Chroniek Der Stad Weert van 1784 Tot 1802, Geschreven Door D
 | --------------- | --------------- | 
 | Naam | Lambertus Goofers | 
 | Geslacht | m | 
- | Geboortedatum | 1771 | 
+| Geboortedatum | 1771 | 
 | Datum overlijden | 1835 | 
 | Plaats overlijden | Weert | 
 | Religie | katholiek | 

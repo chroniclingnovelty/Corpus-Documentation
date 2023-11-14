@@ -16,7 +16,7 @@ Verwer, Willem Janszoon. Memoriaelbouck. Dagboek van gebeurtenissen te Haarlem v
 | --------------- | --------------- | 
 | Naam | Willem Verwer | 
 | Geslacht | m | 
- | Geboortedatum | 1533? | 
+| Geboortedatum | 1533? | 
 | Datum overlijden | 1580 | 
 | Religie | katholiek | 
 | Publieke rollen | regent van het H. Geesthuis en van het Leprooshuis | 

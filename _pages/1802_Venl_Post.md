@@ -16,7 +16,7 @@ Postel, Johannes Chrysostomus van. Het dagboek of De kroniek door Pastoor J(oann
 | --------------- | --------------- | 
 | Naam | Johannes Chrysostomus Postel | 
 | Geslacht | m | 
- | Geboortedatum | 1743 | 
+| Geboortedatum | 1743 | 
 | Geboorteplaats | Antwerpen | 
 | Datum overlijden | 1800 | 
 | Plaats overlijden | Venlo | 

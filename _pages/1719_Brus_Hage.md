@@ -16,7 +16,7 @@ Anoniem. “Aenteeckeningen van de Waere Ende Naeckte Beschryvinge van de Troube
 | --------------- | --------------- | 
 | Naam | Guillielmus Haghen | 
 | Geslacht | m | 
- | Geboortedatum | 1641 | 
+| Geboortedatum | 1641 | 
 | Datum overlijden | 1722 | 
 | Religie | katholiek | 
 | Beroep | Prior van Groenendael, kloosterling | 

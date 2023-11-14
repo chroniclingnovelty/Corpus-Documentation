@@ -16,7 +16,7 @@ Eppens tho Equart, Abel. De kroniek van Abel Eppens tho Equart. Edited by J.A. F
 | --------------- | --------------- | 
 | Naam | Abel Eppens | 
 | Geslacht | m | 
- | Geboortedatum | 1534 | 
+| Geboortedatum | 1534 | 
 | Geboorteplaats | Eekwerd | 
 | Datum overlijden | 1590 | 
 | Plaats overlijden | Emden | 

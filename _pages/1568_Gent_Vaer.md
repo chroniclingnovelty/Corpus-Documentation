@@ -16,7 +16,7 @@ Vaernewyck, Marcus. Van Die Beroerlicke Tijden in Die Nederlanden En Voornamelij
 | --------------- | --------------- | 
 | Naam | Marcus Vaernewyck | 
 | Geslacht | m | 
- | Geboortedatum | 1518 | 
+| Geboortedatum | 1518 | 
 | Datum overlijden | 1569 | 
 | Plaats overlijden | Gent | 
 | Religie | katholiek | 

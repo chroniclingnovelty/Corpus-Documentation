@@ -16,7 +16,7 @@ Tanghe, Guillaume-François. Parochieboek van Iseghem, gevolgd door de levensbes
 | --------------- | --------------- | 
 | Naam | Guillaume-François Tanghe | 
 | Geslacht | m | 
- | Geboortedatum | 1802 | 
+| Geboortedatum | 1802 | 
 | Geboorteplaats | Izegem | 
 | Datum overlijden | 1879 | 
 | Plaats overlijden | Brugge | 

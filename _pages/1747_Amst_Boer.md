@@ -16,7 +16,7 @@ Boer, Jan de. ‘Chronologische Historie van het geen is Voorgevallen, by de kom
 | --------------- | --------------- | 
 | Naam | Jan Boer | 
 | Geslacht | m | 
- | Geboortedatum | 1694 | 
+| Geboortedatum | 1694 | 
 | Geboorteplaats | Haarlem | 
 | Datum overlijden | 1764 | 
 | Plaats overlijden | Amsterdam | 

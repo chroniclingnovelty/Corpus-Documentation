@@ -16,7 +16,7 @@ Karsten, Jan Jansz. “Dagboek van Jan Jansz. Karsten Te Binnenwijzend; Met Enig
 | --------------- | --------------- | 
 | Naam | Jan Karsten | 
 | Geslacht | m | 
- | Geboortedatum | 1754 | 
+| Geboortedatum | 1754 | 
 | Datum overlijden | 1808 | 
 | Religie | katholiek | 
 | Publieke rollen | gedeputeerde en baljuw van Binnenwijzend | 

@@ -16,7 +16,7 @@ Toussaint, Johan Daniel. “Gedurende de Halve Maand Februarii 1795.” 1. Harli
 | --------------- | --------------- | 
 | Naam | Johan Daniel Toussaint | 
 | Geslacht | m | 
- | Geboortedatum | 1755 | 
+| Geboortedatum | 1755 | 
 | Datum overlijden | 1811 | 
 | Plaats overlijden | Harlingen | 
 | Religie | gereformeerd | 

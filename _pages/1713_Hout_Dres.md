@@ -16,7 +16,7 @@ Dresens, Joannes. “Kroniek Joannes Dresens, Schepen van Houthem 1673-1713.” 
 | --------------- | --------------- | 
 | Naam | Joannes Dresens | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1661 | 
+| Geboortedatum | Voor 1661 | 
 | Datum overlijden | Na 1713 | 
 | Religie | Katholiek | 
 | Publieke rollen | schepen van Houthem | 

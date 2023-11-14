@@ -16,7 +16,7 @@ Daalder, Jan Sijmons. “Kroniek Daalder” : Aantekeningen Betreffende Huweli
 | --------------- | --------------- | 
 | Naam | Jan Daalder | 
 | Geslacht | m | 
- | Geboortedatum | 1655 | 
+| Geboortedatum | 1655 | 
 | Datum overlijden | 1724 | 
 | Religie | Gereformeerd | 
 | Publieke rollen | koster? | 

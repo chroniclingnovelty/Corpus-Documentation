@@ -16,7 +16,7 @@ Luyten, Maria. Kronĳk Uit Het Klooster Maria-Wĳngaard Te Weert, 1442-1587. Edi
 | --------------- | --------------- | 
 | Naam | Maria Luyten | 
 | Geslacht | v | 
- | Geboortedatum | 1540? | 
+| Geboortedatum | 1540? | 
 | Datum overlijden | 1570? | 
 | Religie | katholiek | 
 | Beroep | zuster congregatie van Windesheim (Augustinessen/ Witte zusters) | 

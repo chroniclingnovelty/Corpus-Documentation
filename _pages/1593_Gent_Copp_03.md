@@ -16,7 +16,7 @@ Coppens, Gillis. ‘Kroniek van Gent, 1566-1593’. Gent, 1593. Boekentoren, BHS
 | --------------- | --------------- | 
 | Naam | Gillis Coppens | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1550 | 
+| Geboortedatum | Voor 1550 | 
 | Geboorteplaats | Mere bij Aelst | 
 | Datum overlijden | Na 1580 | 
 | Religie | gereformeerd? | 

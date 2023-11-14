@@ -16,7 +16,7 @@ Opperdoes, Cornelis Jansz. “Een Kroniek van Medemblik.” Edited by Johan Belo
 | --------------- | --------------- | 
 | Naam | Cornelis Opperdoes | 
 | Geslacht | m | 
- | Geboortedatum | 1640 | 
+| Geboortedatum | 1640 | 
 | Datum overlijden | Na 1673 | 
 | Religie | Gereformeerd | 
 | Publieke rollen | klerk bij de secretarie van Medemblik | 

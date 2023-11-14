@@ -16,7 +16,7 @@ Beer, J.G. de. “Kronyk van Spaarndam.” 1. Spaarndam, 1779. Archief Oudemanne
 | --------------- | --------------- | 
 | Naam | Zacheus J.G. Beer | 
 | Geslacht | m | 
- | Geboortedatum | 1739 | 
+| Geboortedatum | 1739 | 
 | Datum overlijden | 1821 | 
 | Plaats overlijden | Haarlem | 
 | Religie | gereformeerd | 

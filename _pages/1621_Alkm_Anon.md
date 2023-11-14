@@ -16,7 +16,7 @@ Anoniem. “Memorye. Kroniek van godsdienstige en politieke twisten in Alkmaar, 
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | u | 
- | Geboortedatum | Voor 1600 | 
+| Geboortedatum | Voor 1600 | 
 | Datum overlijden | Na 1619 | 
 | Religie | remonstrants? | 
 

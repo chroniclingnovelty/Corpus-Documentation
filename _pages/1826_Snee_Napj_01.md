@@ -16,7 +16,7 @@ Napjus, Eelco. Geschiedkundige kronijk en beschrijving van de stad Sneek. Edited
 | --------------- | --------------- | 
 | Naam | Eelko Napjus | 
 | Geslacht | m | 
- | Geboortedatum | 1728 | 
+| Geboortedatum | 1728 | 
 | Geboorteplaats | Sneek | 
 | Datum overlijden | 1803 | 
 | Plaats overlijden | Sneek | 

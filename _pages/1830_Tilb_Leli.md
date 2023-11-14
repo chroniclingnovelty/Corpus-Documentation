@@ -16,7 +16,7 @@ Lelie, Laurens de. “Cronijkje van Eenige Zaken Die Zedert En in Het Jaar 1774 
 | --------------- | --------------- | 
 | Naam | Laurens Lelie | 
 | Geslacht | m | 
- | Geboortedatum | 1757 | 
+| Geboortedatum | 1757 | 
 | Geboorteplaats | Tilburg | 
 | Datum overlijden | 1831 | 
 | Plaats overlijden | Tilburg | 

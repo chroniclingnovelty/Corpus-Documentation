@@ -16,7 +16,7 @@ Verbrugge, Jan Karel. Gedenkweerdige aenteeckeningen van Jan Karel Verbrugge. Ed
 | --------------- | --------------- | 
 | Naam | Jan Karel Verbrugge | 
 | Geslacht | m | 
- | Geboortedatum | 1756 | 
+| Geboortedatum | 1756 | 
 | Geboorteplaats | Brugge | 
 | Datum overlijden | 1831 | 
 | Plaats overlijden | Brugge | 

@@ -16,7 +16,7 @@ Hernighem, van, Augustyn. ‘Beschrijving der stad Yper, deel 2’, 1595. Fonds 
 | --------------- | --------------- | 
 | Naam | Augustyn Hernighem | 
 | Geslacht | m | 
- | Geboortedatum | 1540? | 
+| Geboortedatum | 1540? | 
 | Geboorteplaats | Ieper? | 
 | Datum overlijden | 1617? | 
 | Plaats overlijden | Ieper? | 

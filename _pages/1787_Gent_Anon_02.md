@@ -16,7 +16,7 @@ Anoniem. “Kronijke van Gend Waer by Gevoegt Is Twee Sermoenen Op de Sotheyt De
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | u | 
- | Geboortedatum | Voor 1750 | 
+| Geboortedatum | Voor 1750 | 
 | Datum overlijden | Na 1787 | 
 | Religie | katholiek | 
 | Publieke rollen | misschien kerkmeester | 

@@ -16,7 +16,7 @@ Kamp, Pieter Klaasen. ‘Dagboek van Pieter Klaasen Kamp te Twisk, 1800-1814’.
 | --------------- | --------------- | 
 | Naam | Pieter Kamp | 
 | Geslacht | m | 
- | Geboortedatum | 1757 | 
+| Geboortedatum | 1757 | 
 | Geboorteplaats | Abbekerk | 
 | Datum overlijden | 1835 | 
 | Plaats overlijden | Twisk | 

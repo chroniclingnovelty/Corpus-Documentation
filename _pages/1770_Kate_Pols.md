@@ -16,7 +16,7 @@ Pols, van der, Pieter. ‘Aantekeningen en bevindingen van Pieter van der Pols u
 | --------------- | --------------- | 
 | Naam | Pieter Pluen Pols | 
 | Geslacht | m | 
- | Geboortedatum | 1695 | 
+| Geboortedatum | 1695 | 
 | Geboorteplaats | Ridderkerk | 
 | Datum overlijden | Na 1770 | 
 | Plaats overlijden | Katendrecht | 

@@ -16,7 +16,7 @@ Pelckmans, M. F. Hendrizkszoon. ‘Lovens chronycksken 1747-1807'. Leuven, 1807.
 | --------------- | --------------- | 
 | Naam | Michael Frans Pelckmans | 
 | Geslacht | m | 
- | Geboortedatum | 1732 | 
+| Geboortedatum | 1732 | 
 | Geboorteplaats | leuven | 
 | Datum overlijden | 1808 | 
 | Plaats overlijden | leuven | 

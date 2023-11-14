@@ -16,7 +16,7 @@ Wachtendonck, Jan van, en Anoniem. ‘Kroniek van de stad Mechelen; 635-1474. Me
 | --------------- | --------------- | 
 | Naam | Jan Wachtendonk | 
 | Geslacht | m | 
- | Geboortedatum | 1550 | 
+| Geboortedatum | 1550 | 
 | Geboorteplaats | Mechelen | 
 | Datum overlijden | 1621 | 
 | Plaats overlijden | Mechelen | 

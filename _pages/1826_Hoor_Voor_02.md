@@ -16,7 +16,7 @@ Voorst, Klaas, van. ‘Vervolg op de chronyk van Hoorn door Klaas van Voorst, 16
 | --------------- | --------------- | 
 | Naam | Klaas Voorst | 
 | Geslacht | m | 
- | Geboortedatum | 1745 | 
+| Geboortedatum | 1745 | 
 | Datum overlijden | 1826 | 
 | Religie | gereformeerd | 
 | Publieke rollen | Onderofficier compagnie (Patriot) | 

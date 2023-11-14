@@ -16,7 +16,7 @@ Anoniem. ‘Aantekenboek betreffende Jisp, met beschrijving,1647-1716’. Jisp, 
 | --------------- | --------------- | 
 | Naam | Pieter Gertses | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1630 | 
+| Geboortedatum | Voor 1630 | 
 | Datum overlijden | Na 1716 | 
 | Religie | gereformeerd? | 
 | Publieke rollen | schepen, weesmeester | 

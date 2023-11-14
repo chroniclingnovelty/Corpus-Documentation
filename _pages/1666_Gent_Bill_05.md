@@ -16,7 +16,7 @@ Billet, Justus. ‘De cleene ofte corte chronycke van Dhr. Justo Billet, begrype
 | --------------- | --------------- | 
 | Naam | Justus Billet | 
 | Geslacht | m | 
- | Geboortedatum | 1592 | 
+| Geboortedatum | 1592 | 
 | Geboorteplaats | Gent | 
 | Datum overlijden | 1682 | 
 | Plaats overlijden | Gent | 

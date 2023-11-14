@@ -16,7 +16,7 @@ Woertman, Dirk. “Notitie van ’t voorgevallene bij den doorbraek van den Leck
 | --------------- | --------------- | 
 | Naam | Dirk Woertman | 
 | Geslacht | m | 
- | Geboortedatum | 1719 | 
+| Geboortedatum | 1719 | 
 | Geboorteplaats | Utrecht | 
 | Datum overlijden | 1769 | 
 | Plaats overlijden | Utrecht | 

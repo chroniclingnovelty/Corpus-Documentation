@@ -16,7 +16,7 @@ Hoevel, Lambrecht van den. “Plaatsbeschrijving van Oisterwijk Met Kroniek van 
 | --------------- | --------------- | 
 | Naam | Lambrecht Hoevel | 
 | Geslacht | m | 
- | Geboortedatum | 1560? | 
+| Geboortedatum | 1560? | 
 | Geboorteplaats | Oisterwijk | 
 | Datum overlijden | 1636 | 
 | Religie | Katholiek | 

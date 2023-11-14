@@ -16,7 +16,7 @@ Anoniem. “Chronijk Der Landen van Overmaas En Aangrenzende Gewesten Door Eenen
 | --------------- | --------------- | 
 | Naam | Peter Trecpoel | 
 | Geslacht | m | 
- | Geboortedatum | 1442 | 
+| Geboortedatum | 1442 | 
 | Geboorteplaats | beek? | 
 | Datum overlijden | 1508? | 
 | Plaats overlijden | Bilzen | 

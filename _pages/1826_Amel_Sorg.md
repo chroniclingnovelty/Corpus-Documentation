@@ -16,7 +16,7 @@ Sorgdrager, Cornelis Pieter. Memorij: Het Dagboek van Cornelis Pieter Sorgdrager
 | --------------- | --------------- | 
 | Naam | Cornelis Pieter Sorgdrager | 
 | Geslacht | m | 
- | Geboortedatum | 1759 | 
+| Geboortedatum | 1759 | 
 | Geboorteplaats | Hollum (Ameland) | 
 | Datum overlijden | 1826 | 
 | Plaats overlijden | Amsterdam | 

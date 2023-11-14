@@ -16,7 +16,7 @@ Veen, Cornelis. “Oostzaandammer Kronijk Behelzende Alle Het Voornaamste En Ged
 | --------------- | --------------- | 
 | Naam | Cornelis Veen | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1710 | 
+| Geboortedatum | Voor 1710 | 
 | Datum overlijden | Na 1751 | 
 | Religie | gereformeerd | 
 

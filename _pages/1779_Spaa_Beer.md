@@ -16,7 +16,7 @@ Beer, J.G. de. “Korte kronijk door Zacheus J.G. De Beer, 1739-1816.” 1. Spaa
 | --------------- | --------------- | 
 | Naam | Zacheus J.G. Beer | 
 | Geslacht | m | 
- | Geboortedatum | 1739 | 
+| Geboortedatum | 1739 | 
 | Datum overlijden | 1821 | 
 | Plaats overlijden | Haarlem | 
 | Religie | gereformeerd | 

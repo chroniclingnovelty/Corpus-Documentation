@@ -16,7 +16,7 @@ Dingenom, Pieter Cornelis. ‘Aantekeningen over het beroepen van predikanten en
 | --------------- | --------------- | 
 | Naam | Pieter Cornelis Dingenom | 
 | Geslacht | m | 
- | Geboortedatum | 1738 | 
+| Geboortedatum | 1738 | 
 | Geboorteplaats | Krommenie | 
 | Datum overlijden | 1817 | 
 | Plaats overlijden | Zaandijk | 

@@ -16,7 +16,7 @@ Maele, Philippus van de. “Chronycke van Cortryck, 1682-1713.” 3. Kortrijk, 1
 | --------------- | --------------- | 
 | Naam | Philippus Maele | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1682 | 
+| Geboortedatum | Voor 1682 | 
 | Datum overlijden | Na 1713 | 
 | Religie | katholiek | 
 

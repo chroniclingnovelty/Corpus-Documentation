@@ -16,7 +16,7 @@ Jordens, Coenraad Alexander. “Relaes van Het Gepasseerde Te Deventer Eenigen T
 | --------------- | --------------- | 
 | Naam | Coenraad Alexander Jordens | 
 | Geslacht | m | 
- | Geboortedatum | 1749 | 
+| Geboortedatum | 1749 | 
 | Geboorteplaats | Deventer | 
 | Datum overlijden | 1807 | 
 | Plaats overlijden | Deventer | 

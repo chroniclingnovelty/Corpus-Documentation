@@ -16,7 +16,7 @@ Claes, Cornelis. “Verhaal van Het Beleg Voor Zierikzee (1575-1576) Door Cornel
 | --------------- | --------------- | 
 | Naam | Cornelis  | 
 | Geslacht | m | 
- | Geboortedatum | 1525 | 
+| Geboortedatum | 1525 | 
 | Geboorteplaats | Zierikzee | 
 | Datum overlijden | 1595 | 
 | Plaats overlijden | zierikzee | 

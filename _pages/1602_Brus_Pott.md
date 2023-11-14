@@ -16,7 +16,7 @@ Pottre, Jan de. Dagboek van Jan de Pottre, 1549-1602. Vol. 3rd series, 5. Maatsc
 | --------------- | --------------- | 
 | Naam | Jan Pottre | 
 | Geslacht | m | 
- | Geboortedatum | 1525 | 
+| Geboortedatum | 1525 | 
 | Geboorteplaats | Brussel | 
 | Datum overlijden | 1601 | 
 | Plaats overlijden | Brussel | 

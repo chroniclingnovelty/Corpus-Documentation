@@ -16,7 +16,7 @@ Le Doulx, P. ‘Cronyke ofte Brugsche dagh-aenteekeningen behelsende de gedenckw
 | --------------- | --------------- | 
 | Naam | Pieter Ledoulx | 
 | Geslacht | m | 
- | Geboortedatum | 1730 | 
+| Geboortedatum | 1730 | 
 | Geboorteplaats | Brugge | 
 | Datum overlijden | 1807 | 
 | Plaats overlijden | Brugge | 

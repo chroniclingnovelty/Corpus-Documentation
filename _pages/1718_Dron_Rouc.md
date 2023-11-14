@@ -16,7 +16,7 @@ Roucoma, Hoyte. Dronrijps Memoriael. Onder redactie van K. Terpstra. Leeuwarden:
 | --------------- | --------------- | 
 | Naam | Hoyte Roucoma | 
 | Geslacht | m | 
- | Geboortedatum | 1661 | 
+| Geboortedatum | 1661 | 
 | Geboorteplaats | Burchwert | 
 | Datum overlijden | 1719 | 
 | Religie | gereformeerd? | 

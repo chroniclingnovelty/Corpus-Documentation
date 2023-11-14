@@ -16,7 +16,7 @@ Munck, Jozef Jacob de. “Iaer-Boecken van Mechelen.” Mechelen, 1786. EE Kroni
 | --------------- | --------------- | 
 | Naam | Jozef Jacob Munck | 
 | Geslacht | m | 
- | Geboortedatum | 1740 | 
+| Geboortedatum | 1740 | 
 | Geboorteplaats | Mechelen | 
 | Datum overlijden | 1792 | 
 | Plaats overlijden | Mechelen | 

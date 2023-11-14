@@ -16,7 +16,7 @@ Valerius, Remmerus. Chronycke van Mechelen door Remmerus Valerius Pastoor in Muy
 | --------------- | --------------- | 
 | Naam | Remmerus Valerius | 
 | Geslacht | m | 
- | Geboortedatum | 1607 | 
+| Geboortedatum | 1607 | 
 | Geboorteplaats | Berchem | 
 | Datum overlijden | 1687 | 
 | Plaats overlijden | Muizen | 

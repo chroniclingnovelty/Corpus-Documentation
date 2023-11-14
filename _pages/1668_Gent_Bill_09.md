@@ -16,7 +16,7 @@ Billet, Justus. ‘Den polytye boeck, ... beginnende den  22sten augusto in tja
 | --------------- | --------------- | 
 | Naam | Justus Billet | 
 | Geslacht | m | 
- | Geboortedatum | 1592 | 
+| Geboortedatum | 1592 | 
 | Geboorteplaats | Gent | 
 | Datum overlijden | 1682 | 
 | Plaats overlijden | Gent | 

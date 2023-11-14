@@ -16,7 +16,7 @@ Gijsbers, Tamme. ‘Kroniek van Tamme Gijsbers’. Groningen, 1646. LTK 2293. Un
 | --------------- | --------------- | 
 | Naam | Tamme Gijsbers | 
 | Geslacht | m | 
- | Geboortedatum | 1583 | 
+| Geboortedatum | 1583 | 
 | Religie | wsl gereformeerd | 
 | Publieke rollen | Voogd van het Aduarder Gasthuis (1633-39) | 
 | Beroep | koopman, boekhouder West-Indische Compagnie (v.a. 1623) | 

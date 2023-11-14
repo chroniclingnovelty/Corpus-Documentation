@@ -16,7 +16,7 @@ Vegelin van Claerbergen, Jan. Een dagverhaal van Jhr. Johan Vegelin van Claerber
 | --------------- | --------------- | 
 | Naam | Jan (Johan) Vegelin | 
 | Geslacht | m | 
- | Geboortedatum | 1690 | 
+| Geboortedatum | 1690 | 
 | Geboorteplaats | Oldeboorn | 
 | Datum overlijden | 1773 | 
 | Plaats overlijden | Langweer | 

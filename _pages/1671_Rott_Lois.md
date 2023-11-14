@@ -16,7 +16,7 @@ Lois, Jacob. ‘Beschrijving: “Cronycke ofte een corte waare oude beschrivinge
 | --------------- | --------------- | 
 | Naam | Jacob Lois | 
 | Geslacht | m | 
- | Geboortedatum | 1620? | 
+| Geboortedatum | 1620? | 
 | Geboorteplaats | Rotterdam | 
 | Datum overlijden | 1676 | 
 | Religie | gereformeerd? | 

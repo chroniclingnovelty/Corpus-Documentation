@@ -16,7 +16,7 @@ Quickenborne, François Xavier van. “Beschryvinge van Het Merkweerdigste Dat V
 | --------------- | --------------- | 
 | Naam | François Xavier Quickenborne | 
 | Geslacht | m | 
- | Geboortedatum | 1726 | 
+| Geboortedatum | 1726 | 
 | Datum overlijden | 1814 | 
 | Religie | katholiek | 
 | Beroep | azijnlegger | 

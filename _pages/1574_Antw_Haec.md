@@ -16,7 +16,7 @@ Haecht, Godevaert. De Kroniek van Godevaert van Haecht over de Troebelen van 156
 | --------------- | --------------- | 
 | Naam | Godevaert Haecht | 
 | Geslacht | m | 
- | Geboortedatum | 1546 | 
+| Geboortedatum | 1546 | 
 | Geboorteplaats | Antwerpen | 
 | Datum overlijden | 1599 | 
 | Plaats overlijden | Deutz | 

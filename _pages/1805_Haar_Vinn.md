@@ -16,7 +16,7 @@ Vinne, Vincent Janszoon van der, and Vincent Laurensz van der Vinne. “Aanteken
 | --------------- | --------------- | 
 | Naam | Vincent Vinne | 
 | Geslacht | m | 
- | Geboortedatum | 1736 | 
+| Geboortedatum | 1736 | 
 | Geboorteplaats | Haarlem | 
 | Datum overlijden | 1811 | 
 | Plaats overlijden | Haarlem  | 

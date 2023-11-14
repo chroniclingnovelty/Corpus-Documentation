@@ -16,7 +16,7 @@ Munters, Christiaan. Dagboek van gebeurtenissen opgetekend door Christiaan Munte
 | --------------- | --------------- | 
 | Naam | Christiaan Munters | 
 | Geslacht | m | 
- | Geboortedatum | 1505? | 
+| Geboortedatum | 1505? | 
 | Geboorteplaats | Kuringen? | 
 | Datum overlijden | 1555 | 
 | Plaats overlijden | Kuringen | 

@@ -16,7 +16,7 @@ Doorenweerd, Bartholomeus. ‘Korte kronijk van Zwoll’. 1. Zwolle, 1794. Bibli
 | --------------- | --------------- | 
 | Naam | Bartholomeus Doorenweerd | 
 | Geslacht | m | 
- | Geboortedatum | 1767 | 
+| Geboortedatum | 1767 | 
 | Geboorteplaats | Zwolle | 
 | Datum overlijden | 1832 | 
 | Plaats overlijden | Kampen | 

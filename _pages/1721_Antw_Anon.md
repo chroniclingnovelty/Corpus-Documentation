@@ -16,7 +16,7 @@ Anoniem. “Antwerpsche Kronijk, 1685-1721.” 1. Antwerpen, 1721. Pk. 119. Stad
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | u | 
- | Geboortedatum | Voor 1665 | 
+| Geboortedatum | Voor 1665 | 
 | Datum overlijden | Na 1721 | 
 | Religie | katholiek | 
 | Beroep | Werkzaam in het brouwersgilde? | 

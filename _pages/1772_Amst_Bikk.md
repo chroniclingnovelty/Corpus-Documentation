@@ -16,7 +16,7 @@ Bikker Raye, Jakob. “Notietie van Het Merkwaardigste Meijn Bekent Dat in Het J
 | --------------- | --------------- | 
 | Naam | Jakob Bikker Raye | 
 | Geslacht | m | 
- | Geboortedatum | 1703 | 
+| Geboortedatum | 1703 | 
 | Geboorteplaats | Amsterdam | 
 | Datum overlijden | 1777 | 
 | Plaats overlijden | Amsterdam | 

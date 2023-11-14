@@ -16,7 +16,7 @@ De La Royère, Jean. “Corte Anotatien Ende Beschryvinghe van de Stadt Cortryck
 | --------------- | --------------- | 
 | Naam | Jean-Claude Royère | 
 | Geslacht | m | 
- | Geboortedatum | 1675 | 
+| Geboortedatum | 1675 | 
 | Datum overlijden | 1758 | 
 | Religie | katholiek | 
 | Publieke rollen | had toegang tot de stedelijke archieven en duidelijk ook oudheidkundige belangstellng | 

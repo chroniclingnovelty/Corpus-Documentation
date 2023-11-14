@@ -16,7 +16,7 @@ Groot, Simon Jacobszn. “Dagboek van Simon Jacobszn Groot Getiteld Aantekenings
 | --------------- | --------------- | 
 | Naam | Simon Groot | 
 | Geslacht | m | 
- | Geboortedatum | 1785 | 
+| Geboortedatum | 1785 | 
 | Datum overlijden | 1855 | 
 | Religie | Doopsgezind | 
 | Publieke rollen | Binnenvader Weeshuis Friese doopsgezinde gemeente | 

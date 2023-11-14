@@ -16,7 +16,7 @@ Godewijck, Pieter van. Dese heerlicke stadt: een zeventiende eeuwse kroniek van 
 | --------------- | --------------- | 
 | Naam | Pieter Godewijck | 
 | Geslacht | m | 
- | Geboortedatum | 1593 | 
+| Geboortedatum | 1593 | 
 | Geboorteplaats | Dordrecht | 
 | Datum overlijden | 1669 | 
 | Plaats overlijden | Dordrecht | 

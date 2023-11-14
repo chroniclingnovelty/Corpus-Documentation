@@ -16,7 +16,7 @@ Buma, Anna Elisabeth. “Kroniek van belangrijke buitenlandse, landelijke, regio
 | --------------- | --------------- | 
 | Naam |  Anna Elisabeth Buma | 
 | Geslacht | v | 
- | Geboortedatum | 1750 | 
+| Geboortedatum | 1750 | 
 | Geboorteplaats | IJsbrechtum | 
 | Datum overlijden | 1825 | 
 | Plaats overlijden | Leeuwarden | 

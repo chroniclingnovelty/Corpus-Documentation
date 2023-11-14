@@ -16,7 +16,7 @@ Beeftingh, Josua van. ‘Een Rotterdamsch Gedenkschrift uit den patriottentijd e
 | --------------- | --------------- | 
 | Naam | Josua Beeftingh | 
 | Geslacht | m | 
- | Geboortedatum | 1719 | 
+| Geboortedatum | 1719 | 
 | Geboorteplaats | Rotterdam | 
 | Datum overlijden | 1806 | 
 | Plaats overlijden | Rotterdam | 

@@ -16,7 +16,7 @@ Baerntsz, Claes. “Kort Verhaal Der Gedenckwaerdijgste Gheschiedenissen van Wes
 | --------------- | --------------- | 
 | Naam | Claes Baerntsz | 
 | Geslacht | m | 
- | Geboortedatum | 1574 | 
+| Geboortedatum | 1574 | 
 | Geboorteplaats | Hauwert | 
 | Datum overlijden | 1651 | 
 | Religie | Gereformeerd | 

@@ -16,7 +16,7 @@ Kampen, Joh., en Jan van Ryckenroy. â€œKroniek Der Stad Roermond van 1562-1638.â
 | --------------- | --------------- | 
 | Naam | Jan Ryckenroy | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1585 | 
+| Geboortedatum | Voor 1585 | 
 | Datum overlijden | Na 1636 | 
 | Religie | katholiek | 
 | Publieke rollen | stadssecretaris en secretaris van de landsvergadering | 

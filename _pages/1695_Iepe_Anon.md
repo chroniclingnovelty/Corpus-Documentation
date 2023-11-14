@@ -16,7 +16,7 @@ Anoniem. “Kroniek van Ieper, 180-1695, Met Talrijke Legendarische of Anecdotis
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1650 | 
+| Geboortedatum | Voor 1650 | 
 | Datum overlijden | Na 1695? | 
 | Religie | katholiek | 
 

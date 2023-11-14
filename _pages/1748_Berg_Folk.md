@@ -16,7 +16,7 @@ Folkers, Jacobus Adrianus. “Dag Verhaal van de Belegering van Bergen Op Den Zo
 | --------------- | --------------- | 
 | Naam | Jacobus Adrianus Folkers | 
 | Geslacht | m | 
- | Geboortedatum | 1680 | 
+| Geboortedatum | 1680 | 
 | Geboorteplaats | Appingedam | 
 | Datum overlijden | 1762 | 
 | Plaats overlijden | Bergen op Zoom | 

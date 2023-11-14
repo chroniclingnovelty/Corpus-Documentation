@@ -16,7 +16,7 @@ Moriëns, Egidius. “Afschrift van de Kroniek van Brustem Door Egidius Moriëns
 | --------------- | --------------- | 
 | Naam | Egidius Moriëns | 
 | Geslacht | m | 
- | Geboortedatum | 1743 | 
+| Geboortedatum | 1743 | 
 | Datum overlijden | 1829 | 
 | Religie | katholiek | 
 | Publieke rollen | armenmeester | 

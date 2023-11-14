@@ -16,7 +16,7 @@ Hellema, Doeke Wijgers. ‘De dagboeken van Doeke Wijgers Hellema, 1766-1856’.
 | --------------- | --------------- | 
 | Naam | Doeke Hellema | 
 | Geslacht | m | 
- | Geboortedatum | 1766 | 
+| Geboortedatum | 1766 | 
 | Datum overlijden | 1856 | 
 | Religie | lidmaat Nederduits hervormde gemeente | 
 | Beroep | boer, onderwijzer, belastingontvanger | 

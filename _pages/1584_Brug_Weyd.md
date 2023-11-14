@@ -16,7 +16,7 @@ Weydts, Guillaume. Chronique Flamande 1571-1584. Edited by Emile-Charles Varenbe
 | --------------- | --------------- | 
 | Naam | Willem Weydts | 
 | Geslacht | m | 
- | Geboortedatum | 1547 | 
+| Geboortedatum | 1547 | 
 | Geboorteplaats | Brugge | 
 | Datum overlijden | Na 1584 | 
 | Plaats overlijden | Brugge? | 

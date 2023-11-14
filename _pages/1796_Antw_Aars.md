@@ -16,7 +16,7 @@ Aarssen, Jan van. “De Principaelste Geschiedenissen Voorgevallen Binnen Antwer
 | --------------- | --------------- | 
 | Naam | Jan (Johannes Lucas) Aarssen | 
 | Geslacht | m | 
- | Geboortedatum | 1728 | 
+| Geboortedatum | 1728 | 
 | Geboorteplaats | Rotterdam | 
 | Datum overlijden | 1802 | 
 | Plaats overlijden | Antwerpen | 

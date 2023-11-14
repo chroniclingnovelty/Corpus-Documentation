@@ -16,7 +16,7 @@ Jacobsz, Wouter. Dagboek van Broeder Wouter Jacobsz (Gualtherus Jacobi Masius) P
 | --------------- | --------------- | 
 | Naam | Wouter Maes | 
 | Geslacht | m | 
- | Geboortedatum | 1521? | 
+| Geboortedatum | 1521? | 
 | Geboorteplaats | Gouda | 
 | Datum overlijden | 1595 | 
 | Plaats overlijden | Gouda | 

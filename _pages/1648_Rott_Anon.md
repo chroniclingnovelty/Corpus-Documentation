@@ -16,7 +16,7 @@ Anoniem, en Jan Gerritsz Waerschut. ‘Kroniek van Rotterdam’. Rotterdam, 1648
 | --------------- | --------------- | 
 | Naam | Jan Waerschut | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1620 | 
+| Geboortedatum | Voor 1620 | 
 | Datum overlijden | 1623? | 
 | Religie | Doopsgezind | 
 | Beroep | bakker | 

@@ -16,7 +16,7 @@ Loeffen, Joannes. Memorien: kroniek van Megen door Johannes Loeffen, 1970. https
 | --------------- | --------------- | 
 | Naam | Joannes Loeffen | 
 | Geslacht | m | 
- | Geboortedatum | 1768 | 
+| Geboortedatum | 1768 | 
 | Geboorteplaats | Megen | 
 | Religie | katholiek | 
 | Educatie | Latijnse school; rechten Keulen | 

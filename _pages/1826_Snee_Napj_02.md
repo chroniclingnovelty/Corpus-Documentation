@@ -16,7 +16,7 @@ Napjus, Eelco. Korte Kronijk, of Aanhangsel, tot de Geschiedkundige Kronijk van 
 | --------------- | --------------- | 
 | Naam | Eelko Napjus | 
 | Geslacht | m | 
- | Geboortedatum | 1728 | 
+| Geboortedatum | 1728 | 
 | Geboorteplaats | Sneek | 
 | Datum overlijden | 1803 | 
 | Plaats overlijden | Sneek | 

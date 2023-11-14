@@ -16,7 +16,7 @@ Mijnden, Herberen van. ‘Gedenkschriften van Jhr. Herberen van Mijnden’. Onde
 | --------------- | --------------- | 
 | Naam | Herbaren Aemstel | 
 | Geslacht | m | 
- | Geboortedatum | 1500? | 
+| Geboortedatum | 1500? | 
 | Datum overlijden | 1566 | 
 | Religie | katholiek | 
 | Publieke rollen | lid Utrechtse ridderschap | 

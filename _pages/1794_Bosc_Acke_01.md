@@ -16,7 +16,7 @@ Ackersdijk, Willem Cornelis. “Kronyk Der Hoofdstad ’s Hertogenbosch. Inhoude
 | --------------- | --------------- | 
 | Naam | Willem Cornelis Ackersdijck | 
 | Geslacht | m | 
- | Geboortedatum | 1760 | 
+| Geboortedatum | 1760 | 
 | Geboorteplaats | s Hertogenbosch | 
 | Datum overlijden | 1843 | 
 | Plaats overlijden | Rotterdam | 

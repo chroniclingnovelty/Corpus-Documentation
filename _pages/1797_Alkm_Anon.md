@@ -16,7 +16,7 @@ Panders, Jan van. â€œKroniek van Alkmaar in de Bataafs-Franse Tijd, 1787-1797.â€
 | --------------- | --------------- | 
 | Naam | Jan Panders | 
 | Geslacht | m | 
- | Geboortedatum | 1747 | 
+| Geboortedatum | 1747 | 
 | Geboorteplaats | Alkmaar | 
 | Datum overlijden | 1809 | 
 | Religie | gereformeerd | 

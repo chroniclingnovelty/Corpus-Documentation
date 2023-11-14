@@ -16,7 +16,7 @@ Moens van Bloois, A. “Aantekeningen Betreffende de Geschiedenis van Zierikzee,
 | --------------- | --------------- | 
 | Naam | Adriaan Moens | 
 | Geslacht | m | 
- | Geboortedatum | 1791 | 
+| Geboortedatum | 1791 | 
 | Geboorteplaats | Zierikzee | 
 | Datum overlijden | 1855 | 
 | Plaats overlijden | Zierikzee | 

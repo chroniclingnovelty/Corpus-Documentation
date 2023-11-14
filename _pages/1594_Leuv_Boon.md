@@ -16,7 +16,7 @@ Boonen, Willem. Geschiedenis van Leuven, geschreven in de jaren 1593 en 1594. On
 | --------------- | --------------- | 
 | Naam | Willem Boonen | 
 | Geslacht | m | 
- | Geboortedatum | 1547 | 
+| Geboortedatum | 1547 | 
 | Geboorteplaats | Leuven | 
 | Datum overlijden | 1618 | 
 | Plaats overlijden | Leuven | 

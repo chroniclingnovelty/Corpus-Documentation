@@ -16,7 +16,7 @@ Stege, Zieger ter. ‘Aentekening van verscheyden saken, welke in en omtrent Ste
 | --------------- | --------------- | 
 | Naam | Zieger Stege | 
 | Geslacht | m | 
- | Geboortedatum | 1535 | 
+| Geboortedatum | 1535 | 
 | Datum overlijden | 1605 of 1609 | 
 | Religie | gereformeerd? | 
 | Publieke rollen | stadssecretaris van Steenwijk en Hasselt | 

@@ -16,7 +16,7 @@ Barnaart junior, Jacobus. “Dagverhaal van Merkwaardige Voorvallen Aangetekend 
 | --------------- | --------------- | 
 | Naam | Jacobus Barnaart | 
 | Geslacht | m | 
- | Geboortedatum | 1726 | 
+| Geboortedatum | 1726 | 
 | Geboorteplaats | Haarlem | 
 | Datum overlijden | 1780 | 
 | Plaats overlijden | Haarlem | 

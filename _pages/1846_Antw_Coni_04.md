@@ -16,7 +16,7 @@ Coninck, F.J. de. “Notitieboeck van Alle Gedenkweerdige Geschiedenissen Voorge
 | --------------- | --------------- | 
 | Naam | F.J. Coninck | 
 | Geslacht | m | 
- | Geboortedatum | 1763? | 
+| Geboortedatum | 1763? | 
 | Religie | katholiek | 
 | Beroep | lesgever (naar eigen zeggen) | 
 

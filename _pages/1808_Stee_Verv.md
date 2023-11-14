@@ -16,7 +16,7 @@ Vervot, G.A. “Register betreffende genealogische inlichtingen over de familie 
 | --------------- | --------------- | 
 | Naam | G.A. Vervot | 
 | Geslacht | m | 
- | Geboortedatum | 1738 | 
+| Geboortedatum | 1738 | 
 | Datum overlijden | 1838 | 
 | Religie | katholiek? | 
 

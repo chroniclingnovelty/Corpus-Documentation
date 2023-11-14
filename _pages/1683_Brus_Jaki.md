@@ -16,7 +16,7 @@ Jakinet, Joannes. ‘Historie der Nederlanden onder de Regering van Albertus en 
 | --------------- | --------------- | 
 | Naam | Joannes/Jean Jakinet/Jacquinet | 
 | Geslacht | m | 
- | Geboortedatum | 1615 | 
+| Geboortedatum | 1615 | 
 | Geboorteplaats | Tienen | 
 | Datum overlijden | Na 1683 | 
 | Religie | Katholiek | 

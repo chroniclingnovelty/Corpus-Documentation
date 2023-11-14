@@ -16,7 +16,7 @@ Beer, Jan Baptist de. ‘Kroniekje van Tilburg over 1774-1854’. Tilburg, 1854.
 | --------------- | --------------- | 
 | Naam | Jan Baptist Beer | 
 | Geslacht | m | 
- | Geboortedatum | 1787 | 
+| Geboortedatum | 1787 | 
 | Datum overlijden | 1856 | 
 | Plaats overlijden | Tilburg | 
 | Religie | katholiek | 

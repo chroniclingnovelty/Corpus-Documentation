@@ -16,7 +16,7 @@ Vree, Johannes Josephus van. “Kroniek Uit de Lingestreek (1800-1820) Uitgegeve
 | --------------- | --------------- | 
 | Naam | Johannes Josephus Vree | 
 | Geslacht | m | 
- | Geboortedatum | 1786 | 
+| Geboortedatum | 1786 | 
 | Geboorteplaats | Middelburg | 
 | Datum overlijden | 1849 | 
 | Plaats overlijden | Middelburg | 

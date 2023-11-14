@@ -16,7 +16,7 @@ De Voocht, Gillis. “Verzameling Teksten Betreffende Vlaanderen En Gent.” Gen
 | --------------- | --------------- | 
 | Naam | Gillis Voocht | 
 | Geslacht | m | 
- | Geboortedatum | Voor  1558 | 
+| Geboortedatum | Voor  1558 | 
 | Datum overlijden | Na 1610 | 
 | Religie | katholiek | 
 | Publieke rollen | schutter in 1576 | 

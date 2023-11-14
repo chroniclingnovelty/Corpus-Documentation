@@ -16,7 +16,7 @@ Vermeersch, J. “Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de Voornae
 | --------------- | --------------- | 
 | Naam | J. Vermeersch | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1720 | 
+| Geboortedatum | Voor 1720 | 
 | Datum overlijden | Na 1753 | 
 | Religie | katholiek | 
 | Beroep | koster | 

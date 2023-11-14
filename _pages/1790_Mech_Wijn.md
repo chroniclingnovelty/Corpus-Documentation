@@ -16,7 +16,7 @@ Wijndrickx, Jan Jozef. “Tijdt-Wijser van Sommighe Gedenckweirdige Dingen, Die 
 | --------------- | --------------- | 
 | Naam | Jan Jozef Wijndrickx | 
 | Geslacht | m | 
- | Geboortedatum | 1711 | 
+| Geboortedatum | 1711 | 
 | Datum overlijden | 1798 | 
 | Religie | katholiek | 
 | Beroep | notaris | 

@@ -16,7 +16,7 @@ Kist, Joost Gerard. “Uit Het Dagboek van Den Zaltbommelschen Predikant J.G. Ki
 | --------------- | --------------- | 
 | Naam | Joost Gerard Kist | 
 | Geslacht | m | 
- | Geboortedatum | 1756 | 
+| Geboortedatum | 1756 | 
 | Geboorteplaats | Woerden | 
 | Datum overlijden | 1815 | 
 | Plaats overlijden | Zaltbommel | 

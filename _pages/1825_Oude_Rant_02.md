@@ -16,7 +16,7 @@ Rantere, Bartolomeus de. Het dagboek van Bartolomeus de Rantere: beschrijving va
 | --------------- | --------------- | 
 | Naam | Bartolomeus Rantere | 
 | Geslacht | m | 
- | Geboortedatum | 1775 | 
+| Geboortedatum | 1775 | 
 | Geboorteplaats | Oudenaarde | 
 | Datum overlijden | 1831 | 
 | Plaats overlijden | Oudenaarde | 

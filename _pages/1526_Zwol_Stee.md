@@ -16,7 +16,7 @@ Steenwijk, Jan/Johan van. Zwolsche Kroniek van 1520 Tot 1526. Edited by Johan Wi
 | --------------- | --------------- | 
 | Naam | Jan/Johan Steenwijk | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1500 | 
+| Geboortedatum | Voor 1500 | 
 | Geboorteplaats | zwolle? | 
 | Datum overlijden | Na 1526 | 
 | Plaats overlijden | Zwolle? | 

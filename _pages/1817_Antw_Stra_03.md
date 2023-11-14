@@ -16,7 +16,7 @@ Straelen, Jan Frans van der, and Joannes-Baptista Van der Straelen. De kronijk v
 | --------------- | --------------- | 
 | Naam | Jan Frans Straelen | 
 | Geslacht | m | 
- | Geboortedatum | 1731 | 
+| Geboortedatum | 1731 | 
 | Geboorteplaats | Antwerpen | 
 | Datum overlijden | 1801 | 
 | Religie | katholiek | 

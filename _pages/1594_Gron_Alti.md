@@ -16,7 +16,7 @@ Alting, Egbert. Diarium van Egbert Alting, 1553-1594. Onder redactie van W.J. Fo
 | --------------- | --------------- | 
 | Naam | Egbert Alting | 
 | Geslacht | m | 
- | Geboortedatum | 1518 | 
+| Geboortedatum | 1518 | 
 | Geboorteplaats | Gasteren | 
 | Datum overlijden | 1596 | 
 | Plaats overlijden | Groningen | 

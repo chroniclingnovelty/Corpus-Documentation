@@ -16,7 +16,7 @@ Hous, J.B. Leuvense kroniek (1780-1829). Edited by J. Kempeneer. Heverlee: Abdij
 | --------------- | --------------- | 
 | Naam | Jan Baptist Hous | 
 | Geslacht | m | 
- | Geboortedatum | 1756 | 
+| Geboortedatum | 1756 | 
 | Geboorteplaats | Leuven | 
 | Datum overlijden | 1830 | 
 | Plaats overlijden | Leuven | 

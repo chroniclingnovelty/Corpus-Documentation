@@ -16,7 +16,7 @@ Moorsel, Hendrik Godefridus van. Kronijk, of Aantekening der merkwaardige voorva
 | --------------- | --------------- | 
 | Naam | Hendrik Godefridus Moorsel | 
 | Geslacht | m | 
- | Geboortedatum | 1793 | 
+| Geboortedatum | 1793 | 
 | Geboorteplaats | Duinkerken | 
 | Datum overlijden | 1851 | 
 | Plaats overlijden | Heeze | 

@@ -16,7 +16,7 @@ Vivere, Jan. Chronĳcke van Ghendt : handschrift deelmakende van het archief v
 | --------------- | --------------- | 
 | Naam | Jan Vivere | 
 | Geslacht | m | 
- | Geboortedatum | Voor  1520 | 
+| Geboortedatum | Voor  1520 | 
 | Datum overlijden | Na 1632 | 
 | Religie | Katholiek | 
 | Publieke rollen | waarschuwt tegen politieke betrokkenheid | 

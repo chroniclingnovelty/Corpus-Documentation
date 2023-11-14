@@ -16,7 +16,7 @@ Schelling, P. van der. ‘Aanteekeningen van het voorgevallene te Rotterdam, tij
 | --------------- | --------------- | 
 | Naam | Pieter Schelling | 
 | Geslacht | m | 
- | Geboortedatum | 1691 | 
+| Geboortedatum | 1691 | 
 | Geboorteplaats | Rotterdam | 
 | Datum overlijden | 1750 | 
 | Plaats overlijden | Rotterdam | 

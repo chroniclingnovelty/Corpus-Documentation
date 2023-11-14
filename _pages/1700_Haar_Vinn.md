@@ -16,7 +16,7 @@ Vinne, Vincent Laurensz van der. Dagelijckse Aentekeninge van Vincent Laurensz. 
 | --------------- | --------------- | 
 | Naam | Vincent Vinne | 
 | Geslacht | m | 
- | Geboortedatum | 1628 | 
+| Geboortedatum | 1628 | 
 | Geboorteplaats | Haarlem | 
 | Datum overlijden | 1702 | 
 | Plaats overlijden | Haarlem | 

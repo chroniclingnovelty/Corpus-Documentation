@@ -16,7 +16,7 @@ Oukoop, Andries. “Dagverhaal van Het Voorgevallene Tijdens de Franse Belegerin
 | --------------- | --------------- | 
 | Naam | Andries Oukoop | 
 | Geslacht | m | 
- | Geboortedatum | 1771 | 
+| Geboortedatum | 1771 | 
 | Geboorteplaats | Breda? | 
 | Datum overlijden | 1827 | 
 | Plaats overlijden | Breda | 

@@ -16,7 +16,7 @@ Anoniem, P.T. Picolet, en Jan Gerritsz Waerschut. ‘Kronijk, inhoudende den opg
 | --------------- | --------------- | 
 | Naam |   | 
 | Geslacht | u | 
- | Geboortedatum | Voor 1628 | 
+| Geboortedatum | Voor 1628 | 
 | Datum overlijden | Na 1687 | 
 
 ## Inhoud van de tekst 

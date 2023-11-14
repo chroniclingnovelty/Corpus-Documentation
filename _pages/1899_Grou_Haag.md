@@ -16,7 +16,7 @@ Haagsma, T.F. ‘Kroniek van T.F. Haagsma 1840-1899’. 1. Grouw, 1899. Toegangs
 | --------------- | --------------- | 
 | Naam | T.F. Haagsma | 
 | Geslacht | m | 
- | Geboortedatum | 1828 | 
+| Geboortedatum | 1828 | 
 | Datum overlijden | 1900 | 
 | Publieke rollen | Waagmeester | 
 | Beroep | kuiper, waagmeester | 

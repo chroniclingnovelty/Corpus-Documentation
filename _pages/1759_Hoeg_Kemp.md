@@ -16,7 +16,7 @@ Kempeneers, Paul, ed. Kroniekje van Hoegaarden, 1670-1759. Oostbrabantse Histori
 | --------------- | --------------- | 
 | Naam | Johan Franciscus Barle | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1714 | 
+| Geboortedatum | Voor 1714 | 
 | Geboorteplaats | Meerhout | 
 | Datum overlijden | Na 1759 | 
 | Religie | katholiek | 

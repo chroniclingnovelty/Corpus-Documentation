@@ -16,7 +16,7 @@ Anoniem. “Chronique d’Ypres, Contenant Le Récit Des Évènements, Qui s’y
 | --------------- | --------------- | 
 | Naam | Thomas  | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1540 | 
+| Geboortedatum | Voor 1540 | 
 | Geboorteplaats | Ieper | 
 | Datum overlijden | Na 1587 | 
 | Religie | katholiek | 

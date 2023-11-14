@@ -16,7 +16,7 @@ Betouw, Johannes in de. Vervolg der Kronijk van Nijmegen, tot den jare 1818. Edi
 | --------------- | --------------- | 
 | Naam | Johannes Betouw | 
 | Geslacht | m | 
- | Geboortedatum | 1732 | 
+| Geboortedatum | 1732 | 
 | Geboorteplaats | Nijmegen | 
 | Datum overlijden | 1820 | 
 | Plaats overlijden | Nijmegen | 

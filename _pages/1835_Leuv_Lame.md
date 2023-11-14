@@ -16,7 +16,7 @@ Lameere, J.B. Aenteekeningen van merkweerdige geschiedenissen voorgevallen binne
 | --------------- | --------------- | 
 | Naam | Jacques Benoit Lameere | 
 | Geslacht | m | 
- | Geboortedatum | 1790 | 
+| Geboortedatum | 1790 | 
 | Geboorteplaats | Brugge | 
 | Datum overlijden | 1863 | 
 | Plaats overlijden | Leuven | 

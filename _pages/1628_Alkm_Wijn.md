@@ -16,7 +16,7 @@ Wijnkoper, Jacob Dirxz, Jan Jakobsz Stoop, and Simon Eikelenburg. “Kroniek van
 | --------------- | --------------- | 
 | Naam | Jacob Wijnkoper | 
 | Geslacht | m | 
- | Geboortedatum | Voor 1538 | 
+| Geboortedatum | Voor 1538 | 
 | Geboorteplaats | Alkmaar | 
 | Datum overlijden | 1598 | 
 | Religie | Gereformeerd | 

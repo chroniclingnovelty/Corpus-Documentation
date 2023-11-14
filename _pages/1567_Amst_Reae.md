@@ -16,7 +16,7 @@ Reael, Laurens Jacobsz. “Uittreksel Uit de Amsterdamsche Gedenkschriften van L
 | --------------- | --------------- | 
 | Naam | Laurens Reael | 
 | Geslacht | m | 
- | Geboortedatum | 1536 | 
+| Geboortedatum | 1536 | 
 | Geboorteplaats | Amsterdam | 
 | Datum overlijden | 1601 | 
 | Plaats overlijden | Amsterdam | 

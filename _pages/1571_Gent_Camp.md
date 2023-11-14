@@ -16,7 +16,7 @@ Campene, Cornelis, and Philips Van Campene. Dagboek van Cornelis En Philip van C
 | --------------- | --------------- | 
 | Naam | Philips Campene | 
 | Geslacht | m | 
- | Geboortedatum | Na 1516 | 
+| Geboortedatum | Na 1516 | 
 | Geboorteplaats | Gent | 
 | Datum overlijden | Na 1585 | 
 | Plaats overlijden | Leuven? | 

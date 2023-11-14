@@ -16,7 +16,7 @@ Hoogland, Luijt. Chronologische Aanteekeningen, Betrekkelijk de Stad Enkhuizen, 
 | --------------- | --------------- | 
 | Naam | Luijt Hoogland | 
 | Geslacht | m | 
- | Geboortedatum | 1727 | 
+| Geboortedatum | 1727 | 
 | Geboorteplaats | Enkhuizen | 
 | Datum overlijden | 1808 | 
 | Plaats overlijden | Enkhuizen | 

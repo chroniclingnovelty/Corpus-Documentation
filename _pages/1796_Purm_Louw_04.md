@@ -16,7 +16,7 @@ Louwen, Albert Pietersz. ‘Kronijk der stad Purmerende bevattende der selver op
 | --------------- | --------------- | 
 | Naam | Albert Louwen | 
 | Geslacht | m | 
- | Geboortedatum | 1722 | 
+| Geboortedatum | 1722 | 
 | Geboorteplaats | Purmerend | 
 | Datum overlijden | 1798 | 
 | Plaats overlijden | Purmerend | 

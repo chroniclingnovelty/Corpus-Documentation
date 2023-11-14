@@ -16,7 +16,7 @@ Wesenbeke, Jan van. “Chronyke van 1567 Tot 1580.” Antwerpen, 1580 1567. Pk. 
 | --------------- | --------------- | 
 | Naam | Jan Wesenbeke | 
 | Geslacht | m | 
- | Geboortedatum | ca. 1547 | 
+| Geboortedatum | ca. 1547 | 
 | Geboorteplaats | Antwerpen | 
 | Datum overlijden | Na 1594 | 
 | Plaats overlijden | Frankfurt | 
