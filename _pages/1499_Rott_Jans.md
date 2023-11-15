@@ -8,7 +8,7 @@ parent: Chronicles
 
 # Rotterdamse kroniek: aantekeningen van Rotterdamse stadssecretarissen, 1315-1499 (1570) 
 
-Allertsz, Jan, en Jansz, Cornelis. Rotterdamse kroniek: aantekeningen van Rotterdamse stadssecretarissen, 1315-1499 (1570). Onder redactie van H. ten Boom en J. van Herwaarden. S.l, 1981. https://www.dbnl.org/tekst/_ned017198001_01/_ned017198001_01_0002.php. 
+Allertsz, Jan, en Jansz, Cornelis. Rotterdamse kroniek: aantekeningen van Rotterdamse stadssecretarissen, 1315-1499 (1570). Onder redactie van H. ten Boom en J. van Herwaarden. S.l, 1981. <https://www.dbnl.org/tekst/_ned017198001_01/_ned017198001_01_0002.php>. 
 
 ## Auteursgegevens 
 
@@ -55,26 +55,11 @@ Beiden zijn stadsschrijvers geweest. Het betreft hier vader en zoon: Johan
 Allertszoon en  
 Cornelis Janszoon
 
-“De vader, Johannes Allertszoon, werd in 1468 aangesteld als klerk  
-van de stad onder Doe Jansz. van der Sluys. Johannes bleef werkzaam voor de
-stad tot zijn  
-dood in 1489. Hij had de lagere geestelijke wijdingen en was notaris (notarius
-et clericus  
-Trajectensis). Johannes’ echtgenote stierf in 1500 en ze hadden samen zeven
-kinderen: vijf  
-dochters en twee zonen.1149 Het gezin woonde gedurende 1472-1483 in het
-laatste huis van  
-Oosteinde. In 1478 zwoer de secretaris trouw aan Maximiliaan van Oostenrijk
-toen hij de  
-stad Rotterdam aandeed. Op 20 januari 1489 werd Johannes geëxecuteerd.
+“De vader, Johannes Allertszoon, werd in 1468 aangesteld als klerk van de stad onder Doe Jansz. van der Sluys. Johannes bleef werkzaam voor de stad tot zijn  
+dood in 1489. Hij had de lagere geestelijke wijdingen en was notaris (notarius et clericus Trajectensis). Johannes’ echtgenote stierf in 1500 en ze hadden samen zeven kinderen: vijf dochters en twee zonen.1149 Het gezin woonde gedurende 1472-1483 in het laatste huis van Oosteinde. In 1478 zwoer de secretaris trouw aan Maximiliaan van Oostenrijk toen hij de stad Rotterdam aandeed. Op 20 januari 1489 werd Johannes geëxecuteerd.
 
 Cornelis werd geboren op 9 januari 1464 en was vanaf 1489 werkzaam als klerk
-voor de  
-stad Rotterdam. Waarschijnlijk volgde hij zijn vader op. Vanaf 1495 was hij
-secretaris van de  
-stad na het overlijden van Doe Jansz. van der Sluys. Er zijn geen aanwijzingen
-dat hij notaris  
-is geweest. Cornelis was tweemaal getrouwd en had acht kinderen.”
+voor de stad Rotterdam. Waarschijnlijk volgde hij zijn vader op. Vanaf 1495 was hij secretaris van de stad na het overlijden van Doe Jansz. van der Sluys. Er zijn geen aanwijzingen dat hij notaris is geweest. Cornelis was tweemaal getrouwd en had acht kinderen.”
 
 RL: is een citaat p. 314 proefschrift Bakker
 
