@@ -36,7 +36,20 @@ Allertsz, Jan, en Jansz, Cornelis. Rotterdamse kroniek: aantekeningen van Rotter
 
 ## Notes 
 
+JP
 
+# Bron: H. ten Boom, ‘De eerste secretarissen van Rotterdam’, Rotterdams
+Jaarboekje [CHECK jaar en pagina’s]
+
+(1979) \- In: [Rotterdams jaarboekje; Rotterdams
+jaarboekje](http://opac.regesta-
+imperii.de/lang_en/anzeige.php?zeitschrift=Rotterdams+jaarboekje%3B+Rotterdams+jaarboekje)
+Ser. 6, vol. 7 (1979) p. 151-174.
+
+RL: Jaarboekje toegevoegd aan related.
+
+geeft info over
+auteurs.<https://rjb.x-cago.com/GARJB//1979/12/19791231/GARJB-19791231-0178/story.pdf>
 
 Beiden zijn stadsschrijvers geweest. Het betreft hier vader en zoon: Johan
 Allertszoon en  
@@ -112,9 +125,3 @@ Universiteit, 2020), 313.
 
 ## Literatuur 
 
-Bron: H. ten Boom, ‘De eerste secretarissen van Rotterdam’, Rotterdams Jaarboekje (1979) \- In: [Rotterdams jaarboekje; Rotterdams jaarboekje](http://opac.regesta-
-imperii.de/lang_en/anzeige.php?zeitschrift=Rotterdams+jaarboekje%3B+Rotterdams+jaarboekje)
-Ser. 6, vol. 7 (1979) p. 151-174.
-
-geeft info over
-auteurs.<https://rjb.x-cago.com/GARJB//1979/12/19791231/GARJB-19791231-0178/story.pdf>
