@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Een dagverhaal van Jhr. Johan Vegelin van Claerbergen: omtrent de troubelen van het jaar 1748 
 
+### 1748_Leeu_Vege 
+
 Vegelin van Claerbergen, Jan. Een dagverhaal van Jhr. Johan Vegelin van Claerbergen: omtrent de troubelen van het jaar 1748. S.l.: sn, 1899. https://www.dbnl.org/tekst/vege009dagv01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Vegelin van Claerbergen, Jan. Een dagverhaal van Jhr. Johan Vegelin van Claerber
 
 [<img src="..\..\barplots_chronicles\1748_Leeu_Vege.jpg" width="750"/>](..\..\barplots_chronicles\1748_Leeu_Vege.jpg) 
 
-## Notes 
+## Notities 
 
 Met dank aan Tinka de Haan
 

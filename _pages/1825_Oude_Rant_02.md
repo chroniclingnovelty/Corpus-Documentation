@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Het dagboek van Bartolomeus de Rantere: beschrijving van al het merkweerdigste dat er voorgevallen is in de stad en casselrije van Audenaerde zedert het jaer zeventhien hondert zevenentachentig tot het jaer achthien hondert vijfentwintig 
 
+### 1825_Oude_Rant_02 
+
 Rantere, Bartolomeus de. Het dagboek van Bartolomeus de Rantere: beschrijving van al het merkweerdigste dat er voorgevallen is in de stad en casselrije van Audenaerde zedert het jaer zeventhien hondert zevenentachentig tot het jaer achthien hondert vijfentwintig. Onder redactie van Marc de Smet. Vol. 1. 2 vols. [Oudenaarde : Drukk. Sanderus], 1973. 
 
 ## Auteursgegevens 
@@ -33,7 +35,23 @@ Rantere, Bartolomeus de. Het dagboek van Bartolomeus de Rantere: beschrijving va
 
 [<img src="..\..\barplots_chronicles\1825_Oude_Rant_02.jpg" width="750"/>](..\..\barplots_chronicles\1825_Oude_Rant_02.jpg) 
 
-## Notes 
+## Notities 
+
+De Rantere is geboren Oudenaarde 8 juni 1775- Hij sterft op 18 nov 1831. Zoon
+van een kleermaker, wordt in 1828 gemeentearchivaris van Oudenaarde.
+
+Een uitgebreide levensbeschrijving van de aueur is te vinden in ‘Le Petit
+Bruges’:
+
+<https://www.le-petit-bruges.be/html_LPB_geschiedenis/rantere.html>
+
+De tekst is een selectie uit de 14 delen die De Rantere schreef over
+Oudenaarde. Dit boek gaat alleen over de periode die hij zelf had meegemaakt,
+april 1787, de brabantse omwenteling, tot het einde van deel 12. De Rantere
+onderbrak zijn kroniek tussen 1824-1831, en schreef daarna nog 2 delen over
+gebeurtenissen 1830-1831.
+
+
 
 ## Literatuur 
 

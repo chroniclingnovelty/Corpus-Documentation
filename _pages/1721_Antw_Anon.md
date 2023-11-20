@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Antwerpsche Kronijk, 1685-1721 
 
+### 1721_Antw_Anon 
+
 Anoniem. “Antwerpsche Kronijk, 1685-1721.” 1. Antwerpen, 1721. Pk. 119. Stadsarchief Antwerpen. https://felixarchief.antwerpen.be/archievenoverzicht/175709. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Anoniem. “Antwerpsche Kronijk, 1685-1721.” 1. Antwerpen, 1721. Pk. 119. Stad
 
 [<img src="..\..\barplots_chronicles\1721_Antw_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1721_Antw_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 EK
 

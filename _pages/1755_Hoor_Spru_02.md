@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Het tweede deel off vervolg van de historie der stad Hoorn 
 
+### 1755_Hoor_Spru_02 
+
 Spruijt, Jurriaan. ‘Het tweede deel off vervolg van de historie der stad Hoorn’. 1. Hoorn, 1755. Hervormde Gemeente Hoorn, toegang 0656, invnr 590. West-Fries Archief. https://hdl.handle.net/21.12114/7FB043BF704E4ECFA1B20548045842A9. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Spruijt, Jurriaan. ‘Het tweede deel off vervolg van de historie der stad Hoorn
 
 [<img src="..\..\barplots_chronicles\1755_Hoor_Spru_02.jpg" width="750"/>](..\..\barplots_chronicles\1755_Hoor_Spru_02.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

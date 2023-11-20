@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De kroniek van Godevaert van Haecht over de troebelen van 1565 tot 1574 te Antwerpen en elders 
 
+### 1574_Antw_Haec 
+
 Haecht, Godevaert. De Kroniek van Godevaert van Haecht over de Troebelen van 1565 Tot 1574 Te Antwerpen En Elders. Uitgaven van Het Genootschap Voor Antwerpsche Geschiedenis 2. Antwerpen, 1929. http://www.dbnl.org/tekst/haec002kron01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Haecht, Godevaert. De Kroniek van Godevaert van Haecht over de Troebelen van 156
 
 [<img src="..\..\barplots_chronicles\1574_Antw_Haec.jpg" width="750"/>](..\..\barplots_chronicles\1574_Antw_Haec.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

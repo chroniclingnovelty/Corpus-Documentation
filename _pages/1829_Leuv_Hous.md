@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Leuvense kroniek (1780-1829) 
 
+### 1829_Leuv_Hous 
+
 Hous, J.B. Leuvense kroniek (1780-1829). Edited by J. Kempeneer. Heverlee: Abdij van Park, 1964. 
 
 ## Auteursgegevens 
@@ -33,7 +35,18 @@ Hous, J.B. Leuvense kroniek (1780-1829). Edited by J. Kempeneer. Heverlee: Abdij
 
 [<img src="..\..\barplots_chronicles\1829_Leuv_Hous.jpg" width="750"/>](..\..\barplots_chronicles\1829_Leuv_Hous.jpg) 
 
-## Notes 
+## Notities 
+
+Jean Baptiste Hous werd geboren in Leuven in 1756, en stierf in 1380. Hij was
+pruikenmaker, tot pruiken uit de mode raakten en hij zich omschoolde tot
+brievenbesteller. Hij was getrouwd met Maria Catharina Sterckmans. Hous was
+een tegenstander van de revolutie en bewonderaar van Napoleon. De latere
+kroniek van Jacque Benoit Lameere is een vervolg op de kroniek van Hous;
+Lameere is zijn schoonzoon.<sup>1</sup>
+
+[1] verwijzing naar 1835_leuv_lame
+
+
 
 ## Literatuur 
 

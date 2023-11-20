@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Memoriaal van de stadssecretaris Hendrik van Haexbergen, 1619-1623 
 
+### 1623_Deve_Haex 
+
 Haexbergen, Hendrik. ‘Memoriaal van de stadssecretaris Hendrik van Haexbergen, 1619-1623’. 3. Deventer, 1623. 0691  Schepenen en Raad van de stad Deventer, periode Republiek (22600: 94-2). Stadsarchief Deventer. https://proxy.archieven.nl/20/1676824A92F04DF89CA50336DE5C872D. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Haexbergen, Hendrik. ‘Memoriaal van de stadssecretaris Hendrik van Haexbergen,
 
 [<img src="..\..\barplots_chronicles\1623_Deve_Haex.jpg" width="750"/>](..\..\barplots_chronicles\1623_Deve_Haex.jpg) 
 
-## Notes 
+## Notities 
 
 Het gaat hier eigenlijk om een journaal waarin deze secretaris van Deventer
 gedurende 1610-1631 zijn persoonlijke en ambtelijke activiteiten en financien

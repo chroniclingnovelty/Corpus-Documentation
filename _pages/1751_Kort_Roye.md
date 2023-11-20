@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Corte anotatien ende beschryvinghe van de stadt Cortryck", kroniek van de stad Kortrijk tot 1751. [18de eeuw] 
 
+### 1751_Kort_Roye 
+
 De La Royère, Jean. “Corte Anotatien Ende Beschryvinghe van de Stadt Cortryck", Kroniek van de Stad Kortrijk Tot 1751. [18de Eeuw].” 1. Kortrijk, 1751. Verzameling “Stadsfonds”. Handschriften 935 - 2. Rijksarchief te Kortrijk. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ De La Royère, Jean. “Corte Anotatien Ende Beschryvinghe van de Stadt Cortryck
 
 [<img src="..\..\barplots_chronicles\1751_Kort_Roye.jpg" width="750"/>](..\..\barplots_chronicles\1751_Kort_Roye.jpg) 
 
-## Notes 
+## Notities 
 
 JP 31 aug 2023
 

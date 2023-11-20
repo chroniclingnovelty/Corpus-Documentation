@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Memorye. Kroniek van godsdienstige en politieke twisten in Alkmaar, 1618-1621 
 
+### 1621_Alkm_Anon 
+
 Anoniem. “Memorye. Kroniek van godsdienstige en politieke twisten in Alkmaar, 1618-1621.” Translated by Transcriptiewerkgroep Regionaal Archief Alkmaar. Alkmaar, 1621. Collectie Aanwinsten, inventarisnummer 150. Regionaal Archief Alkmaar. https://dbnl.nl/tekst/_mem002memo01_01/. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Anoniem. “Memorye. Kroniek van godsdienstige en politieke twisten in Alkmaar, 
 
 [<img src="..\..\barplots_chronicles\1621_Alkm_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1621_Alkm_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Deze anonieme kroniek loopt van Oktober 1618 - maart 1621 en gaat uitsluitend
 over onrust en maatregelen tegen remonstranten in Alkmaar. De auteur gebruikt

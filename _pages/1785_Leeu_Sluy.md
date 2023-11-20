@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Journaal off dagregister 
 
+### 1785_Leeu_Sluy 
+
 Sluyterman, Lammoraal Albertus Aemilius. “Journaal off Dagregister.” Leeuwarden, 1785. DBNL. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Sluyterman, Lammoraal Albertus Aemilius. “Journaal off Dagregister.” Leeuwar
 
 [<img src="..\..\barplots_chronicles\1785_Leeu_Sluy.jpg" width="750"/>](..\..\barplots_chronicles\1785_Leeu_Sluy.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

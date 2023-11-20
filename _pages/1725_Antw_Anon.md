@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronijk van het jaar 1725 
 
+### 1725_Antw_Anon 
+
 Anoniem. “Kronijk van Het Jaar 1725.” 1. Antwerpen, 1725. PK 124. Stadsarchief Antwerpen. https://felixarchief.antwerpen.be/detailpagina?invnr=PK_124&page=1&pageSize=10. 
 
 ## Auteursgegevens 
@@ -26,7 +28,7 @@ Anoniem. “Kronijk van Het Jaar 1725.” 1. Antwerpen, 1725. PK 124. Stadsarchi
 
 [<img src="..\..\barplots_chronicles\1725_Antw_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1725_Antw_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 4juli Deze kroniek gaat helemaal over een controversiele zaak tegen een
 groep Antwerpers die in 1725 werden beschuldigd van betrokkenheid bij

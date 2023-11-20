@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Drie kronijkjes der stad Roermond, uit den tijd der Fransche Republiek. 
 
+### 1799_Roer_Schr 
+
 Schreurs, Pieter Hendrik. “Kronijk van Pieter Hendrik Schreurs. 1794-1799.” Edited by Jos Habets. Publications de La Société Archéologique de Limbourg 5 (1868): 285–303. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Schreurs, Pieter Hendrik. “Kronijk van Pieter Hendrik Schreurs. 1794-1799.” 
 
 [<img src="..\..\barplots_chronicles\1799_Roer_Schr.jpg" width="750"/>](..\..\barplots_chronicles\1799_Roer_Schr.jpg) 
 
-## Notes 
+## Notities 
 
 EK Origineel in roermond samen met twee andere kronieken:
 

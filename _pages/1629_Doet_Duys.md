@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van M. van Duysborg, koster te Doetinchem, 1527-1789. 1 deel 
 
+### 1629_Doet_Duys 
+
 Duysborg, M. van. ‘Kroniek van M. van Duysborg, koster te Doetinchem, 1527-1789. 1 deel’. Doetinchem, 1789. 0508  Handschriften Rijksarchief in Gelderland, inv. nr. 209. Gelders Archief. https://permalink.geldersarchief.nl/7929963B211147A5B15E0618DA6D9323. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Duysborg, M. van. ‘Kroniek van M. van Duysborg, koster te Doetinchem, 1527-178
 
 [<img src="..\..\barplots_chronicles\1629_Doet_Duys.jpg" width="750"/>](..\..\barplots_chronicles\1629_Doet_Duys.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

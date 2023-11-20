@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Verhaal van het beleg van het kasteel Vredenburg te Utrecht in 1576, door eenen ooggetuige 
 
+### 1577_Utre_Anon 
+
 Anoniem. “Verhaal van het beleg van het kasteel Vredenburg te Utrecht in 1576, door eenen ooggetuige.” Edited by Samuel Fzn Muller. Bijdragen en Mededelingen van het Historisch Genootschap 6 (1883): 147–216. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Anoniem. “Verhaal van het beleg van het kasteel Vredenburg te Utrecht in 1576,
 
 [<img src="..\..\barplots_chronicles\1577_Utre_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1577_Utre_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Volgens bezorger Samuel Muiler was de auteur in elk geval ‘aanzienlijk burger’
 en conservatief, misschien lid van de Statenvergadering en kanunnik van St.

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dorpskroniek van een Hilversumse oud-katholiek uit de achttiende eeuw 
 
+### 1801_Hilv_Jage 
+
 Jager, Cornelis Hendriksz Dirksz de. Dorpskroniek van Een Hilversumse Oud-Katholiek Uit de Achttiende Eeuw. Edited by Martinus Franciscus Georgius Parmentier. De Geschiedenis van Hilversum, ISSN 0929-9815 6. Hilversum: Verloren, 1989. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Jager, Cornelis Hendriksz Dirksz de. Dorpskroniek van Een Hilversumse Oud-Kathol
 
 [<img src="..\..\barplots_chronicles\1801_Hilv_Jage.jpg" width="750"/>](..\..\barplots_chronicles\1801_Hilv_Jage.jpg) 
 
-## Notes 
+## Notities 
 
 Uitgave ter gelegenheid van het 100-jarig bestaan van het kerkgebouw van de
 oud-katholieke parochie van de H. Vitus aan het Melkpad te Hilversum

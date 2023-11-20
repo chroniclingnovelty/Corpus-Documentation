@@ -8,6 +8,8 @@ parent: Chronicles
 
 # "Historie van Philipinne met hetgeene daer merkwaerdig zoo in kerk als burgerstaet is voorgevallen"; 1504-1747. 
 
+### 1747_Phil_Over 
+
 Overveldt, Nicolaas van. ‘“Historie van Philipinne met hetgeene daer merkwaerdig zoo in kerk als burgerstaet is voorgevallen”; 1504-1747.’ Philipinne, 1747. KB: Ms 71 H 40. KB Den Haag. https://webggc.oclc.org/cbs/DB=2.37/XMLPRS=Y/PPN?PPN=310825024. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Overveldt, Nicolaas van. ‘“Historie van Philipinne met hetgeene daer merkwae
 
 [<img src="..\..\barplots_chronicles\1747_Phil_Over.jpg" width="750"/>](..\..\barplots_chronicles\1747_Phil_Over.jpg) 
 
-## Notes 
+## Notities 
 
 JP 17 juli 2023
 

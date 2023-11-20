@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Notitie van 't voorgevallene bij den doorbraek van den Leckendijck Bovendams in de Wijckerweert bij Wijck, op den 28 Febr. 1747. Genoteert in de stad Utrecht 
 
+### 1747_Utre_Woer 
+
 Woertman, Dirk. “Notitie van ’t voorgevallene bij den doorbraek van den Leckendijck Bovendams in de Wijckerweert bij Wijck, op den 28 Febr. 1747. Genoteert in de stad Utrecht.” Bijdragen en Mededelingen van het Historisch Genootschap, no. 5 (1882): 40–66. 
 
 ## Auteursgegevens 
@@ -36,7 +38,7 @@ Woertman, Dirk. “Notitie van ’t voorgevallene bij den doorbraek van den Leck
 
 [<img src="..\..\barplots_chronicles\1747_Utre_Woer.jpg" width="750"/>](..\..\barplots_chronicles\1747_Utre_Woer.jpg) 
 
-## Notes 
+## Notities 
 
 _Met dank aan Tinka de Haan_
 

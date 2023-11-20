@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Cort verhael van al het ghene in de princelijcke stadt van Brussel is gheschiedt sedert haer eerste beginsel tot desen tegenwoordighen tijt 
 
+### 1681_Brus_Anon 
+
 Anoniem. “Cort Verhael van al Het Ghene in de Princelijcke Stadt van Brussel Is Gheschiedt Sedert Haer Eerste Beginsel Tot Desen Tegenwoordighen Tijt.” Brussel, 1681. ASB Archives historiques, Registre 2916. Stadsarchief Brussel. 
 
 ## Auteursgegevens 
@@ -26,7 +28,7 @@ Anoniem. “Cort Verhael van al Het Ghene in de Princelijcke Stadt van Brussel I
 
 [<img src="..\..\barplots_chronicles\1681_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1681_Brus_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 We hebben over deze anonieme auteur ook in de tekst zelf nog geen informatie
 gevonden.

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Tijdt-wijser van sommighe gedenckweirdige dingen, die geschiet syn binnen, ende buyten de Stadt ende Provincie van Mechelen 
 
+### 1790_Mech_Wijn 
+
 Wijndrickx, Jan Jozef. “Tijdt-Wijser van Sommighe Gedenckweirdige Dingen, Die Geschiet Syn Binnen, Ende Buyten de Stadt Ende Provincie van Mechelen.” Mechelen, 1790. EE Kronieken en Jaarboeken  XV 1. Stadsarchief Mechelen. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Wijndrickx, Jan Jozef. “Tijdt-Wijser van Sommighe Gedenckweirdige Dingen, Die 
 
 [<img src="..\..\barplots_chronicles\1790_Mech_Wijn.jpg" width="750"/>](..\..\barplots_chronicles\1790_Mech_Wijn.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

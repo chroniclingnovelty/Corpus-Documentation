@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagverhaal van het voorgevallene tijdens de Franse belegering en bezetting van Breda in 1793 
 
+### 1793_Bred_Ouko 
+
 Oukoop, Andries. “Dagverhaal van Het Voorgevallene Tijdens de Franse Belegering En Bezetting van Breda in 1793.” Breda, 1793. Stadsarchief Breda. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Oukoop, Andries. “Dagverhaal van Het Voorgevallene Tijdens de Franse Belegerin
 
 [<img src="..\..\barplots_chronicles\1793_Bred_Ouko.jpg" width="750"/>](..\..\barplots_chronicles\1793_Bred_Ouko.jpg) 
 
-## Notes 
+## Notities 
 
 **  
 **De kroniek doet verslag van de gebeurtenissen in februari en maart 1793.

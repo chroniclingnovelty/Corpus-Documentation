@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronycke van Waes, et le chiffre couronné de Léopold 1er 
 
+### 1756_Waas_Anon_01 
+
 Anoniem. “Chronycke van Waes, et Le Chiffre Couronné de Léopold 1er.” Waasland, 1756. Hs 19157. KB Brussel. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Chronycke van Waes, et Le Chiffre Couronné de Léopold 1er.” Waas
 
 [<img src="..\..\barplots_chronicles\1756_Waas_Anon_01.jpg" width="750"/>](..\..\barplots_chronicles\1756_Waas_Anon_01.jpg) 
 
-## Notes 
+## Notities 
 
 Komt grotendeels overeen met deel 2. TD
 

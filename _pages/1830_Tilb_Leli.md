@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Cronijkje van eenige zaken die zedert en in het jaar 1774 te Tilburg en daaromstrent zijn voorgevallen tot den 18 julij 1830 
 
+### 1830_Tilb_Leli 
+
 Lelie, Laurens de. “Cronijkje van Eenige Zaken Die Zedert En in Het Jaar 1774 Te Tilburg En Daaromstrent Zijn Voorgevallen Tot Den 18 Julij 1830.” Tilburg, 1830. HS C128. UB Tilburg. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Lelie, Laurens de. “Cronijkje van Eenige Zaken Die Zedert En in Het Jaar 1774 
 
 [<img src="..\..\barplots_chronicles\1830_Tilb_Leli.jpg" width="750"/>](..\..\barplots_chronicles\1830_Tilb_Leli.jpg) 
 
-## Notes 
+## Notities 
 
 Laurens de Lelie is een broer van de schilder Adriaan de Lelie, zie einde
 kroniek:

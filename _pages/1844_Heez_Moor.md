@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronijk, of Aantekening der merkwaardige voorvallen binnen de gemeente Heeze en eenige omliggende dorpen en enkelde welken algemene belangstelling verdienen 
 
+### 1844_Heez_Moor 
+
 Moorsel, Hendrik Godefridus van. Kronijk, of Aantekening der merkwaardige voorvallen binnen de gemeente Heeze en eenige omliggende dorpen en enkelde welken algemene belangstelling verdienen. Edited by Dominicus de Jong. Achel: Achelse Kluis, 1953. https://dbnl.nl/tekst/moor049kron01_01/. 
 
 ## Auteursgegevens 
@@ -34,15 +36,19 @@ Moorsel, Hendrik Godefridus van. Kronijk, of Aantekening der merkwaardige voorva
 
 [<img src="..\..\barplots_chronicles\1844_Heez_Moor.jpg" width="750"/>](..\..\barplots_chronicles\1844_Heez_Moor.jpg) 
 
-## Notes 
+## Notities 
 
 Auteur is geboren in 1793 in Duinkerken, zoon van een patriot (meester Hendrik
 van Moorsel en Johanna Maria Vonken). Nooit getrouwd. Opgenomen in de Garde
 honeur van Napoleon in zijn jeugd en kapitein van de schutterij. Overleden 4
 juni 1851.
 
-HIj was secretaris van Heeze, Leende en Someren. Op een aantal plaatsen is de
-kroniek aangevuld door de Deken Bartholomeus Kemps. (1836-1916)
+HIj was secretaris van Heeze, Leende en Someren. Hij vermeldt dit zelf in zijn
+kroniek: ‘[16 juli 1820] De Hr H.G. van Moorsel tot secretaris van Someren
+aangesteld om met 1 Januarij 1821 in functie te treden.’
+
+Op een aantal plaatsen is de kroniek aangevuld door de Deken Bartholomeus
+Kemps. (1836-1916)
 
 Kroniek dateert uit de jaren 1842-44. Is waarschijnlijk gestopt omdat het boek
 vol was.

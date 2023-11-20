@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Geschiedkundige aanteekeningen van Gerard Vremdt, notabel burger der stad Culemborg in de tweede helft van de zestiende eeuw 
 
+### 1592_Cule_Vrem 
+
 Vremdt, Gerard. “Geschiedkundige Aanteekeningen van Gerard Vremdt, Notabel Burger Der Stad Culemborg in de Tweede Helft van de Zestiende Eeuw.” Edited by P.J.W. Beltjes. Gelre. Bijdragen En Mededeelingen 44 (ca 1941): 149–74. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Vremdt, Gerard. “Geschiedkundige Aanteekeningen van Gerard Vremdt, Notabel Bur
 
 [<img src="..\..\barplots_chronicles\1592_Cule_Vrem.jpg" width="750"/>](..\..\barplots_chronicles\1592_Cule_Vrem.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

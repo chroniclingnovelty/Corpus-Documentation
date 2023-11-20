@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De kroniek van Pieter Joossen altijt recht hout 
 
+### 1620_Midd_Rech 
+
 Rechthout, Pieter Joossen. “De Kroniek van Pieter Joossen Altijt Recht Hout.” Edited by R. Fruin. Archief. Mededelingen van Het Koninklijk Zeeuwsch Genootschap Der Wetenschappen, 1909, 65–96. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Rechthout, Pieter Joossen. “De Kroniek van Pieter Joossen Altijt Recht Hout.�
 
 [<img src="..\..\barplots_chronicles\1620_Midd_Rech.jpg" width="750"/>](..\..\barplots_chronicles\1620_Midd_Rech.jpg) 
 
-## Notes 
+## Notities 
 
 Gegevens uit Ruud Lindeman, Yvonne Scherf en Rudolf Dekker, _Egodocumenten van
 Noord-Nederlanders uit de zestiende tot begin negentiende eeuw. Een

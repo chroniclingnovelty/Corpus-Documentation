@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Een kroniek van Medemblik 
 
+### 1671_Mede_Oppe 
+
 Opperdoes, Cornelis Jansz. “Een Kroniek van Medemblik.” Edited by Johan Belonje and R. Kaptein. Bijdragen En Mededelingen van Het Historisch Genootschap 64 (1943): 45–107. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Opperdoes, Cornelis Jansz. “Een Kroniek van Medemblik.” Edited by Johan Belo
 
 [<img src="..\..\barplots_chronicles\1671_Mede_Oppe.jpg" width="750"/>](..\..\barplots_chronicles\1671_Mede_Oppe.jpg) 
 
-## Notes 
+## Notities 
 
 MVW/JP 9 aug 2023
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Van die beroerlicke tijden in die Nederlanden en voornamelijk in Ghendt 1566-1568 
 
+### 1568_Gent_Vaer 
+
 Vaernewyck, Marcus. Van Die Beroerlicke Tijden in Die Nederlanden En Voornamelijk in Ghendt 1566-1568. Leiden: DBNL, 2007. http://www.dbnl.org/tekst/vaer003vand01_01/. 
 
 ## Auteursgegevens 
@@ -36,7 +38,7 @@ Vaernewyck, Marcus. Van Die Beroerlicke Tijden in Die Nederlanden En Voornamelij
 
 [<img src="..\..\barplots_chronicles\1568_Gent_Vaer.jpg" width="750"/>](..\..\barplots_chronicles\1568_Gent_Vaer.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

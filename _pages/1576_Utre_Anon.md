@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Utrechtse kroniek over 1566-1576 
 
+### 1576_Utre_Anon 
+
 Anoniem. “Utrechtse kroniek over 1566-1576.” Edited by H. Brugmans. Bijdragen en Mededelingen van het Historisch Genootschap 25 (1904): 1–258. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Anoniem. “Utrechtse kroniek over 1566-1576.” Edited by H. Brugmans. Bijdrage
 
 [<img src="..\..\barplots_chronicles\1576_Utre_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1576_Utre_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Deze kroniek is retrospectief, maar niet lang na de gebeurtenissen geschreven.
 De editie is helaas niet volledig.

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagelijksche aanteekeningen gedurende het verblijf der Franschen te Utrecht in 1672 en 1673, gehouden door Mr. Everard Booth: uit de papieren van Booth medegedeeld 
 
+### 1675_Utre_Boot 
+
 Booth, Everard. “Dagelijksche aanteekeningen gedurende het verblijf der Franschen te Utrecht in 1672 en 1673, gehouden door Mr. Everard Booth: uit de papieren van Booth medegedeeld.” Edited by J.A. Grothe. Berigten van het Historisch Genootschap gevestigd te Utrecht, Tweede serie, 6, no. tweede stuk (1857): 5–170. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Booth, Everard. “Dagelijksche aanteekeningen gedurende het verblijf der Fransc
 
 [<img src="..\..\barplots_chronicles\1675_Utre_Boot.jpg" width="750"/>](..\..\barplots_chronicles\1675_Utre_Boot.jpg) 
 
-## Notes 
+## Notities 
 
 MVW
 

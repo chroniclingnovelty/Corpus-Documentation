@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Iaer-Boecken van Mechelen 
 
+### 1786_Mech_Munc 
+
 Munck, Jozef Jacob de. “Iaer-Boecken van Mechelen.” Mechelen, 1786. EE Kronieken en Jaarboeken  XX 1. Stadsarchief Mechelen. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Munck, Jozef Jacob de. “Iaer-Boecken van Mechelen.” Mechelen, 1786. EE Kroni
 
 [<img src="..\..\barplots_chronicles\1786_Mech_Munc.jpg" width="750"/>](..\..\barplots_chronicles\1786_Mech_Munc.jpg) 
 
-## Notes 
+## Notities 
 
 Met dank aan Tinka de Haan
 

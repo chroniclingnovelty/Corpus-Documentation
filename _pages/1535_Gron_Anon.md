@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniekje van Groningen, uit de 16de eeuw 
 
+### 1535_Gron_Anon 
+
 Anoniem. “Kroniekje van Groningen, uit de 16de eeuw.” Edited by W. Zuidema. Bijdragen en Mededelingen van het Historisch Genootschap 12 (1889): 93–181. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Anoniem. “Kroniekje van Groningen, uit de 16de eeuw.” Edited by W. Zuidema. 
 
 [<img src="..\..\barplots_chronicles\1535_Gron_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1535_Gron_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Van deze auteur weten we alleen dat hij burger van Groningen was, en vrij goed
 ingevoerd maar geen bestuurder - uitgever Zuidema denkt dat hij lid was van de

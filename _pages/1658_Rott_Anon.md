@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Rotterdam 
 
+### 1658_Rott_Anon 
+
 Anoniem, en Jan Gerritsz Waerschut. ‘Kroniek van Rotterdam’. Rotterdam, 1658. 33.01 Handschriftenverzameling inv.nr. 1553. Stadsarchief Rotterdam. https://hdl.handle.net/21.12133/73FA53E1D5EB430A92F892F0D9DE7054. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Anoniem, en Jan Gerritsz Waerschut. ‘Kroniek van Rotterdam’. Rotterdam, 1658
 
 [<img src="..\..\barplots_chronicles\1658_Rott_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1658_Rott_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 MvW/JP 10 aug 23
 

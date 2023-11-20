@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Vervolg der Kronijk van Nijmegen, tot den jare 1818 
 
+### 1818_Nijm_Beto 
+
 Betouw, Johannes in de. Vervolg der Kronijk van Nijmegen, tot den jare 1818. Edited by C.J. van (Nijmegen) Goor en zoon. Nijmegen: C.J. van Goor & zoon, 1818. https://dbnl.nl/tekst/beto001verv01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Betouw, Johannes in de. Vervolg der Kronijk van Nijmegen, tot den jare 1818. Edi
 
 [<img src="..\..\barplots_chronicles\1818_Nijm_Beto.jpg" width="750"/>](..\..\barplots_chronicles\1818_Nijm_Beto.jpg) 
 
-## Notes 
+## Notities 
 
 De kroniek is een vervolg op de ‘Chronijk van de Stad der Batavieren’ van
 Johannes Smetius: in het voorwoord schrijft de auteur dat hij de kroniek van

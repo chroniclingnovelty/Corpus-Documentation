@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Gent, 1301-1568 
 
+### 1568_Gent_Anon 
+
 Anoniem. “Kroniek van Gent, 1301-1568.” Gent, 1568. Boekentoren, BHSL.HS.2489. UB Gent. https://lib.ugent.be/catalog/rug01:000989888. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Anoniem. “Kroniek van Gent, 1301-1568.” Gent, 1568. Boekentoren, BHSL.HS.248
 
 [<img src="..\..\barplots_chronicles\1568_Gent_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1568_Gent_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Deze anonieme kroniek begint al in 707, wordt uitvoerig vanaf veertiende eeuw,
 steeds namen van bestuurders en vooral schepenen van de keure. In het

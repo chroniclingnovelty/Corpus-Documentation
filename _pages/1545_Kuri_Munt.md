@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van gebeurtenissen opgetekend door Christiaan Munters, 1529-1545 
 
+### 1545_Kuri_Munt 
+
 Munters, Christiaan. Dagboek van gebeurtenissen opgetekend door Christiaan Munters, 1529-1545. Onder redactie van Jozef Grauwels. Assen: Van Gorcum [etc.], 1972. https://proxy.archieven.nl/1540/5364A3A6B60964E2E054001A4B08D327. 
 
 ## Auteursgegevens 
@@ -35,12 +37,12 @@ Munters, Christiaan. Dagboek van gebeurtenissen opgetekend door Christiaan Munte
 
 [<img src="..\..\barplots_chronicles\1545_Kuri_Munt.jpg" width="750"/>](..\..\barplots_chronicles\1545_Kuri_Munt.jpg) 
 
-## Notes 
+## Notities 
 
 Toelichting op basis van de toelichting van de uitgever, aantekeningen van
-Ineke van Gelder en eerdere publicatie in Judith Pollmann, _Catholic identity
-and the revolt of the Netherlands, 1520-1635._ (Oxford [etc.]: Oxford
-University Press 2011),(52-57).
+Ineke van Gelder en uit Judith Pollmann, _Catholic identity and the revolt of
+the Netherlands, 1520-1635._ (Oxford [etc.]: Oxford University Press
+2011),(52-57).
 
 Dit is een volledige uitgave van het manuscript, dat te vinden is  in de
 handschriftenafdeling van de Koninklijke Bibliotheek  in Brussel, nr. II 1593.

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van Jan de Pottre, 1549-1602 
 
+### 1602_Brus_Pott 
+
 Pottre, Jan de. Dagboek van Jan de Pottre, 1549-1602. Vol. 3rd series, 5. Maatschappij der Vlaamsche Bibliophilen. Gent: Annoot, 1861. http://www.dbnl.org/tekst/pott013dagb01_01/pott013dagb01_01_0003.php. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Pottre, Jan de. Dagboek van Jan de Pottre, 1549-1602. Vol. 3rd series, 5. Maatsc
 
 [<img src="..\..\barplots_chronicles\1602_Brus_Pott.jpg" width="750"/>](..\..\barplots_chronicles\1602_Brus_Pott.jpg) 
 
-## Notes 
+## Notities 
 
 **‘Jan de Pottre** (1525–1601), was a Brussels merchant, who also held some
 local offices. He married in 1564 and had five children. He was overseer of

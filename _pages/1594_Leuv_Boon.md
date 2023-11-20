@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Geschiedenis van Leuven, geschreven in de jaren 1593 en 1594 
 
+### 1594_Leuv_Boon 
+
 Boonen, Willem. Geschiedenis van Leuven, geschreven in de jaren 1593 en 1594. Onder redactie van Gérard Edouard Van Even. Leuven: Vanbiessem, 1880. https://www.dbnl.org/tekst/boon124gesc01_01/. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Boonen, Willem. Geschiedenis van Leuven, geschreven in de jaren 1593 en 1594. On
 
 [<img src="..\..\barplots_chronicles\1594_Leuv_Boon.jpg" width="750"/>](..\..\barplots_chronicles\1594_Leuv_Boon.jpg) 
 
-## Notes 
+## Notities 
 
 Dit is een heel grote band met daarin meerdere kronieken. Het begint met een
 kroniek van Brabant/Hertogen van Brabant vanaf de oudheid/ middeleeuwen en

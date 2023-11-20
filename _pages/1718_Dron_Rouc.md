@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dronrijps Memoriael 
 
+### 1718_Dron_Rouc 
+
 Roucoma, Hoyte. Dronrijps Memoriael. Onder redactie van K. Terpstra. Leeuwarden: Fryske Akademie, 1986. https://webggc.oclc.org/cbs/DB=2.37/XMLPRS=Y/PPN?PPN=864691955. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Roucoma, Hoyte. Dronrijps Memoriael. Onder redactie van K. Terpstra. Leeuwarden:
 
 [<img src="..\..\barplots_chronicles\1718_Dron_Rouc.jpg" width="750"/>](..\..\barplots_chronicles\1718_Dron_Rouc.jpg) 
 
-## Notes 
+## Notities 
 
 _Met dank aan Tinka de Haan_  
 

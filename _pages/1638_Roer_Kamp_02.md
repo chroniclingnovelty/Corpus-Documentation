@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek der stad Roermond van 1562-1638 
 
+### 1638_Roer_Kamp_02 
+
 Kampen, Joh., en Jan van Ryckenroy. “Kroniek Der Stad Roermond van 1562-1638.” Publications de La Société Historique et Archéologique Dans Le Limbourg XII (1875): 249–386. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Kampen, Joh., en Jan van Ryckenroy. “Kroniek Der Stad Roermond van 1562-1638.�
 
 [<img src="..\..\barplots_chronicles\1638_Roer_Kamp_02.jpg" width="750"/>](..\..\barplots_chronicles\1638_Roer_Kamp_02.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

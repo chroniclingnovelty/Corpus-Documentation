@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aenteeckeningen van de Waere ende Naeckte Beschryvinge van de Troubels ende beroertens voorgevallen binnen de Princelijk stadt Brussel, beginnende met den jaere 1717 ende eyndigende met den jaere 1719, waerin gehandelt wort van de droeve ende lanckbeclachde doodt van Franciscus Anneessens Borger ende Deken der voors. Stadt 
 
+### 1719_Brus_Hage 
+
 Anoniem. “Aenteeckeningen van de Waere Ende Naeckte Beschryvinge van de Troubels Ende Beroertens Voorgevallen Binnen de Princelijk Stadt Brussel, Beginnende Met Den Jaere 1717 Ende Eyndigende Met Den Jaere 1719, Waerin Gehandelt Wort van de Droeve Ende Lanckbeclachde Doodt van Franciscus Anneessens Borger Ende Deken Der Voors. Stadt.” Brussel, 1719. ASB Archives historiques, Registre 3350. Stadsarchief Brussel. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Anoniem. “Aenteeckeningen van de Waere Ende Naeckte Beschryvinge van de Troube
 
 [<img src="..\..\barplots_chronicles\1719_Brus_Hage.jpg" width="750"/>](..\..\barplots_chronicles\1719_Brus_Hage.jpg) 
 
-## Notes 
+## Notities 
 
 Met dank aan Tinka de Haan
 

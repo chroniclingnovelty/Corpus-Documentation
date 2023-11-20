@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Annotatien van Eenige aanmerckensweerdige dingen soo in als buiten de Provintie van Frieslandt in de tijt van twintig Jaren voorgevallen beginnende met den Jare 1696 en eindigende met den Jare 1697 incluis. Het derde deel. 
 
+### 1697_Leeu_Vitr_03 
+
 Vitringa, Horatius. ‘Annotatien van Eenige aanmerckensweerdige dingen soo in als buiten de Provintie van Frieslandt in de tijt van twintig Jaren voorgevallen beginnende met den Jare 1696 en eindigende met den Jare 1697 incluis. Het derde deel.’ Leeuwarden, 1697. Tresoar. 
 
 ## Auteursgegevens 
@@ -36,7 +38,7 @@ Vitringa, Horatius. ‘Annotatien van Eenige aanmerckensweerdige dingen soo in a
 
 [<img src="..\..\barplots_chronicles\1697_Leeu_Vitr_03.jpg" width="750"/>](..\..\barplots_chronicles\1697_Leeu_Vitr_03.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

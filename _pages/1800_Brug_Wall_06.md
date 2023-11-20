@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Merckenweerdigste voorvallen en Daegelijcksche gevallen Brugge 1790 
 
+### 1800_Brug_Wall_06 
+
 Van Walleghem, Jozef. Merckenweerdigste voorvallen en Daegelijcksche gevallen Brugge 1790. Edited by Yvan Van den Berghe and Martine Secelle. Brugge: Gemeentebestuur, 1790. http://www.dbnl.org/auteurs/auteur.php?id=wall076. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Van Walleghem, Jozef. Merckenweerdigste voorvallen en Daegelijcksche gevallen Br
 
 [<img src="..\..\barplots_chronicles\1800_Brug_Wall_06.jpg" width="750"/>](..\..\barplots_chronicles\1800_Brug_Wall_06.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

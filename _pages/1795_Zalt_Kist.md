@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Uit het dagboek van den Zaltbommelschen predikant J.G. Kist (1794-1795) 
 
+### 1795_Zalt_Kist 
+
 Kist, Joost Gerard. “Uit Het Dagboek van Den Zaltbommelschen Predikant J.G. Kist (1794-1795).” Edited by G.J.F. Mes. Bijdragen En Mededelingen Gelre VIII (1905): 453–501. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Kist, Joost Gerard. “Uit Het Dagboek van Den Zaltbommelschen Predikant J.G. Ki
 
 [<img src="..\..\barplots_chronicles\1795_Zalt_Kist.jpg" width="750"/>](..\..\barplots_chronicles\1795_Zalt_Kist.jpg) 
 
-## Notes 
+## Notities 
 
 Nienke: Hier is een roman op gebaseerd. ‘Door een Hollandse Winter’ van
 Caroline Hanken.

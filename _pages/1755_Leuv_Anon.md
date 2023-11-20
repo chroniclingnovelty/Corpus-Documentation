@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Historien oft kort verhael van eenige gedenckweirdige gebeurtenissen van 't beginsel des weirelts 
 
+### 1755_Leuv_Anon 
+
 Anoniem. “Historien Oft Kort Verhael van Eenige Gedenckweirdige Gebeurtenissen van ’t Beginsel Des Weirelts.” Leuven, 1755. Oud Archief Ms. 50 bis. Stadsarchief Leuven. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Anoniem. “Historien Oft Kort Verhael van Eenige Gedenckweirdige Gebeurtenissen
 
 [<img src="..\..\barplots_chronicles\1755_Leuv_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1755_Leuv_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP/EK juli 23
 

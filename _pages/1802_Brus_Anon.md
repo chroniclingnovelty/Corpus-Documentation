@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronyken der principaelste geschiedenissen, voorgevallen tenteyde der fransche republieq 
 
+### 1802_Brus_Anon 
+
 Anoniem. ‘Chronyken der principaelste geschiedenissen, voorgevallen tenteyde der fransche republieq’. Brussel, 1802. Hs 5881. KB Brussel. 
 
 ## Auteursgegevens 
@@ -28,13 +30,7 @@ Anoniem. ‘Chronyken der principaelste geschiedenissen, voorgevallen tenteyde d
 
 [<img src="..\..\barplots_chronicles\1802_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1802_Brus_Anon.jpg) 
 
-## Notes 
-
-RL: wel of niet? JP: niet
-
-TD; motivatie:
-
-
+## Notities 
 
 ## Literatuur 
 

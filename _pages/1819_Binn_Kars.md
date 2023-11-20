@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van Jan Jansz. Karsten te Binnenwijzend; met enige aanvullingen van een van zijn kinderen, 1783-1819 
 
+### 1819_Binn_Kars 
+
 Karsten, Jan Jansz. “Dagboek van Jan Jansz. Karsten Te Binnenwijzend; Met Enige Aanvullingen van Een van Zijn Kinderen, 1783-1819.” 1. Binnenwijzend (Drechterland NH), 1819. Collectie handschriften en losse archivalia, nummer toegang 0216, inventarisnummer 787. West-Fries Archief. 
 
 ## Auteursgegevens 
@@ -32,7 +34,14 @@ Karsten, Jan Jansz. “Dagboek van Jan Jansz. Karsten Te Binnenwijzend; Met Enig
 
 [<img src="..\..\barplots_chronicles\1819_Binn_Kars.jpg" width="750"/>](..\..\barplots_chronicles\1819_Binn_Kars.jpg) 
 
-## Notes 
+## Notities 
+
+Jan Jansz Karsten was een katholieke boer uit Binnenwijzend. Hij wordt geboren
+op 23 juni 1752, trouwt met Antje Jans Koedooder en overlijdt in 1808.
+Verwarrend is dat zijn vader, die dezelfde naam heeft, ook in hetzelfde jaar
+overlijdt.
+
+
 
 ## Literatuur 
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronijk, inhoudende den opgang en voortgang van de scheepryke wijdvermaarde Koopstad Rotterdam, beschreven door Jan Gerritsz. van Waarschut, bakker overleden int jaar 1623. Met een vervolgh tot het jaar 1663". Afschrift eerste kwart 18e eeuw 
 
+### 1687_Rott_Anon 
+
 Anoniem, P.T. Picolet, en Jan Gerritsz Waerschut. ‘Kronijk, inhoudende den opgang en voortgang van de scheepryke wijdvermaarde Koopstad Rotterdam, beschreven door Jan Gerritsz. van Waarschut, bakker overleden int jaar 1623. Met een vervolgh tot het jaar 1663". Afschrift eerste kwart 18e eeuw’. Rotterdam, 1687. 33.01 Handschriftenverzameling inv.nr. 1555. Stadsarchief Rotterdam. https://hdl.handle.net/21.12133/2F6FAFB3D2BC4619839DB563856AAA2B. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem, P.T. Picolet, en Jan Gerritsz Waerschut. ‘Kronijk, inhoudende den opg
 
 [<img src="..\..\barplots_chronicles\1687_Rott_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1687_Rott_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

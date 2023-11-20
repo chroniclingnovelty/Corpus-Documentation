@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Historie van Mechelen 
 
+### 1665_Mech_Vrin 
+
 Vrindts, Dominicus. “Historie van Mechelen.” Mechelen, 1665. EE Kronieken en Jaarboeken VIII 1. Stadsarchief Mechelen. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Vrindts, Dominicus. “Historie van Mechelen.” Mechelen, 1665. EE Kronieken en
 
 [<img src="..\..\barplots_chronicles\1665_Mech_Vrin.jpg" width="750"/>](..\..\barplots_chronicles\1665_Mech_Vrin.jpg) 
 
-## Notes 
+## Notities 
 
 Informatie uit:Hugo Verstrepen,`Dit hebbe ick selver gesien. Handgeschreven
 kronieken, annalen, dagboeken en historien bewaard in het Mechelse

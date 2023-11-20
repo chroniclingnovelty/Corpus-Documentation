@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagverhaal van merkwaardige voorvallen aangetekend door Jacobus Barnaart Junior te Haarlem, 1747-49 
 
+### 1749_Haar_Barn 
+
 Barnaart junior, Jacobus. “Dagverhaal van Merkwaardige Voorvallen Aangetekend Door Jacobus Barnaart Junior Te Haarlem, 1747-49.” Haarlem, 1747. 18528 JS. Noord Hollands Archief Haarlem. https://dbnl.nl/tekst/barn025dagv01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Barnaart junior, Jacobus. “Dagverhaal van Merkwaardige Voorvallen Aangetekend 
 
 [<img src="..\..\barplots_chronicles\1749_Haar_Barn.jpg" width="750"/>](..\..\barplots_chronicles\1749_Haar_Barn.jpg) 
 
-## Notes 
+## Notities 
 
 De Kroniek
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Liber Diversorum D. Annalia en andere Copieen 
 
+### 1551_Kamp_Herm 
+
 Hermans, Geert, Johan van Breda, Heyman Brant, en Cornelis Meeus. ‘Liber Diversorum D. Annalia en andere Copieen’. Vertaald door Peter Bakker, 1551. Oud Archief inv.nr. 12. Stadsarchief Kampen. https://proxy.archieven.nl/69/7BFBE777A5A74B239B3A321ABD2F30FB. 
 
 ## Auteursgegevens 
@@ -35,13 +37,7 @@ Hermans, Geert, Johan van Breda, Heyman Brant, en Cornelis Meeus. ‘Liber Diver
 
 [<img src="..\..\barplots_chronicles\1551_Kamp_Herm.jpg" width="750"/>](..\..\barplots_chronicles\1551_Kamp_Herm.jpg) 
 
-## Notes 
-
-Toelichting voornamelijk op basis van Peter Bakker, _De Annalibus quaedam_
-(digitale editie) <http://kroniekvankampen.huygens.knaw.nl/> en Bakker, P.
-(2020). _Kamper kronieken: Stedelijke geschiedschrijving in de Noordelijke
-Nederlanden_ (ca. 1450- 1550). [proefschrift Vrije Universiteit Amsterdam]
-(<https://research.vu.nl/ws/portalfiles/portal/99086995/734607.pdf>)
+## Notities 
 
 Deze kroniek is het werk van een reeks stadssecretarissen van Kampen. Johan
 van Breda is, met hulp van Heyman Brant, verantwoordelijk voor het deel
@@ -57,6 +53,14 @@ maar ook een hele grote vis op de Kampense markt etc) De bredere context zijn
 de veranderende machtsverhoudingen door het oprukken van de Habsburgs in de
 regio, hun overname van Utrecht en het Sticht en de oorlogen met Gelre. Hier
 en daar schemert er een mening door.
+
+Literatuur
+
+Peter Bakker, _De Annalibus quaedam_ (digitale editie)
+<http://kroniekvankampen.huygens.knaw.nl/> en Bakker, P. (2020). _Kamper
+kronieken: Stedelijke geschiedschrijving in de Noordelijke Nederlanden_ (ca.
+1450- 1550). [proefschrift Vrije Universiteit Amsterdam]
+(<https://research.vu.nl/ws/portalfiles/portal/99086995/734607.pdf>)
 
 
 

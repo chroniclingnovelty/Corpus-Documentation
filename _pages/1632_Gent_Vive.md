@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronĳcke van Ghendt : handschrift deelmakende van het archief van Burchtgraaf Vilain XIIII te Bazel in 't licht gegev. door Frans de Potter 
 
+### 1632_Gent_Vive 
+
 Vivere, Jan. Chronĳcke van Ghendt : handschrift deelmakende van het archief van Burchtgraaf Vilain XIIII te Bazel in ’t licht gegev. door Frans de Potter. Edited by Frans de Potter. Gent: Drukkerij S. Leliaert, A. Siffer & Cie, 1885. http://www.dbnl.org/tekst/vive004chro01_01/colofon.php. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Vivere, Jan. Chronĳcke van Ghendt : handschrift deelmakende van het archief v
 
 [<img src="..\..\barplots_chronicles\1632_Gent_Vive.jpg" width="750"/>](..\..\barplots_chronicles\1632_Gent_Vive.jpg) 
 
-## Notes 
+## Notities 
 
 JP/EK  juni 2023
 

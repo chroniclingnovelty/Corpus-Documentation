@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Relaes van het gepasseerde te Deventer eenigen tijd voor en na de omwenteling van 1795, met het gebeurde ten mijnen huize 
 
+### 1795_Deve_Jord 
+
 Jordens, Coenraad Alexander. “Relaes van Het Gepasseerde Te Deventer Eenigen Tijd Voor En Na de Omwenteling van 1795, Met Het Gebeurde Ten Mijnen Huize.” Deventer, 1795. Dv KB 305 KL. Athenaeum Bibliotheek Deventer. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Jordens, Coenraad Alexander. “Relaes van Het Gepasseerde Te Deventer Eenigen T
 
 [<img src="..\..\barplots_chronicles\1795_Deve_Jord.jpg" width="750"/>](..\..\barplots_chronicles\1795_Deve_Jord.jpg) 
 
-## Notes 
+## Notities 
 
 JP 17 8 2023
 

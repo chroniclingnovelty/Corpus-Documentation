@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Tamme Gijsbers 
 
+### 1646_Gron_Gijs 
+
 Gijsbers, Tamme. ‘Kroniek van Tamme Gijsbers’. Groningen, 1646. LTK 2293. Universiteitsbibliotheek Leiden. https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/18s393l/alma990035521510302711. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Gijsbers, Tamme. ‘Kroniek van Tamme Gijsbers’. Groningen, 1646. LTK 2293. Un
 
 [<img src="..\..\barplots_chronicles\1646_Gron_Gijs.jpg" width="750"/>](..\..\barplots_chronicles\1646_Gron_Gijs.jpg) 
 
-## Notes 
+## Notities 
 
 Tamme Geijsbers (Gijsbers), Dagboek over de periode 1594-1647. - Groningen,
 ca. 1636-1647. 1 deel, eigenhandig geschreven, 2+43+1 fol.; 98×73 mm. - Papier

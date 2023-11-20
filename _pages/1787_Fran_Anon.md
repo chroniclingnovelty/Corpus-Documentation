@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagverhaal van de gebeurtenissen te Franeker 
 
+### 1787_Fran_Anon 
+
 Anoniem. ‘Dagverhaal van de gebeurtenissen te Franeker’. 1. Franeker, 1787. 332-04  Familie Telting. Inv no 112. Tresaor. http://archieven.tresoar.nl/maisinternet.php?mivast=36&mizig=210&miadt=36&miaet=1&micode=332-04&minr=1205167&miview=inv2. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Anoniem. ‘Dagverhaal van de gebeurtenissen te Franeker’. 1. Franeker, 1787. 
 
 [<img src="..\..\barplots_chronicles\1787_Fran_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1787_Fran_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 28 juli 2023
 

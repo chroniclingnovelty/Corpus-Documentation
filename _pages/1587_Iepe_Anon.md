@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronique d'Ypres, contenant le récit des évènements, qui s'y sont passés à l'époque des troubles religieux (1567- 1587) 
 
+### 1587_Iepe_Anon 
+
 Anoniem. “Chronique d’Ypres, Contenant Le Récit Des Évènements, Qui s’y Sont Passés à l’époque Des Troubles Religieux (1567- 1587).” Ieper, 1587. Merghelynck 140. KB Brussel. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Anoniem. “Chronique d’Ypres, Contenant Le Récit Des Évènements, Qui s’y
 
 [<img src="..\..\barplots_chronicles\1587_Iepe_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1587_Iepe_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Het gaat hier om een uittreksel/herwerking uit de contemporaine kroniek van
 Thomas de Raeve over Ieper, over de periode 1567-87, met een focus op de

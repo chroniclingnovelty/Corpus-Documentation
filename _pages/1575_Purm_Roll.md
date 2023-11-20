@@ -8,6 +8,8 @@ parent: Chronicles
 
 # 'Origo civitatis Hornensis' over de jaren 1316-1536; 'Een cort verhael van 't geene in Hollant ende den omleggende plaetsen geschyet is over 1572-1575', overgeschreven van Jacob Matthijsz. Rol, oud-burgemeester van Purmerend; 'Brevissima Chronologia et Topographia Ecclesiarum et Conventuum civitatis Hoemensis' over de jaren 1330-1526, anoniem, eind 16e eeuw 
 
+### 1575_Purm_Roll 
+
 Matthijsz. Rol, Jacob, Jan Buyes, Anonymus, Anonymus, en Jan Buyes. ‘“Origo civitatis Hornensis” over de jaren 1316-1536; ’Een cort verhael van “t geene in Hollant ende den omleggende plaetsen geschyet is over 1572-1575”, overgeschreven van Jacob Matthijsz. Rol, oud-burgemeester van Purmerend; “Brevissima Chronologia et Topographia Ecclesiarum et Conventuum civitatis Hoemensis” over de jaren 1330-1526, anoniem, eind 16e eeuw’. Hoorn, 1575. 176 Losse aanwinsten (verkregen tot 1984) van het Noord-Hollands Archief te Haarlem, 14.1.3.6., Inventarisnummer: 1540. Noord Hollands Archief Haarlem. http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&miaet=1&micode=176&minr=742232&miview=inv2. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Matthijsz. Rol, Jacob, Jan Buyes, Anonymus, Anonymus, en Jan Buyes. ‘“Origo 
 
 [<img src="..\..\barplots_chronicles\1575_Purm_Roll.jpg" width="750"/>](..\..\barplots_chronicles\1575_Purm_Roll.jpg) 
 
-## Notes 
+## Notities 
 
 Dit verzamelhandschrift bevat:
 

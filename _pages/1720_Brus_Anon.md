@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Oudtheden ofte Chronychsche jaerboek der prinselijcke Stadt Brussel bijeen vergaedert uijt verscheijde schrijvers der stadt Brussel door eenen liefhebber van het vaderlandt 
 
+### 1720_Brus_Anon 
+
 Anoniem. “Oudtheden Ofte Chronychsche Jaerboek Der Prinselijcke Stadt Brussel Bijeen Vergaedert Uijt Verscheijde Schrijvers Der Stadt Brussel Door Eenen Liefhebber van Het Vaderlandt.” Brussel, 1720. ASB Archives historiques, Registre 2959B. Stadsarchief Brussel. 
 
 ## Auteursgegevens 
@@ -26,7 +28,7 @@ Anoniem. “Oudtheden Ofte Chronychsche Jaerboek Der Prinselijcke Stadt Brussel 
 
 [<img src="..\..\barplots_chronicles\1720_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1720_Brus_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 We hebben geen nadere informatie over de auteur/samensteller of
 ontstaansgeschiedenis van deze kroniek weten te vinden.

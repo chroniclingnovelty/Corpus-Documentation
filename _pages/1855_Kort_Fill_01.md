@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Tydscronyck, deel 1 
 
+### 1855_Kort_Fill_01 
+
 Filleul, Jan Baptiste. “Tydscronyck, Deel 1.” Kortrijk, 1855. Stadsfonds, 935 inv.nr. 31. Rijksarchief te Kortrijk. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Filleul, Jan Baptiste. “Tydscronyck, Deel 1.” Kortrijk, 1855. Stadsfonds, 93
 
 [<img src="..\..\barplots_chronicles\1855_Kort_Fill_01.jpg" width="750"/>](..\..\barplots_chronicles\1855_Kort_Fill_01.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

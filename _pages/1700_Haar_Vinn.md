@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagelijckse aentekeninge van Vincent Laurensz. van der Vinne 
 
+### 1700_Haar_Vinn 
+
 Vinne, Vincent Laurensz van der. Dagelijckse Aentekeninge van Vincent Laurensz. van Der Vinne. Edited by B. C. Sliggers. Fibula Ooggetuigen. Haarlem: Fibula-van Dishoeck, 1979. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Vinne, Vincent Laurensz van der. Dagelijckse Aentekeninge van Vincent Laurensz. 
 
 [<img src="..\..\barplots_chronicles\1700_Haar_Vinn.jpg" width="750"/>](..\..\barplots_chronicles\1700_Haar_Vinn.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

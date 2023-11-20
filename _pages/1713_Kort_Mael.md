@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronycke van Cortryck, 1682-1713 
 
+### 1713_Kort_Mael 
+
 Maele, Philippus van de. “Chronycke van Cortryck, 1682-1713.” 3. Kortrijk, 1713. Fonds Goethals-Vercruysse, ms. 212. Rijksarchief te Kortrijk. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Maele, Philippus van de. “Chronycke van Cortryck, 1682-1713.” 3. Kortrijk, 1
 
 [<img src="..\..\barplots_chronicles\1713_Kort_Mael.jpg" width="750"/>](..\..\barplots_chronicles\1713_Kort_Mael.jpg) 
 
-## Notes 
+## Notities 
 
 JP 30 juni 2023.
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Memorij: het dagboek van Cornelis Pieter Sorgdrager 
 
+### 1826_Amel_Sorg 
+
 Sorgdrager, Cornelis Pieter. Memorij: Het Dagboek van Cornelis Pieter Sorgdrager. Edited by W.J. Maas and P.B. Schuringa. Hollum: Maas], 1982. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Sorgdrager, Cornelis Pieter. Memorij: Het Dagboek van Cornelis Pieter Sorgdrager
 
 [<img src="..\..\barplots_chronicles\1826_Amel_Sorg.jpg" width="750"/>](..\..\barplots_chronicles\1826_Amel_Sorg.jpg) 
 
-## Notes 
+## Notities 
 
 Sorgdrager was doopsgezind. Er waren nogal wat doopsgezinde stromingen op
 Ameland en Sorgdrager behoorde tot de strenge Jan Jacobsgezinden. Hij was ook

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Diarium van Egbert Alting, 1553-1594 
 
+### 1594_Gron_Alti 
+
 Alting, Egbert. Diarium van Egbert Alting, 1553-1594. Onder redactie van W.J. Formsma. Den Haag, 1964. https://resources.huygens.knaw.nl/retroboeken/diarium_alting/#page=0&accessor=toc&view=homePane 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Alting, Egbert. Diarium van Egbert Alting, 1553-1594. Onder redactie van W.J. Fo
 
 [<img src="..\..\barplots_chronicles\1594_Gron_Alti.jpg" width="750"/>](..\..\barplots_chronicles\1594_Gron_Alti.jpg) 
 
-## Notes 
+## Notities 
 
 in NNBW deel 1 93-94
 

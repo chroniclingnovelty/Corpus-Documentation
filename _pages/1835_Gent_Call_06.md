@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Gentsche kronijke : 1525-1835 / door Edou. Callion. 1832-1835. 
 
+### 1835_Gent_Call_06 
+
 Callion, Edouard. “Gentsche Kronijke : 1525-1835 / Door Edou. Callion. 1832-1835.” Gent, 1835. Boekentoren, BIB.G.014248  v.01. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000765646?i=67&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Callion, Edouard. “Gentsche Kronijke : 1525-1835 / Door Edou. Callion. 1832-
 
 [<img src="..\..\barplots_chronicles\1835_Gent_Call_06.jpg" width="750"/>](..\..\barplots_chronicles\1835_Gent_Call_06.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

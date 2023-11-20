@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Den polytye boeck, ... beginnende den  22sten augusto in tjaer ons heeren 1658 (1658-1668) deel 1 
 
+### 1668_Gent_Bill_01 
+
 Billet, Justus. ‘Den polytye boeck, ... beginnende den  22sten augusto in tjaer ons heeren 1658 (1658-1668) deel 1’. Gent, 1668. GSA1.1GD1. Stadsarchief Gent. http://www.cageweb.be/catalog/cgw01:000019446. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Billet, Justus. ‘Den polytye boeck, ... beginnende den  22sten augusto in tja
 
 [<img src="..\..\barplots_chronicles\1668_Gent_Bill_01.jpg" width="750"/>](..\..\barplots_chronicles\1668_Gent_Bill_01.jpg) 
 
-## Notes 
+## Notities 
 
 JP 9 08 2023
 

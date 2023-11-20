@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Een Rotterdamsch Gedenkschrift uit den patriottentijd en de dagen der revolutie 
 
+### 1806_Rott_Beef 
+
 Beeftingh, Josua van. ‘Een Rotterdamsch Gedenkschrift uit den patriottentijd en de dagen der revolutie’. Bijdragen en Mededelingen van het Historisch Genootschap 31, nr. Lintum, C. te (1910): 97-231. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Beeftingh, Josua van. ‘Een Rotterdamsch Gedenkschrift uit den patriottentijd e
 
 [<img src="..\..\barplots_chronicles\1806_Rott_Beef.jpg" width="750"/>](..\..\barplots_chronicles\1806_Rott_Beef.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Gedenkschriften van Jhr. Herberen van Mijnden 
 
+### 1553_Utre_Mijn 
+
 Mijnden, Herberen van. ‘Gedenkschriften van Jhr. Herberen van Mijnden’. Onder redactie van Samuel Fzn Muller. Bijdragen en Mededelingen van het Historisch Genootschap 11 (1888): 9-69. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Mijnden, Herberen van. ‘Gedenkschriften van Jhr. Herberen van Mijnden’. Onde
 
 [<img src="..\..\barplots_chronicles\1553_Utre_Mijn.jpg" width="750"/>](..\..\barplots_chronicles\1553_Utre_Mijn.jpg) 
 
-## Notes 
+## Notities 
 
 IG Schrijver Jhr. Herberen van Mijnden denkelijk geboren omstreeks 1500,
 overleden omstreeks 1552; de tweede zoon van Wouter Van Aemstel van Mijnden en

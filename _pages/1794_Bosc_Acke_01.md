@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronyk der Hoofdstad 's Hertogenbosch. Inhoudende allerlei merkwaardige zaaken, binnen die stad en eenige in derselver meijerij voorgevallen, of daartoe betreklijk. Aanvang neemende met den jaare 1780. Ten tijde van derzelver gebeurtenis naaukeurig binnen voorzeide stad aan, geteekend door Mr. Willem. Corn: Ackersdijck. 1e stuk. 
 
+### 1794_Bosc_Acke_01 
+
 Ackersdijk, Willem Cornelis. “Kronyk Der Hoofdstad ’s Hertogenbosch. Inhoudende Allerlei Merkwaardige Zaaken, Binnen Die Stad En Eenige in Derselver Meijerij Voorgevallen, of Daartoe Betreklijk. Aanvang Neemende Met Den Jaare 1780. Ten Tijde van Derzelver Gebeurtenis Naaukeurig Binnen Voorzeide Stad Aan, Geteekend Door Mr. Willem. Corn: Ackersdijck. 1e Stuk.” Den Bosch, 1789. KHS D154. UB Tilburg. 
 
 ## Auteursgegevens 
@@ -37,7 +39,7 @@ Ackersdijk, Willem Cornelis. “Kronyk Der Hoofdstad ’s Hertogenbosch. Inhoude
 
 [<img src="..\..\barplots_chronicles\1794_Bosc_Acke_01.jpg" width="750"/>](..\..\barplots_chronicles\1794_Bosc_Acke_01.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Die Chronicke van der vermaerder en de vromer stad van 's-Hertogenbosch etc 
 
+### 1558_Bosc_Cupe 
+
 Cuperinus, Adelbertus. “Die Chronicke van Der Vermaerder En de Vromer Stad van ’s-Hertogenbosch Etc.” In Verzameling van Kronyken, Charters En Oorkonden Betrekkelijk de Stad En Meijerij van ’s-Hertogenbosch, edited by Cornelis Rudolphus Hermans, 1:1–395. ’s Hertogenbosch: Stokvisch, 1847. https://www.dbnl.org/tekst/herm003verz01_01/herm003verz01_01_0003.php. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Cuperinus, Adelbertus. “Die Chronicke van Der Vermaerder En de Vromer Stad van
 
 [<img src="..\..\barplots_chronicles\1558_Bosc_Cupe.jpg" width="750"/>](..\..\barplots_chronicles\1558_Bosc_Cupe.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

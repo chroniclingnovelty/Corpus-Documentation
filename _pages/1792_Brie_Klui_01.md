@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Historische Jaerboeken der stad Briel, deel 1, 1e stuk, 1747-1751 
 
+### 1792_Brie_Klui_01 
+
 Kluit, Jan. “Historische Jaerboeken Der Stad Briel, Deel 1, 1e Stuk, 1747-1751.” Brielle, 1751. 501, inventarisnummer 1. Streekarchief Voorne-Putten Rozenburg. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Kluit, Jan. “Historische Jaerboeken Der Stad Briel, Deel 1, 1e Stuk, 1747-1751
 
 [<img src="..\..\barplots_chronicles\1792_Brie_Klui_01.jpg" width="750"/>](..\..\barplots_chronicles\1792_Brie_Klui_01.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

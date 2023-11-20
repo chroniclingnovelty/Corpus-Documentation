@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Historie der Nederlanden onder de Regering van Albertus en Isabella Philippus IV en Karel II 1612 tot 1683, met bygevoegde portretten 
 
+### 1683_Brus_Jaki 
+
 Jakinet, Joannes. ‘Historie der Nederlanden onder de Regering van Albertus en Isabella Philippus IV en Karel II 1612 tot 1683, met bygevoegde portretten’. Brussel, 1683. 15938-5184. KB Brussel. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Jakinet, Joannes. ‘Historie der Nederlanden onder de Regering van Albertus en 
 
 [<img src="..\..\barplots_chronicles\1683_Brus_Jaki.jpg" width="750"/>](..\..\barplots_chronicles\1683_Brus_Jaki.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

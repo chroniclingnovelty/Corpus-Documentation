@@ -8,6 +8,8 @@ parent: Chronicles
 
 # "Kroniek Daalder" : aantekeningen betreffende huwelijk, overlijden en plaatselijke gebeurtenissen in Oostzaan over de jaren 1682-1724 
 
+### 1724_Oost_Daal 
+
 Daalder, Jan Sijmons. “Kroniek Daalder” : Aantekeningen Betreffende Huwelijk, Overlijden En Plaatselijke Gebeurtenissen in Oostzaan over de Jaren 1682-1724. Edited by J. Dane-Ruijter. Oostzaan, 1994. http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=383&miadt=236&miaet=14&micode=3000&minr=4237707&miview=ldt. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Daalder, Jan Sijmons. “Kroniek Daalder” : Aantekeningen Betreffende Huweli
 
 [<img src="..\..\barplots_chronicles\1724_Oost_Daal.jpg" width="750"/>](..\..\barplots_chronicles\1724_Oost_Daal.jpg) 
 
-## Notes 
+## Notities 
 
 Deze Kroniek, getranscribeerd door J. Dane- Ruijter, bevat aantekingen
 betreffende huwelijken, overlijdens, predikanten en plaatselijke

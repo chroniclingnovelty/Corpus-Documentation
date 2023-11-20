@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de voornaemste voorvallen t'sedert den jaere 1740 
 
+### 1753_Vars_Verm 
+
 Vermeersch, J. “Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de Voornaemste Voorvallen t’sedert Den Jaere 1740.” 3. Varsenare, 1753. Pk. 134. Stadsarchief Antwerpen. https://felixarchief.antwerpen.be/archievenoverzicht/175717. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Vermeersch, J. “Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de Voornae
 
 [<img src="..\..\barplots_chronicles\1753_Vars_Verm.jpg" width="750"/>](..\..\barplots_chronicles\1753_Vars_Verm.jpg) 
 
-## Notes 
+## Notities 
 
 EK
 

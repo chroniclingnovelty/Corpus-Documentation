@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aantekeningen en bevindingen van Pieter van der Pols uit Katendrecht, 1719-1816 
 
+### 1770_Kate_Pols 
+
 Pols, van der, Pieter. ‘Aantekeningen en bevindingen van Pieter van der Pols uit Katendrecht, 1719-1816’. Katendrecht, 1816. Toegangsnummer 33-01, inventarisnummer 4706. Stadsarchief Rotterdam. https://hdl.handle.net/21.12133/1101E757F5184620BF575EF559852611. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Pols, van der, Pieter. ‘Aantekeningen en bevindingen van Pieter van der Pols u
 
 [<img src="..\..\barplots_chronicles\1770_Kate_Pols.jpg" width="750"/>](..\..\barplots_chronicles\1770_Kate_Pols.jpg) 
 
-## Notes 
+## Notities 
 
 Deze transcriptie is van Sebastiaan Lems, die ons ook attendeerde op het
 bestaan van deze tekst.

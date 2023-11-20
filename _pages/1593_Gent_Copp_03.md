@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Gent, 1566-1593 
 
+### 1593_Gent_Copp_03 
+
 Coppens, Gillis. ‘Kroniek van Gent, 1566-1593’. Gent, 1593. Boekentoren, BHSL.HS.0159  v.1, 2, 3. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000824716?i=19&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Coppens, Gillis. ‘Kroniek van Gent, 1566-1593’. Gent, 1593. Boekentoren, BHS
 
 [<img src="..\..\barplots_chronicles\1593_Gent_Copp_03.jpg" width="750"/>](..\..\barplots_chronicles\1593_Gent_Copp_03.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

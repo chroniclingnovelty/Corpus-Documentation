@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniekje van Hoegaarden, 1670-1759 
 
+### 1759_Hoeg_Kemp 
+
 Kempeneers, Paul, ed. Kroniekje van Hoegaarden, 1670-1759. Oostbrabantse Historische Teksten 1. Tielt-Winge: Oostbrabantse werkgemeenschap, 1986. https://www.dbnl.org/tekst/_kro016kron01_01/. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Kempeneers, Paul, ed. Kroniekje van Hoegaarden, 1670-1759. Oostbrabantse Histori
 
 [<img src="..\..\barplots_chronicles\1759_Hoeg_Kemp.jpg" width="750"/>](..\..\barplots_chronicles\1759_Hoeg_Kemp.jpg) 
 
-## Notes 
+## Notities 
 
 Met dank aan Tinka de Haan
 

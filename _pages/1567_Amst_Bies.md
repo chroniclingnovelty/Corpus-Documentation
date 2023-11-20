@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Anteykeningen, gedaen van Broer Hendrik van Biesten, Orateur van de Minnebroeders binnen Amsterdam, op de nijeuwe mare en geschiedenis, dat geschiet is binnen en omtrent Amsterdam, sedert den jaere 1534 tot den jaere 1567; getrouwelijc gecomponiert 
 
+### 1567_Amst_Bies 
+
 Biesten, Hendrik van. “Anteykeningen, gedaen van Broer Hendrik van Biesten, Orateur van de Minnebroeders binnen Amsterdam, op de nijeuwe mare en geschiedenis, dat geschiet is binnen en omtrent Amsterdam, sedert den jaere 1534 tot den jaere 1567; getrouwelijc gecomponiert.” Edited by Joseph Alberdingh Thijm. De Dietsche warande, no. 7 (1866): 519–50. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Biesten, Hendrik van. “Anteykeningen, gedaen van Broer Hendrik van Biesten, Or
 
 [<img src="..\..\barplots_chronicles\1567_Amst_Bies.jpg" width="750"/>](..\..\barplots_chronicles\1567_Amst_Bies.jpg) 
 
-## Notes 
+## Notities 
 
 De auteur is orateur van de minderbroeders in Amsterdam. Hij werd de stad
 uitgezet bij de Alteratie van Amsterdam in 1578, maar keerde vrijwel meteen

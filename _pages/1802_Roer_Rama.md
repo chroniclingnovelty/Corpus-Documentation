@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Drie kronijkjes der stad Roermond, uit den tijd der Fransche Republiek. 
 
+### 1802_Roer_Rama 
+
 Ramaekers, [Zoldermeester]. “Uittreksel Uit de Chronijk van Den Zoldermeester Ramaekers. 1781-1802.” Edited by Jos Habets. Publications de La Société Archéologique de Limbourg 5 (1868): 303–8. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Ramaekers, [Zoldermeester]. “Uittreksel Uit de Chronijk van Den Zoldermeester 
 
 [<img src="..\..\barplots_chronicles\1802_Roer_Rama.jpg" width="750"/>](..\..\barplots_chronicles\1802_Roer_Rama.jpg) 
 
-## Notes 
+## Notities 
 
 EK Origineel in roermond samen met twee andere kronieken:
 

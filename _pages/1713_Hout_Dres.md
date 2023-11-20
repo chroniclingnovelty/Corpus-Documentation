@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek Joannes Dresens, schepen van Houthem 1673-1713 
 
+### 1713_Hout_Dres 
+
 Dresens, Joannes. “Kroniek Joannes Dresens, Schepen van Houthem 1673-1713.” Houthem, 1713. Handschriftencollectie GAM, toegangsnummer 22.001A, inventarisnummer 362. RHCL. http://www.archieven.nl/mi/1540/?mivast=1540&mizig=210&miadt=38&miaet=1&micode=22.001A&minr=14224547&miview=inv2. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Dresens, Joannes. “Kroniek Joannes Dresens, Schepen van Houthem 1673-1713.” 
 
 [<img src="..\..\barplots_chronicles\1713_Hout_Dres.jpg" width="750"/>](..\..\barplots_chronicles\1713_Hout_Dres.jpg) 
 
-## Notes 
+## Notities 
 
 JP/EK/FM 30 juni 2023
 

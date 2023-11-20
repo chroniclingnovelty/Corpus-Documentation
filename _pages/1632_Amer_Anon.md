@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Cronyk van Sint Aagten Convent : een oude kloosterkroniek uit de 15 - 17e eeuw 
 
+### 1632_Amer_Anon 
+
 Boerwinkel, F., ed. Cronyk van Sint Aagten Convent : Een Oude Kloosterkroniek Uit de 15 - 17e Eeuw. Amersfoort, 1939. https://dbnl.nl/tekst/_cro002cron01_01/. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Boerwinkel, F., ed. Cronyk van Sint Aagten Convent : Een Oude Kloosterkroniek 
 
 [<img src="..\..\barplots_chronicles\1632_Amer_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1632_Amer_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 met dank aan Max van Winden
 

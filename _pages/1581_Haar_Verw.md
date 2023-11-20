@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Memoriaelbouck. Dagboek van gebeurtenissen te Haarlem van 1572-1581 
 
+### 1581_Haar_Verw 
+
 Verwer, Willem Janszoon. Memoriaelbouck. Dagboek van gebeurtenissen te Haarlem van 1572-1581. Edited by J.J. Temminck. Haarlem: Schuyt & Co, 1973. http://www.dbnl.nl/tekst/verw006memo01_01/index.htm. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Verwer, Willem Janszoon. Memoriaelbouck. Dagboek van gebeurtenissen te Haarlem v
 
 [<img src="..\..\barplots_chronicles\1581_Haar_Verw.jpg" width="750"/>](..\..\barplots_chronicles\1581_Haar_Verw.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

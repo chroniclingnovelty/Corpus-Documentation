@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Ieper, 180-1695, met talrijke legendarische of anecdotische onderdelen 
 
+### 1695_Iepe_Anon 
+
 Anoniem. “Kroniek van Ieper, 180-1695, Met Talrijke Legendarische of Anecdotische Onderdelen.” Ieper, 1695. Boekentoren, BHSL.HS.0616/MICRO. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000808666?i=40&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Kroniek van Ieper, 180-1695, Met Talrijke Legendarische of Anecdotis
 
 [<img src="..\..\barplots_chronicles\1695_Iepe_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1695_Iepe_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 3 juli.
 
@@ -65,15 +67,12 @@ de huidige tijd, o.a. met lijst vervallen herbergen in Ieper. Het geheel is
 nogal rommelig omdat er gedichten, anecdotes, en toneelteksten tussendoor
 zitten gevlochten, en digressies over wapens.
 
-TD: twee handschriften die door elkaar heen worden gebruikt.
-
-JP 30 juni 2023 - in deze vierde chronicke veel sensationele verhalen, ook
-over diefstal, moord, bedrog, brand, executies, verleide dienstmaagden en dode
-kinderen. Ook veel religieuze zaken - bedrog van Joden en ketters, helemaal in
-de traditie van spanning en sensatie van Thomas de Raeve (die voor de 16e eeuw
-veelvuldig wordt geciteerd en waarvan het origineel niet is overgeleverd).
-Maar ik zie geen aanwijzingen over auteur, behalve dat hij katholiek en iepers
-is.
+In deze vierde chronicke veel sensationele verhalen, ook over diefstal, moord,
+bedrog, brand, executies, verleide dienstmaagden en dode kinderen. Ook veel
+religieuze zaken - bedrog van Joden en ketters, helemaal in de traditie van
+spanning en sensatie van Thomas de Raeve (die voor de 16e eeuw veelvuldig
+wordt geciteerd en waarvan het origineel niet is overgeleverd). Maar geen
+aanwijzingen over auteur, behalve dat hij katholiek en iepers is.
 
 In eerste deel ook veel afschriften van Glaude de Clerck, rederijker, die
 volgens de auteur weinig onderwijs had gehad maar toch geweldig kon dichten

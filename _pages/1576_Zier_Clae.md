@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Verhaal van het beleg voor Zierikzee (1575-1576) door Cornelis Claes 
 
+### 1576_Zier_Clae 
+
 Claes, Cornelis. “Verhaal van Het Beleg Voor Zierikzee (1575-1576) Door Cornelis Claes.” Edited by J. Pot. Bijdragen En Mededeelingen van Het Historisch Genootschap, (Gevestigd Te Utrecht) 50 (1929): 107–40. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Claes, Cornelis. “Verhaal van Het Beleg Voor Zierikzee (1575-1576) Door Cornel
 
 [<img src="..\..\barplots_chronicles\1576_Zier_Clae.jpg" width="750"/>](..\..\barplots_chronicles\1576_Zier_Clae.jpg) 
 
-## Notes 
+## Notities 
 
 De auteur is volgens bezorger J. Pot waarschijnlijk burgemeester Claes Claesz
 van Zuydkerke.

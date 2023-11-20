@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Een Zierikzeese kroniek (693-1473) 
 
+### 1509_Zier_Anon 
+
 Anoniem. “Een Zierikzeese kroniek (693-1473).” Edited by J.G. Smit. Kroniek van het land van de zeemeermin (Schouwen-Duiveland) 16 (1991): 21–40. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Anoniem. “Een Zierikzeese kroniek (693-1473).” Edited by J.G. Smit. Kroniek 
 
 [<img src="..\..\barplots_chronicles\1509_Zier_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1509_Zier_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Toelichting op basis van de inleiding van uitgever Smit en de tekst:
 
@@ -50,7 +52,7 @@ uit de 'voorbodeboeken'(keurboeken). In de kopie van rond 1509 zit ook nog een
 Een van deze teksten is gedateerd, vandaar dat ook het afschrift van de
 kroniek rond die datum.
 
-De kopiisst van de kroniek en deze teksten schrijft volgens Smit slordiger dan
+De kopiist van de kroniek en deze teksten schrijft volgens Smit slordiger dan
 de geoefende kopiist van de wetgeving die ook in dit Ms te vinden is. Hij
 gebruikt Zierikzees dialect en is dus lokaal.
 

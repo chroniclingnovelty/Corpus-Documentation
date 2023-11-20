@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aentekening van verscheyden saken, welke in en omtrent Steenwijk sijn voorgevallen op het papier eertijds gestelt door Mr. Zijger ter Stege in sijn leven Secretaris deser Stadt Steenwijck 
 
+### 1582_Stee_Steg 
+
 Stege, Zieger ter. ‘Aentekening van verscheyden saken, welke in en omtrent Steenwijk sijn voorgevallen op het papier eertijds gestelt door Mr. Zijger ter Stege in sijn leven Secretaris deser Stadt Steenwijck’. Steenwijk, 1582. 0263  Vereeniging tot Beoefening van Overijsselsch Regt en Geschiedenis (VORG), handschriftenverzameling inv.nr. 947. Historisch Centrum Overijssel. https://proxy.archieven.nl/20/8C91FFAECD66489DAA141D13956B1118. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Stege, Zieger ter. ‘Aentekening van verscheyden saken, welke in en omtrent Ste
 
 [<img src="..\..\barplots_chronicles\1582_Stee_Steg.jpg" width="750"/>](..\..\barplots_chronicles\1582_Stee_Steg.jpg) 
 
-## Notes 
+## Notities 
 
 JP en TD 2023
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Notitieboeck van alle gedenkweerdige geschiedenissen voorgevallen in onze stad Antwerpen en elders, deel 2 
 
+### 1846_Antw_Coni_02 
+
 Coninck, F.J. de. “Notitieboeck van Alle Gedenkweerdige Geschiedenissen Voorgevallen in Onze Stad Antwerpen En Elders, Deel 2.” 1. Antwerpen, n.d. Pk. 137. Stadsarchief Antwerpen. https://felixarchief.antwerpen.be/archievenoverzicht/175728. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Coninck, F.J. de. “Notitieboeck van Alle Gedenkweerdige Geschiedenissen Voorge
 
 [<img src="..\..\barplots_chronicles\1846_Antw_Coni_02.jpg" width="750"/>](..\..\barplots_chronicles\1846_Antw_Coni_02.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

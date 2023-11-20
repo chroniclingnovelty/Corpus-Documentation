@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Zwolsche kroniek van 1520 tot 1526 
 
+### 1526_Zwol_Stee 
+
 Steenwijk, Jan/Johan van. Zwolsche Kroniek van 1520 Tot 1526. Edited by Johan Willem Mulder. Zwolle: De erven J.J. Tijl, 1898. https://www.dbnl.org/tekst/_zwo001zwol01_01/. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Steenwijk, Jan/Johan van. Zwolsche Kroniek van 1520 Tot 1526. Edited by Johan Wi
 
 [<img src="..\..\barplots_chronicles\1526_Zwol_Stee.jpg" width="750"/>](..\..\barplots_chronicles\1526_Zwol_Stee.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

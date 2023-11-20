@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aantekeningen over het beroepen van predikanten en schoolmeesters te Wormerveer: over den winter van 1740; het bezoek van keizer Alexander van Rusland te Zaandam, enz. 
 
+### 1814_Worm_Ding 
+
 Dingenom, Pieter Cornelis. ‘Aantekeningen over het beroepen van predikanten en schoolmeesters te Wormerveer: over den winter van 1740; het bezoek van keizer Alexander van Rusland te Zaandam, enz.’ Wormerveer, 1814. Bibliotheekcatalogus (13619), bibl. 00.745 (Honig 1181). GA Zaanstad. https://hdl.handle.net/21.12112/F1647C8AB5C5426DBD07A17ACAB09EEA. 
 
 ## Auteursgegevens 
@@ -32,7 +34,17 @@ Dingenom, Pieter Cornelis. ‘Aantekeningen over het beroepen van predikanten en
 
 [<img src="..\..\barplots_chronicles\1814_Worm_Ding.jpg" width="750"/>](..\..\barplots_chronicles\1814_Worm_Ding.jpg) 
 
-## Notes 
+## Notities 
+
+De kroniek is opgenomen in de lijst egodocumenten van Rudolf Dekker
+(egodocumenten tot 1814, nummer 284). Pieter Cornelis Dingenom kwam uit
+Wormerveer, maar verhuisde in 1810 naar Zaandam. Zijn kroniek gaat over
+Wormerveer en Zaandam en stop in 1814. Hij schrijft onder andere over
+natuurfenomenen zoals rampen en koude winters, het bezoek van Tsaar Peter de
+Grote aan Zaandam. Een deel van de kroniek is een afschrift van zijn vaders
+aantekeningen.
+
+
 
 ## Literatuur 
 

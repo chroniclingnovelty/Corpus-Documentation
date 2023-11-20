@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek uit de Lingestreek (1800-1820) Uitgegeven door L.P.W. de Graaff en H.L.Ph. Leeuwenberg 
 
+### 1820_Rhen_Vree 
+
 Vree, Johannes Josephus van. “Kroniek Uit de Lingestreek (1800-1820) Uitgegeven Door L.P.W. de Graaff En H.L.Ph. Leeuwenberg.” Edited by L.P.W. Graaff and H.L.Ph. Leeuwenberg. Nederlandse Historische Bronnen 10 (1992): 163–94. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Vree, Johannes Josephus van. “Kroniek Uit de Lingestreek (1800-1820) Uitgegeve
 
 [<img src="..\..\barplots_chronicles\1820_Rhen_Vree.jpg" width="750"/>](..\..\barplots_chronicles\1820_Rhen_Vree.jpg) 
 
-## Notes 
+## Notities 
 
 De zoon van de auteur is na het herstel van de bisschoppelijke hiërarchie in
 Nederland de eerste Bisschop van Haarlem geworden.

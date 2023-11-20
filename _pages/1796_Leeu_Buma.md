@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van belangrijke buitenlandse, landelijke, regionale en plaatselijke gebeurtenissen 
 
+### 1796_Leeu_Buma 
+
 Buma, Anna Elisabeth. “Kroniek van belangrijke buitenlandse, landelijke, regionale en plaatselijke gebeurtenissen.” 1. Leeuwarden, 1796. 1759 Beucker Andreae Inv.no 374. HC Leeuwarden. https://historischcentrumleeuwarden.nl/onderzoek/archievenoverzicht?mivast=76&mizig=210&miadt=76&miaet=1&micode=1759&minr=722766&miview=inv2. 
 
 ## Auteursgegevens 
@@ -34,9 +36,16 @@ Buma, Anna Elisabeth. “Kroniek van belangrijke buitenlandse, landelijke, regio
 
 [<img src="..\..\barplots_chronicles\1796_Leeu_Buma.jpg" width="750"/>](..\..\barplots_chronicles\1796_Leeu_Buma.jpg) 
 
-## Notes 
+## Notities 
 
-Motief: memory, events, crises
+Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in
+luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
+1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en
+honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.
+
+Zie over haar scriptie Tinka de Haan UL
+
+<https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x>
 
 
 
@@ -55,6 +64,11 @@ Haar kroniek heeft een zeer brede focus - veel nationale en internationale
 ontwikkelingen, een grote interesse voor luchtballonnen. Op het eind gaat het
 over de Bataafse omwenteling in Leeuwarden, die ze niet toejuicht.
 
+Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in
+luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
+1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en
+honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.
+
 De belangrijkste biografische informatie over Buma is te vinden in een artikel
 in het Digitaal Vrouwenlexicon
 <http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma>:
@@ -71,14 +85,7 @@ anna-elisabeth-buma/>
 
 
 
-Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in
-luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
-1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en
-honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.
-
-Zie over haar scriptie Tinka de Haan UL
-
-<https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x>
+Motief: memory, events, crises
 
 
 

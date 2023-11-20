@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Beschrijving: “Cronycke ofte een corte waare oude beschrivinge der stadt Rotterdam, beschreven door Jacob Lois, schepen derselve stad beginnende van den jare 1270 tot den jare 1664 en voorts vervolgt anno 1671, vergaderd uit veel oude memorien, contracten, hantvesten, prevelegien ende geschreve notitien, ende by hem veel genooteert etc. ende int kordt byeengevoucht" 
 
+### 1671_Rott_Lois 
+
 Lois, Jacob. ‘Beschrijving: “Cronycke ofte een corte waare oude beschrivinge der stadt Rotterdam, beschreven door Jacob Lois, schepen derselve stad beginnende van den jare 1270 tot den jare 1664 en voorts vervolgt anno 1671, vergaderd uit veel oude memorien, contracten, hantvesten, prevelegien ende geschreve notitien, ende by hem veel genooteert etc. ende int kordt byeengevoucht"’. Rotterdam, 1671. 33-01 Handschriftenverzameling inv.nr. 1562. Stadsarchief Rotterdam. https://hdl.handle.net/21.12133/D379A3D2B28A49D7BEF68A882F4F929A. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Lois, Jacob. ‘Beschrijving: “Cronycke ofte een corte waare oude beschrivinge
 
 [<img src="..\..\barplots_chronicles\1671_Rott_Lois.jpg" width="750"/>](..\..\barplots_chronicles\1671_Rott_Lois.jpg) 
 
-## Notes 
+## Notities 
 
 JP 11 08 2023
 

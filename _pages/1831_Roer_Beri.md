@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronijke der Stad Roermond beginnende met de komst van keizer Joseph II en eindigende met de troonsbeklimming van Leopold I, koning der Belgen (1781-1831) 
 
+### 1831_Roer_Beri 
+
 Beringen, Sebastiaan van. ‘Kronijke der Stad Roermond beginnende met de komst van keizer Joseph II en eindigende met de troonsbeklimming van Leopold I, koning der Belgen (1781-1831)’. Onder redactie van J. Habets. Publications de la société historique et archéologique dans le Limbourg 2 (1865): 370-416. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Beringen, Sebastiaan van. ‘Kronijke der Stad Roermond beginnende met de komst 
 
 [<img src="..\..\barplots_chronicles\1831_Roer_Beri.jpg" width="750"/>](..\..\barplots_chronicles\1831_Roer_Beri.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

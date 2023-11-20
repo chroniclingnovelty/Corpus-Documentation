@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De kronijk van Antwerpen 
 
+### 1817_Antw_Stra_02 
+
 Straelen, Jan Frans van der, and Joannes-Baptista Van der Straelen. De kronijk van Antwerpen. Edited by A. van Berendoncks, J Rylant, and R.J. Leenaerts. Vol. 2. 8 vols. Antwerpen: Maatschappij “Voor God en 't Volk” [etc.], 1929. https://www.dbnl.org/tekst/stra131kron02_01/. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Straelen, Jan Frans van der, and Joannes-Baptista Van der Straelen. De kronijk v
 
 [<img src="..\..\barplots_chronicles\1817_Antw_Stra_02.jpg" width="750"/>](..\..\barplots_chronicles\1817_Antw_Stra_02.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

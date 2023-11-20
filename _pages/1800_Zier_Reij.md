@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van politieke gebeurtenissen te Zierikzee door Luc. Reynierse, met stamlijst van het Huis van Oranje-Nassau, met latere aanvullingen. 1787-1800 
 
+### 1800_Zier_Reij 
+
 Reijnierse, Luc. ‘Dagboek van politieke gebeurtenissen te Zierikzee door Luc. Reynierse, met stamlijst van het Huis van Oranje-Nassau, met latere aanvullingen. 1787-1800’. Zierikzee, 1851. 5489 Handschriften Schouwen Duiveland, inv.nr. 165. Gemeentearchief Schouwen-Duiveland. https://hdl.handle.net/21.12113/952C3E50AA2D439FBFA38439C24B8995. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Reijnierse, Luc. ‘Dagboek van politieke gebeurtenissen te Zierikzee door Luc. 
 
 [<img src="..\..\barplots_chronicles\1800_Zier_Reij.jpg" width="750"/>](..\..\barplots_chronicles\1800_Zier_Reij.jpg) 
 
-## Notes 
+## Notities 
 
 CL/JP
 

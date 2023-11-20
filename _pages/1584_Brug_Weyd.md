@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronique Flamande 1571-1584 
 
+### 1584_Brug_Weyd 
+
 Weydts, Guillaume. Chronique Flamande 1571-1584. Edited by Emile-Charles Varenbergh. Brugge: Hoste Bruges : MoorLa Haye : Nijhoff, 2012. http://www.dbnl.org/tekst/weyd002chro01_01/index.php. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Weydts, Guillaume. Chronique Flamande 1571-1584. Edited by Emile-Charles Varenbe
 
 [<img src="..\..\barplots_chronicles\1584_Brug_Weyd.jpg" width="750"/>](..\..\barplots_chronicles\1584_Brug_Weyd.jpg) 
 
-## Notes 
+## Notities 
 
 “ **Willem Weijdts** (c. 1545–after 1618) was a tailor in Bruges. He had
 worked for some time in Spain before settling and marrying in Bruges. Apart

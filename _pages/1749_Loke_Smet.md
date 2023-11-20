@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Lokeren 
 
+### 1749_Loke_Smet 
+
 Smet, de, Nicolaes, Pieter De Clerc, Jacobus Boen, en Jacob Pieters Staesens. ‘Kroniek van Lokeren’. Lokeren, 1749. Boekentoren, BHSL.HS.2914. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000993372?i=9&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Smet, de, Nicolaes, Pieter De Clerc, Jacobus Boen, en Jacob Pieters Staesens. �
 
 [<img src="..\..\barplots_chronicles\1749_Loke_Smet.jpg" width="750"/>](..\..\barplots_chronicles\1749_Loke_Smet.jpg) 
 
-## Notes 
+## Notities 
 
 JP 25 juli 2023
 

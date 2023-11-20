@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Notietie van het merkwaardigste meijn bekent dat in het jaar 1732 binnen Amsterdam is voorgevallen. 1733, 1734, 1735, 1736, 1737, 1738, 1739. 
 
+### 1776_Hale_Anon 
+
 Anoniem. “Kroniek, Getiteld: Memoriael, 1243 - 1776,” 1776. Abdij van Rotem in Halen toegangsnummer 581, inv.nr. 2. Rijksarchief Hasselt. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Anoniem. “Kroniek, Getiteld: Memoriael, 1243 - 1776,” 1776. Abdij van Rotem 
 
 [<img src="..\..\barplots_chronicles\1776_Hale_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1776_Hale_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 _Met dank aan Tinka de Haan_
 

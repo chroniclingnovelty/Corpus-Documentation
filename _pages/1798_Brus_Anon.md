@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Opmerkingen van eenige zaeken in de stad Brussel voorgevallen 
 
+### 1798_Brus_Anon 
+
 Anoniem. ‘Opmerkingen van eenige zaeken in de stad Brussel voorgevallen’. Brussel, 1789. ASB Archives historiques, Registre 3106. Stadsarchief Brussel. 
 
 ## Auteursgegevens 
@@ -28,14 +30,13 @@ Anoniem. ‘Opmerkingen van eenige zaeken in de stad Brussel voorgevallen’. Br
 
 [<img src="..\..\barplots_chronicles\1798_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1798_Brus_Anon.jpg) 
 
-## Notes 
+## Notities 
 
-JP 28 juli 2023 Deze kroniek loopt tot 1798 en is na 1841 overgeschreven door
-iemand die er nog opmerkingen bij heeft geplaatst. De auteur is zeer pro-
-Habsburgs en vooral geinteresseerd in de wandaden van patriotten en Franse
-republikeinen, met name over de behandeling van geestelijken en kerkgebouwen
-maar ook in bredere zin. Wellicht kerkelijk milieu, maar zelf geen priester,
-vermoed ik.
+Deze kroniek loopt tot 1798 en is na 1841 overgeschreven door iemand die er
+nog opmerkingen bij heeft geplaatst. De auteur is zeer pro-Habsburgs en vooral
+geinteresseerd in de wandaden van patriotten en Franse republikeinen, met name
+over de behandeling van geestelijken en kerkgebouwen maar ook in bredere zin.
+Wellicht kerkelijk milieu, maar zelf geen priester, vermoed ik.
 
 
 

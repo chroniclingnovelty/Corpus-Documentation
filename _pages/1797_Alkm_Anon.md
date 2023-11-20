@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Alkmaar in de Bataafs-Franse tijd, 1787-1797 
 
+### 1797_Alkm_Anon 
+
 Panders, Jan van. “Kroniek van Alkmaar in de Bataafs-Franse Tijd, 1787-1797.” Translated by Trans. Alkmaar, 1797. Archief van de stad Alkmaar, 1254 (1325) - 1815 (1816), inventarisnummer 1838. Regionaal Archief Alkmaar. https://dbnl.nl/tekst/pand004kron01_01/. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Panders, Jan van. “Kroniek van Alkmaar in de Bataafs-Franse Tijd, 1787-1797.�
 
 [<img src="..\..\barplots_chronicles\1797_Alkm_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1797_Alkm_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

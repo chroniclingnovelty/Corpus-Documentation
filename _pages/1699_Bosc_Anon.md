@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De kroniek van het St.-Geertruiklooster te 's-Hertogenbosch 
 
+### 1699_Bosc_Anon 
+
 Anoniem. De kroniek van het St.-Geertruiklooster te ’s-Hertogenbosch. Den Bosch, 1699. https://dbnl.nl/tekst/_kro010kron01_01/. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. De kroniek van het St.-Geertruiklooster te ’s-Hertogenbosch. Den Bosc
 
 [<img src="..\..\barplots_chronicles\1699_Bosc_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1699_Bosc_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 EK
 

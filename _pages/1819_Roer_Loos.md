@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Drie kronijkjes der stad Roermond, uit den tijd der Fransche Republiek. 
 
+### 1819_Roer_Loos 
+
 Elsacker, [Jufvrou van]. “Kronijkje van Jufvrouw van Elsacker. 1769-1819.” Edited by Jos Habets. Publications de La Société Archéologique de Limbourg 5 (1868): 276–85. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Elsacker, [Jufvrou van]. “Kronijkje van Jufvrouw van Elsacker. 1769-1819.” E
 
 [<img src="..\..\barplots_chronicles\1819_Roer_Loos.jpg" width="750"/>](..\..\barplots_chronicles\1819_Roer_Loos.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van Cornelis en Philip van Campene : behelzende het verhaal der merkwaardigste gebeurtenissen, voorgevallen te Gent sedert het begin der godsdienstberoerten tot den 5en april 1571 
 
+### 1571_Gent_Camp 
+
 Campene, Cornelis, and Philips Van Campene. Dagboek van Cornelis En Philip van Campene : Behelzende Het Verhaal Der Merkwaardigste Gebeurtenissen, Voorgevallen Te Gent Sedert Het Begin Der Godsdienstberoerten Tot Den 5en April 1571. Edited by Frans de Potter. Gent: Annoot-Braeckman, 1870. https://dbnl.nl/tekst/camp025dagb01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Campene, Cornelis, and Philips Van Campene. Dagboek van Cornelis En Philip van C
 
 [<img src="..\..\barplots_chronicles\1571_Gent_Camp.jpg" width="750"/>](..\..\barplots_chronicles\1571_Gent_Camp.jpg) 
 
-## Notes 
+## Notities 
 
 **“Cornelis van Campene** (1516–1567) started a diary that was continued after
 his death by his brother **Philip**. Cornelis was a clothmerchant, and was

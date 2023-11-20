@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Beschryvinge der stad Rotterdam mitsgaders geschiedenissen zoo binnen de stad als elders voorgevallen, van den jare 1426 tot den jare 1690". Afschrift uit het einde der 17e eeuw 
 
+### 1690_Rott_Anon 
+
 Anoniem. ‘Beschryvinge der stad Rotterdam mitsgaders geschiedenissen zoo binnen de stad als elders voorgevallen, van den jare 1426 tot den jare 1690". Afschrift uit het einde der 17e eeuw’. Rotterdam, 1690. 33.01 Handschriftenverzameling inv.nr. 1577. Stadsarchief Rotterdam. https://hdl.handle.net/21.12133/41CD82507C0A4A8398F129C4A73A1847. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Anoniem. ‘Beschryvinge der stad Rotterdam mitsgaders geschiedenissen zoo binne
 
 [<img src="..\..\barplots_chronicles\1690_Rott_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1690_Rott_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

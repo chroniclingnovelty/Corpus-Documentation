@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Verzameling teksten betreffende Vlaanderen en Gent 
 
+### 1610_Gent_Vooc 
+
 De Voocht, Gillis. “Verzameling Teksten Betreffende Vlaanderen En Gent.” Gent, 1610. BHSL.HS.0531. UB Gent. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ De Voocht, Gillis. “Verzameling Teksten Betreffende Vlaanderen En Gent.” Gen
 
 [<img src="..\..\barplots_chronicles\1610_Gent_Vooc.jpg" width="750"/>](..\..\barplots_chronicles\1610_Gent_Vooc.jpg) 
 
-## Notes 
+## Notities 
 
 Een erg mooi manuscript, met gekleurde initialen en verfdecoraties in de
 tekst. In de catalogues van de bibliotheek staat het als heterogene

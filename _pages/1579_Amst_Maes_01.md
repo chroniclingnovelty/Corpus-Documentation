@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van broeder Wouter Jacobsz (Gualtherus Jacobi Masius) prior van Stein : Amsterdam 1572-1578 en Montfoort 1578-1579. Deel 1 
 
+### 1579_Amst_Maes_01 
+
 Jacobsz, Wouter. Dagboek van Broeder Wouter Jacobsz (Gualtherus Jacobi Masius) Prior van Stein : Amsterdam 1572-1578 En Montfoort 1578-1579. Deel 1. Edited by Isabelle Henriette van Eeghen. Vol. 1. 2 vols. Groningen: J. B. Wolters, 1959. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Jacobsz, Wouter. Dagboek van Broeder Wouter Jacobsz (Gualtherus Jacobi Masius) P
 
 [<img src="..\..\barplots_chronicles\1579_Amst_Maes_01.jpg" width="750"/>](..\..\barplots_chronicles\1579_Amst_Maes_01.jpg) 
 
-## Notes 
+## Notities 
 
 **“Wouter Jacobsz** (c. 1521–1595) became prior of the convent of Stein in
 Gouda at age 28. After Gouda’s choice for the Revolt, he fled to Amsterdam.

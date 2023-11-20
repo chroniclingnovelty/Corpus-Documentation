@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Afschrift van de kroniek van Brustem door Egidius Moriëns. 1792-1797. 
 
+### 1797_Brst_Mori 
+
 Moriëns, Egidius. “Afschrift van de Kroniek van Brustem Door Egidius Moriëns. 1792-1797.,” 1797. Parochie Brustem 2090 inv. nr. 1. Rijksarchief Hasselt. https://search.arch.be/nl/zoeken-naar-archieven/zoekresultaat/inventaris/index/zoekterm/kroniek/eadid/BE-A0515_110882_109609_DUT/inventarisnr/I1108821096091/level/file#c:0.c:0. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Moriëns, Egidius. “Afschrift van de Kroniek van Brustem Door Egidius Moriëns
 
 [<img src="..\..\barplots_chronicles\1797_Brst_Mori.jpg" width="750"/>](..\..\barplots_chronicles\1797_Brst_Mori.jpg) 
 
-## Notes 
+## Notities 
 
 FM/ JP augistus 2023
 

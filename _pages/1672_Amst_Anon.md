@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Een dagboek uit het 'rampjaar' 1672 
 
+### 1672_Amst_Anon 
+
 Anoniem. ‘Een dagboek uit het “rampjaar” 1672’. Onder redactie van J.F. Gebhard. Bijdragen en mededeelingen van het Historisch Genootschap, (gevestigd te Utrecht) 8 (1885): 45-116. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. ‘Een dagboek uit het “rampjaar” 1672’. Onder redactie van J.F. 
 
 [<img src="..\..\barplots_chronicles\1672_Amst_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1672_Amst_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 MVW/JP 11 08 2023
 

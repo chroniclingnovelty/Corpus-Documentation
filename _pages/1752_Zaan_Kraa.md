@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aantekeningen betreffende de geschiedenis van Zaandam 
 
+### 1752_Zaan_Kraa 
+
 Kraamer, Simon Jacobsz. “Aantekeningen Betreffende de Geschiedenis van Zaandam.” Zaandam, 1752. Archief Doopsgezinde gemeente Zaandam-West Zaandam (KA-0012) L39. GA Zaanstad. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Kraamer, Simon Jacobsz. “Aantekeningen Betreffende de Geschiedenis van Zaandam
 
 [<img src="..\..\barplots_chronicles\1752_Zaan_Kraa.jpg" width="750"/>](..\..\barplots_chronicles\1752_Zaan_Kraa.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

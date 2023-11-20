@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Korte Kronijk, of Aanhangsel, tot de Geschiedkundige Kronijk van de stad Sneek. 
 
+### 1826_Snee_Napj_02 
+
 Napjus, Eelco. Korte Kronijk, of Aanhangsel, tot de Geschiedkundige Kronijk van de stad Sneek. Onder redactie van F.W. van Breest Smallenburg. Sneek: F.W.v.B. Smallenburg, 1826. https://www.dbnl.org/tekst/napj001gesc01_01/napj001gesc01_01_0043.php. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Napjus, Eelco. Korte Kronijk, of Aanhangsel, tot de Geschiedkundige Kronijk van 
 
 [<img src="..\..\barplots_chronicles\1826_Snee_Napj_02.jpg" width="750"/>](..\..\barplots_chronicles\1826_Snee_Napj_02.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dese heerlicke stadt: een zeventiende eeuwse kroniek van Dordrecht 
 
+### 1668_Dord_Gode 
+
 Godewijck, Pieter van. Dese heerlicke stadt: een zeventiende eeuwse kroniek van Dordrecht. Onder redactie van W.M. van der Schouw. Dordtse bronnen 1. Dordrecht: StadsarchiefDordrecht : Vereniging Oud-Dordrecht, 2006. https://proxy.archieven.nl/46/5DF8D3F998674BD8A627B8AEC775B242. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Godewijck, Pieter van. Dese heerlicke stadt: een zeventiende eeuwse kroniek van 
 
 [<img src="..\..\barplots_chronicles\1668_Dord_Gode.jpg" width="750"/>](..\..\barplots_chronicles\1668_Dord_Gode.jpg) 
 
-## Notes 
+## Notities 
 
 JP 9 08 2023
 

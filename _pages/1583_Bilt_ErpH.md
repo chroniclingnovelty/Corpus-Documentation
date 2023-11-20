@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Vrouwenklooster in De Bilt 
 
+### 1583_Bilt_ErpH 
+
 Erp, Henrica van, Maria van Zuylen, en anoniem. ‘Kroniek van Vrouwenklooster in De Bilt’, 1583 1505. UBU 1254 (6 A 13). UB Utrecht. https://dbnl.nl/tekst/erp_003kron01_01/. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Erp, Henrica van, Maria van Zuylen, en anoniem. ‘Kroniek van Vrouwenklooster i
 
 [<img src="..\..\barplots_chronicles\1583_Bilt_ErpH.jpg" width="750"/>](..\..\barplots_chronicles\1583_Bilt_ErpH.jpg) 
 
-## Notes 
+## Notities 
 
 De Kroniek van het Vrouwenklooster in De Bilt van Henrica van Erp is door Anne
 Doedens en Henk Looijestein in 2010 gepubliceerd en gedocumenteerd op

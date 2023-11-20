@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van het Sint-Elisabethsconvent te Huissen (1667-1752 en 1782-1801) 
 
+### 1801_Huis_Anon 
+
 Anoniem. “Kroniek van Het Sint-Elisabethsconvent Te Huissen (1667-1752 En 1782-1801).” Translated by Historische Kring Huessen. Huissen, 1801. 0566 - 33, H.K.H. - Documentatiecentrum VIIa6. Gelders Archief. https://dbnl.nl/tekst/_kro009kron01_01/. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Kroniek van Het Sint-Elisabethsconvent Te Huissen (1667-1752 En 1782
 
 [<img src="..\..\barplots_chronicles\1801_Huis_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1801_Huis_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 18 08 2023
 

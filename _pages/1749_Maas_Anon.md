@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronyk van Maestrigt, 1750-1800 
 
+### 1749_Maas_Anon 
+
 Anoniem. “Chronyk van Maestrigt, 1750-1800.” Maastricht, 1749. Handschriftencollectie GAM, toegangsnummer 22.001A, inventarisnummer 653. RHCL. http://www.archieven.nl/mi/1540/?mivast=1540&mizig=210&miadt=38&miaet=1&micode=22.001A&minr=14224794&miview=inv2. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Anoniem. “Chronyk van Maestrigt, 1750-1800.” Maastricht, 1749. Handschriften
 
 [<img src="..\..\barplots_chronicles\1749_Maas_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1749_Maas_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP/EK juli/aug 2023
 

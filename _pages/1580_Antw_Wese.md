@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronyke van 1567 tot 1580 
 
+### 1580_Antw_Wese 
+
 Wesenbeke, Jan van. “Chronyke van 1567 Tot 1580.” Antwerpen, 1580 1567. Pk. 108. Stadsarchief Antwerpen. https://felixarchief.antwerpen.be/archievenoverzicht/175687. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Wesenbeke, Jan van. “Chronyke van 1567 Tot 1580.” Antwerpen, 1580 1567. Pk. 
 
 [<img src="..\..\barplots_chronicles\1580_Antw_Wese.jpg" width="750"/>](..\..\barplots_chronicles\1580_Antw_Wese.jpg) 
 
-## Notes 
+## Notities 
 
 Over de auteur zie:
 

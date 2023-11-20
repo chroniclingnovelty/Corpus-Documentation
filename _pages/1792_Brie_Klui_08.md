@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Historische Jaerboeken der stad Briel, deel 4, 1e stuk, 1777-1784 
 
+### 1792_Brie_Klui_08 
+
 Kluit, Jan. “Historische Jaerboeken Der Stad Briel, Deel 4, 1e Stuk, 1777-1784.” Brielle, 1784. 501, inventarisnummer 8. Streekarchief Voorne-Putten Rozenburg. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Kluit, Jan. “Historische Jaerboeken Der Stad Briel, Deel 4, 1e Stuk, 1777-1784
 
 [<img src="..\..\barplots_chronicles\1792_Brie_Klui_08.jpg" width="750"/>](..\..\barplots_chronicles\1792_Brie_Klui_08.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

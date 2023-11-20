@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronycke van Cortryck 
 
+### 1745_Kort_Anon 
+
 Anoniem, en Philippus van de Maele. ‘Chronycke van Cortryck’. 1. Kortrijk, 1745. Fonds Goethals-Vercruysse, ms. 215. Rijksarchief te Kortrijk. 
 
 ## Auteursgegevens 
@@ -27,7 +29,7 @@ Anoniem, en Philippus van de Maele. ‘Chronycke van Cortryck’. 1. Kortrijk, 1
 
 [<img src="..\..\barplots_chronicles\1745_Kort_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1745_Kort_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 10 aug 2023.
 

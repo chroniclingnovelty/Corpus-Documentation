@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Notietie van het merkwaardigste meijn bekent dat in het jaar 1732 binnen Amsterdam is voorgevallen. 1733, 1734, 1735, 1736, 1737, 1738, 1739. 
 
+### 1772_Amst_Bikk 
+
 Bikker Raye, Jakob. “Notietie van Het Merkwaardigste Meijn Bekent Dat in Het Jaar 1732 Binnen Amsterdam Is Voorgevallen. 1733, 1734, 1735, 1736, 1737, 1738, 1739.” Amsterdam, 1772. Bibliotheek. Stadsarchief Amsterdam. https://archief.amsterdam/inventarissen/scans/15030/2.1.2.459/start/0/limit/10/highlight/6. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Bikker Raye, Jakob. “Notietie van Het Merkwaardigste Meijn Bekent Dat in Het J
 
 [<img src="..\..\barplots_chronicles\1772_Amst_Bikk.jpg" width="750"/>](..\..\barplots_chronicles\1772_Amst_Bikk.jpg) 
 
-## Notes 
+## Notities 
 
 _Met dank aan Tinka de Haan_
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboekjes van dagelijkse voorvallen en ambtelijke zaken, door Meijnert Dircksen, schepen en gaarder in De Rijp, 1636-1641, 1651-1652 
 
+### 1652_Rijp_Dirc 
+
 Dircksen, Meijnert. “Dagboekjes van Dagelijkse Voorvallen En Ambtelijke Zaken, Door Meijnert Dircksen, Schepen En Gaarder in De Rijp, 1636-1641, 1651-1652.” De Rijp, 1652. 176  Losse Aanwinsten (verkregen tot 1984) van het Noord-Hollands Archief te Haarlem 14.1.3.10, Inventarisnummer: 1549. Noord Hollands Archief Haarlem. https://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&micode=176&milang=nl&miview=inv2#inv3t2. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Dircksen, Meijnert. “Dagboekjes van Dagelijkse Voorvallen En Ambtelijke Zaken,
 
 [<img src="..\..\barplots_chronicles\1652_Rijp_Dirc.jpg" width="750"/>](..\..\barplots_chronicles\1652_Rijp_Dirc.jpg) 
 
-## Notes 
+## Notities 
 
 MVW
 

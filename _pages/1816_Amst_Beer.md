@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Korte kronijk door Zacheus J.G. De Beer, 1739-1816 
 
+### 1816_Amst_Beer 
+
 Beer, J.G. de. “Kronyk van Spaarndam.” 1. Spaarndam, 1779. Archief Oudemannenhuis (3295), inventarisnummer 45. Noord Hollands Archief Haarlem. http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&miaet=1&micode=3295&minr=1061209&miview=inv2. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Beer, J.G. de. “Kronyk van Spaarndam.” 1. Spaarndam, 1779. Archief Oudemanne
 
 [<img src="..\..\barplots_chronicles\1816_Amst_Beer.jpg" width="750"/>](..\..\barplots_chronicles\1816_Amst_Beer.jpg) 
 
-## Notes 
+## Notities 
 
 Auteursgegevens uit Ruud Lindeman, Yvonne Scherf en Rudolf Dekker,
 _Egodocumenten van Noord-Nederlanders uit de zestiende tot begin negentiende

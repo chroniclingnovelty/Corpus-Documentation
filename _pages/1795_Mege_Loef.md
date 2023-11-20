@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Memorien: kroniek van Megen door Johannes Loeffen 
 
+### 1795_Mege_Loef 
+
 Loeffen, Joannes. Memorien: kroniek van Megen door Johannes Loeffen, 1970. https://dbnl.org/tekst/loef022memo01_01/loef022memo01_01_0002.php. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Loeffen, Joannes. Memorien: kroniek van Megen door Johannes Loeffen, 1970. https
 
 [<img src="..\..\barplots_chronicles\1795_Mege_Loef.jpg" width="750"/>](..\..\barplots_chronicles\1795_Mege_Loef.jpg) 
 
-## Notes 
+## Notities 
 
 CL/JP 17 aug 2023
 

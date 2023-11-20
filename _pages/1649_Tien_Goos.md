@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Diverse notabele dingen (ca. 1649)door Eemont Goossens, rentmeester van de stad Tienen 
 
+### 1649_Tien_Goos 
+
 Goossens, Eemont. Diverse Notabele Dingen (ca. 1649) Door Eemont Goossens, Rentmeester van de Stad Tienen. Edited by Paul Kempeneers. Tienen: Paul Kempeneers/eigen beheer, 1983. https://www.dbnl.org/tekst/goos057dive01_01/colofon.php. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Goossens, Eemont. Diverse Notabele Dingen (ca. 1649) Door Eemont Goossens, Rentm
 
 [<img src="..\..\barplots_chronicles\1649_Tien_Goos.jpg" width="750"/>](..\..\barplots_chronicles\1649_Tien_Goos.jpg) 
 
-## Notes 
+## Notities 
 
 EK
 

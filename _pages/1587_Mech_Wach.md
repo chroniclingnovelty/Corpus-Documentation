@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van de stad Mechelen; 635-1474. Met aanvullingen tot 1587 
 
+### 1587_Mech_Wach 
+
 Wachtendonck, Jan van, en Anoniem. ‘Kroniek van de stad Mechelen; 635-1474. Met aanvullingen tot 1587’, 1587. 17 G 30. KB Den Haag. https://webggc.oclc.org/cbs/DB=2.37/XMLPRS=Y/PPN?PPN=310824303. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Wachtendonck, Jan van, en Anoniem. ‘Kroniek van de stad Mechelen; 635-1474. Me
 
 [<img src="..\..\barplots_chronicles\1587_Mech_Wach.jpg" width="750"/>](..\..\barplots_chronicles\1587_Mech_Wach.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

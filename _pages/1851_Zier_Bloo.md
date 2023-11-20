@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aantekeningen betreffende de geschiedenis van Zierikzee, met een kroniek van gebeurtenissen over 1830-1841 (door mr. A. Moens van Bloois), met index op de trefwoorden. 
 
+### 1851_Zier_Bloo 
+
 Moens van Bloois, A. “Aantekeningen Betreffende de Geschiedenis van Zierikzee, Met Een Kroniek van Gebeurtenissen over 1830-1841 (Door Mr. A. Moens van Bloois), Met Index Op de Trefwoorden.” Zierikzee, 1848. 489 Handschriftenverzameling, toegang 0489, bestandsnummer 298. Gemeentearchief Schouwen-Duiveland. https://schouwenduivelandpubliek.hosting.deventit.net/detail.php?nav_id=4-1&id=113233711&index=36. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Moens van Bloois, A. “Aantekeningen Betreffende de Geschiedenis van Zierikzee,
 
 [<img src="..\..\barplots_chronicles\1851_Zier_Bloo.jpg" width="750"/>](..\..\barplots_chronicles\1851_Zier_Bloo.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

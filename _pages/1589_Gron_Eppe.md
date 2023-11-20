@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De kroniek van Abel Eppens tho Equart 
 
+### 1589_Gron_Eppe 
+
 Eppens tho Equart, Abel. De kroniek van Abel Eppens tho Equart. Edited by J.A. Feith and H. Brugmans. Vol. 27; 28. 2 vols. Werken uitgegeven door het Historisch genootschap (gevestigd te Utrecht) 3. Amsterdam: J. Müller, 1911. https://www.dbnl.org/tekst/eppe004kron01_01/eppe004kron01_01_0046.php. 
 
 ## Auteursgegevens 
@@ -37,7 +39,7 @@ Eppens tho Equart, Abel. De kroniek van Abel Eppens tho Equart. Edited by J.A. F
 
 [<img src="..\..\barplots_chronicles\1589_Gron_Eppe.jpg" width="750"/>](..\..\barplots_chronicles\1589_Gron_Eppe.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

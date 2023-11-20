@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Plaatsbeschrijving van Oisterwijk met kroniek van de jaren 1566-1609 
 
+### 1609_Oist_Hoev 
+
 Hoevel, Lambrecht van den. “Plaatsbeschrijving van Oisterwijk Met Kroniek van de Jaren 1566-1609.” Edited by M. Pinkhof. Bijdragen En Mededelingen van Het Historisch Genootschap 40 (1919): 111–73. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Hoevel, Lambrecht van den. “Plaatsbeschrijving van Oisterwijk Met Kroniek van 
 
 [<img src="..\..\barplots_chronicles\1609_Oist_Hoev.jpg" width="750"/>](..\..\barplots_chronicles\1609_Oist_Hoev.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

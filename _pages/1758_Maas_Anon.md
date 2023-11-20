@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Maastricht 1236-1758 
 
+### 1758_Maas_Anon 
+
 Anoniem. “Kroniek van Maastricht 1236-1758.” Maastricht, 1758. Handschriftencollectie GAM, toegangsnummer 22.001A, inventarisnummer 192. RHCL. http://www.archieven.nl/mi/1540/?mivast=1540&mizig=210&miadt=38&miaet=1&micode=22.001A&minr=14224418&miview=inv2. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Kroniek van Maastricht 1236-1758.” Maastricht, 1758. Handschriften
 
 [<img src="..\..\barplots_chronicles\1758_Maas_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1758_Maas_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP Auteur is katholiek, en stadsbewoner, geen militair. Tekst is idd vanaf
 1746 contemporain, auteur heeft belangstelling executies en optochten/feesten

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Extraordinaire geschiedenissen voorgevallen in ons Nederland; nae de aflegvigheyd van onse doorluchtige keyserinne maria-Theresia. Deux copies. 2. Wondere geschiedenissen voorgevallen in dese stad Brussel ten teyde van de fransche republicq 
 
+### 1821_Brus_Goet_01 
+
 Goetval/ anoniem. ‘Extraordinaire geschiedenissen voorgevallen in ons Nederland; nae de aflegvigheyd van onse doorluchtige keyserinne maria-Theresia. Deux copies. 2. Wondere geschiedenissen voorgevallen in dese stad Brussel ten teyde van de fransche republicq’. Brussel, 1805. KB Brussel. https://opac.kbr.be/LIBRARY/doc/SYRACUSE/10729842. 
 
 ## Auteursgegevens 
@@ -27,7 +29,7 @@ Goetval/ anoniem. ‘Extraordinaire geschiedenissen voorgevallen in ons Nederlan
 
 [<img src="..\..\barplots_chronicles\1821_Brus_Goet_01.jpg" width="750"/>](..\..\barplots_chronicles\1821_Brus_Goet_01.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

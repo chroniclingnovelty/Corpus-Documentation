@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek I van Lambert Rijckxz Lustigh 
 
+### 1722_Huiz_Lust 
+
 Lustigh, Lambert Rijckxz. Kroniek I van Lambert Rijckxz Lustigh. Huizen: Drukkerij Visser, 1973. https://dbnl.nl/tekst/lust016lamb01_01/. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Lustigh, Lambert Rijckxz. Kroniek I van Lambert Rijckxz Lustigh. Huizen: Drukker
 
 [<img src="..\..\barplots_chronicles\1722_Huiz_Lust.jpg" width="750"/>](..\..\barplots_chronicles\1722_Huiz_Lust.jpg) 
 
-## Notes 
+## Notities 
 
 Met dank aan Tinka de Haan
 

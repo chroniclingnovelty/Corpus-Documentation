@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Wijnkoper 
 
+### 1628_Alkm_Wijn 
+
 Wijnkoper, Jacob Dirxz, Jan Jakobsz Stoop, and Simon Eikelenburg. “Kroniek van Wijnkoper.” Translated by Transcriptiewerkgroep Regionaal Archief Alkmaar. Alkmaar, 1628. Inv.nr.  3 van de Collectie Aanwinsten. Regionaal Archief Alkmaar. https://dbnl.nl/tekst/wijn142kron01_01/. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Wijnkoper, Jacob Dirxz, Jan Jakobsz Stoop, and Simon Eikelenburg. “Kroniek van
 
 [<img src="..\..\barplots_chronicles\1628_Alkm_Wijn.jpg" width="750"/>](..\..\barplots_chronicles\1628_Alkm_Wijn.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

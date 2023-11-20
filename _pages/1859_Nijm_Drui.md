@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Leven aan de Waal, of Vervolg der Kronijk van Nijmegen 1819-1859 
 
+### 1859_Nijm_Drui 
+
 Druijnen, Jan Willem van, and Gerrit van Druijnen. Leven aan de Waal, of Vervolg der Kronijk van Nijmegen 1819-1859. Edited by A Bosch, A.E.M. Janssen, and A.T.S. Wolters-Van der Werff. Nijmegen: Vantilt, 2011. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Druijnen, Jan Willem van, and Gerrit van Druijnen. Leven aan de Waal, of Vervolg
 
 [<img src="..\..\barplots_chronicles\1859_Nijm_Drui.jpg" width="750"/>](..\..\barplots_chronicles\1859_Nijm_Drui.jpg) 
 
-## Notes 
+## Notities 
 
 Inleiding 1-76
 

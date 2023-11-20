@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Vervolg op de chronyk van Hoorn door Klaas van Voorst, 1629-1826 (vol. 1). 
 
+### 1826_Hoor_Voor_01 
+
 Voorst, Klaas, van. ‘Vervolg op de chronyk van Hoorn door Klaas van Voorst, 1629-1826 (vol. 1).’ Hoorn, 1826. 0216, inv. no. 181. West-Fries Archief. https://hdl.handle.net/21.12114/4E1CF18AEEE444409B538B5E4B022F4E. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Voorst, Klaas, van. ‘Vervolg op de chronyk van Hoorn door Klaas van Voorst, 16
 
 [<img src="..\..\barplots_chronicles\1826_Hoor_Voor_01.jpg" width="750"/>](..\..\barplots_chronicles\1826_Hoor_Voor_01.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

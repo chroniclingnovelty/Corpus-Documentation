@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagverhaal 
 
+### 1794_Goud_Anon 
+
 Anoniem. “Dagverhaal.” Edited by Wim Knoops. De Schatkamer, 2011, 33. 
 
 ## Auteursgegevens 
@@ -27,7 +29,7 @@ Anoniem. “Dagverhaal.” Edited by Wim Knoops. De Schatkamer, 2011, 33.
 
 [<img src="..\..\barplots_chronicles\1794_Goud_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1794_Goud_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 18 aug 23
 

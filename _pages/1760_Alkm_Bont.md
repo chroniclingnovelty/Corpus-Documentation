@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Oorspronck en opkomst der stede Alckmaar, beginnende anno DL uyt een seer oud manuscript berustende ter Liberije deser Stadt gecopieert ende vervolgt tot MDCCLX door Joachim Bontius de Waal 
 
+### 1760_Alkm_Bont 
+
 Bontius de Waal, Joachim. “Oorspronck en opkomst der stede Alckmaar, beginnende anno DL uyt een seer oud manuscript berustende ter Liberije deser Stadt gecopieert ende vervolgt tot MDCCLX door Joachim Bontius de Waal.” Translated by Transcriptiewerkgroep Regionaal Archief Alkmaar. Alkmaar, 1760. Collectie Aanwinsten, inventarisnummer 41. Regionaal Archief Alkmaar. https://dbnl.nl/tekst/bont054oors01_01/. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Bontius de Waal, Joachim. “Oorspronck en opkomst der stede Alckmaar, beginnend
 
 [<img src="..\..\barplots_chronicles\1760_Alkm_Bont.jpg" width="750"/>](..\..\barplots_chronicles\1760_Alkm_Bont.jpg) 
 
-## Notes 
+## Notities 
 
 _Auteursinformatie (Tinka de Haan)_
 

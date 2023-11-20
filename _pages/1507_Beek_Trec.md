@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronijk der landen van Overmaas en aangrenzende gewesten door eenen inwoner van Beek 
 
+### 1507_Beek_Trec 
+
 Anoniem. “Chronijk Der Landen van Overmaas En Aangrenzende Gewesten Door Eenen Inwoner van Beek.” Edited by Jos Habets. Publications de La Société Historique et Archéologique Dans Le Limbourg, 1870, 5–197. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Anoniem. “Chronijk Der Landen van Overmaas En Aangrenzende Gewesten Door Eenen
 
 [<img src="..\..\barplots_chronicles\1507_Beek_Trec.jpg" width="750"/>](..\..\barplots_chronicles\1507_Beek_Trec.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

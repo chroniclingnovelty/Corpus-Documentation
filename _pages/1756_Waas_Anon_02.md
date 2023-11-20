@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Merkwaerdige geschiedenis van het land van Waes 
 
+### 1756_Waas_Anon_02 
+
 Anoniem. “Merkwaerdige Geschiedenis van Het Land van Waes.” Waasland, 1756. Hs  II. 3616. KB Brussel. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Merkwaerdige Geschiedenis van Het Land van Waes.” Waasland, 1756. 
 
 [<img src="..\..\barplots_chronicles\1756_Waas_Anon_02.jpg" width="750"/>](..\..\barplots_chronicles\1756_Waas_Anon_02.jpg) 
 
-## Notes 
+## Notities 
 
 TD Deze kroniek is een bijna identiek afschrift te zijn van deel 1.
 

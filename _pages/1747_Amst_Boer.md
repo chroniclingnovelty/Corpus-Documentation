@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronologische Historie van het geen is Voorgevallen, by de komste van Willem Karel Hendrik Friso. Prince van Oranie &ct… Door den Schrijver dezes. Jan de Boer, 1747 en vervolg 
 
+### 1747_Amst_Boer 
+
 Boer, Jan de. ‘Chronologische Historie van het geen is Voorgevallen, by de komste van Willem Karel Hendrik Friso. Prince van Oranie &ct… Door den Schrijver dezes. Jan de Boer, 1747 en vervolg’. Amsterdam, 1747. KB: 71 A-8. KB Den Haag. [https://www.dbnl.org/tekst/_med009200201_01/_med009200201_01_0009.php](https://www.dbnl.org/tekst/_med009200201_01/_med009200201_01_0009.php). 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Boer, Jan de. ‘Chronologische Historie van het geen is Voorgevallen, by de kom
 
 [<img src="..\..\barplots_chronicles\1747_Amst_Boer.jpg" width="750"/>](..\..\barplots_chronicles\1747_Amst_Boer.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

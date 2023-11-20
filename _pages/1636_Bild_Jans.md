@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Het aantekeningenboek van Dirck Jansz. 
 
+### 1636_Bild_Jans 
+
 Jansz, Dirck. Het Aantekeningenboek van Dirck Jansz. Edited by Johannes Alle Faber, A. Vellema, Klaas Fokkema, Pieter Gerbenzon, and Rudolf Michel Dekker. Egodocumenten 5. Hilversum: Verloren, 1993. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Jansz, Dirck. Het Aantekeningenboek van Dirck Jansz. Edited by Johannes Alle Fab
 
 [<img src="..\..\barplots_chronicles\1636_Bild_Jans.jpg" width="750"/>](..\..\barplots_chronicles\1636_Bild_Jans.jpg) 
 
-## Notes 
+## Notities 
 
 JP aug 23
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Gent, 1538-1542 
 
+### 1542_Gent_Anon 
+
 Anoniem. “Kroniek van Gent, 1538-1542.” Gent, 1542. Boekentoren, BHSL.HS.2340. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000836905?i=20&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Anoniem. “Kroniek van Gent, 1538-1542.” Gent, 1542. Boekentoren, BHSL.HS.234
 
 [<img src="..\..\barplots_chronicles\1542_Gent_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1542_Gent_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 Deze kroniek is anoniem. Over de auteur weten we niets anders dan dat hij een
 privepersoon was met een uitgesproken mening over de gebeurtenissen rond de

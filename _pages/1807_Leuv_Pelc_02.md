@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Lovens chronycksken 1747-1807, deel 2 
 
+### 1807_Leuv_Pelc_02 
+
 Pelckmans, M. F. Hendrizkszoon. ‘Lovens chronycksken 1747-1807, deel 2’. Leuven, 1787. Oud Archief Ms 58. Stadsarchief Leuven. http://archiefbankleuven.be/index.php/lovens-chronycksken-behelzende-de-bezonderste-geschiedenissen-zoo-binnen-loven-als-elders-voorgevallen-beginnende-met-het-jaer-1746-tot-het-jaer-18-07-door-m-f-p-hendrickszoon-michael-franciscus-pelckmans-2;isad. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Pelckmans, M. F. Hendrizkszoon. ‘Lovens chronycksken 1747-1807, deel 2’. Leu
 
 [<img src="..\..\barplots_chronicles\1807_Leuv_Pelc_02.jpg" width="750"/>](..\..\barplots_chronicles\1807_Leuv_Pelc_02.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

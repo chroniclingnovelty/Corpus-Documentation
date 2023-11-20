@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De vermaerde ende wonderlycke Geschiedenissen der prinselycke Stadt van Brussel 
 
+### 1744_Brus_Anon 
+
 Anoniem. “De Vermaerde Ende Wonderlycke Geschiedenissen Der Prinselycke Stadt van Brussel.” Brussel, 1744. ASB Archives historiques, Registre 3107. Stadsarchief Brussel. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Anoniem. “De Vermaerde Ende Wonderlycke Geschiedenissen Der Prinselycke Stadt 
 
 [<img src="..\..\barplots_chronicles\1744_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1744_Brus_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 15 8 2023
 

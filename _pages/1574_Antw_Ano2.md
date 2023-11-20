@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Antwerpsch chronykje, in het welk zeer veele en elders te vergeefsch gezogte geschiedenissen sedert den jare 1500 tot het jaar 1574 zoo in die toen ... vermaarde koopstad als de andere steden van Nederland 
 
+### 1574_Antw_Ano2 
+
 F.G.V. Antwerpsch chronykje, in het welk zeer veele en elders te vergeefsch gezogte geschiedenissen sedert den jare 1500 tot het jaar 1574 zoo in die toen ... vermaarde koopstad als de andere steden van Nederland. Edited by Frans van Mieris and Gerard van Loon. Leyden: Pieter vander Eyk, 1743. https://www.dbnl.org/tekst/loon003antw01_01/. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ F.G.V. Antwerpsch chronykje, in het welk zeer veele en elders te vergeefsch gezo
 
 [<img src="..\..\barplots_chronicles\1574_Antw_Ano2.jpg" width="750"/>](..\..\barplots_chronicles\1574_Antw_Ano2.jpg) 
 
-## Notes 
+## Notities 
 
 Deze kroniek werd in 1743 was uitgegeven als het Antwerpsch chronyckje. Binnen
 dit corpus bevindt zich ook een latere editie van hetzelfde

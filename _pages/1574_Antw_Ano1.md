@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronycke van Antwerpen sedert het jaer 1500 tot 1575 ; gevolgd van Eene beschryving van de historie en het landt van Brabant, sedert het jaer 51 vóór J.-C., tot 1565 na J.-C., volgens een onuitgegeven handschrift van de XVIe eeuw 
 
+### 1574_Antw_Ano1 
+
 Ullens, F.G., ed. Chronycke van Antwerpen sedert het jaer 1500 tot 1575 ; gevolgd van Eene beschryving van de historie en het landt van Brabant, sedert het jaer 51 vóór J.-C., tot 1565 na J.-C., volgens een onuitgegeven handschrift van de XVIe eeuw. Antwerpen: Van Dieren, 1845. https://dbnl.nl/tekst/ulle001chro01_01/. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Ullens, F.G., ed. Chronycke van Antwerpen sedert het jaer 1500 tot 1575 ; gevo
 
 [<img src="..\..\barplots_chronicles\1574_Antw_Ano1.jpg" width="750"/>](..\..\barplots_chronicles\1574_Antw_Ano1.jpg) 
 
-## Notes 
+## Notities 
 
 Deze kroniek is een nieuwe editie van het handschrift dat in 1743 al was
 uitgegeven als het Antwerpsch chronyckje, dat ook in dit corpus te vinden

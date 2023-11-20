@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Beschrijving der stad Yper, deel 1 
 
+### 1595_Iepe_Hern_01 
+
 Hernighem, van, Augustyn. ‘Beschrijving der stad Yper, deel 1’, 1595. Fonds Goethals-Vercruysse, ms. 296. Rijksarchief te Kortrijk. https://www.dbnl.org/tekst/herm052eers01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Hernighem, van, Augustyn. ‘Beschrijving der stad Yper, deel 1’, 1595. Fonds 
 
 [<img src="..\..\barplots_chronicles\1595_Iepe_Hern_01.jpg" width="750"/>](..\..\barplots_chronicles\1595_Iepe_Hern_01.jpg) 
 
-## Notes 
+## Notities 
 
 JP/AK aug 2023
 

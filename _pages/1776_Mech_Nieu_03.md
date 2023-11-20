@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Deel 3 kroniek van Mechelen door kapelaan Hendrik Dominik Van den Nieuwenhuysen 
 
+### 1776_Mech_Nieu_03 
+
 Nieuwenhuysen, Hendrik Dominik van den. “Deel 3 Kroniek van Mechelen Door Kapelaan Hendrik Dominik Van Den Nieuwenhuysen.” 2. Mechelen, 1776. Varia 832/1. Stadsarchief Mechelen. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Nieuwenhuysen, Hendrik Dominik van den. “Deel 3 Kroniek van Mechelen Door Kape
 
 [<img src="..\..\barplots_chronicles\1776_Mech_Nieu_03.jpg" width="750"/>](..\..\barplots_chronicles\1776_Mech_Nieu_03.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

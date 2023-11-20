@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Uittreksel uit de Amsterdamsche gedenkschriften van Laurens Jacobsz Reael, 1542-1567 
 
+### 1567_Amst_Reae 
+
 Reael, Laurens Jacobsz. “Uittreksel Uit de Amsterdamsche Gedenkschriften van Laurens Jacobsz Reael, 1542-1567.” Edited by J.C. Breen. Bijdragen En Mededelingen van Het Historisch Genootschap 17 (1896): 1–60. 
 
 ## Auteursgegevens 
@@ -36,7 +38,7 @@ Reael, Laurens Jacobsz. “Uittreksel Uit de Amsterdamsche Gedenkschriften van L
 
 [<img src="..\..\barplots_chronicles\1567_Amst_Reae.jpg" width="750"/>](..\..\barplots_chronicles\1567_Amst_Reae.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

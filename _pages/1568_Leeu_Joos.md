@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Ephemerides Leovardienses of Leeuwarder aanteekeningen van den notaris Anthonius Joostzoon, 1566 - 1568 
 
+### 1568_Leeu_Joos 
+
 Joostzoon, Antonius. ‘Ephemerides Leovardienses of Leeuwarder aanteekeningen van den notaris Anthonius Joostzoon, 1566 - 1568’. Onder redactie van W.W. Buma. Vrije Fries IX (1862): 387-440. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Joostzoon, Antonius. ‘Ephemerides Leovardienses of Leeuwarder aanteekeningen v
 
 [<img src="..\..\barplots_chronicles\1568_Leeu_Joos.jpg" width="750"/>](..\..\barplots_chronicles\1568_Leeu_Joos.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

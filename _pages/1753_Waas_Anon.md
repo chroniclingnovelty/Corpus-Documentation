@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Beschrijvinge van de opkomste, gelegentheyt en den naem. van den lande van Waes 
 
+### 1753_Waas_Anon 
+
 Anoniem. “Beschrijvinge van de Opkomste, Gelegentheyt En Den Naem. van Den Lande van Waes.” Waasland, 1753. Hs  II. 3617. KB Brussel. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Anoniem. “Beschrijvinge van de Opkomste, Gelegentheyt En Den Naem. van Den Lan
 
 [<img src="..\..\barplots_chronicles\1753_Waas_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1753_Waas_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP juli 2023
 

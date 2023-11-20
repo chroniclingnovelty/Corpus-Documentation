@@ -8,6 +8,8 @@ parent: Chronicles
 
 # De cleene ofte corte chronycke van Dhr. Justo Billet, begrypende in forme van eenen register ... van saecken principalick gheschiet binnen de Stadt van Ghendt, midtgaders van eenighe steden van Vlaendren, van Duytslandt ... tot den jaere 1564. In twee volumen, waer naer noch dry andere sullen volghen, eyndende met de jaere 1666, deel 1 
 
+### 1666_Gent_Bill_01 
+
 Billet, Justus. ‘De cleene ofte corte chronycke van Dhr. Justo Billet, begrypende in forme van eenen register ... van saecken principalick gheschiet binnen de Stadt van Ghendt, midtgaders van eenighe steden van Vlaendren, van Duytslandt ... tot den jaere 1564. In twee volumen, waer naer noch dry andere sullen volghen, eyndende met de jaere 1666, deel 1’. Gent, 1666. GSA1.1LF2. Stadsarchief Gent. http://www.cageweb.be/catalog/cgw01:000019444. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Billet, Justus. ‘De cleene ofte corte chronycke van Dhr. Justo Billet, begrype
 
 [<img src="..\..\barplots_chronicles\1666_Gent_Bill_01.jpg" width="750"/>](..\..\barplots_chronicles\1666_Gent_Bill_01.jpg) 
 
-## Notes 
+## Notities 
 
 JP 10 08 2023
 

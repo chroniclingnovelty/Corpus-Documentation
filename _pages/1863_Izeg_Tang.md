@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Parochieboek van Iseghem, gevolgd door de levensbeschrijving des H. Hilonius 
 
+### 1863_Izeg_Tang 
+
 Tanghe, Guillaume-François. Parochieboek van Iseghem, gevolgd door de levensbeschrijving des H. Hilonius. Brugge: De Schrijver, 1863. https://dbnl.nl/tekst/tang009paro01_01/. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Tanghe, Guillaume-François. Parochieboek van Iseghem, gevolgd door de levensbes
 
 [<img src="..\..\barplots_chronicles\1863_Izeg_Tang.jpg" width="750"/>](..\..\barplots_chronicles\1863_Izeg_Tang.jpg) 
 
-## Notes 
+## Notities 
 
 EK
 

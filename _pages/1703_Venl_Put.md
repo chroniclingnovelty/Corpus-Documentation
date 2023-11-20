@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Liederen van Mechteldis van Lom en andere annuntiaten, voorafgegaan door de Trancedron-kroniek van Barbara de Put 
 
+### 1703_Venl_Put 
+
 Put, Barbara de. Liederen van Mechteldis van Lom en andere annuntiaten, voorafgeg. door de Transcedron-kroniek van Barbara: voorafgegaan door de Trancedron-kroniek van Barbara de Put. Edited by Mechteldis van de Lom and Nicolaas Carel Heinrich Wijngaards. Zwolse drukken en herdrukken ; 25. Zwolle: Tjeenk Willink, 1957. http://www.dbnl.org/tekst/lom_003lied01_01/. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Put, Barbara de. Liederen van Mechteldis van Lom en andere annuntiaten, voorafge
 
 [<img src="..\..\barplots_chronicles\1703_Venl_Put.jpg" width="750"/>](..\..\barplots_chronicles\1703_Venl_Put.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

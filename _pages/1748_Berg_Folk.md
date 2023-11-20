@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dag verhaal van de belegering van Bergen op den Zoom. In den Jaaren 1747 
 
+### 1748_Berg_Folk 
+
 Folkers, Jacobus Adrianus. “Dag Verhaal van de Belegering van Bergen Op Den Zoom. In Den Jaaren 1747.” Bergen op Zoom, 1748. KHS D148. UB Tilburg. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Folkers, Jacobus Adrianus. “Dag Verhaal van de Belegering van Bergen Op Den Zo
 
 [<img src="..\..\barplots_chronicles\1748_Berg_Folk.jpg" width="750"/>](..\..\barplots_chronicles\1748_Berg_Folk.jpg) 
 
-## Notes 
+## Notities 
 
 _Auteursinformatie (Tinka de Haan)  
 _

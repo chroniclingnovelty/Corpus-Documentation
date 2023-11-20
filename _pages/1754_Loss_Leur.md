@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Tot Losser gekomen. Het notitieboek van Aleida Leurink 1698-1754 
 
+### 1754_Loss_Leur 
+
 Leurink, Aleida. Tot Losser Gekomen. Het Notitieboek van Aleida Leurink 1698-1754. Edited by Maria Leonie Hansen. Epe: Twentse Taalbank, 2009. http://www.twentsetaalbank.nl/media/teksten/1444.html. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Leurink, Aleida. Tot Losser Gekomen. Het Notitieboek van Aleida Leurink 1698-175
 
 [<img src="..\..\barplots_chronicles\1754_Loss_Leur.jpg" width="750"/>](..\..\barplots_chronicles\1754_Loss_Leur.jpg) 
 
-## Notes 
+## Notities 
 
 Auteursinformatie ontleend aan Wikipedia, 16 aug 2023
 

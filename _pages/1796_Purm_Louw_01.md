@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronijk der stad Purmerende bevattende der selver opkomste en voortgang, in handschrift door Albert Pietersz. Louwen, 18e eeuw, deel 1 
 
+### 1796_Purm_Louw_01 
+
 Louwen, Albert Pietersz. ‘Kronijk der stad Purmerende bevattende der selver opkomste en voortgang, in handschrift door Albert Pietersz. Louwen, 18e eeuw, deel 1’. Purmerend, 1766. 143 Louwen, A. Pietersz., Collectie van inv. nr. 18. Noord Hollands Archief Haarlem. https://hdl.handle.net/21.12102/16176A27A0EE443CA82AB71FC2EFE67B. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Louwen, Albert Pietersz. ‘Kronijk der stad Purmerende bevattende der selver op
 
 [<img src="..\..\barplots_chronicles\1796_Purm_Louw_01.jpg" width="750"/>](..\..\barplots_chronicles\1796_Purm_Louw_01.jpg) 
 
-## Notes 
+## Notities 
 
 Erika Kuijpers en Lianne Wilhelmus
 

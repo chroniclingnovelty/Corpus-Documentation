@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Tydscronyck, deel 4 
 
+### 1855_Kort_Fill_04 
+
 Filleul, Jan Baptiste. “Tydscronyck, Deel 4.” Kortrijk, 1855. Stadsfonds, 935 inv.nr. 31. Rijksarchief te Kortrijk. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Filleul, Jan Baptiste. “Tydscronyck, Deel 4.” Kortrijk, 1855. Stadsfonds, 93
 
 [<img src="..\..\barplots_chronicles\1855_Kort_Fill_04.jpg" width="750"/>](..\..\barplots_chronicles\1855_Kort_Fill_04.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

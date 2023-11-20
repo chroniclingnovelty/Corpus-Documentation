@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Eenige gedenckwaerdige geschiedenissen raeckende meest het Landt van Overijssel ende deszelfs Steden? Kroniek van Overijssel en in het bijzonder Zwolle, geschreven door L.F. Cattenbelt, 1678 - 1681. 
 
+### 1681_Zwol_Catt 
+
 Cattenbelt, L.F. ‘Eenige gedenckwaerdige geschiedenissen raeckende meest het Landt van Overijssel ende deszelfs Steden? Kroniek van Overijssel en in het bijzonder Zwolle, geschreven door L.F. Cattenbelt, 1678 - 1681.’ Zwolle, 1681 1678. Vereeniging tot Beoefening van Overijsselsch Regt en Geschiedenis (VORG), handschriftenverzameling, nummer toegang 0263, inventarisnummer 909. Historisch Centrum Overijssel. https://proxy.archieven.nl/20/CED06AD642D8499CB1E7F920CD6FFA82. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Cattenbelt, L.F. ‘Eenige gedenckwaerdige geschiedenissen raeckende meest het L
 
 [<img src="..\..\barplots_chronicles\1681_Zwol_Catt.jpg" width="750"/>](..\..\barplots_chronicles\1681_Zwol_Catt.jpg) 
 
-## Notes 
+## Notities 
 
 JP 10 08 2023
 

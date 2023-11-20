@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Cronyke ofte Brugsche dagh-aenteekeningen behelsende de gedenckweerdighste Geschiedenisse de welcke binne de selve stad als daer ontrent voorgevallen zijn sedert het jaer 1786 tot het jaer 1790 
 
+### 1790_Brug_Ledo 
+
 Le Doulx, P. ‘Cronyke ofte Brugsche dagh-aenteekeningen behelsende de gedenckweerdighste Geschiedenisse de welcke binne de selve stad als daer ontrent voorgevallen zijn sedert het jaer 1786 tot het jaer 1790’. Brugge, 1790. Hs. 52. Stadsarchief Brugge. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Le Doulx, P. ‘Cronyke ofte Brugsche dagh-aenteekeningen behelsende de gedenckw
 
 [<img src="..\..\barplots_chronicles\1790_Brug_Ledo.jpg" width="750"/>](..\..\barplots_chronicles\1790_Brug_Ledo.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

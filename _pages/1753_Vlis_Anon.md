@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Beschrivinge van Vlissinge - uijt verscheide Schrivers bij een - vergaderd 
 
+### 1753_Vlis_Anon 
+
 Anoniem. ‘Beschrivinge van Vlissinge - uijt verscheide Schrivers bij een - vergaderd’. Privékroniek. Vlissingen, 1753. Privébezit. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Anoniem. ‘Beschrivinge van Vlissinge - uijt verscheide Schrivers bij een - ver
 
 [<img src="..\..\barplots_chronicles\1753_Vlis_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1753_Vlis_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 25/7/23
 

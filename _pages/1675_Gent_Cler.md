@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronijcke ofte Cort Verhael van de principaelste GHeschiedenissen die 't sedert Christus geboorte voorghevallen zijn, tot desen teghenwoordighen iaere toe. A Jove principium 
 
+### 1675_Gent_Cler 
+
 Clercq, de, J. Adolphus. ‘Chronijcke ofte Cort Verhael van de principaelste GHeschiedenissen die ’t sedert Christus geboorte voorghevallen zijn, tot desen teghenwoordighen iaere toe. A Jove principium’. 3. Brugge, 1675. Arch. Gilliodts, oork. nr. 80 (hs. 227). Stadsarchief Brugge. 
 
 ## Auteursgegevens 
@@ -28,7 +30,7 @@ Clercq, de, J. Adolphus. ‘Chronijcke ofte Cort Verhael van de principaelste GH
 
 [<img src="..\..\barplots_chronicles\1675_Gent_Cler.jpg" width="750"/>](..\..\barplots_chronicles\1675_Gent_Cler.jpg) 
 
-## Notes 
+## Notities 
 
 JP juni 2023
 

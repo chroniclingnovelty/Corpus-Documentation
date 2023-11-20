@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Dagboek van Jan Gijsbertsz. Brouwer, binnenvader van het Pest- en Dolhuis 
 
+### 1703_Rott_Brou 
+
 Brouwer, Jan Gijsbertsz. ‘Dagboek van Jan Gijsbertsz. Brouwer, binnenvader van het Pest- en Dolhuis’. Manuscript. Rotterdam, 30 juni 1679. 230-01_148. Stadsarchief Rotterdam. https://hdl.handle.net/21.12133/C47939C6BAF947B792EE4EBEA0F41364. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Brouwer, Jan Gijsbertsz. ‘Dagboek van Jan Gijsbertsz. Brouwer, binnenvader van
 
 [<img src="..\..\barplots_chronicles\1703_Rott_Brou.jpg" width="750"/>](..\..\barplots_chronicles\1703_Rott_Brou.jpg) 
 
-## Notes 
+## Notities 
 
 JP 27 2 2023
 

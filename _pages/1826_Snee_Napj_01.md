@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Geschiedkundige kronijk en beschrijving van de stad Sneek 
 
+### 1826_Snee_Napj_01 
+
 Napjus, Eelco. Geschiedkundige kronijk en beschrijving van de stad Sneek. Edited by F.W. van Breest Smallenburg. Te Sneek: bij F.W.v.B. Smallenburg, 1826. https://www.dbnl.org/tekst/napj001gesc01_01/napj001gesc01_01_0006.php. 
 
 ## Auteursgegevens 
@@ -34,7 +36,15 @@ Napjus, Eelco. Geschiedkundige kronijk en beschrijving van de stad Sneek. Edited
 
 [<img src="..\..\barplots_chronicles\1826_Snee_Napj_01.jpg" width="750"/>](..\..\barplots_chronicles\1826_Snee_Napj_01.jpg) 
 
-## Notes 
+## Notities 
+
+De kroniek is eigenlijk een stadsbeschrijving, maar met een aanhangsel: Op
+bladzijde 155 begint een geschiedkundige kroniek, geschreven door de zoon van
+de auteur. Deze is ook opgenomen in het corpus.<sup>1</sup>
+
+[1] verwijzing naar 1826_snee_napj_02
+
+
 
 Met dank aan Tinka de Haan
 

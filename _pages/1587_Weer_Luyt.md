@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kronĳk uit het klooster Maria-Wĳngaard te Weert, 1442-1587 
 
+### 1587_Weer_Luyt 
+
 Luyten, Maria. Kronĳk Uit Het Klooster Maria-Wĳngaard Te Weert, 1442-1587. Edited by Jos. Habets, Ch. Creemers, and A. Nieuwenhuizen. Weert / Gent: Weert : Stichting Historisch Onderzoek Weert ; Gent : Geschiedkundige Heruitgeverij, [2004], 2004. https://dbnl.nl/tekst/luyt013kron01_01/. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Luyten, Maria. Kronĳk Uit Het Klooster Maria-Wĳngaard Te Weert, 1442-1587. Edi
 
 [<img src="..\..\barplots_chronicles\1587_Weer_Luyt.jpg" width="750"/>](..\..\barplots_chronicles\1587_Weer_Luyt.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

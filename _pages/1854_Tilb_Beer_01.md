@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniekje van Tilburg over 1774-1854 
 
+### 1854_Tilb_Beer_01 
+
 Beer, Jan Baptist de. ‘Kroniekje van Tilburg over 1774-1854’. Tilburg, 1854. Regionaal Archief Tilburg. https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/11ba8550bfa9451c9ea3ccfdbe756f51. 
 
 ## Auteursgegevens 
@@ -31,7 +33,7 @@ Beer, Jan Baptist de. ‘Kroniekje van Tilburg over 1774-1854’. Tilburg, 1854.
 
 [<img src="..\..\barplots_chronicles\1854_Tilb_Beer_01.jpg" width="750"/>](..\..\barplots_chronicles\1854_Tilb_Beer_01.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

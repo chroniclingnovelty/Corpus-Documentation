@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronique de Bruxelles 
 
+### 1558_Brus_Anon 
+
 Anoniem. “Chronique de Bruxelles.” Brussel, 1558. KB Brussel. 
 
 ## Auteursgegevens 
@@ -26,7 +28,14 @@ Anoniem. “Chronique de Bruxelles.” Brussel, 1558. KB Brussel.
 
 [<img src="..\..\barplots_chronicles\1558_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1558_Brus_Anon.jpg) 
 
-## Notes 
+## Notities 
+
+EK De auteur van de laatste zeventiende-eeuwse aantekeningen is Remij
+Lefebuer. HIj is in 1632 in Brussel gehuwd met Cathelyn Willems met wie hij
+een dochter Marie, een dochter Anneken, een zoon Joannes, een zoon Franciscus.
+De peetouders zijn personen uit vooraanstaande families.
+
+
 
 ## Literatuur 
 

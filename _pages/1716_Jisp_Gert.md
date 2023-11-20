@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Aantekenboek betreffende Jisp, met beschrijving,1647-1716 
 
+### 1716_Jisp_Gert 
+
 Anoniem. ‘Aantekenboek betreffende Jisp, met beschrijving,1647-1716’. Jisp, 1716. 0954  Collectie persoonlijke documenten en handschriften, 1518-1968, inv. nr. 1. Waterlands Archief. https://proxy.archieven.nl/131/0C2C8F323DAD425C9B411DF803B971E3. 
 
 ## Auteursgegevens 
@@ -32,7 +34,7 @@ Anoniem. ‘Aantekenboek betreffende Jisp, met beschrijving,1647-1716’. Jisp, 
 
 [<img src="..\..\barplots_chronicles\1716_Jisp_Gert.jpg" width="750"/>](..\..\barplots_chronicles\1716_Jisp_Gert.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

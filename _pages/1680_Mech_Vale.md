@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronycke van Mechelen door Remmerus Valerius Pastoor in Muysen, Vermeerdert met een kort verhaal van het Leven en Schriften van den Aucteur als oock met eene achtervolgende Tafel &c makende eene korte generale Chronyke van den Jaere 350 tot den jaere 1680 
 
+### 1680_Mech_Vale 
+
 Valerius, Remmerus. Chronycke van Mechelen door Remmerus Valerius Pastoor in Muysen, Vermeerdert met een kort verhaal van het Leven en Schriften van den Aucteur als oock met eene achtervolgende Tafel &c makende eene korte generale Chronyke van den Jaere 350 tot den jaere 1680. Edited by J.F. van der Elst. Mechelen: Vander Elst, 1754. https://dbnl.nl/tekst/vale010chro01_01/. 
 
 ## Auteursgegevens 
@@ -36,7 +38,7 @@ Valerius, Remmerus. Chronycke van Mechelen door Remmerus Valerius Pastoor in Muy
 
 [<img src="..\..\barplots_chronicles\1680_Mech_Vale.jpg" width="750"/>](..\..\barplots_chronicles\1680_Mech_Vale.jpg) 
 
-## Notes 
+## Notities 
 
 MVW/JP 11 aug 2023
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek eener kloosterzuster van het voormalig Bossche klooster "Marie͏̈nburg" over de troebelen te 's-Hertogenbosch e.e. in de jaren 1566-1575 
 
+### 1575_Bosc_Anon 
+
 Alfen, H., red. Kroniek eener kloosterzuster van het voormalig Bossche klooster ‘Marie͏̈nburg’ over de troebelen te ’s-Hertogenbosch e.e. in de jaren 1566-1575. Uitgave van het Provinciaal Genootschap van Kunsten en Wetenschappen in Noord-Brabant ; [N.r., no. 27] 27. ’s Hertogenbosch, 1931. https://www.dbnl.org/tekst/_kro012kron01_01/index.php. 
 
 ## Auteursgegevens 
@@ -30,7 +32,7 @@ Alfen, H., red. Kroniek eener kloosterzuster van het voormalig Bossche klooster 
 
 [<img src="..\..\barplots_chronicles\1575_Bosc_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1575_Bosc_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 De Bossche kroniek van de Tertiarissenzusters aan de Uilenburg in Den Bosch is
 door een onbekende zuster opgetekend. Deze was een minder geschoold

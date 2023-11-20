@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Rare geschriften behelsende het gedenckweerdighste dat ‘er is voorgevallen binnen de stadt van Brugghe, 1645-1684 door Jacques Inbona en verdergezet door Pieter Le Doulx tot 1781 (met een vervolgh ofte bijvoughsel) 
 
+### 1781_Brug_Ledo 
+
 Inbona, Jacques, en Pieter Ledoulx. ‘Rare geschriften behelsende het gedenckweerdighste dat ‘er is voorgevallen binnen de stadt van Brugghe, 1645-1684 door Jacques Inbona en verdergezet door Pieter Le Doulx tot 1781 (met een vervolgh ofte bijvoughsel)’. Brugge, 1684. Fonds Goethals-Vercruysse, ms. 175. Rijksarchief te Kortrijk. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Inbona, Jacques, en Pieter Ledoulx. ‘Rare geschriften behelsende het gedenckwe
 
 [<img src="..\..\barplots_chronicles\1781_Brug_Ledo.jpg" width="750"/>](..\..\barplots_chronicles\1781_Brug_Ledo.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Gedurende de halve maand februarii 1795 
 
+### 1795_Harl_Tous 
+
 Toussaint, Johan Daniel. “Gedurende de Halve Maand Februarii 1795.” 1. Harlingen, 1795. PB 1005 Hs. Tresoar Leeuwarden. 
 
 ## Auteursgegevens 
@@ -33,7 +35,7 @@ Toussaint, Johan Daniel. “Gedurende de Halve Maand Februarii 1795.” 1. Harli
 
 [<img src="..\..\barplots_chronicles\1795_Harl_Tous.jpg" width="750"/>](..\..\barplots_chronicles\1795_Harl_Tous.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 

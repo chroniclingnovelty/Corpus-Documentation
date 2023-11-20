@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kort verhaal der gedenckwaerdijgste gheschiedenissen van Westvrieslant 
 
+### 1636_Hauw_Baer 
+
 Baerntsz, Claes. “Kort Verhaal Der Gedenckwaerdijgste Gheschiedenissen van Westvrieslant.” Hauwert, 1636. 176 Losse Aanwinsten (verkregen tot 1984) 1530. Noord Hollands Archief Haarlem. https://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&miaet=1&micode=176&minr=742214&miview=inv2. 
 
 ## Auteursgegevens 
@@ -34,7 +36,7 @@ Baerntsz, Claes. “Kort Verhaal Der Gedenckwaerdijgste Gheschiedenissen van Wes
 
 [<img src="..\..\barplots_chronicles\1636_Hauw_Baer.jpg" width="750"/>](..\..\barplots_chronicles\1636_Hauw_Baer.jpg) 
 
-## Notes 
+## Notities 
 
 JP juni 2023
 

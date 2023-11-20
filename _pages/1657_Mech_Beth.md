@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronyke van Bethanien 
 
+### 1657_Mech_Beth 
+
 Anoniem. “Chronyke van Bethanien.” 3. Mechelen, 1657. EE Kronieken en Jaarboeken XXVI 1 (Safe II rek 2). Stadsarchie Mechelen. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Chronyke van Bethanien.” 3. Mechelen, 1657. EE Kronieken en Jaarbo
 
 [<img src="..\..\barplots_chronicles\1657_Mech_Beth.jpg" width="750"/>](..\..\barplots_chronicles\1657_Mech_Beth.jpg) 
 
-## Notes 
+## Notities 
 
 autograaf (meer dan één hand); kroniek door een kloosterzuster; de
 beginwoorden  

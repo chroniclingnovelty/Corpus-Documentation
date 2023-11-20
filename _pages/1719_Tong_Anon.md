@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Chronijk van Maestricht tot 1719 
 
+### 1719_Tong_Anon 
+
 Anoniem. “Chronijk van Maestricht tot 1719.” 3. Tongeren, 1719. 18.A  Handschriftencollectie (voormalig) Rijksarchief Limburg, 13e-20e eeuw, inv. nr. 404. RHCL. http://www.archieven.nl/mi/1540/?mivast=1540&mizig=210&miadt=38&miaet=1&micode=18.A&minr=14496644&miview=inv2. 
 
 ## Auteursgegevens 
@@ -29,7 +31,7 @@ Anoniem. “Chronijk van Maestricht tot 1719.” 3. Tongeren, 1719. 18.A  Hands
 
 [<img src="..\..\barplots_chronicles\1719_Tong_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1719_Tong_Anon.jpg) 
 
-## Notes 
+## Notities 
 
 JP 3 juli 2023
 

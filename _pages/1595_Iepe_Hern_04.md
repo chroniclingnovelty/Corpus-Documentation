@@ -8,6 +8,8 @@ parent: Chronicles
 
 # Kroniek van Vlaanderen en Brabant. 4: 1584-1587 
 
+### 1595_Iepe_Hern_04 
+
 Van Hernighem, Augustyn. “Kroniek van Vlaanderen En Brabant. 4: 1584-1587.” Ieper, 1587. Boekentoren, BHSL.HS.3700. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000833029?i=30&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
@@ -35,7 +37,7 @@ Van Hernighem, Augustyn. “Kroniek van Vlaanderen En Brabant. 4: 1584-1587.” 
 
 [<img src="..\..\barplots_chronicles\1595_Iepe_Hern_04.jpg" width="750"/>](..\..\barplots_chronicles\1595_Iepe_Hern_04.jpg) 
 
-## Notes 
+## Notities 
 
 ## Literatuur 
 
