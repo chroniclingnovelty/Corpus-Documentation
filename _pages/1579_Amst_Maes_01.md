@@ -38,19 +38,22 @@ Jacobsz, Wouter. Dagboek van Broeder Wouter Jacobsz (Gualtherus Jacobi Masius) P
 
 ## Notities 
 
-**“Wouter Jacobsz** (c. 1521–1595) became prior of the convent of Stein in
-Gouda at age 28. After Gouda’s choice for the Revolt, he fled to Amsterdam.
-After a year he was appointed priest of the nuns of the convent Ter Lely. When
-Amsterdam joined the Revolt and expelled its Catholic priests he moved to
-Montfoort, and eventually back to Gouda, where he, like other priests, was
-given a pension. His account of his time in Amsterdam and Montfoort was
-published as _Dagboek van broeder Wouter Jacobsz. (Gualtherus Jacobi Masius)
-Amsterdam 1572–1578 en Montfoort 1578–1579_ , ed. I. H. van Eeghen. 2 vols.
-(Groningen, 1959). It is an extraordinary text, in which the refugee priest
-not only reports on the latest developments Amsterdam and Montfoort and the
-region, but also reflects on the religious meaning of his situation and the
-political developments of his time. It may have been written with some
-pastoral aim in mind.”<sup>1</sup>
+"Wouter Jacobsz (ca. 1521-1595) werd op 28-jarige leeftijd prior van het
+klooster Stein in Gouda. Na de keuze van Gouda voor de Opstand vluchtte hij
+naar Amsterdam. Na een jaar werd hij benoemd tot priester van de nonnen van
+het klooster Ter Lely. Toen Amsterdam zich aansloot bij de Opstand en zijn
+katholieke priesters de stad uitzette, verhuisde hij naar Montfoort en
+uiteindelijk terug naar Gouda, waar hij, net als andere priesters, een
+pensioen kreeg. Zijn verslag van zijn tijd in Amsterdam en Montfoort werd
+gepubliceerd als _Dagboek van broeder Wouter Jacobsz. (Gualtherus Jacobi
+Masius) Amsterdam 1572-1578 en Montfoort 1578-1579_ , ed. I. H. van Eeghen. 2
+delen (Groningen, 1959). Het is een bijzondere tekst, waarin de gevluchte
+priester niet alleen verslag doet van de laatste ontwikkelingen in Amsterdam
+en Montfoort en de regio, maar ook reflecteert op de religieuze betekenis van
+zijn situatie en de politieke ontwikkelingen van zijn tijd. Mogelijk is het
+geschreven met een pastoraal doel voor ogen."
+
+<sup>1</sup>
 
 Het originele handschrift ligt in de universiteitsbibliotheek van de Radboud
 Universiteit Nijmegen, Hs. 228:  

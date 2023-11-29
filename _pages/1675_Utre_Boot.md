@@ -39,8 +39,6 @@ Booth, Everard. “Dagelijksche aanteekeningen gedurende het verblijf der Fransc
 
 ## Notities 
 
-MVW
-
 Informatie over auteur in [Nieuw Nederlandsch Biografisch Woordenboek van
 Kuyk](http://resources.huygens.knaw.nl/retroboeken/nnbw/#source=3&page=79&view=imagePane)
 
@@ -81,6 +79,8 @@ Neveninformatie over Booth beschikbaar via:
   * <https://www.geheugenvanzeist.nl/wp-content/uploads/Ongewenst-koninklijk-bezoek-aan-Zeist.pdf>
   * <https://www.dbnl.org/arch/_ver027194901_01/pag/_ver027194901_01.pdf>
   * <https://onlinemuseumdebilt.nl/de-utrechtse-regent-booth-over-de-boerenbevolking-van-westbroek-in-1672-en-1673/>
+
+MVW
 
 
 

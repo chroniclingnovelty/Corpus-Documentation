@@ -67,28 +67,11 @@ nummer 99 en het opschrift:  _Varia. Nederlandsche historie_.’<sup>2</sup>
 Er is een scriptie over deze kroniek:  
 Stan van de Casteele, ‘De stadskroniek van Gillis de Voocht: Gentse
 herinneringsvorming aan het begin van de 17de eeuw’ (Masterscriptie, Gent,
-Univeriteit Gent, 2018) ( _<https://lib.ugent.be/catalog/rug01:002508269>)_
+Univeriteit Gent, 2018) ( _<https://lib.ugent.be/catalog/rug01:002508269>). _
 
-[1] Gillis de Voocht, Het beleg van Gent ten jare 965 (1845). URL:
-<https://www.dbnl.org/tekst/vooc001bele02_01/vooc001bele02_01_0001.php>
-
-[2] Ibid., IV.
-
-
-
-JP 16 8 2023
-
-Erg mooi Ms. met gekleurde initialen en verfdecoraties in de tekst. Staat in
-cat als heterogene verzameling maar is vooral kroniek over periode, 1500-1607
-en is contemporain. Treves/Bestand zijn eindpunt. Op het schutblad vinden we
-informatie over de 17e eeuwse provenance, toen hij in het bezit was van
-Elizabeth Danckaert. Er is ruzie over het eigenaarschap in 1667.
-
-Er is onderzoek gedaan naar deze tekst door Stan van de Casteele aan de UGent,
-en de volgende informatie is ontleend aan zijn MA thesis, De STADSKRONIEKVAN
-GILLIS DE VOOCHT. Gentse stedelijke herinneringsvorming aan het begin van de
-17de eeuw (2017-18). We danken zijn begeleider Anne Laure van Bruaene voor de
-inzage in deze ongepubliceerde tekst.
+De volgende informatie is ontleend aan zijn MA thesis. We danken zijn
+begeleider Anne Laure van Bruaene voor de inzage in deze ongepubliceerde
+tekst.
 
 De auteur was afkomstig uit ambachtskringen, en in 1568 werkzaam als kapelaan
 van broederschap Mariën Theeren en als Latijns schoolmeester in de
@@ -99,6 +82,11 @@ een incident waarbij hij moeilijkheden had met Spaanse troepen. Hij ging
 tussen 1577-80 waarschijnlijk in ballingschap, en werkte daarna weer als
 priester en/of schoolmeester in Gent. Hij stierf in 1610 op 83 jarige leeftijd
 en werd begraven in de Jacobskerk.
+
+[1] Gillis de Voocht, Het beleg van Gent ten jare 965 (1845). URL:
+<https://www.dbnl.org/tekst/vooc001bele02_01/vooc001bele02_01_0001.php>
+
+[2] Ibid., IV.
 
 
 

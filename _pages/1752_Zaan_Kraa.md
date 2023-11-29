@@ -34,5 +34,15 @@ Kraamer, Simon Jacobsz. “Aantekeningen Betreffende de Geschiedenis van Zaandam
 
 ## Notities 
 
+Deze kroniek is opgenomen in de lijst egodocumenten van Rudolf Dekker
+(egodocumenten tot 1814, nummer 181). Van hieruit is enige informatie bekend
+over de kroniek: De auteur is de doopsgezinde veehouder Simon Jacobsz. Kramer.
+Hij schijft ongeveer vanaf 1700 tot 10 september 1752, en heeft het hierbij
+voornamelijk over zaken zoals het weer, rampen zoals vloed, brand, plagen en
+ziektes, politieke gebeurtenissen zoals de restauratie van de stadhouder en
+berichten gerelateerd aan belastingen en het muntstelsel.
+
+
+
 ## Literatuur 
 

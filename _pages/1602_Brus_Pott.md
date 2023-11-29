@@ -39,19 +39,21 @@ Pottre, Jan de. Dagboek van Jan de Pottre, 1549-1602. Vol. 3rd series, 5. Maatsc
 
 ## Notities 
 
-**‘Jan de Pottre** (1525–1601), was a Brussels merchant, who also held some
-local offices. He married in 1564 and had five children. He was overseer of
-the poor in St Nicolas Church, served on the board of Mercers’ Guild, and was
-a councillor during the Revolt. Initially an ardent ‘patriot’, he was deeply
-disappointed in the Revolt. His account was published as _Dagboek van Jan de
-Pottre, 1549–1602_ , ed. Jules L. D. de Saint-Genois, Maatschappij der
-Vlaamsche Bibliophilen, 3rd series 5 (Ghent, 1861). Although Pottre’s comments
-are usually terse, the fact that he covered events over more than five decades
-allows the reader to trace the development of his political and religious
-views. Because of his frequent comments on public spectacles and processions,
-the diary was mined by  Margit Thøfner, _A Common Art. Urban Ceremonial in
-Antwerp and Brussels during and after the Dutch Revolt_. Studies in
-Netherlandish art and cultural history 7 (Zwolle, 2007)’<sup>1</sup>
+‘Jan de Pottre** (1525–1601), was een Brusselse koopman, die ook enkele
+plaatselijke kantoren bekleedde. Hij trouwde in 1564 en kreeg vijf kinderen.
+Hij was opzichter van de armen in de Sint-Niklaaskerk, was lid van het bestuur
+van het Mercersgilde en was raadslid tijdens de Opstand. Aanvankelijk was hij
+een vurig ‘patriot’, maar hij was diep teleurgesteld in de Opstand. Zijn
+verslag werd gepubliceerd als *Dagboek van Jan de Pottre, 1549–1602*, ed.
+Jules L.D. de Saint-Genois, Maatschappij der Vlaamsche Bibliophilen, 3e serie
+5 (Gent, 1861). Hoewel de commentaren van Pottre doorgaans beknopt zijn, stelt
+het feit dat hij gebeurtenissen over een periode van meer dan vijf decennia
+beschreef de lezer in staat de ontwikkeling van zijn politieke en religieuze
+opvattingen te volgen. Vanwege zijn veelvuldige commentaren op openbare
+spektakels en processies werd het dagboek verzameld door Margit Thøfner, *A
+Common Art. Stedelijk Ceremonieel in Antwerpen en Brussel tijdens en na de
+Nederlandse Opstand*. Studies in de Nederlandse kunst- en cultuurgeschiedenis
+7 (Zwolle, 2007)’<sup>1</sup>
 
 [1] Judith Pollmann, _Catholic identity and the Revolt of the Netherlands,
 1520-1635_ (Oxford 2011), 205

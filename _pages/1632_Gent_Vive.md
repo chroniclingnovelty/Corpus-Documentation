@@ -37,8 +37,6 @@ Vivere, Jan. Chronĳcke van Ghendt : handschrift deelmakende van het archief v
 
 ## Notities 
 
-JP/EK  juni 2023
-
 Deze uitgave is gebaseerd op een handschrift uit Bazel ‘zonder titel van 554
 bladzijden in folio, alles in een hand geschreven, klein en netjes’.
 
@@ -89,6 +87,8 @@ zessentsestich, zoo hier vooren gheschreven staet. Ende als doen en wist men
 hier van gheen Spaengaerden, maer (dese) quamen daernaer om de guesen duer
 huerlieder groot quaet al tzelve te beletten, waeruuyt dat tzelve ghenouch
 blijct, soo dat die dit lesen zulle.
+
+JP/EK  juni 2023
 
 
 

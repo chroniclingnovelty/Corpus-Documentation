@@ -35,5 +35,17 @@ Wijndrickx, Jan Jozef. “Tijdt-Wijser van Sommighe Gedenckweirdige Dingen, Die 
 
 ## Notities 
 
+auteur: Notaris J. J. Wijndrickx (protocollen 1742-1796 van bewaard op het SAM
+en op het RAA nog eens repertoria  
+1742-1763), ° 1711 (SAM, Parochieregister. 62, p. 209: Joannes Josephus
+Wijndrickx, ° 07/02/1711  
+en gedoopt 08/02/1711 in O.L.Vrouw-over-de-Dijle, zoon van Henricus en van
+Anna Catharina Reniers) -  
+† 1798 (SAM, Burgerlijke Stand, Overlijdens 1798/97v: Joseph Weijndrickx, †
+29/03/1798, 88 jaar oud, °  
+Mechelen, partner: Marie Therese Crims (†))
+
+
+
 ## Literatuur 
 

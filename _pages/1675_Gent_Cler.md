@@ -32,9 +32,11 @@ Clercq, de, J. Adolphus. ‘Chronijcke ofte Cort Verhael van de principaelste GH
 
 ## Notities 
 
-JP juni 2023
+Vlaams kroniekje dat abrupt eindigt in 1675
 
-Wij hebben in de tekst geen geen informatie over auteur gevonden.
+Wij hebben in de tekst geen geen informatie over de auteur gevonden.
+
+JP juni 2023
 
 
 

@@ -40,5 +40,17 @@ Vitringa, Horatius. ‘Annotatien van Eenige aanmerckensweerdige dingen soo in a
 
 ## Notities 
 
+MVW
+
+Auteursinformatie Vitringa is te vinden in het [biografisch woordenboek van
+Jan Willem de
+Crane](https://books.google.nl/books?id=E1tbAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=vitringa&f=false).
+Informatie over de stamboom via:
+<https://www.nikhef.nl/~louk/VITRI/generation2.html>. Informatie over de
+beroepen en publieke functies van Vitringa wordt ondersteund door meerdere
+bibliografische bronnen.
+
+
+
 ## Literatuur 
 

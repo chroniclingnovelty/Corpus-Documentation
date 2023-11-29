@@ -35,7 +35,7 @@ Vrindts, Dominicus. “Historie van Mechelen.” Mechelen, 1665. EE Kronieken en
 
 ## Notities 
 
-Informatie uit:Hugo Verstrepen,`Dit hebbe ick selver gesien. Handgeschreven
+Informatie uit:Hugo Verstrepen,’`it hebbe ick selver gesien. Handgeschreven
 kronieken, annalen, dagboeken en historien bewaard in het Mechelse
 Stadsarchief. Inventaris. Tweede, herziene uitgave. Mechelse Historische
 Tijdingen 10 Stadsarchief Mechelen.2019.`

@@ -39,11 +39,6 @@ Kist, Joost Gerard. “Uit Het Dagboek van Den Zaltbommelschen Predikant J.G. Ki
 
 ## Notities 
 
-Nienke: Hier is een roman op gebaseerd. ‘Door een Hollandse Winter’ van
-Caroline Hanken.
-
-
-
 Auteursgegevens uit Ruud Lindeman, Yvonne Scherf en Rudolf Dekker,
 _Egodocumenten van Noord-Nederlanders uit de zestiende tot begin negentiende
 eeuw. Een chronologische lijst_ (Rotterdam 1993)
@@ -66,6 +61,11 @@ Zaltbommel. Slot ontbreekt.
 5.1. G.J.F.Mes, ed., 'Uit het dagboek van den Zaltbommelschen predikant
 J.G.Kist (1794-1795)' _Bijdragen en mededelingen Gelre_ VIII(1915) 453-501.  
 5.2. Van der Aa, X, 201; NNBW, X, 518-519.
+
+
+
+Nienke: Hier is een roman op gebaseerd. ‘Door een Hollandse Winter’ van
+Caroline Hanken.
 
 
 

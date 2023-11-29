@@ -37,19 +37,19 @@ Haexbergen, Hendrik. ‘Memoriaal van de stadssecretaris Hendrik van Haexbergen,
 
 ## Notities 
 
-Het gaat hier eigenlijk om een journaal waarin deze secretaris van Deventer
-gedurende 1610-1631 zijn persoonlijke en ambtelijke activiteiten en financien
-bijhoudt, en is dus eigenlijk geen kroniek. Mooie details over wat hij
-allemaal koopt en bestelt, en hoeveel geld hij van allerlei mensen krijgt voor
-zijn ‘moeite’. Hier en daar summaries van brieven die hij schrijft, en
-volledige tekst als die naar de Prins gaan. Vermeldt ook bijv ontvangst van
-nieuws over executie Oldenbarnevelt en diverse gesprekken daarover, plus
-daarna weer brieven. Beschrijft onder welke voorwaarden hij iemand in de leer
-wil nemen - moppert dat die in een duitse hand schrijft en nog geen
-nederlands, maar kan veel leren bij hem. Ook informatie dat hij zijn dochter
-naar een schrijfmeester stuurt - ze moet het goed leren. Ook druk met aankopen
-- zijde, spaanse schoenen etc. en de verbouwing van zijn huis (met
-prijsopgave) Hij lijkt mij een man on the make.
+Het gaat hier om een journaal waarin deze secretaris van Deventer gedurende
+1610-1631 zijn persoonlijke en ambtelijke activiteiten en financien bijhoudt,
+en is dus eigenlijk geen kroniek. Mooie details over wat hij allemaal koopt en
+bestelt, en hoeveel geld hij van allerlei mensen krijgt voor zijn ‘moeite’.
+Hier en daar summaries van brieven die hij schrijft, en volledige tekst als
+die naar de Prins gaan. Vermeldt ook bijv ontvangst van nieuws over executie
+Oldenbarnevelt en diverse gesprekken daarover, plus daarna weer brieven.
+Beschrijft onder welke voorwaarden hij iemand in de leer wil nemen - moppert
+dat die in een duitse hand schrijft en nog geen nederlands kent, maar hij kan
+volgens de auteur veel leren bij hem. Ook informatie dat hij zijn dochter naar
+een schrijfmeester stuurt - ze moet het goed leren. Ook druk met aankopen -
+zijde, spaanse schoenen etc. en de verbouwing van zijn huis (met prijsopgave)
+Hij lijkt mij een man ‘on the make’.
 
 Informatie via:
 

@@ -108,5 +108,70 @@ waren in de geschiedenis van Breda en meer wilden leren over het beleg van
 
 
 
+Auteur:
+
+**a. Naam, geboortedatum, sterfdatum, evt ouders, huwelijken, kinderen?  
+** Andries Oukoop werd op 25-12-1771 gedoopt en overleed op 31-10-1827. Zijn
+ouders waren Willem Oukoop en Anna Adriana Borgers.[1] Hij trouwde op
+28-02-1822 met Jacoba Bogers en zij kregen geen kinderen samen.[2]
+
+**b. Levensloop: woonplaats (verhuizingen?) opleiding, beroep(en),
+maatschappelijke functies**
+
+Alles wijst erop dat Oukoop zijn hele leven in Breda heeft gewoond. Hij is
+daar gedoopt, getrouwd en gestorven, en hij heeft er het grootste gedeelte van
+zijn leven gewerkt. Hij was notaris van Breda tussen 1791 en 1811. Daarnaast
+was hij secretaris van de gemeente in de periodes 1803-1810 en 1815-1827.[3]
+Waarschijnlijk heeft hij op de Franse en Latijnse school gezeten.
+
+**c. Sociale positie: aanzien, welstand, geletterdheid/geleerdheid, netwerk,
+ambities.**
+
+Hij werd op zijn twintigste de notaris van de stad Breda, hieruit is op te
+maken dat hij goed geletterd was. Zijn vader was een katholieke boekdrukker,
+wat erop wijst dat Oukoop afkomstig was uit een relatief welvarende
+omgeving.[4] Zelf was Oukoop naast notaris en secretaris ook lid van de
+schoolcommissie in Breda, om het niveau van het onderwijs omhoog te krijgen.
+Het opzetten van een tekenschool was deel van dit project. Oukoops eigen
+tekenkunsten zijn terug te vinden in de kroniek.
+
+**d. Religieuze en politieke overtuigingen en betrokkenheid**
+
+Andries Oukoop was Nederlands-Hervormd.[5] Dit is opvallend omdat zijn vader
+Rooms-Katholiek was. De manier waarop hij over de Franse inval schrijft
+suggereert dat hij aan de Staatse kant stond en het niet eens was met de
+Patriotten. Hij was betrokken bij de gemeentepolitiek in Breda. Dit blijkt uit
+het feit dat hij zijn hele leven voor de gemeente heeft gewerkt.
+
+**e. Heeft de auteur meer geschreven, wellicht zelfs publicaties op zijn naam
+staan?**
+
+In het archief van Breda worden meerdere stukken met zijn handschrift bewaard.
+Dit zijn vooral documenten die hij als notaris heeft ondertekend. Daarnaast
+heeft hij ook een boekje geschreven over de bevrijding van Breda in 1813.[6]
+
+  
+
+* * *
+
+[1] Stadsarchief Breda, Collectie DTB Breda inv.nr. 32, Dopen nh Breda
+1743-1778, 25-12-1771.
+
+[2] Brabants Historisch Informatie Centrum, Archief 50 inv.nr. 1225,
+Huwelijksregister Breda 1822, 28-02-1822.
+
+[3] Stadsarchief Breda, Collectie A.Oukoop, Plaatsingslijst van de collectie
+A. Oukoop.
+
+[4] C.J.M. Brok, “De verhouding openbaar-bijzonder onderwijs in Breda
+gedurende de negentiende eeuw” (Universiteit Nijmegen, 1964) 34-35.
+
+[5] Ibid., 48.
+
+[6] Stadsarchief Breda, Collectie A.Oukoop, Plaatsingslijst van de collectie
+A. Oukoop.
+
+
+
 ## Literatuur 
 

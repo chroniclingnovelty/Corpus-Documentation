@@ -33,8 +33,6 @@ Anoniem. ‘Een dagboek uit het “rampjaar” 1672’. Onder redactie van J.F. 
 
 ## Notities 
 
-MVW/JP 11 08 2023
-
 Deze anonieme kroniek werd lang toegeschreven aan Lucas van Watering maar de
 UvA scriptie van Hanna de Lange, ‘Bloote gerugten’ en ‘quade tijdingen’
 Vroegmodern nieuws door de ogen van een zeventiende-eeuwse dagboekauteur,
@@ -45,6 +43,8 @@ mei-2017.pdf>
 
 De Lange deed voorbeeldig onderzoek naar de bronnen die Van de Watering
 gebruikte.
+
+MVW/JP 11 08 2023
 
 
 

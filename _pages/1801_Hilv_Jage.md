@@ -36,6 +36,21 @@ Jager, Cornelis Hendriksz Dirksz de. Dorpskroniek van Een Hilversumse Oud-Kathol
 
 ## Notities 
 
+Met dank aan Carolina Lenarduzzi
+
+Cornelis de Jager was een jansenistische katholiek. Hij was de broer van het
+klopje Lijsbeth de Jager (gedoopt in 1737), die haar jansenistische
+sympathieen verwerkte in een ongepubliceerd gedicht ‘Het opregten van een
+steenoven’  (1759).
+
+Na het overlijden Cornelis de Jager in 1816 is zijn kroniek in Aalsmeer
+terecht gekomen. Hier zijn in 1844, 1853 en 1868 drie heel korte aantekeningen
+toegevoegd door een of meer anonieme auteurs. Omdat het om heel korte
+fragmenten gaat en  de rest van de kroniek door De Jager is geschreven, is de
+Jager als enige auteur gehandhaafd.
+
+
+
 Uitgave ter gelegenheid van het 100-jarig bestaan van het kerkgebouw van de
 oud-katholieke parochie van de H. Vitus aan het Melkpad te Hilversum
 

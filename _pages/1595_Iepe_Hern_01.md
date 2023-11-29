@@ -41,26 +41,27 @@ Hernighem, van, Augustyn. ‘Beschrijving der stad Yper, deel 1’, 1595. Fonds 
 
 JP/AK aug 2023
 
-**‘Augustijn van Hernighem** (c. 1540?–after 1617) was a corn inspector in
-Ypres and kept a Cronyk, or diary,  from 1562–1592, in seven volumes. In 1593
-he became a corporal in the civic militia. He married in 1565 and had five
-children. His diaries are a rich source, and not just because they cover such
-a long period. His duties brought him into frequent contact with peasants, and
-he noted many of the stories they told him about events in the countryside. He
-reports that he used his own diaries to reflect on the developments of his
-lifetime. The original volumes are in the Stadsbibliotheek Kortrijk,
-Collection  Goethals,  Ms 296 and 297, with the exception of volume IV, which
-is in the  University Library of Ghent, Ms. 3700.  Only the notes for the
-years 1585–6 are missing. An early edition of vols II, IV and V appeared as
-Augustijn van Hermelghem, _Nederlandsche historie 1572–1591_ , ed. F. van de
-Putte, 2 vols., Maatschappij der Vlaamsche Bibliophilen, 3rd series 10 (Ghent,
-1864–67). Its many flaws began with the misspelling of the writer’s name, as
-was pointed out by Victor Fris, ‘La chronique d’Ypres d’Augustin van
-Hernighem, (Oct 1562– Juillet 1595), _Bulletin de la Commission_   _Royale
-d’Histoire_ 85 (1921) 1–76, who analysed its shortcomings and suggested
-corrections. Book I was published as Augustijn van Hernighem, _Eerste bouck
-van beschrijfvinghe van alle geschiedenesse (1562–1572)_ , ed. A.L.E.
-Verheyden, Collection de Documents Historiques 4 (Brussels, 1978)’.
+Augustijn van Hernighem (ca. 1540?-na 1617) was korenmeter en broodweger in
+Ieper en hield van 1562-1592 een Cronyk, of dagboek, bij in zeven delen. In
+1593 werd hij korporaal in de burgerwacht. Hij trouwde in 1565 en kreeg vijf
+kinderen. Zijn dagboeken zijn een rijke bron, en niet alleen omdat ze zo'n
+lange periode bestrijken. Zijn taken brachten hem vaak in contact met boeren
+en hij noteerde veel van de verhalen die zij hem vertelden over gebeurtenissen
+op het platteland. Hij vertelt dat hij zijn eigen dagboeken gebruikte om na te
+denken over de ontwikkelingen van zijn leven. De originele delen bevinden zich
+in de Stadsbibliotheek Kortrijk, Collectie Goethals, Ms 296 en 297, met
+uitzondering van deel IV, dat zich in de Universiteitsbibliotheek van Gent
+bevindt, Ms 3700.  Alleen de aantekeningen voor de jaren 1585-6 ontbreken. Een
+vroege editie van de delen II, IV en V verscheen als Augustijn van Hermelghem,
+Nederlandsche historie 1572-1591, ed. F. van de Putte, 2 delen, Maatschappij
+der Vlaamsche Bibliophilen, 3e reeks 10 (Gent, 1864-67). De vele
+tekortkomingen begonnen met de verkeerde spelling van de naam van de
+schrijver, zoals werd opgemerkt door Victor Fris, 'La chronique d'Ieper
+d'Augustin van Hernighem, (Oct 1562- Juillet 1595), _Bulletin de la Commission
+Royale d'Histoire_ 85 (1921) 1-76, die de tekortkomingen analyseerde en
+correcties voorstelde. Boek I werd gepubliceerd als Augustijn van Hernighem,
+_Eerste bouck van beschrijfvinghe van alle geschiedenesse (1562-1572)_ , ed.
+A.L.E. Verheyden, Collection de Documents Historiques 4 (Brussel, 1978)".
 
 Bron: Judith Pollmann, _Catholic identity and the Revolt of the Netherlands,
 1520-1635_ (Oxford 2011), 204.
@@ -105,7 +106,6 @@ stadsmilitie.<sup>9</sup>Korenmeter.<sup>10</sup>
   * Augustyn van Hernighem had vier kinderen: Tincken (gestorven in 1568), Haentgen (geboren 1568), Willekin (1570-1590), Martinken (geboren 1571).<sup>14</sup>
   * Augustyn van Hernighem heeft een broer Jan (gestorven in 1574 en een zus Mayken (gestorven in 1575) 
   * Augustyn van Hernighem was lid van de rederijkerskamer _Lichtgeladen_.<sup>15</sup>
-
   * Alle kronieken bevatten gebeurtenissen die belangrijk waren voor de stad Ieper, waarbij er in het bijzonder veel aandacht geschonken werd aan de precaire bevoorradingssituatie. De waarde van alle werken ligt in de goede trouw waarmee alle gebeurtenissen genoteerd werden. Topografisch als chronologisch werkte hij Augustyn zeer nauwkeurig. Deze nauwkeurigheid was mogelijk omdat Augustyn goed geïntroduceerd was in het politieke en culturele leven van Ieper.<sup>16</sup>
 
 ** **

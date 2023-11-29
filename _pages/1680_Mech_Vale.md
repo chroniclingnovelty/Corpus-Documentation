@@ -40,9 +40,11 @@ Valerius, Remmerus. Chronycke van Mechelen door Remmerus Valerius Pastoor in Muy
 
 ## Notities 
 
-MVW/JP 11 aug 2023
-
 Auteur is Remmerus Valerius, beter bekend als Remigius Wouters.
+
+Valerius was auteur van een reeks gedrukte kronieken van Mechelen, die ook in
+de inleiding bij de editie uitvoerig worden opgesomd. De bezorgers hebben er
+ook een index op gemaakt
 
 De bezorgers zeggen over zijn leven het volgende:
 
@@ -187,9 +189,9 @@ Schriften in't kort seer net beschreven worden in de volgende woorden
 
 |  
   
-Valerius was auteur van een reeks gedrukte kronieken van Mechelen, die ook in
-de inleiding bij de editie uitvoerig worden opgesomd. De bezorgers hebben er
-ook een index op gemaakt.
+.
+
+MVW/JP 11 aug 2023
 
 
 

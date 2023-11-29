@@ -38,14 +38,47 @@ Billet, Justus. ‘Den polytye boeck, ... beginnende den  22sten augusto in tja
 
 ## Notities 
 
-JP 9 08 2023
+Op de eerste dag van zijn benoeming als politiemeester van Gent begon Justus
+Billet aan zijn
+
+Den polytye boeck, ... beginnende den 22sten augusto in tjaer ons heeren 1658
+(1658-1668), 12 dln ., in-folio. Stadsarchief Gent, Bibliotheek 1GD1  
+  
+Hij begon daaraan van ambtswege in opdracht van de hoogbaljuw en het
+schepencollege. Ze bevatten verslagen van zijn bezigheden als stedelijk
+politiemeester, belast met toezicht op openbare werken, maar werden
+geleidelijk ook een soort dagboek, waarin hij van allerlei andere informatie
+noteerde. Billet had in zijn jeugd gereisd maar vervulde al sinds de jaren
+1630 allerlei ambten in de gilden en de stad.
+
+Hij nam in 1668 ontslag vanwege zijn steeds slechter gezichtsvermogen, maar
+leefde nog tot 1682.
+
+In ons corpus zit ook zijn Cleene Chronyke (1666_Gent_Bill_01-5).
+
+Zie over het leven van Billet en zijn geschriften
+
+Collumbien, H., (1982) “Justus Billet, Politiemeester van Gent.”,  _Ghendtsche
+Tydinghen_  11(6). doi: <https://doi.org/10.21825/gt.v11i6.7289>
+
+In 1638 had hij ook al een ‘Testamentboek’ gemaakt, waarin hij zijn
+familiegeschiedenis en details over zijn eigen ambten noteerde. Hij schreef
+daarin onder andere de genealogische aantekeningen over die mannen en vrouwen
+onder zijn voorouders in de zestiende eeuw al hadden gemaakt. Dat handschrift,
+_Den testament boec van Justus Billet, tot een memorie van syne
+naercommelinghen, van haerlieder gheslachte, ende vrienden door hem vergadert
+int jaer ons Heeren 1638_
+
+is in de UB Gent en online.
+
+[https://books.google.be/books?id=lAFMAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false](https://books.google.be/books?id=lAFMAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
 Informatie uit Johan Decavele, Johan Vannieuwenhuyse, S _TADSARCHIEF VAN GENT-
 ARCHIEFGIDS DEEL I OUD ARCHIEF_ (Gent 1983)
 
 P. 253:
 
-Bibliotheek 1LF2 en 1GD1
+Bibliotheek 1LF2 en
 
 17 registers
 

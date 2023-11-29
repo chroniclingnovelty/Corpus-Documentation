@@ -42,7 +42,7 @@ betrokken bij het garnizoen. Heeft iets meer te melden over Brabantse
 ontwikkelingen - misschien kwam hij daar vandaan. Geen aanwijzingen over zijn
 religie.
 
-Er zitten, opmerkelijk, 3 verwijzingen naar slaafgemaaktem in deze tekst. 1
+Er zitten, opmerkelijk, 3 verwijzingen naar slaafgemaakten in deze tekst. 1
 stond er ook al in de tekst uit 1749 - en vermeldt dat er geen Turkse slaven
 mogen worden toegelaten zonder attestatie gezondheid, maar er wordt door deze
 auteur daarna ook gemeld dat slaven tewerk gesteld zijn bij de fortificatie

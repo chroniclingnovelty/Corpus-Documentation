@@ -37,5 +37,14 @@ Toussaint, Johan Daniel. “Gedurende de Halve Maand Februarii 1795.” 1. Harli
 
 ## Notities 
 
+Johan Daniël Toussaint (Harlingen 1755-Harlingen 1811) burgemeester te
+Harlingen. en lid van de schutterij. Getrouwd met Anna Steenstra. Zijn vader
+was ook lange tijd burgemeester van Harlingen.
+
+Zie over de
+vader:[https://resources.huygens.knaw.nl/retroboeken/nnbw/#source=9&page=573&view=imagePane](https://resources.huygens.knaw.nl/retroboeken/nnbw/#source=9&page=573&view=imagePane)
+
+
+
 ## Literatuur 
 

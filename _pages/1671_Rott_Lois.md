@@ -39,8 +39,6 @@ Lois, Jacob. ‘Beschrijving: “Cronycke ofte een corte waare oude beschrivinge
 
 ## Notities 
 
-JP 11 08 2023
-
 Kroniek tot 1671 is 168 folio. Daarna een stukje over onlusten in Delftshaven
 in 1634 en daarna.
 
@@ -50,9 +48,8 @@ de voornaemste hantvesten en previlegien ('s Gravenhage, Delft, 1746, 40)_.
 
 Over de auteur
 
-## `P.C. Molhuysen, P.J. Blok en Fr.K.H. Kossmann, Nieuw Nederlandsch
-Biografisch Woordenboek (NNBW) `  
-`deel 6 (Leiden, 1924) 962, zegt:`
+### **P.C. Molhuysen, P.J. Blok en Fr.K.H. Kossmann, Nieuw Nederlandsch
+Biografisch Woordenboek (NNBW) deel 6 (Leiden, 1924) 962, zegt:**
 
 **‘Jacob Lois** (geboorteplaats en jaar
 onbekend[[1]](https://nl.wikipedia.org/wiki/Jacob_Lois#cite_note-1) \- 1676,
@@ -95,6 +92,8 @@ affaire Buat. Lois gebruikte kranten als bron van informatie.
 
 Hij was ontwerper van het Schielandhuis en betrokken bij het maken van het
 graf voor Witte de With. Hij is kritisch over de Quakers.
+
+JP 11 08 2023
 
 
 

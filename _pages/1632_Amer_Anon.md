@@ -35,23 +35,18 @@ Boerwinkel, F., ed. Cronyk van Sint Aagten Convent : Een Oude Kloosterkroniek 
 
 met dank aan Max van Winden
 
-Dit is een editie van de tekst van de kroniek die letterlijk is overgenomen
-van
-
-Bemmel, Abraham van, and Spruit, Henrikus. Beschryving der stad Amersfoort, :
-behelzende derzelver gelegenheid, oorspronk ... mitsgaders de oude en
-hedendaagse regeeringsform, privilegien ... Te Utrecht: by Henrikus Spruyt
-..., 1760, blz. 254-301.
-
-De bezorger heeft de originele tekst niet gevonden.
-
 Kroniek van het Sint Aagten Convent, een vrouwenklooster uit Amersfoort.
 Kroniek beschrijft het ontstaan en de groei van het klooster. In de loop van
 de zestiende eeuw komt de nadruk te liggen op crises (1543 beleg door Maarten
-van Rossum, beeldenstorm, pest, slecht weer, sterfgevallen).
+van Rossum, beeldenstorm, pest, slecht weer, sterfgevallen, reformatie).
 
-Kroniekschrijver is katholiek - er wordt geschreven over missen en priesters,
-en de nonnen leven onder het juk van de kerkhervorming.
+Dit is een editie van de gedrukte tekst van de kroniek die letterlijk is
+overgenomen uit
+
+Bemmel, Abraham van, and Spruit, Henrikus, red. _Beschryving der stad
+Amersfoort, : behelzende derzelver gelegenheid, oorspronk ... mitsgaders de
+oude en hedendaagse regeeringsform, privilegien_... Te Utrecht: by Henrikus
+Spruyt ..., 1760, blz. 254-301.
 
 Manuscript versies liggen in Tilburg, regionaal archief:
 
@@ -76,6 +71,10 @@ TbRAT-845/order/unitdate_sort_from_year asc)
   * _Toegang:_ Inventaris van het Archief van het Dorpsbestuur van Oisterwijk, (1230) 1390 - 1814 
   * _Toegangsnummer:_ NL-TbRAT-845 
   * _Record type:_ Bestanddeel 
+
+De bezorger heeft de originele tekst niet gevonden.
+
+Met dank aan Max van Winden.
 
 
 

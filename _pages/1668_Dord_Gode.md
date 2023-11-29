@@ -38,8 +38,6 @@ Godewijck, Pieter van. Dese heerlicke stadt: een zeventiende eeuwse kroniek van 
 
 ## Notities 
 
-JP 9 08 2023
-
 Informatie ontleend aan W.M. van der Schouw, _Dese heerlicke stadt. Eem
 zeventiende eeuwse kroniek van Dordrecht  door Pieter Govertsz van Godewijck
 (1593-1669)_, Dordtse bronnen 1 (Dordrecht 2006), die in zijn inleiding
@@ -56,6 +54,8 @@ Cornelia (Cornelia werd dichteres, en kreeg van hem onderwijs oa Italiaans,
 Frans, Engels, sterrenkunde. rekenkunde, wiskunde). Bekend met de gebroeders
 De Witt en lokale auteurs Balen en Van Beverwijck. Dicht zelf ook, oa. Remedie
 voor de Pest (1636).
+
+JP 9 08 2023
 
 
 

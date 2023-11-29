@@ -38,12 +38,10 @@ Baerntsz, Claes. “Kort Verhaal Der Gedenckwaerdijgste Gheschiedenissen van Wes
 
 ## Notities 
 
-JP juni 2023
-
-De auteur was bastaardzoon, geboren Claes Barentsz.  in 1574 van een
+De auteur Claes Barentsz werd in 1574 geboren als bastaardzoon van een
 welvarende vader. Twee familieleden stierven aan de pest. Hij was gereformeerd
-en ouderling. Hij was molenmeester van de Vier Noorder Koggen wil zeggen dat
-hij in die hoedanigheid werkte voor het college van ingelanden van het
+en ouderling. Hij was molenmeester van de Vier Noorder Koggen, wat wil zeggen
+dat hij in die hoedanigheid werkte voor het college van ingelanden van het
 Houtwouderambacht of Hoogwouderambacht.
 
 Biografische gegevens auteur ontleend aan
@@ -52,6 +50,11 @@ Biografische gegevens auteur ontleend aan
 en
 
 http://historisch-hauwert.nl/ClaesBaerntsz.html
+
+De tekst begint met allerlei bestuurlijke informatie. Vanaf 1633 wordt het een
+meer gevarieerde kroniek.
+
+JP/EK juni 2023
 
 
 

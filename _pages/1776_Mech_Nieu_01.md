@@ -36,6 +36,13 @@ Nieuwenhuysen, Hendrik Dominik van den. “Deel 1 Kroniek van Mechelen Door Kape
 
 ## Notities 
 
+Hendrik Dominik Van den Nieuwenhuysen (1724-1780), kapelaan in de kerk van
+OLV-over-de-Dijle, provisor  
+van het godshuis van Sint-Heilwich, alias de Putterij. Zie zijn Konstminnende
+wandelinge bij DD.
+
+
+
 autograaf; kroniek van Mechelen; vooraan een Franstalige nota, ons informerend
 dat “l'auteur ou le continuateur de cette chronique” H.D. Van den
 Nieuwenhuysen is, met korte biografie

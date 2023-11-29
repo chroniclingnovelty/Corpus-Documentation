@@ -39,5 +39,28 @@ Haecht, Godevaert. De Kroniek van Godevaert van Haecht over de Troebelen van 156
 
 ## Notities 
 
+In de inleiding van de publicatie is het een en ander geschreven over de
+auteur van de Kroniek, Godevaert Van Haecht. Net als zijn vader Petrus van
+Haecht was hij schilder, maar er zijn van hem geen schilderijen bekend. Hij is
+geboren in 1546, en is volgens de inleiding overleden in 1592 in Antwerpen;
+zijn wikipediapagina, die op diens beurt weer verwijst naar een genealogische
+studie, is hij echter pas in 1599 overleden in Deutsch. Mogelijk heeft hij in
+1592 slechts Antwerpen verlaten, zoals zovelen.
+
+Zijn kroniek begint hij al op achttienjarige leeftijd, in 1564. Zijn
+aantekeningen van toen herschrijft hij echter later, na 1574. De inleiding
+omschrijft een los stuk papier, aangetroffen in de kroniek, dat iets van zijn
+handelswijze verraad. De auteur vermeld hierin niet alleen de datum en de
+gebeurtenis, maar ook de manier waarop de informatie hem bereikt heeft. Van
+Haecht schrijft niet helemaal in zijn eentje aan zijn kroniek: als hij tussen
+april 1570 en september 1571 in Parijs verblijft neemt zijn broer het
+aantekeningen nemen van hem over. Aan het einde van de kroniek, in de laatste
+helft van 1574, verandert het handschrift; in de inleiding wordt geopperd dat
+een jonger persoon vanaf hier het kladwerk overgeschreven kan hebben. Naast
+zijn eigen aantekeningen zijn ook onder andere enkele officiële stukken, zoals
+ordonnanties en rekwesten, strooibriefjes en spotgedichten overgeschreven.
+
+
+
 ## Literatuur 
 

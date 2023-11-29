@@ -36,5 +36,20 @@ Jakinet, Joannes. ‘Historie der Nederlanden onder de Regering van Albertus en 
 
 ## Notities 
 
+Sabbe, Maurits, _Brabant in ’t verweer : bijdrage tot de studie der Zuid-
+Nederlandsche strijdliteratuur in de eerste helft der 17e eeuw_ (Antwerpen:
+Resseler 1933) schrijft in dat de auteur van de kroniek, Joannes Jakinet, uit
+Tienen komt.(p. 233 – 235) Zelf schrijft Jakinet dat hij 20 jaar was bij de
+plundering van 1635. Verder bevat de kroniek weinig biografische informatie.
+
+De kroniek is tevens minder lokaal dan de meeste teksten in dit corpus, zoals
+de titel ook al aangeeft. Jakinet is zeer geïnteresseerd in onder andere de
+executie van Karel I en andere engelse ontwikkelingen. Hij heeft veel stukken
+overgeschreven in zijn kroniek en nam ook gedichten op in zijn tekst. Jakinet
+was ook auteur van diverse kronieken over Brabant; ook daarin nam hij - anti-
+Franse en anti-Hollandse - gedichten op.
+
+
+
 ## Literatuur 
 

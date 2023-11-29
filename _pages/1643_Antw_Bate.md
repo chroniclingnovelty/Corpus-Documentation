@@ -54,6 +54,32 @@ Met dank aan Max van Winden
 
 [1] verwijzing naar 1574_ant_ano1 en 2.
 
+Zie over het huwelijk
+<https://felixarchief.antwerpen.be/archievenoverzicht/73999> ]
+
+1613 Den februari ben ick G Baten getraut met Jouffr. Christina marichal per
+domine pastoir breugel van onse  Lieve vrauwe kercke int maechden choorken ten
+8 uren voor noene present alle de omstaenders en savonts was de feeste etc.
+
+Ook zijn vrouw Christina Marichael komt in de index voor op p. 212
+(<https://search.arch.be/nl/zoeken-naar-
+archieven/zoekresultaat/inventaris/rabscan/eadid/BE-A0511_110245_109042_DUT/inventarisnr/I1102451090426386/level/file/scan-
+index/11/foto/511_9000_000_00188_000_0_0009_r>)
+
+De huwelijksakte bevindt zich hier: <https://search.arch.be/nl/zoeken-naar-
+archieven/zoekresultaat/inventaris/rabscan/eadid/BE-A0511_110245_109042_DUT/inventarisnr/I1102451090426400/level/file/scan-
+index/5/foto/511_9000_000_00196_000_0_0007>
+
+[2] Ibidem, 13v.
+
+[3] Ibidem, 46r.
+
+[4] Ibidem, 46v.
+
+[5]  Ibidem, 56v.
+
+[6] Ibidem, 23v.
+
 
 
 ## Literatuur 

@@ -39,9 +39,9 @@ lotgevallen van de zusters tijdens de Opstand, als ze moeten vluchten en
 verspreid raken, en de heropbouw van hun convent na 1584. Over de individuele
 auteurs valt niet veel te zeggen, al zijn er wel hier en daar veranderingen in
 wat en hoe er genoteerd wordt: bijvoorbeeld iemand die bijhoudt welke gebeden
-er worden gezegd, het gebruik arabische cijfers, en aandacht voor de jubilés
-van de zusters, die gevierd worden met een hoop lekkere dingen en extra weken
-recreatie, waar ze vol van genieten.
+er worden gezegd, het gebruik van arabische cijfers, en aandacht voor de
+jubilés van de zusters, die gevierd worden met een hoop lekkere dingen en
+extra weken recreatie, waar ze volop van genieten.
 
 De kroniek gaat vooral om professies, jubilea, sterfgevallen, electie nieuwe
 maters, verbouwingen en dergelijke in het klooster en af en toe over de

@@ -35,8 +35,6 @@ Goossens, Eemont. Diverse Notabele Dingen (ca. 1649) Door Eemont Goossens, Rentm
 
 ## Notities 
 
-EK
-
 Auteur Eemont Goossens geboren ca. 1569, overleden 1650. Loopt over periode
 1536-1649. Onderstaande info op basis van inleiding bezorger.
 
@@ -60,6 +58,8 @@ dateert ook de bouw van kerken in de middeleeuwen.
 De tekst is heel droog / emotieloos geschreven. Sobere feiten. Alleen bij
 enkele oorlogstaferelen zoals de plundering in 1635 zegt hij wel hoe
 verschrikkelijk het was. Het is allemaal uiterst beknopt.
+
+EK
 
 
 

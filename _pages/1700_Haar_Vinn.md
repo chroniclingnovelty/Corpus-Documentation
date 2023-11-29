@@ -38,5 +38,19 @@ Vinne, Vincent Laurensz van der. Dagelijckse Aentekeninge van Vincent Laurensz. 
 
 ## Notities 
 
+Deze tekst is eigenlijk geen kroniek, maar een reisjournaal met
+geschiedenissen per streek. Hij is opgenomen in het corpus vanwege de
+familierelatie met kroniekschrijver Vincent Jansz van der Vinne. De
+oorspronkelijke titel van het werk is Dagelijckse aentekeninge van 't geene
+ick in mijn reijs onthoudens waerdich gesien ende bewandelt hebbe, etc, met
+als ondertitel Reisjournaal van een Haarlems schilder 1652-1655. Het stuk is
+ook opgenomen in de lijst egodocumenten van Rudolf Dekker (nummer 293).
+Vincent Laurensz. van der Vinne was de zoon van Laurens Gillesz. van der Vinne
+en Maijke Vincents Verfalje. Zijn vader was linnenwever en zijdehandelaar. Van
+der Vinne werd ook opgeleid als wever, maar ging op zijn achttiende in de leer
+bij de schilder Frans Hals. Hij trouwde twee keer.
+
+
+
 ## Literatuur 
 

@@ -36,7 +36,7 @@ Moriëns, Egidius. “Afschrift van de Kroniek van Brustem Door Egidius Moriëns
 
 ## Notities 
 
-FM/ JP augistus 2023
+FM/ JP augustus 2023
 
 Over de auteur
 
@@ -50,7 +50,7 @@ nieuwe Weldadigheidsbureau, later secretaris.
 [Microsoft Word - V.B. 77594
 (heemkundebrustem.be)](https://heemkundebrustem.be/onewebmedia/archief/V.B.2.%20Het%20weldadigheidsbureau.pdf)
 
-In de kroniek beschreef Morëns de zedeloosheid /zonden van de rijken,
+In de kroniek beschreef Moriëns de zedeloosheid /zonden van de rijken,
 gelovigen en van hemzelf. Gaat in op de wreedheden van de patriotten in
 Frankrijk, België en Nederland. Beschrijft met name de Brabantse omwenteling
 in 1789-1790. Crisiskroniek.

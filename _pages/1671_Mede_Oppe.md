@@ -37,8 +37,6 @@ Opperdoes, Cornelis Jansz. “Een Kroniek van Medemblik.” Edited by Johan Belo
 
 ## Notities 
 
-MVW/JP 9 aug 2023
-
 Kroniek is geschreven door Cornelis Jan van Opperdoes, klerk bij de secretarie
 van Medemblik.
 
@@ -68,6 +66,8 @@ mededelingen van het Historisch Genootschap_ 64 (1943), 45-107.
 Zie hierover het artikel van
 
   * <http://www.biografischportaal.nl/persoon/22104862>
+
+MVW/JP 9 aug 2023
 
 
 

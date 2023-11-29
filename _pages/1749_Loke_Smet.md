@@ -39,7 +39,7 @@ In de tekst zitten aanwijzingen dat hij vooral geschreven is door
 lakenwinkelier Pieter de Clerc (1638-sterft na 1677), die gebruik maakte van
 herinneringen van Nicolaas de Smet, en daarna door Jacobus Boene (geb ca.
 1662-gestorven na 1720). Die laatste voegde ook gegevens toe uit een boek van
-Hendrik Costerius (1591) die een poos pastoor in Lokeren was geweest en ieg
+Hendrik Costerius (1591) die een poos pastoor in Lokeren was geweest en die
 nadere details had over het kind van Nicolaas de Smet dat door de wolven was
 opgegeten). De tekst werd vervolgens nog eens gekopieerd en verbeterd door
 Jacob Staesens

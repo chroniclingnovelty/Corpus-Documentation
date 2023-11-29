@@ -39,25 +39,25 @@ Campene, Cornelis, and Philips Van Campene. Dagboek van Cornelis En Philip van C
 
 ## Notities 
 
-**“Cornelis van Campene** (1516–1567) started a diary that was continued after
-his death by his brother **Philip**. Cornelis was a clothmerchant, and was
-active in the guild and in various charitable roles. Philip was a lawyer and
-advocate in the Council of Flanders. Eventually he left Ghent; he died near
-Louvain. The earlier parts of their account were published as _Dagboek van
-Cornelis en Philip van Campene behelzende het verhaal der merkwaardigste
-gebeurtenissen voorgevallen te Gent, sedert het begin der godsdienstberoerten
-tot den 15e april 1571_ , ed. F. de Potter. (Ghent, 1870; reprint, 2001). The
-second part of the diary exists in a Latin translation, that is in the KB
-Brussels, Ms. 16982  Diarium rerum Gandavensenium, ab anno 1566 usque ad annum
-1585 per magistratum Philippum Campenaeum, and in a seventeenth-century copy
-that was published in the early nineteenth-century as _Vlaemsche kronĳk, of
-Dagregister van al het gene gedenkweerdig voorgevallen is, binnen de stad
-Gent, sedert den 15 July 1566 tot 15 Juny 1585_ / _onderhouden in het Latĳn
-door Ph. de Kempenare ; overgezet door J.P. van Male_ , ed. Ph. Blommaert
-(Ghent, 1839). Blommaert, mistakenly, believed that the original had been in
-Latin. The text deserves to be better known. It is an exceptionally rich
-source for religious history, since Philip reported frequently and in extenso
-on the many, mostly Dominican, sermons he attended.”<sup>1</sup>
+Cornelis van Campene (1516-1567) begon een dagboek dat na zijn dood werd
+voortgezet door zijn broer Philip. Cornelis was lakenkoopman en actief in zijn
+gilde en voor verschillende charitatieve instellingen. Philip was jurist en
+advocaat bij de Raad van Vlaanderen. Uiteindelijk verliet hij Gent; hij stierf
+in de buurt van Leuven. De eerdere delen van hun verslag werden gepubliceerd
+als _Dagboek van Cornelis en Philip van Campene behelzende het verhaal der
+merkwaardigste gebeurtenissen voorgevallen te Gent, sedert het begin der
+godsdienstberoerten tot den 15e april 1571_ , red. F. de Potter. (Gent, 1870;
+herdruk, 2001). Het tweede deel van het dagboek bestaat alleen nog in een
+Latijnse vertaling, namelijk in de KB Brussel, Ms. 16982 Diarium rerum
+Gandavensenium, ab anno 1566 usque ad annum 1585 per magistratum Philippum
+Campenaeum, en in een zeventiende-eeuws afschrift dat begin negentiende eeuw
+is uitgegeven als _Vlaemsche kronĳk, of Dagregister van al het gene
+gedenkweerdig voorgevallen is, binnen de stad Gent, sedert den 15 July 1566
+tot 15 Juny 1585_ onderhouden in het Latijn door Ph. de Kempenare ; overgezet
+door J.P. van Male , ed. Ph. Blommaert (Gent, 1839). Blommaert dacht ten
+onrechte dat het origineel in het Latijn was. Het is een buitengewoon rijke
+bron voor religiegeschiedenis, omdat Philip regelmatig en uitvoerig verslag
+deed van de, meeste dominicaanse, preken die hij bezocht.
 
 [1] Judith Pollmann, _Catholic identity and the Revolt of the Netherlands,
 1520-1635_ (Oxford 2011), 203.

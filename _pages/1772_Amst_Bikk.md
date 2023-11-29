@@ -39,6 +39,12 @@ Bikker Raye, Jakob. “Notietie van Het Merkwaardigste Meijn Bekent Dat in Het J
 
 ## Notities 
 
+Van deze kroniek bestaat een gedeeltelijke, hertaalde uitgave: Machiel Bosman,
+_De polsslag van de stad. De Amsterdamse stadskroniek van Jacob Bicker Raije
+(1732-1772)_ , Amsterdam 2009. Met korte, beschrijvende inleiding.
+
+
+
 _Met dank aan Tinka de Haan_
 
 **Jacob Bikker/Bicker Raye**
@@ -197,12 +203,6 @@ dit geloof was.
 
 [10] F. Beijerinck en M.G. de Boer (ed.), _Het dagboek van Jacob Bicker Raye
 1732-1772_ (1939) VI.
-
-
-
-Gedeeltelijke, hertaalde uitgave van de kroniek door Machiel Bosman, De
-polsslag van de stad. De Amstyerdamse stadskroniek van Jacob Bicker Raije
-(1732-1772), Amsterdam 2009. Met korte, beschrijvende inleiding.
 
 
 

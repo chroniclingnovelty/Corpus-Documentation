@@ -39,7 +39,7 @@ Alting, Egbert. Diarium van Egbert Alting, 1553-1594. Onder redactie van W.J. Fo
 
 ## Notities 
 
-in NNBW deel 1 93-94
+Info uit NNBW deel 1 93-94
 
 ‘ALTING (Egbertus), zoon van Menso (2), 1518-1596; secretaris van Groningen en
 gezant te Brussel, huwde de weduwe van Joachim Canter en had 2 kinderen,

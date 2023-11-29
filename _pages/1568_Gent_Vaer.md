@@ -40,5 +40,10 @@ Vaernewyck, Marcus. Van Die Beroerlicke Tijden in Die Nederlanden En Voornamelij
 
 ## Notities 
 
+TD: Link naar manuscript:
+[https://lib.ugent.be/viewer/archive.ugent.be%3A0B423D0C-71CF-11E5-BD2B-E4CAD43445F2#?c=&m=&s=&cv=&xywh=-2123%2C-276%2C7934%2C5486](https://lib.ugent.be/viewer/archive.ugent.be%3A0B423D0C-71CF-11E5-BD2B-E4CAD43445F2#?c=&m=&s=&cv=&xywh=-2123%2C-276%2C7934%2C5486)
+
+
+
 ## Literatuur 
 

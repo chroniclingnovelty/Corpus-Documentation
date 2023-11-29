@@ -36,7 +36,7 @@ Anoniem. “Utrechtse kroniek over 1566-1576.” Edited by H. Brugmans. Bijdrage
 ## Notities 
 
 Deze kroniek is retrospectief, maar niet lang na de gebeurtenissen geschreven.
-De editie is helaas niet volledig.
+De editie is helaas niet volledig. We weten niets over de auteur.
 
 
 

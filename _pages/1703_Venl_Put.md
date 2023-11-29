@@ -35,5 +35,20 @@ Put, Barbara de. Liederen van Mechteldis van Lom en andere annuntiaten, voorafge
 
 ## Notities 
 
+JP 11 aug 2023
+
+Voor een korte biografie van Berber/Barbara de Put en de kroniek zie het
+artikel over haar van Kees Kuik in het Vrouwenlexicon:
+
+<https://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/BerberdePut>.
+
+Zie voor de context de inleiding van de bezorgers bij deze editie.
+
+en
+
+<https://repository.ubn.ru.nl/bitstream/handle/2066/107285/mmubn000001_089775635.pdf?sequence=1>
+
+
+
 ## Literatuur 
 

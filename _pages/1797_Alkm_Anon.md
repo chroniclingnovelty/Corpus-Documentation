@@ -38,5 +38,67 @@ Panders, Jan van. “Kroniek van Alkmaar in de Bataafs-Franse Tijd, 1787-1797.�
 
 ## Notities 
 
+Zie ook Paper: <https://surfdrive.surf.nl/files/index.php/s/dGOKueZOiIb3pvu>
+
+`Jan van Panders was born in 1747 and died in 1809. The period he describes in
+his chronicle happened within his own lifetime, which makes him a contemporary
+author. He is one of the most fascinating people on this list.`
+
+`He was a 'zevenmaker' and later became an 'ijkmeester' in 1766. He was an
+Alkmaar patriot, which shows in the way he wrote in his chronicle but also in
+his other publications. Additionally, he had a lot of influence on the regents
+because they believed he could give them valuable insights into the minds of
+the people. He was politically very active, for example trying to give the
+people more influence over the government or speaking out for the armament of
+ordinary people. He fought in the revolution of 1795 and afterwards joined the
+“broederschap”. He convinced the authorities that were getting rid of Orangist
+officials to allow a vote instead. In the end, he was still a patriot, but he
+became convinced disturbing the state did not work in order to help everyone.`
+
+`In 1779 he married Maartje Vogelzang. After her death, he remarried. His
+second wife was Elisabeth Carlier.`
+
+`Between 1787 and 1797 he would sometimes write every day, sometimes nothing
+for four years, as for example between 1789 and 1793. Unfortunately, the end
+of the chronicle is missing from the 16th of february 1797 onwards. Another
+explanation could be that he abruptly stopped writing. It is very likely his
+motive for writing was his patriotism. He wrote about his home of Alkmaar and
+his writing and life are full of references to patriotism and political
+activity.`
+
+`Aside from his chronicle, he also published patriotic letters in the
+newspaper “Vaderlandsche letteroefeningen” several times in 1790 and 1791,
+much of it containing patriotic arguments and phrases. `
+
+  
+  
+
+`sources:`
+
+`P. J. Blok, P. C. Molhuysen, Nieuw Nederlandsch biografisch woordenboek. Deel
+2 (1912) p.1063f`
+
+`https://dbnl.nl/auteurs/auteur.php?id=pand004 – a list of sources from and
+about Jan van Panders, including his own writing.`
+
+  
+
+
+
+Crisiskroniek; achteraf geschreven (retrospectief). Het verhaal breekt af op
+16 februari 1797, het eind is niet bewaard.
+
+Deze kroniek is door C.W. Bruinvis toegeschreven aan de Alkmaarse Jan van  
+Panders (1747-1809). De auteur was een uitgesproken patriot en bovengemiddeld
+politiek actief. Hij was mede-oprichter van het ‘Patriottisch Gezelschap
+Burgerhart’ in Alkmaar. Publiceerde zelf in patriottische tijdschriften en
+baseerde ook zijn kroniek grotendeels op berichtgeving uit deze tijdschriften.  
+Zie ook: C.W. Bruinvis, Het patriotisme te Alkmaar (Alkmaar, 1886).
+
+Er bestaat een dichtstukje van Jan van Panders, die zijn dichterstalenten ook
+al had prijsgegeven in de  _Post van den Neder-Rhijn  _(nr. 1786-37).
+
+
+
 ## Literatuur 
 

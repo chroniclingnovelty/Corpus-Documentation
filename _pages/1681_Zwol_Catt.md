@@ -34,8 +34,6 @@ Cattenbelt, L.F. ‘Eenige gedenckwaerdige geschiedenissen raeckende meest het L
 
 ## Notities 
 
-JP 10 08 2023
-
 Voorin: "dit is gecopieert uyt een olt geschreven boeck tot aen daer begint
 een breef van den Hartogh van Gelder aen de Stadt Zwolle numero 75?"  
 Door F.P.A. Heerkens gekocht uit de nalatenschap van B. Dorenwaard, pastoor te
@@ -57,7 +55,7 @@ F. H.
 Cattenbelt is een prominente Zwolse familie.
 
 De enige mededeling over de auteur zelf dateert uit 1681 en gaat niet over
-Zwolle maar de omgeving van zijn klooster Weddern bij Duelmen.
+Zwolle maar de omgeving van zijn klooster Weddern bij Duelmen
 
 1681
 
@@ -77,141 +75,40 @@ vante vooren met gevoldene handen en toe geslaegene oogen en meediteerde doe
 stondt ick geen 4 treden van hem, en hebbe oock syn Misse gehoort, dese ge
 daen ende voleijnt sijnde soo hoeft hij op het Choor een cloque vermaninge
 gedaen voor sommige domheeren ende onse E E Wijbischop met nogh ettelijcke
-
-weerlts priesteren en heeren, en is soo nae
-
-den doem hof gegaen, alwaer hij onder weegens
-
-een seecker Vrouws persoon die lange vanden duijvel beseeten was geweest
-verloste, komende op het
-
-Theatrum dat voor hem gemaeckt was staen
-
-de booven met een rooden heemel ooverdeckt
-
-als oock met root laecken omtrocken, hijer
-
-opstaende soo schouwde hij de menschen aen
-
-ende begoste eenighe Italianse gebeeden te sprecken
-
-want hij weenigh of geen duijts en koste, dit
-
-gedaen sijnde, soo seijde sijn tolck, dat een out
-
-Grijs pater was, datse hem nae solden seggen
-
-ende doen t' geene hij deede, waer op pater
-
-Marcus het volck en Omstaenders ver@@
-
-begoste verwecken tot een volkomen berow oover
-
-sijn sonden met een vast voor neemen de selve te beteren
-
-ende verfoijen ende nimme, wederom te ver sondigen
-
-seggende dese, weenigh dogh bondige duijts woorden
-
-Gelaubet, gelaubet, slaght vur eure brurst, es !
-
-doet mier leijdt, es doet mier leijt; mijn Godt o mijn !
-
-Godt, nimmer wil igh dier o mijn Jesu wierderom mit
-
-sonden beleijdigen endt erfurmen, Jesu maria, mae
-
-kende onder dese korte woorden sulcke gebaeren ende
-
-affecten dat men niet alleen uijt syn aen gesichte
-
-beweeght wirde, maer dat te verwonderen staet, oock
-
-te schrij-en en suchten beweeght wirde waer op wij
-
-doe mosten leesen 5 vader onse en 5 ave Maria, dese
-
-5\. ter eer der heijlige 5 wonden Christi, daer nae nogh
-
-3 vader onse en soo veele ave Maria ter eeren der onbevleckte ontfanckenisse
-onser L. vrouwen, dit ge
-
-daen synde soo gaf hij de benedictie nae dat hij
-
-geseijt hadde gelaubet, gelaubet, waer opde
-
-omstanders seijden wir gelauben wir gelauben,
-
-en gaf dan tot drie mael de benedictie met de
-
-handt, waer op hij wederom seijde, kniet nider kniet
-
-waer op hij doe las las eenige gebederen waer
-
-in verhaelt was dat een it weder dogh moghte geschieden nae sijn geloove, dit
-gedaen synde seijde dat
-
-men niet vermeijnen en solde als dat hij de wonderwercken
-
-uijt hem selfs dede, maer godt door hem als een instrument, als hij dan
-seijde, gelaubet, gelaubet,
-
-soo riep hij werfet die krucken hinwegh ondt
-
-die laemen steen auf alwaer seer veele
-
-geholpen wirden soo datse een arm vol krucken
-
-en Stocken Kregen, doe seijde hij oock dat de
-
-oorsaecke was geweest waerom dat Jesus geen
-
-Miraeckelen in syn Vaderlandt hadde kunnen
-
-doen omdatse niet en geloofden, daerom als
-
-wij oock niet en geloofden soo kon hij ons oock niet
-
-helpen, dit gedaen synde soo seijde den tolck
-
-als dat de pater wolde nae de middagh om 3
-
-uijren hyer wederom komen en wirde doe nae
-
-dito Klooster gebraght gevende als doe nogh
-
-de benedictie van kloosters, kercken, huijsen
-
-ende familien tot drie mael toe ende
-
-des naede middaegh is hij wederom gekomen doen
-
-de alles als te vooren was geschiet geweest
-
-gedaen.
-
-doe wirde oock een blinde vrouwe siende des
-
-naemiddaeghs geschiede alles, gelijck te vooren, des
-
-avonts omtrent half 5. synder weder beseetene
-
-verlost ende blinden siende geworden, omtrent
-
-half 7. isser wederom een vermaeninge inde Capusinen kercke geschiet, al waer
-hij seer wonderlijcken
-
-bewegelijck, Jae dat de menschen alle tot een
-
-bitterlijck schreijen verweckt wirden, ende de
-
-selve gebeden wederom gesproocken hebbende
-
-seijde als vooren gelaubet, Gelaubet, waer
-
-op de omstanders wir Gelauben, wir gelauben
-
-antwoorden, waerop wederom een beseetene
+weerlts priesteren en heeren, en is soo nae den doem hof gegaen, alwaer hij
+onder weegen een seecker Vrouws persoon die lange vanden duijvel beseeten was
+geweest verloste, komende op het Theatrum dat voor hem gemaeckt was staen de
+booven met een rooden heemel ooverdeckt als oock met root laecken omtrocken,
+hijer opstaende soo schouwde hij de menschen aen ende begoste eenighe
+Italianse gebeeden te sprecken want hij weenigh of geen duijts en koste, dit
+gedaen sijnde, soo seijde sijn tolck, dat een out Grijs pater was, datse hem
+nae solden seggen ende doen t' geene hij deede, waer op pater Marcus het volck
+en Omstaenders ver@@ begoste verwecken tot een volkomen berow oover sijn
+sonden met een vast voor neemen de selve te beteren ende verfoijen ende nimme,
+wederom te ver sondigen seggende dese, weenigh dogh bondige duijts woorden
+Gelaubet, gelaubet, slaght vur eure brurst, es ! doet mier leijdt, es doet
+mier leijt; mijn Godt o mijn ! Godt, nimmer wil igh dier o mijn Jesu wierderom
+mit sonden beleijdigen endt erfurmen, Jesu maria, mae kende onder dese korte
+woorden sulcke gebaeren ende affecten dat men niet alleen uijt syn aen
+gesichte beweeght wirde, maer dat te verwonderen staet, oock te schrij-en en
+suchten beweeght wirde waer op wij doe mosten leesen 5 vader onse en 5 ave
+Maria, dese 5. ter eer der heijlige 5 wonden Christi, daer nae nogh 3 vader
+onse en soo veele ave Maria ter eeren der onbevleckte ontfanckenisse onser L.
+vrouwen, dit ge daen synde soo gaf hij de benedictie nae dat hij geseijt hadde
+gelaubet, gelaubet, waer opde omstanders seijden wir gelauben wir gelauben, en
+gaf dan tot drie mael de benedictie met de handt, waer op hij wederom seijde,
+kniet nider kniet waer op hij doe las las eenige gebederen waer in verhaelt
+was dat een it weder dogh moghte geschieden nae sijn geloove, dit gedaen synde
+seijde dat men niet vermeijnen en solde als dat hij de wonderwercken uijt hem
+selfs dede, maer godt door hem als een instrument, als hij dan seijde,
+gelaubet, gelaubet, soo riep hij werfet die krucken hinwegh ondt die laemen
+steen auf alwaer seer veele me holpen wirden soo datse een arm vol krucken en
+Stocken Kregen, doe seijde hij oock dat de oorsaecke was geweest waerom dat
+Jesus geen Miraeckelen in syn Vaderlandt hadde kunnen doen omdatse niet en
+geloofden, daerom als wij oock niet en geloofden soo kon hij ons oock niet
+helpen…
+
+JP
 
 
 

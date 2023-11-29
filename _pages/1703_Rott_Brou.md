@@ -39,11 +39,11 @@ JP 27 2 2023
 
 Jan Brouwers, geen gegevens over afkomst, jeugd, opleiding; hij wordt in 1663
 benoemd als binnenvader van pest- en dolhuis. Hij blijft dat 40 jaar lang, tot
-1703. Deze tekst begint 1679. maar er was waarschijnlijk een eerdere - zet hem
-voort tot 1701.Vele privédetails over famillie, gezondheid, boeken, vrienden,
-muziek etc maar ook over leven in R;dam. Hij correspondeert met een vriend in
-Suriname. Zoon wordt scheepschirurgijn. Div zaken over abonnementen kranten,
-en mondelinge bronnen. Nieuws over aardbeving en veel over pest.
+1703. Deze tekst begint 1679. maar er was waarschijnlijk een eerdere -
+voortgezet tot 1701. Vele privédetails over famillie, gezondheid, boeken,
+vrienden, muziek etc maar ook over leven in R;dam. Hij correspondeert met een
+vriend in Suriname. Zoon wordt scheepschirurgijn. Div zaken over abonnementen
+kranten, en mondelinge bronnen. Nieuws over aardbeving en veel over pest.
 
 Informatie over zijn omgeving en de vernieuwingen in het Pest- en Dolhuis waar
 hij werkte. Zie: Van Lieburg, M.J., ‘Dagboek (1679-1903) van Jan Brouwer,

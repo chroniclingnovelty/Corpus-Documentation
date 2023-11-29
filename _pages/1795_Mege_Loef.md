@@ -42,7 +42,8 @@ Er bestaat van deze kroniek nog een tweede deel, dat begint in januari 1799 en
 eindigt in maart 1800. Transcriptie in dbnl van deel 1 en 2:
 <https://dbnl.org/tekst/loef022memo01_01/loef022memo01_01_0002.php>
 
-De kroniek begint met korte levensbeschrijving in het Latijn.
+De kroniek begint met korte autobiografie in het Latijn, die vooral over de
+opleiding van de auteur gaat en die stopt bij zijn huwelijk.
 
 Joannes Loeffen, geboren te Megen van 3 juli 1768 en aldaar student geweest
 van de Latijnse School van juni 1782 tot juni 1786. Verder opgeleid in Keulen,

@@ -32,5 +32,25 @@ Anoniem. ‘Beschryvinge der stad Rotterdam mitsgaders geschiedenissen zoo binne
 
 ## Notities 
 
+Over de anonieme auteur van deze tekst hebben we geen informatie gevonden
+
+Eerste deel overgeschreven kroniek, laatste deel, vanaf de jaren zestig 17e
+eeuw eigentijds.
+
+Zie hierover
+
+Unger, J.H.W., en W. Bezemer, De oudste kronieken en beschrijvingen van
+Rotterdam en Schieland (Rotterdam: Van Waesberge 1895). II, p. XV 26.
+
+
+
+Eerste deel van deze kroniek is overgeschreven van oudere bronnen/ kronieken;
+het laatste deel, vanaf de jaren zestig 17e eeuw, is eigentijds.
+
+Zie: Unger, J.H.W., en W. Bezemer, De oudste kronieken en beschrijvingen van
+Rotterdam en Schieland (Rotterdam: Van Waesberge 1895).
+
+
+
 ## Literatuur 
 

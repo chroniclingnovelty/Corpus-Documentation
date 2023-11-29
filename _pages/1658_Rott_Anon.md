@@ -35,48 +35,12 @@ Anoniem, en Jan Gerritsz Waerschut. ‘Kroniek van Rotterdam’. Rotterdam, 1658
 
 ## Notities 
 
-MvW/JP 10 aug 23
+De eerste 32 pagina’s uit deze kroniek zijn van de hand van de bakker en
+kroniekschrijver Jan Gerritszn Waerschut (de auteur van 1648_Rott_Anon). De
+tekst bevat daarna aantekeningen van een onbekende kroniekschrijver uit
+Rotterdam die doorlopen tot 1658.
 
-Datering:
-
-|  |
-
-
-
-|
-
-1426-1658. Afschrift uit het midden der 17e eeuw  
-  
----|---  
-  
-NB:
-
-|  |
-
-
-
-|
-
-Gemaakt van een afschrift der kroniek van Van Waerschut. Met bvanaf p. 32 een
-zelfstandig vervolg tot december 1658. Zie
-
-Unger, J.H.W., en W. Bezemer, _De oudste kronieken en beschrijvingen van
-Rotterdam en Schieland_ , Bronnen voor de Geschiedenis van Rotterdam II
-(Rotterdam: Van Waesberge 1895). II, p. XIII, No 12 en p. 230. K 12  
-  
----|---  
-  
-Omvang:
-
-|  |
-
-
-
-|
-
-1 deeltje  
-  
----|---
+MvW/JP
 
 
 
