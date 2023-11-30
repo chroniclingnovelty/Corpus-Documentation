@@ -40,6 +40,32 @@ Vaernewyck, Marcus. Van Die Beroerlicke Tijden in Die Nederlanden En Voornamelij
 
 ## Notities 
 
+Marcus van Vaernewijck (1518-1569) werd geboren in een patriciersfamilie in
+Gent. Hij zegt dat hij weinig formele educatie had genoten, maar was erg
+belezen. Hij reisde veel en had meerdere publieke functies, was schepen,
+beheerder van de armenkamer en kerkmeester. Hij was ook actief als rederijker
+en historicus. Zijn kroniek, die de periode 1566 tot 1568 beslaat, is erg rijk
+in informatie. Van Vaernewijck beschrijft de politieke en religieuze situatie
+vanuit elk mogelijke invalshoek, en schrijft hierbij ook veel over kunstwerken
+die verloren gingen bij de beeldenstorm. De tekst werd gepubliceerd als _Van
+die beroerlicke tijden in die Nederlanden en voornamelijk in Ghendt 1566–1568_
+, ed. Ferdinand Vanderhaeghen, 5 vols., Maatschappij der  Vlaamsche
+bibliophilen, 4th series 1 (Ghent, 1872–1881). Er bestaat ook een Franse
+vertaling. Zie over deze tekst ook e.g. H. van Nuffel, ‘Marcus van Vaernewijck
+en de  beroerlijcke tijden in de Nederlanden’, _Standen en landen_ , XL (1966)
+113–145, and Koen Lamont, _Het wereldbeeld van een zestiende-eeuwse Gentenaar.
+Marcus van Vaernewijck_ , Verhandelingen der maatschappijvoor geschiedenis en
+oudheidkunde te Gent 30 (Gent 2005).
+
+Het manuscript is ook digitaal beschikbaar via de bibliotheek van de
+Universiteit Gent:
+[https://lib.ugent.be/viewer/archive.ugent.be%3A0B423D0C-71CF-11E5-BD2B-E4CAD43445F2#?c=&m=&s=&cv=1&xywh=-438%2C-1%2C8068%2C4931](https://lib.ugent.be/viewer/archive.ugent.be%3A0B423D0C-71CF-11E5-BD2B-E4CAD43445F2#?c=&m=&s=&cv=1&xywh=-438%2C-1%2C8068%2C4931)
+
+[1]Judith Pollmann, Catholic identity and the Revolt of the Netherlands,
+1520-1635 (Oxford 2011), 205.
+
+
+
 TD: Link naar manuscript:
 [https://lib.ugent.be/viewer/archive.ugent.be%3A0B423D0C-71CF-11E5-BD2B-E4CAD43445F2#?c=&m=&s=&cv=&xywh=-2123%2C-276%2C7934%2C5486](https://lib.ugent.be/viewer/archive.ugent.be%3A0B423D0C-71CF-11E5-BD2B-E4CAD43445F2#?c=&m=&s=&cv=&xywh=-2123%2C-276%2C7934%2C5486)
 

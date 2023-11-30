@@ -33,5 +33,20 @@ Joostzoon, Antonius. ‘Ephemerides Leovardienses of Leeuwarder aanteekeningen v
 
 ## Notities 
 
+Het betreft hier de kroniek van Anthonius Joostzoon (notaris te Leeuwarden,
+katholiek) over de jaren 1566-68, die door W.W. Buma in 1861 is gepubliceerd.
+Hij bevat een Latijnse toevoeging uit 1570; onduidelijk van wie deze
+toevoeging afkomstig is.
+
+Uitgegeven als:
+
+### Ephemerides Leovardienses of Leeuwarder aanteekeningen van den notaris
+Anthonius Joostzoon, 1566-1568, ed. W.W. Buma
+
+_De Vrije Fries. Deel 9. Nieuwe reeks. Deel 3_. G.T.N. Suringar, Leeuwarden
+1862, 387-440.
+
+
+
 ## Literatuur 
 
