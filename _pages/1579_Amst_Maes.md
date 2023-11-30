@@ -6,11 +6,10 @@ parent: Chronicles
 --- 
 
 
-# Dagboek van broeder Wouter Jacobsz (Gualtherus Jacobi Masius) prior van Stein : Amsterdam 1572-1578 en Montfoort 1578-1579. Deel 1 
+# Dagboek van broeder Wouter Jacobsz (Gualtherus Jacobi Masius) prior van Stein: Amsterdam 1572-1578 en Montfoort 1578-1579.
 
-### 1579_Amst_Maes_01 
+### 1579_Amst_Maes
 
-Jacobsz, Wouter. Dagboek van Broeder Wouter Jacobsz (Gualtherus Jacobi Masius) Prior van Stein : Amsterdam 1572-1578 En Montfoort 1578-1579. Deel 1. Edited by Isabelle Henriette van Eeghen. Vol. 1. 2 vols. Groningen: J. B. Wolters, 1959. 
 
 ## Auteursgegevens 
 
@@ -32,7 +31,7 @@ Jacobsz, Wouter. Dagboek van Broeder Wouter Jacobsz (Gualtherus Jacobi Masius) P
 
 ## Kroniekdelen
 
-Voor de afzonderlijke delen van deze kroniek, zie: [1579_Amst_Maes_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_01), [1579_Amst_Maes_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_02)
+Voor de afzonderlijke delen van deze kroniek en verdere informatie, zie: [1579_Amst_Maes_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_01), [1579_Amst_Maes_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_02)
 
 
 
