@@ -34,7 +34,7 @@ exclude_from_top_menu: true
 - [1576_Utre_Anon](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1576_Utre_Anon)
 - [1576_Zier_Clae](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1576_Zier_Clae)
 - [1577_Utre_Anon](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1577_Utre_Anon)
-- [1579_Amst_Maes_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_01), [1579_Amst_Maes_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_02)
+- [1579_Amst_Maes](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes): [1579_Amst_Maes_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_01), [1579_Amst_Maes_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Amst_Maes_02)
 - [1579_Gent_Anon](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1579_Gent_Anon)
 - [1580_Antw_Wese](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1580_Antw_Wese)
 - [1581_Haar_Verw](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1581_Haar_Verw)
