@@ -39,21 +39,16 @@ Biesten, Hendrik van. “Anteykeningen, gedaen van Broer Hendrik van Biesten, Or
 De auteur is orateur van de minderbroeders in Amsterdam. Hij werd de stad
 uitgezet bij de Alteratie van Amsterdam in 1578, maar keerde vrijwel meteen
 terug. Hij schreef in zijn kroniek over de geschiedenis van Amsterdam in de
-zestiende eeuw, de wederdopers in de jaren 1530, de Beeldenstorm van 1566 en
-over de eerste jaren van de Opstand. Het is dus vooral een crisiskroniek.
-
-De kroniek bevat ook het lied ‘Liedeken op het jaer 1572’.
+zestiende eeuw, de wederdopers in de jaren 1530, de Beeldenstorm van 1566 en over de eerste jaren van de Opstand. Het is dus vooral een crisiskroniek. De kroniek bevat ook het lied ‘Liedeken op het jaer 1572’.
 
 Van de kroniek bestaan twee handschriften:
 
 1534-1567; Brussels handschrift, dat in dit project is gebruikt.
 
-1567-1574: Haarlems handschrift. Dat is helaas niet in het corpus opgenomen,
-maar is wel te vinden op de DBNL.
+1567-1574: Haarlems handschrift. Dat is helaas niet in dit corpus opgenomen, maar is wel te vinden op de DBNL. 
 
-
-
+https://www.dbnl.org/tekst/_die003186901_01/_die003186901_01_0028.php#488
 
 
 ## Literatuur 
-
+We gebruikten de toelichtingen van de bezorgers

@@ -37,21 +37,14 @@ Cuperinus, Adelbertus. “Die Chronicke van Der Vermaerder En de Vromer Stad van
 
 ## Notities 
 
-De kroniek opent met een informatieve proloog over Cuperinus’ beoogde publiek
-(stadsbestuur, vrome borgeren en ingezetenen van Den Bosch), zijn motieven
-(kronieklezen is goed omdat de lezer daardoor ‘vernuftich word, niet alleen in
-orlogen ende in striden, mer oock in raet ende alle borgerlycke saken, die in
-den landen ende steden oprysen mogen’. Cuperinus noemt daarin ook de bronnen
-en eerdere Bossche kronieken die hij heeft geraadpleegd.
+De kroniek opent met een informatieve proloog over Cuperinus’ beoogde publiek (stadsbestuur, vrome borgeren en ingezetenen van Den Bosch), zijn motieven (kronieklezen is goed omdat de lezer daardoor ‘vernuftich word, niet alleen in orlogen ende in striden, mer oock in raet ende alle borgerlycke saken, die in den landen ende steden oprysen mogen’). Cuperinus noemt daarin ook de bronnen en eerdere Bossche kronieken die hij heeft geraadpleegd.
 
-Bron voor dee volgende auteursinformatie is E.O.G. Haitsma Mulier en G.A.C.
-van der Lem (samenstelling),  _Repertorium van geschiedschrijvers in Nederland
-1500-1800_. Nederlands Historisch Genootschap, Den Haag 1990
+Bron voor de volgende auteursinformatie is E.O.G. Haitsma Mulier en G.A.C.
+van der Lem (samenstelling),  _Repertorium van geschiedschrijvers in Nederland, 1500-1800_. Nederlands Historisch Genootschap, Den Haag 1990
 
 **Naam auteur Adelbertus Cuperinus**
 
-**Geboren:         **Datum: +- 1500[1] in ‘s-Hertogenbosch[2], doop: onbekend,
-vader: onbekend,                                  moeder: onbekend
+**Geboren:         **Datum: +- 1500[1] in ‘s-Hertogenbosch[2], 
 
 **Gestorven:      **Datum: kort na 1560[3] in ‘s-Hertogenbosch[4]
 
@@ -63,15 +56,8 @@ vader: onbekend,                                  moeder: onbekend
 
 **Professie:**       Priester, geestelijke broeder, historicus[7]  
 
-**Motief**
+**Motief** ‘.. die geregt waerheyt…”[8]
 
-‘.. die geregt waerheyt…”[8]
-
-**Public Roles**
-
-**Education**
-
-**Profession**
 
 Priester en geestelijke broeder.[9]
 
@@ -118,3 +104,4 @@ http://resources.huygens.knaw.nl/retroboeken/vdaa/#source=aa__001biog04_01.xml&p
 
 ## Literatuur 
 
+Zie boven.
