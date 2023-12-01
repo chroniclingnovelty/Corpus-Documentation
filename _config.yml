@@ -47,7 +47,7 @@ include:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - *.backup
+  - .backup
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
