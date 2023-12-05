@@ -36,27 +36,19 @@ Vremdt, Gerard. “Geschiedkundige Aanteekeningen van Gerard Vremdt, Notabel Bur
 
 ## Notities 
 
-Toelichting met informatie uit de inleiding bij de kroniek, met toevoegingen
-van Judith Pollmann
+Toelichting met informatie uit de inleiding bij de kroniek, met toevoegingen van Judith Pollmann
 
 De auteur, Gerard of Gerrit Vremdt, is een aanzienlijk burger in Culemborg.
-Hij is koopman, en na de Spaanse bezetting, die eindigt in 1577, bekleedt hij
-meerdere bestuursfuncties. Het is vrijwel zeker dat hij gereformeerd was. Hij
-is geboren in 1544 als zoon van Jan Vremdt, die overlijdt als hij slechts drie
-jaar is. Vremdt zelf trouwt drie keer, krijgt meerdere kinderen, en moet voor
-1622 overleden zijn; In dat jaar maakt zijn laatste vrouw en dan weduwe zijn
-testament op.  
+Hij is koopman, en na de Spaanse bezetting, die eindigt in 1577, bekleedt hij meerdere bestuursfuncties. Het is vrijwel zeker dat hij gereformeerd was. Hij is geboren in 1544 als zoon van Jan Vremdt, die overlijdt als hij slechts drie jaar is. Vremdt zelf trouwt drie keer, krijgt meerdere kinderen, en moet voor 1622 overleden zijn; In dat jaar maakt zijn laatste vrouw en dan weduwe zijn testament op.  
 In zijn kroniek beschrijft hij gebeurtenissen gerelateerd aan de opstand,
 Culemborg en zichzelf. Dit zijn voornamelijk onderwerpen die gewoonlijk
 besproken werden door de burgerij: overstromingen, branden, verre reizen,
 krijgsverhalen, vreemde, ongehoorde voorvallen en dure of juist goedkope
-tijden. Hij is hierbij uitgebreider als hij bij de gebeurtenissen zelf een rol
-speelde of getuige was, dan wanneer hij het slechts van horen zeggen heeft,
-waarbij ook zijn blijdschap, verwondering of afschuw over het gebeurde blijkt.
+tijden. Hij is hierbij uitgebreider als hij bij de gebeurtenissen zelf een rol speelde of getuige was, dan wanneer hij het slechts van horen zeggen heeft, waarbij ook zijn blijdschap, verwondering of afschuw over het gebeurde blijkt.
 
 Van de tekst hebben we alleen een 17e eeuws afschrift
 
 
-
 ## Literatuur 
+Alleen de editie.
 

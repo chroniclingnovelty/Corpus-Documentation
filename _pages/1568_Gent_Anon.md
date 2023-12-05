@@ -34,16 +34,11 @@ Anoniem. “Kroniek van Gent, 1301-1568.” Gent, 1568. Boekentoren, BHSL.HS.248
 
 ## Notities 
 
-Deze anonieme kroniek begint al in 707, wordt uitvoerig vanaf veertiende eeuw,
-steeds namen van bestuurders en vooral schepenen van de keure. In het
+Deze anonieme kroniek begint al in 707, wordt uitvoerig vanaf de veertiende eeuw, steeds namen van bestuurders en vooral schepenen van de keure. In het
 zestiende eeuwse deel is zeer veel aandacht voor misdaad, executies en
-dergelijke, wat ook wijst op omgeving schepenbank. Maar ook andere informatie,
-over processies, inkomsten, dingen die voor het eerst gebeuren en soms ook
-prijzen, ziekten etc. Hier en daar andere teksten overgenomen, bijv
-beschrijving van leven vorstin. Waarschijnlijk is de kroniek contemporain
-vanaf ongeveer 1530.
+dergelijke, wat misschien ook wijst op omgeving schepenbank. Maar ook andere informatie, over processies, inkomsten, dingen die voor het eerst gebeuren en soms ook prijzen, ziekten etc. Hier en daar andere teksten overgenomen, bijv. beschrijving van leven vorstin. Waarschijnlijk is de kroniek contemporain vanaf ongeveer 1530.
 
 
 
 ## Literatuur 
-
+Geen literatuur bij ons bekend
