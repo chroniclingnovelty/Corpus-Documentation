@@ -35,10 +35,10 @@ Rybens, Joannes Baptista, Thomas De Roo Sr., and Thomas De Roo Jr. Beschryving D
 
 ## Notities 
 
-De auteur is 'meester bakker, ende secretaris der redenrijkergilde van
-Rethorica'.
+De auteur is volgens de aanhef van de kroniek 'meester bakker, ende secretaris der redenrijkergilde van
+Rethorica' en woonachtin in Nieuwpoort.
 
 
+## Literatuur
 
-## Literatuur 
-
+Geen.
