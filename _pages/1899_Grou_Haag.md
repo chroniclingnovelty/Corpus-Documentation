@@ -58,8 +58,7 @@ kreeg. Haagsma overleed op 8 januari 1900 in Grouw.
 Gedurende zijn leven hield Thijmen Feddes Haagsma aantekeningenboekjes bij,
 waarin hij vooral veel gedichten optekende. Voor familieleden en bekenden
 schreef hij heilwensen en ook zijn eigen verdriet over de dood van zoon en
-echtgenote werd in dichtvorm aan het papier toevertrouwd.  
-  
+echtgenote werd in dichtvorm aan het papier toevertrouwd.
 
 ![](https://mifiles.archieven.nl/default/images/h.gif)
 
@@ -85,3 +84,4 @@ Uit de collectie is niet vernietigd.
 
 ## Literatuur 
 
+Zie boven (inventaris)
