@@ -10,7 +10,7 @@ parent: Chronicles
 
 ### 1593_Gent_Copp_02 
 
-Coppens, Gillis. ‘Kroniek van Gent, 1566-1593’. Gent, 1593. Boekentoren, BHSL.HS.0159  v.1, 2, 3. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000824716?i=19&q=kroniek&type=manuscript. 
+Coppens, Gillis. ‘Kroniek van Gent, 1566-1593’. Gent, 1593. Boekentoren, BHSL.HS.0159  v.1, 2, 3. UB Gent. https://lib.ugent.be/nl/catalog/rug01:000824716?i=19&q=kroniek&type=manuscript. 
 
 ## Auteursgegevens 
 
