@@ -39,7 +39,7 @@ Tanghe, Guillaume-François. Parochieboek van Iseghem, gevolgd door de levensbes
 
 ## Notities 
 
-Deze kroniek begint als een geschiedenisboek maar vanaf de late achttiende eeuw krijgt het toch meer het karakter van een eigentijdse kroniek.
+Deze kroniek begint als een geschiedenisboek maar vanaf de late achttiende eeuw krijgt het meer het karakter van een eigentijdse kroniek.
 
 
 Met dank aan Tinka de Haan
@@ -58,19 +58,13 @@ Met dank aan Tinka de Haan
 
 **Gestorven:       ** Juni 1879, Brugge
 
-**Begraven:         **Onbekend
+**Begraven:        ** Onbekend
 
-**Getrouwd:      ** Nee
+**Getrouwd:        ** Nee
 
-**Religie:**            Rooms Katholiek
+**Religie:**     
 
-**Professie:**     Onderpastoor in Zwevegem
-
-                 Rector van de Sint-Michielskerk in Kortrijk
-
-                 Titulair Kanunnik van het kathedraalkapittel
-
-** **
+Rooms Katholiek
 
 **Motief**
 
@@ -93,13 +87,11 @@ Wordt in 1822 ingeschreven bij het Seminarie in Gent.
 1844-1879: Titulair Kanunnik van het kathedraalkapittel
 
 
-
-Staat in de kroniek (p 416) ook nog genoemd als secretaris van het kapittel,
-boekkeurder en missionaris des bisdoms.
+Staat in de kroniek (p 416) ook nog genoemd als secretaris van het kapittel,boekkeurder en missionaris des bisdoms.
 
 ** **
 
-**Biografische gegevens**
+**Verdere biografische gegevens**
 
 Guillielmus Franciscus Tanghe schreef een reeks parochieboekjes, waarvan de
 eerste verscheen in 1851. Vanaf dat jaar leverde hij ook
@@ -111,14 +103,16 @@ informatie over Westvlaanderen, afgewisseld met Smets informatie over
 Oostvlaanderen. De eerste inzending van Tanghe verscheen op 25 oktober 1839,
 onder de naam Iwein van Vlaenderen. Als ‘missionaris des bisdoms’ trok hij
 door verschillende parochies om te prediken. Hij maakte van deze reizen
-gebruik door plaatselijke kerkarchieven en boekenkasten te raadplegen. Tussen
+gebruik door plaatselijke kerkarchieven en bibliotheken te raadplegen. Tussen
 mei en oktober 1841 worden zijn inzendingen onderbroken. In een artikel laat
 hij los dat dit met zijn gezondheid te maken had. Hierna schrijft hij: ‘dat
 Iwein boer geworden is tot over den kop, hy spreekt van koeyen, van peerden en
 compagnie (..).’<sup>1</sup> Het lijkt erop dat Tanghe vanuit Kortrijk naar
 een plattelandsdorp is verhuisd. Een nieuwe reeks van zijn artikelen begint in
-1842, maar dit zal de laatste reeks van Tanghe in _De Vlaming_ zijn.
+1842, maar dit zal de laatste reeks van Tanghe in _Den Vlaming_ zijn.
 
+[1] J. Huyghebaert, ‘Guillelmus Franciscus Tanghe (alias Iwein van Vlaenderen)
+op wandel door West-Vlaandren 1839-1842’, in: _Biekorf_ 89 (1989) 110.
 
 
 **Linkadressen**
@@ -127,19 +121,12 @@ DBNL
 
 <https://www.dbnl.org/auteurs/auteur.php?id=tang009>
 
-
-
 Wikipedia
 
 <https://nl.wikipedia.org/wiki/Willem_Frans_Tanghe>
 
-
-
-[1] J. Huyghebaert, ‘Guillelmus Franciscus Tanghe (alias Iwein van Vlaenderen)
-op wandel door West-Vlaandren 1839-1842’, in: _Biekorf_ 89 (1989) 110.
-<https://www.dbnl.org/tekst/_bie001198901_01/_bie001198901_01_0029.php>
-
-
-
 ## Literatuur 
 
+J. Huyghebaert, ‘Guillelmus Franciscus Tanghe (alias Iwein van Vlaenderen)
+op wandel door West-Vlaandren 1839-1842’, in: _Biekorf_ 89 (1989) 110.
+<https://www.dbnl.org/tekst/_bie001198901_01/_bie001198901_01_0029.php>
