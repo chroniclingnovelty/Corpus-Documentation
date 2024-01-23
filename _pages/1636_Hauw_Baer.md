@@ -44,13 +44,6 @@ en ouderling. Hij was molenmeester van de Vier Noorder Koggen, wat wil zeggen
 dat hij in die hoedanigheid werkte voor het college van ingelanden van het
 Houtwouderambacht of Hoogwouderambacht.
 
-Biografische gegevens auteur ontleend aan
-<http://www.westfriesefamilies.nl/kwartaalbladen/1976/wf1976_010_012.php>
-
-en
-
-http://historisch-hauwert.nl/ClaesBaerntsz.html
-
 De tekst begint met allerlei bestuurlijke informatie. Vanaf 1633 wordt het een
 meer gevarieerde kroniek.
 
@@ -59,4 +52,11 @@ JP/EK juni 2023
 
 
 ## Literatuur 
+Biografische gegevens auteur ontleend aan
+
+<http://www.westfriesefamilies.nl/kwartaalbladen/1976/wf1976_010_012.php>
+
+http://historisch-hauwert.nl/ClaesBaerntsz.html
+
+Verder niets bekend.
 

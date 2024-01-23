@@ -48,11 +48,9 @@ Amersfoort, : behelzende derzelver gelegenheid, oorspronk ... mitsgaders de
 oude en hedendaagse regeeringsform, privilegien_... Te Utrecht: by Henrikus
 Spruyt ..., 1760, blz. 254-301.
 
-Manuscript versies liggen in Tilburg, regionaal archief:
+Afschriften liggen in Tilburg, regionaal archief:
 
-### [49 "Kroniek van Van Hoevel" of deductie ende declaratie ende.
-beschrijvinge van den staet, conditie ende geleegendigheyt. der Vreyheyt
-Oisterwyck, mitsgaders van eenige van de memora- belste en notabelste actiën
+### [49 "Kroniek van Van Hoevel"of deductie en de declaratie ende beschrijvinge van den staet, conditie ende geleehendigheyt der Vreyheyt Oisterwyck, mitsgaders van eenige van de memora- belste en notabelste actiën
 ende calamiteiten geduerende dezen voorleden oorlogen binnen dezen vreyheyt
 geschiedt ende de ingezeetenen derselve overkomen, omme achtervolgende.
 beveele van Hunne Hoogheeden aan de Eerwaerde Heeren ende. Mannen Jan van
@@ -77,6 +75,7 @@ De bezorger heeft de originele tekst niet gevonden.
 Met dank aan Max van Winden.
 
 
-
 ## Literatuur 
+
+zie editie
 

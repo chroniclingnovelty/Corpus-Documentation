@@ -33,6 +33,7 @@ parent: Chronicles
 Voor de afzonderlijke delen van deze kroniek en verdere informatie, zie: [1638_Roer_Kamp_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1638_Roer_Kamp_01), [1638_Roer_Kamp_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1638_Roer_Kamp_02)
 
 ## Notities 
+Wij hebben over deze auteur geen aanvullende informatie gevonden.
 
 ## Literatuur 
 

@@ -68,7 +68,7 @@ hem en andere pachtboeren vanaf 1623 met de Staten van Friesland.’
 
 Zie voor verdere informatie en een analyse van de tekst de inleidingen in door
 J.A. Faber, K. Fokkema en P. Gerbenzon in _Het aantekeningenboek van Dirck
-Jansz,_ red. P. Gerbenzon Hilversum: Verloren, 1993.
+Jansz,_ red. P. Gerbenzon Hilversum: Verloren, 1993, alwaar over de auteur het volgende gezegd wordt: 
 
 ‘De auteur van deze persoonlijke notities leefde van ca. 1578 tot 1636 en
 oefende het boerenbedrijf uit in Het Bildt (Friesland). Vanaf ca. 1606 tot aan
@@ -77,9 +77,12 @@ weersomstandigheden, opbrengsten van de oogst en persoonlijke
 wederwaardigheden. In een tweede gedeelte van zijn aantekeningenboek schreef
 hij gedichten, anekdotes, volkswijsheden en moppen over uit de ca. veertig
 boeken die hijzelf bezat (voor die tijd een enorm aantal). Uit alles blijkt,
-dat hij een vooraanstaand lid was van de gemeenschap waarin hij leefde. ‘
+dat hij een vooraanstaand lid was van de gemeenschap waarin hij leefde.'
 
 
 
-## Literatuur 
+## Literatuur
+Zie voor verdere informatie en een analyse van de tekst de inleidingen in door
+J.A. Faber, K. Fokkema en P. Gerbenzon in _Het aantekeningenboek van Dirck
+Jansz,_ red. P. Gerbenzon Hilversum: Verloren, 1993. 
 

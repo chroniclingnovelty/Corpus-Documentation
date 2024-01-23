@@ -37,7 +37,7 @@ Vivere, Jan. Chronĳcke van Ghendt : handschrift deelmakende van het archief v
 
 ## Notities 
 
-Deze uitgave is gebaseerd op een handschrift uit Bazel ‘zonder titel van 554
+Deze uitgave is gebaseerd op een handschrift dat in de negentiende eeuw in het bezit was van de burggraaf Vilain XIIII te Bazel (Oost-Vlaanderen) ‘zonder titel van 554
 bladzijden in folio, alles in een hand geschreven, klein en netjes’.
 
 NB deze uitgave betreft niet het hele manuscript omdat dat te omvangrijk is en
@@ -93,4 +93,5 @@ JP/EK  juni 2023
 
 
 ## Literatuur 
+Inleiding van de bezorger.
 

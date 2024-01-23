@@ -58,5 +58,10 @@ aan de vervolging van protestanten en de gebeurtenissen tijdens de Opstand.
 
 
 
-## Literatuur 
+## Literatuur
+
+R.Fruin ed., 'De kroniek van Pieter Joossen Altijt Recht Hout', _Archief.
+Mededelingen van het Koninklijk Zeeuwsch Genootschap der Wetenschappen_ (1909)65-96.’
+
+
 

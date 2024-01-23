@@ -36,6 +36,7 @@ Kampen, Joh., and Jan van Ryckenroy. “Kroniek Der Stad Roermond van 1562-1638.
 [<img src="..\..\barplots_chronicles\1638_Roer_Kamp_01.jpg" width="750"/>](..\..\barplots_chronicles\1638_Roer_Kamp_01.jpg) 
 
 ## Notities 
+Wij hebben over deze literatuur geen aanvullende informatie gevonden.
 
 ## Literatuur 
 

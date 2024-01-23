@@ -48,13 +48,11 @@ oudste van negen kinderen, en behoorde tot de gezeten burgerstand. Hij volgde
 op 20 mei 1591 zijn vader op als secretaris, of klerk; een positie die hij
 behield tot 9 juli 1617. Hij stond zijn positie af aan een neef, mogelijk door
 zijn zwakke gezondheid, maar trad wel nog op als diens substituut. Van den
-Hoevel was bovendien notaris en tijdelijk H. Geestmeester was, is den 24sten
-Juli 1636 overleden en waarschijnlijk bij zijn ouders in de parochiekerk ter
-aarde besteld.
+Hoevel was bovendien notaris en tijdelijk H. Geestmeester, 'is den 24sten
+Juli 1636 overleden en waarschijnlijk bij zijn ouders in de parochiekerk ter aarde besteld'.
 
   
-De kroniek valt uiteen in twee aparte delen: een historische omschrijving van
-Oisterwijk, gevolgd door een kroniek die loopt van 1566 tot 1609. In dit
+De kroniek valt uiteen in twee aparte delen: een historische omschrijving van Oisterwijk, gevolgd door een kroniek die loopt van 1566 tot 1609. In dit
 laatste deel omschrijft van den Hoevel hoe het komt dat Oisterwijk in verval
 is geraakt sinds de in het eerste deel beschreven periode. Hij heeft veel
 aandacht voor het oorlogsgeweld tijdens de Opstand, en beschrijft hoe
@@ -63,4 +61,6 @@ Oisterwijk en andere dorpen zijn geteisterd door de legers.
 
 
 ## Literatuur 
+
+Zie boven
 

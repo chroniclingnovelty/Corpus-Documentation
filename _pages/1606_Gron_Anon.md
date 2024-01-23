@@ -39,7 +39,7 @@ Anoniem. Kroniekje van Een Ommelander Boer in de Zestiende Eeuw. Edited by W. Be
 
 Anonieme kroniek geschreven c. 1596-1606, door een ontwikkelde Ommelander
 boer, selecteert uit andere teksten maar rappporteert ook veel zelf en over
-verhalen die hij heeft gehoord, verhalen over bisschop Kniijff en belegering
+verhalen die hij heeft gehoord, verhalen over bisschop Knijff en belegering
 Groningen, zelf vluchteling geweest in Emden, eindigt met de Reductie van
 Groningen.
 
@@ -47,7 +47,7 @@ De tekst bevat behalve over Groningen observaties over Oost-Friesland waar de
 gereformeerde schrijver om geloofsredenen een aantal jaren zijn toevlucht
 moest nemen.
 
-De editie heeft de volgende nuttige inleiding
+De editie heeft de volgende nuttige inleiding: 
 
 ‘Het hier gepresenteerde kroniekje is afkomstig van een Ommelander boer, een
 anonymus. Slechts in één handschrift is het werkje overgeleverd dat gezien

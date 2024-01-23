@@ -10,7 +10,7 @@ parent: Chronicles
 
 ### 1628_Alkm_Wijn 
 
-Wijnkoper, Jacob Dirxz, Jan Jakobsz Stoop, and Simon Eikelenburg. “Kroniek van Wijnkoper.” Translated by Transcriptiewerkgroep Regionaal Archief Alkmaar. Alkmaar, 1628. Inv.nr.  3 van de Collectie Aanwinsten. Regionaal Archief Alkmaar. https://dbnl.nl/tekst/wijn142kron01_01/. 
+Wijnkoper, Jacob Dirxz, Jan Jakobsz Stoop, and Simon Eikelenburg. “Kroniek van Wijnkoper.” Translated by Transcriptiewerkgroep Regionaal Archief Alkmaar. Alkmaar, 1628. Inv.nr.  3 van de Collectie Aanwinsten. Regionaal Archief Alkmaar. https://dbnl.nl/tekst/wijn142kron01_01/. 
 
 ## Auteursgegevens 
 
@@ -47,28 +47,26 @@ Hij wordt in 1612 Burgemeester, in 1618 wordt hij afgezet door Maurits als
 deze de pro-remonstrantse leden van de vroedschap vervangt door contra-
 remonstranten.
 
-Simon Eikelenberg is een geschiedschrijver, die op latere datum de kroniek in
+Lokale geschiedschrijver Simon Eikelenberg krijgt de tekst in
 handen krijgt. Op dat moment is een deel van het handschrift verloren gegaan,
 Eikelenberg vult dit opnieuw aan van 1412 tot 1700, aan de hand van een andere
 kopie van dezelfde kroniek. Hij voegt ook een inleiding toe, waarin hij dit
-omschrijft.  
+beschrijft.  
 Zowel voor- als nadat het handschrift bij Eikelenberg terecht komt doen enkele
 andere auteurs aanvullingen of aanpassingen aan het handschrift. Een daarvan
-is Willem jacob Domis, die ook een bericht in de kroniek achterlaat, de
+is Willem Jacob Domis, die ook een bericht in de kroniek achterlaat, de
 anderen zijn anoniem.  
 
-Eikelenberg denkt dat Dircks Wijnkoper was (en niet alleen zo heette). Volgens
-Cox Heeren van Alkmaer, (p. 53) was Wijnkoper vroedschap en div malen
-burgemeester in de periode 1570-1598, en (p. 68) schepen tussen 1558-1568,
-Stoop was schepen 1600-1611 (p.67) , vroedschap 1611-1618 (p. 86) en
-burgemeester in 1612 (p. 52) , hij werd in 1618 afgezet door Maurits.
+Eikelenberg denkt dat Dircks Wijnkoper van beroep was (en niet alleen zo heette). Volgens Cox, Heeren van Alkmaer, (p. 53) was Wijnkoper vroedschap en div malen burgemeester in de periode 1570-1598, en (p. 68) schepen tussen 1558-1568, Stoop was schepen 1600-1611 (p.67) , vroedschap 1611-1618 (p. 86) en burgemeester in 1612 (p. 52) , hij werd in 1618 afgezet door Maurits.
 
-<https://nl.wikipedia.org/wiki/Simon_Eikelenberg>
 
-Eikelenberg is remonstrants opgevoed en betrokken bij de Rijnsburger
+Eikelenberg was remonstrants opgevoed en betrokken bij de Rijnsburger
 collegianten
 
 
 
 ## Literatuur 
 
+Cox, Joost, ‘De Heeren van Alkmaer’ : regeerders en regenten, vroedschap en raad 1264-2005 (Alkmaar: Gemeente Alkmaar 2005).
+
+<https://nl.wikipedia.org/wiki/Simon_Eikelenberg>

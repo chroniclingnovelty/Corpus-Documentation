@@ -81,4 +81,5 @@ Vanaf p 188 het aannemenvan de Waardgelders etc..
 
 
 ## Literatuur 
+Zie hierboven
 

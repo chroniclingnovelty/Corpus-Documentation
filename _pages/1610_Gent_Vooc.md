@@ -38,15 +38,13 @@ De Voocht, Gillis. “Verzameling Teksten Betreffende Vlaanderen En Gent.” Gen
 ## Notities 
 
 Een erg mooi manuscript, met gekleurde initialen en verfdecoraties in de
-tekst. In de catalogues van de bibliotheek staat het als heterogene
+tekst. In de catalogus van de bibliotheek staat het als heterogene
 verzameling, maar het is vooral kroniek over periode 1500-1607 en is
-contemporain. Treves/Twaalfjarig Bestand zijn hierbij het eindpunt.  
-Op het schutblad staat info over 17e eeuwse provenance, bewaard door Elizabeth
-Danckaert. De auteur heeft zijn naam erin gezet en de datum 1610 op het eind.
-Mooie sporen van bezit van kroniek na de dood van de auteur - er is ruzie over
-in 1667. De oorspronkelijke titel van het stuk is “De stadskroniek van Gillis
-de Voocht: Gentse herinneringsvorming aan het begin van de 17de eeuw / Stan
-Van de Casteele.”
+contemporain. Treves/Twaalfjarig Bestand is hierbij het eindpunt.  
+Op het schutblad staat info over 17e eeuwse provenance, de tekst werd bewaard door Elizabeth
+Danckaert. De auteur heeft zijn naam er in gezet en de datum 1610 op het eind genoteerd.
+Mooie sporen van bezit van kroniek na de dood van de auteur - er is ruzie over het bezit van de kroniek
+in 1667.
 
 De auteur schreef ook een geschiedenis van het Beleg van Gent in
 965.<sup>1</sup> Volgens de inleiding door de bezorger van dat werk is die
@@ -76,7 +74,7 @@ tekst.
 De auteur was afkomstig uit ambachtskringen, en in 1568 werkzaam als kapelaan
 van broederschap Mariën Theeren en als Latijns schoolmeester in de
 Jacobsparochie. In 1610 ondertekende hij het Hs nog als ‘Aegidius tutor’.  Hij
-verkeert in rederijkerskringen. Kroniekschrijver Van Vaernewijck
+verkeert in rederijkerskringen. Kroniekschrijver Marcus Van Vaernewijck
 (1568_Gent_Vaer) kende hem en noemt hem een aantal keer en vertelt ook over
 een incident waarbij hij moeilijkheden had met Spaanse troepen. Hij ging
 tussen 1577-80 waarschijnlijk in ballingschap, en werkte daarna weer als
@@ -91,4 +89,11 @@ en werd begraven in de Jacobskerk.
 
 
 ## Literatuur 
+
+Inleiding bij Gillis de Voocht, Het beleg van Gent ten jare 965 (1845). URL:
+<https://www.dbnl.org/tekst/vooc001bele02_01/vooc001bele02_01_0001.php
+
+Stan van de Casteele, ‘De stadskroniek van Gillis de Voocht: Gentse
+herinneringsvorming aan het begin van de 17de eeuw’ (Masterscriptie, Gent,
+Univeriteit Gent, 2018) ( _<https://lib.ugent.be/catalog/rug01:002508269>)_
 
