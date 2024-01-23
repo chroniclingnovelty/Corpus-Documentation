@@ -15,7 +15,7 @@ parent: Chronicles
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Wouter Maes | 
+| Naam | Wouter Jacobsz Maes | 
 | Geslacht | m | 
 | Geboortedatum | 1521? | 
 | Geboorteplaats | Gouda | 
@@ -27,7 +27,6 @@ parent: Chronicles
 
 ## Inhoud van de tekst 
 
-[<img src="..\..\barplots_chronicles\1579_Amst_Maes.jpg" width="750"/>](..\..\barplots_chronicles\1579_Amst_Maes.jpg) 
 
 ## Kroniekdelen
 
@@ -50,9 +49,7 @@ delen (Groningen, 1959). Het is een bijzondere tekst, waarin de gevluchte
 priester niet alleen verslag doet van de laatste ontwikkelingen in Amsterdam
 en Montfoort en de regio, maar ook reflecteert op de religieuze betekenis van
 zijn situatie en de politieke ontwikkelingen van zijn tijd. Mogelijk is het
-geschreven met een pastoraal doel voor ogen."
-
-<sup>1</sup>
+geschreven met een pastoraal doel voor ogen."<sup>1</sup>
 
 Het originele handschrift ligt in de universiteitsbibliotheek van de Radboud
 Universiteit Nijmegen, Hs. 228:  
