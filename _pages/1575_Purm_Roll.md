@@ -28,7 +28,6 @@ Matthijsz. Rol, Jacob, Jan Buyes, Anonymus, Anonymus, en Jan Buyes. ‘“Origo 
 | Contemporain begin | 1572 | 
 | Plaats onderwerp | Hoorn | 
 
-[<img src="..\..\barplots_chronicles\1575_Purm_Roll.jpg" width="750"/>](..\..\barplots_chronicles\1575_Purm_Roll.jpg) 
 
 ## Notities 
 
