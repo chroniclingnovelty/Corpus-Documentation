@@ -16,7 +16,7 @@ Vinne, Vincent Janszoon van der, and Vincent Laurensz van der Vinne. “Aanteken
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Vincent Vinne | 
+| Naam | Vincent Janszoon van der Vinne | 
 | Geslacht | m | 
 | Geboortedatum | 1736 | 
 | Geboorteplaats | Haarlem | 
@@ -39,21 +39,29 @@ Vinne, Vincent Janszoon van der, and Vincent Laurensz van der Vinne. “Aanteken
 
 ## Notities 
 
-Met dank aan Carolina Lenarduzzi
+Met dank aan Carolina Lenarduzzi en Nienke Huijbens
 
 De kroniek van Vincent Jansz. van der Vinne is opgenomen in de lijst
-egodocumenten tot 1814 van Rudolf Dekker (nummer 293). Hij was kunstschilder,
-net als zijn vader. Zijn kroniek gaat over Haarlem, hij schrijft onder andere
+egodocumenten tot 1814 van Rudolf Dekker (nummer 293). 
+
+Van der Vinne was kunstschilder,
+net als zijn vader en grootvader. Hij verdiende vooral met de productie van geschilderde behangen. Daarnaast zijn vooral landschappen van hem bekend. Ook in zijn kroniek zijn tekeningen te vinden van lokale gebeurtenissen zoals het excerceren van de patriotten.
+VAn der Vinne was kastelein van de Teylersmuseum van 1778 tot 1785.<sup>1</sup>
+
+Zijn kroniek gaat over Haarlem, hij schrijft onder andere
 over het weer, natuurfenomenen zoals hoog water en late bloei, politiek en
 lijsten van geborenen, overledenen en sloop en bouw van gebouwen per jaar.
 
 van der Vinne was doopsgezind. Vanwege zijn huwelijk stapte hij over van de
 coulantere Waterlanders naar de strengere Vlaamse gemeente Het Blok.
-<sup>1</sup>
+<sup>2</sup>
 
-[1] Dorren, Eenheid en verscheidenheid, 164.
+[1] Bergvelt en Meijers, ‘Teyler’s Foundation in Haarlem and Its ‘Book and Art Room’ of 1779: A Key Moment in the History of a Learned Institution’, Feingold ed. (Leiden 2020), 42.
+
+[2] Dorren, Eenheid en verscheidenheid, 164.
 
 
 
 ## Literatuur 
 
+Nienke Huijbens, 'Vincent Janszoon van der Vinne (1736 – 1811) en zijn Haarlemse kroniek', BA scriptie Geschiedenis, Vrije Universiteit Amsterdam 2023
