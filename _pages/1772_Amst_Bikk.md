@@ -64,8 +64,6 @@ koopman. In 1764 opnieuw met Lucretia Otterbos.
 
 **Religie:          **      Gereformeerd.<sup>2</sup>
 
-**Professie:**         Collecteur van accijns op kolen en turf, Boekhouder
-koornboek, Afslager Oude Vismarkt
 
 **Public Roles**
 
