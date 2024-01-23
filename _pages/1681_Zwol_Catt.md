@@ -72,45 +72,15 @@ In den doem Voort' Rosenkrans altaer In Presentie van veele heeren en Volck
 Misse geleesen komende vant' het hooge choor bij hem sijnde 5 Capecinen waer
 van 2. hem de Misse dienden, eer de Misse aen ginck, soo stondt hij seer lange
 vante vooren met gevoldene handen en toe geslaegene oogen en meediteerde doe
-stondt ick geen 4 treden van hem, en hebbe oock syn Misse gehoort, dese ge
-daen ende voleijnt sijnde soo hoeft hij op het Choor een cloque vermaninge
-gedaen voor sommige domheeren ende onse E E Wijbischop met nogh ettelijcke
-weerlts priesteren en heeren, en is soo nae den doem hof gegaen, alwaer hij
-onder weegen een seecker Vrouws persoon die lange vanden duijvel beseeten was
-geweest verloste, komende op het Theatrum dat voor hem gemaeckt was staen de
-booven met een rooden heemel ooverdeckt als oock met root laecken omtrocken,
-hijer opstaende soo schouwde hij de menschen aen ende begoste eenighe
-Italianse gebeeden te sprecken want hij weenigh of geen duijts en koste, dit
-gedaen sijnde, soo seijde sijn tolck, dat een out Grijs pater was, datse hem
-nae solden seggen ende doen t' geene hij deede, waer op pater Marcus het volck
-en Omstaenders ver@@ begoste verwecken tot een volkomen berow oover sijn
-sonden met een vast voor neemen de selve te beteren ende verfoijen ende nimme,
-wederom te ver sondigen seggende dese, weenigh dogh bondige duijts woorden
-Gelaubet, gelaubet, slaght vur eure brurst, es ! doet mier leijdt, es doet
-mier leijt; mijn Godt o mijn ! Godt, nimmer wil igh dier o mijn Jesu wierderom
-mit sonden beleijdigen endt erfurmen, Jesu maria, mae kende onder dese korte
-woorden sulcke gebaeren ende affecten dat men niet alleen uijt syn aen
-gesichte beweeght wirde, maer dat te verwonderen staet, oock te schrij-en en
-suchten beweeght wirde waer op wij doe mosten leesen 5 vader onse en 5 ave
-Maria, dese 5. ter eer der heijlige 5 wonden Christi, daer nae nogh 3 vader
-onse en soo veele ave Maria ter eeren der onbevleckte ontfanckenisse onser L.
-vrouwen, dit ge daen synde soo gaf hij de benedictie nae dat hij geseijt hadde
-gelaubet, gelaubet, waer opde omstanders seijden wir gelauben wir gelauben, en
-gaf dan tot drie mael de benedictie met de handt, waer op hij wederom seijde,
-kniet nider kniet waer op hij doe las las eenige gebederen waer in verhaelt
-was dat een it weder dogh moghte geschieden nae sijn geloove, dit gedaen synde
-seijde dat men niet vermeijnen en solde als dat hij de wonderwercken uijt hem
-selfs dede, maer godt door hem als een instrument, als hij dan seijde,
-gelaubet, gelaubet, soo riep hij werfet die krucken hinwegh ondt die laemen
-steen auf alwaer seer veele me holpen wirden soo datse een arm vol krucken en
-Stocken Kregen, doe seijde hij oock dat de oorsaecke was geweest waerom dat
-Jesus geen Miraeckelen in syn Vaderlandt hadde kunnen doen omdatse niet en
-geloofden, daerom als wij oock niet en geloofden soo kon hij ons oock niet
-helpen…
+stondt ick geen 4 treden van hem, en hebbe oock syn Misse gehoort. 
+
+Hij deed ook uitvoerig verslag van de rest van deze bijeenkomst, die kennelijk ook op hem grote indruk maakte. 
+
 
 JP
 
 
 
 ## Literatuur 
+Niet bij ons bekend
 

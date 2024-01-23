@@ -33,7 +33,6 @@ Anoniem. De kroniek van het St.-Geertruiklooster te ’s-Hertogenbosch. Den Bosc
 
 ## Notities 
 
-EK
 
 Kroniek van de stad en Meierij van 's-Hertogenbosch in de jaren 1140-1699. De
 kroniek wordt sinds 1977 als die "van (het) Sint-Geertrui(klooster)"
@@ -52,4 +51,7 @@ zijn en omdat de schrijver een deel van die tijd zelf heeft meegemaakt.
 
 
 ## Literatuur 
+Zie verantwoording in de editie
+H. van Bavel, A.C.M. Kappelhof, G.M. van der Velden en G. Verbeek (eds.), De kroniek van het St. Geertruiklooster te 's-Hertogenbosch. Stadsarchief 's-Hertogenbosch, 's-Hertogenbosch / Abdij van Berne, Heeswijk 2001
+
 

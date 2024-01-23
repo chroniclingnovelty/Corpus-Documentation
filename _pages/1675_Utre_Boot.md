@@ -43,12 +43,12 @@ Informatie over auteur in [Nieuw Nederlandsch Biografisch Woordenboek van
 Kuyk](http://resources.huygens.knaw.nl/retroboeken/nnbw/#source=3&page=79&view=imagePane)
 
 Geboren in 1638 in Utrecht, gestorven in 1714 aldaar. Studeerde rechten in
-Utrecht. Werd gedeputeere van de admiraliteit van Friesland en maakte deel uit
+Utrecht. Werd gedeputeerde van de admiraliteit van Friesland en maakte deel uit
 van de raad in het Hof van Utrecht. Heeft enkele werken geschreven, waaronder
 dit dagboek.
 
-Dagboek beslaan de rampjaren 1672 en 1673. en lopen door tot 1675. Booth
-schrijft over de economische gevolgen van de Franse bezetting
+Tekst gaat over de rampjaren 1672 en 1673 en loopt door tot 1675. Booth
+schrijft ook over de economische gevolgen van de Franse bezetting
 
 [Utrechts
 archief](https://hetutrechtsarchief.nl/onderzoek/resultaten/archieven?mivast=39&mizig=210&miadt=39&miaet=1&micode=759&minr=2615713&miview=inv2&milang=nl)
@@ -66,7 +66,7 @@ uit:
   * Brief van B. Wijckersloot ingekomen bij Cornelis. 
 
 Wat de religie van Everard betreft, wordt Booths onvijandige houding ten
-opzichte van Rooms-Katholieken
+opzichte van Rooms-Katholieken opgemerkt
 [benadrukt](https://www.dbnl.org/arch/_ver027194901_01/pag/_ver027194901_01.pdf):
 
 “Rustiger en objectiever schrijft een andere Utrechtse ooggetuige, mr. Everard
@@ -85,4 +85,4 @@ MVW
 
 
 ## Literatuur 
-
+zie bovenstaande

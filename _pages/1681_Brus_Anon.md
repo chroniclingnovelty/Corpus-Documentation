@@ -30,10 +30,11 @@ Anoniem. “Cort Verhael van al Het Ghene in de Princelijcke Stadt van Brussel I
 
 ## Notities 
 
-We hebben over deze anonieme auteur ook in de tekst zelf nog geen informatie
+We hebben over deze anonieme auteur ook in de tekst zelf geen informatie
 gevonden.
 
 
 
 ## Literatuur 
+niet bij ons bekend
 

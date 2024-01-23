@@ -77,9 +77,7 @@ In eerste deel ook veel afschriften van Glaude de Clerck, rederijker, die
 volgens de auteur weinig onderwijs had gehad maar toch geweldig kon dichten
 (zie over hem DBNL)
 
-JP 3 juli.
-
-
 
 ## Literatuur 
 
+Jules de Saint-Genois, *Catalogue méthodique et raisonné des manuscrits de la bibliothèque de la ville et de l'université de Gand* (Gent 1849-1852)

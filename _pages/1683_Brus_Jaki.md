@@ -50,6 +50,22 @@ was ook auteur van diverse kronieken over Brabant; ook daarin nam hij - anti-
 Franse en anti-Hollandse - gedichten op.
 
 
+## Literatuur
 
-## Literatuur 
+
+Erika Kuijpers, 'Between storytelling and patriotic scripture.
+the memory brokers of the Duth Revolt' in Johannes Müller et al. eds *Memory before modernity. Practices of memory in early modern Europe* (Leiden 2013)
+https://doi.org/10.1163/9789004261259_012
+
+
+Sabbe, Maurits, _Brabant in ’t verweer : bijdrage tot de studie der Zuid-
+Nederlandsche strijdliteratuur in de eerste helft der 17e eeuw_ (Antwerpen:
+Resseler 1933 
+
+
+P. Kempeneers.'Oost-Brabantse Sprokkel 2 – Jan Jakinet en de verwoesting van Tienen', *Publipers*, 1968, 5 afleveringen; Oost-Brabant, 1984, XXI, 1, p. 16-29.
+https://kempeneers.org/1984/11/08/oost-brabantse-sprokkel-2-jan-jakinet-en-de-verwoesting-van-tienen/
+
+
+
 

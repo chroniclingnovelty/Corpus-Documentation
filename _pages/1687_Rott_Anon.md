@@ -77,7 +77,6 @@ naam van Erasmus.
 Met dank aan Max van Winden
 
 
-
 CL juli 2023
 
 Pieter Anthonis Picolet:
@@ -97,7 +96,7 @@ huwelijk, kinderen, woonplaats en inkomsten op volgende websites.
 [https://resources.huygens.knaw.nl/retroboeken/nnbw/#source=5&page=258&view=imagePane](https://resources.huygens.knaw.nl/retroboeken/nnbw/#source=5&page=258&view=imagePane)
 
 Waerschut was dopers; een Picolet was dopers martelaar in Antwerpen in 1569,
-en andere Rotterdamse Picoletten trouwen nog dopers in de late 17e eeuw.
+en andere Rotterdamse Picoletten trouwen nog met doopsgezinden in de late 17e eeuw.
 
 In de tekst ook een verslag van een executie van een doper in de 16e eeuw, en
 een anti-calvinistisch rekest uit naam van Erasmus.
@@ -106,3 +105,4 @@ een anti-calvinistisch rekest uit naam van Erasmus.
 
 ## Literatuur 
 
+zie hierboven
