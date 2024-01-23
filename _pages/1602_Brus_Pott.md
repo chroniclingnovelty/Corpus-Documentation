@@ -50,7 +50,7 @@ Jules L.D. de Saint-Genois, Maatschappij der Vlaamsche Bibliophilen, 3e serie
 het feit dat hij gebeurtenissen over een periode van meer dan vijf decennia
 beschreef de lezer in staat de ontwikkeling van zijn politieke en religieuze
 opvattingen te volgen. Vanwege zijn veelvuldige commentaren op openbare
-spektakels en processies werd het dagboek verzameld door Margit Thøfner, *A
+spektakels en processies werd het dagboek ook veel gebruikt door Margit Thøfner, *A
 Common Art. Stedelijk Ceremonieel in Antwerpen en Brussel tijdens en na de
 Nederlandse Opstand*. Studies in de Nederlandse kunst- en cultuurgeschiedenis
 7 (Zwolle, 2007)’<sup>1</sup>
@@ -63,4 +63,19 @@ Nederlandse Opstand*. Studies in de Nederlandse kunst- en cultuurgeschiedenis
 
 
 ## Literatuur 
+
+Inleiding van de bezorger bij de editie
+
+Margit Thøfner, *A
+Common Art. Stedelijk Ceremonieel in Antwerpen en Brussel tijdens en na de
+Nederlandse Opstand*. Studies in de Nederlandse kunst- en cultuurgeschiedenis
+7 (Zwolle, 2007)
+
+Judith Pollmann, _Catholic identity and the Revolt of the Netherlands,
+1520-1635_ (Oxford 2011)
+
+
+
+
+
 
