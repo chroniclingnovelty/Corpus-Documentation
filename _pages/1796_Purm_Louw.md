@@ -14,7 +14,7 @@ parent: Chronicles
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Albert Louwen | 
+| Naam | Albert Pietersz Louwen | 
 | Geslacht | m | 
 | Geboortedatum | 1722 | 
 | Geboorteplaats | Purmerend | 
@@ -172,3 +172,6 @@ klasse 1-4, 1734-1805; 1807, fol.152.
 
 ## Literatuur 
 
+Smith, Eleanor L T, Lianne Wilhelmus, Erika Kuijpers, Alie Lassche, en Roser Morante. ‘Identifying Copied Fragments in an 18th Century Dutch Chronicle’. In *Proceedings of the 13th Conference on Language Resources and Evaluation* (LREC 2022), 5865-78. Marseille: © European Language Resources Association (ELRA, 2022. http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.631.pdf.
+
+Kuijpers, Erika. ‘De informatiebronnen van Albert Louwen (1722–1798), kroniekschrijver te Purmerend’. In *Makelaars in kennis. Informatie verzamelen, verwerken en verspreiden in de vroegmoderne Nederlanden*, onder redactie van Erika Kuijpers en Gerrit Verhoeven, 131-58. Nieuwe Tijdingen. Leuven: Leuven University Press, 2022. https://doi.org/10.2307/j.ctv2q49zx2.8.
