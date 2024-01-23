@@ -32,6 +32,8 @@ Allertsz, Jan, en Jansz, Cornelis. Rotterdamse kroniek: aantekeningen van Rotter
 | Contemporain begin | 1494 | 
 | Plaats onderwerp | Rotterdam | 
 
+[<img src="..\..\barplots_chronicles\1499_Rott_Jans.jpg" width="750"/>](..\..\barplots_chronicles\1499_Rott_Jans.jpg) 
+
 
 ## Notes 
 
