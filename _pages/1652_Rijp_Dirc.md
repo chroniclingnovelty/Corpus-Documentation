@@ -10,7 +10,7 @@ parent: Chronicles
 
 ### 1652_Rijp_Dirc 
 
-Dircksen, Meijnert. “Dagboekjes van Dagelijkse Voorvallen En Ambtelijke Zaken, Door Meijnert Dircksen, Schepen En Gaarder in De Rijp, 1636-1641, 1651-1652.” De Rijp, 1652. 176  Losse Aanwinsten (verkregen tot 1984) van het Noord-Hollands Archief te Haarlem 14.1.3.10, Inventarisnummer: 1549. Noord Hollands Archief Haarlem. https://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&micode=176&milang=nl&miview=inv2#inv3t2. 
+Dircksen, Meijnert. “Dagboekjes van Dagelijkse Voorvallen En Ambtelijke Zaken, Door Meijnert Dircksen, Schepen En Gaarder in De Rijp, 1636-1641, 1651-1652.” De Rijp, 1652. 176  Losse Aanwinsten (verkregen tot 1984) van het Noord-Hollands Archief te Haarlem 14.1.3.10, Inventarisnummer: 1549. Noord Hollands Archief Haarlem. https://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&mizig=210&miadt=236&micode=176&milang=nl&miview=inv2#inv3t2. 
 
 ## Auteursgegevens 
 
@@ -53,9 +53,31 @@ gecomen is...
 ambten die hij uitoefent, waaronder problemen over de afdracht van gelden aan
 de schepenen.’
 
-Vermeld
 
+Deze kroniek werd getuige een mededeling van de auteur bijgehouden omdat de schepenen dit altijd al zo deden  
+
+1636
+Item also ick uetelycken verkozen
+ben indie maent merte 1636, ende
+Daer op uijtgeroepen benevens
+Dirck meijnertsz ende Jasper pietersz
+tot et Scheepenamt opten 23 merte
+waer op den Schout ons den 26 dito
+heeft versocht om vorders indie
+verkiesinge te treeden gelyck gedaen
+is op dato ende tot ons verkiezing nog
+voor een jaer door des heren genadig
+te continueren pieter jacopsz
+ende cornelis hertijesz ende
+tgene bij ons is gepasseert vanden
+26 merte aff sollen uijtgaenden op @
+xx is alles bij memoryen aenge
+teijckent uit andere boeckijes, @@ @@
+volcht hier voorts tgene by ons
+gepasseert sij, ende mij bekent is
+ente teijcken als volcht
 
 
 ## Literatuur 
 
+Niet bij ons bekend.

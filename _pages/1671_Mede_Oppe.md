@@ -40,24 +40,26 @@ Opperdoes, Cornelis Jansz. “Een Kroniek van Medemblik.” Edited by Johan Belo
 Kroniek is geschreven door Cornelis Jan van Opperdoes, klerk bij de secretarie
 van Medemblik.
 
-Auteursinformatie uit:
+Auteursinformatie ontleend aan
 
 <https://www.researchgate.net/publication/327534485_Het_Geslacht_Opperdoes_herkomst_en_beschrijving_version_8-8-2018>
 
-‘Cornelis Jansz Opperdoes, de hierboven al vermelde gemeentesecretaris van
-Medemblik, werd geboren rond 1640. Hij was waarschijnlijk een kleinzoon van
+‘Cornelis Jansz Opperdoes, was secretaris van
+Medemblik, en werd geboren rond 1640. Hij was waarschijnlijk een kleinzoon van
 Cornelis Jansen van Opperdoes (1600), waarbij het tussenvoegsel “van” is
 verdwenen. Uit zijn eerste huwelijk met Jannetjen Claas Amelenberchs kreeg hij
 vier kinderen: Jacob, Maeritje, Geertje en Cornelis. Uit zijn tweede huwelijk
 met Aeltjen Hens, kreeg hij, toen hij al zo’n vijftig jaar oud was, nog twee
 dochters. Dit Medemblikse geslacht Opperdoes eindigt met Cornelis Jacobsz
-Opperdoes, geboren in 1673, die jammergenoeg kinderloos bleef.’
+Opperdoes, geboren in 1673, die kinderloos bleef.’
 
-Auteur lijkt is Gereformeerd gedoopt, getuige doopinschrijvingen, 1619-1667.,
+Auteur is Gereformeerd gedoopt, getuige doopinschrijvingen, 1619-1667.,
 Medemblik, archive 1702-20, inventory number 1, 15-02-1625, folio 22
 
-Bronnen:
 
+MVW/JP 9 aug 2023
+
+## Literatuur 
 zie J. Belonje en R. Kaptein, ‘Een kroniek van Medemblik’, _Bijdragen en
 mededelingen van het Historisch Genootschap_ 64 (1943), 45-107.
 
@@ -66,10 +68,4 @@ mededelingen van het Historisch Genootschap_ 64 (1943), 45-107.
 Zie hierover het artikel van
 
   * <http://www.biografischportaal.nl/persoon/22104862>
-
-MVW/JP 9 aug 2023
-
-
-
-## Literatuur 
 

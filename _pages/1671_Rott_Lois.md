@@ -73,20 +73,16 @@ mee in het  huwelijk. Hij was van  1652 tot 1654 luitenant en van 1654 tot
 1663 kapitein van de burgerij. Daarnaast was hij van 1653 tot 1654 regent van
 het Weeshuis en van 1664 tot 1665 schepen. Met zijn vrouw had hij `  
 `zeven kinderen. Hij stierf in augustus 1676 en werd begraven in de Sint-
-Laurenskerk. Broer Samuel Lois heeft de kroniek aangevuld en  bewerkt.`
-Verschillende aantekeningen die Lois gemaakt heef`t tijdens het  schrijven van
+Laurenskerk. Broer Samuel Lois heeft de kroniek aangevuld en bewerkt.`
+Verschillende aantekeningen die Lois gemaakt heef`t tijdens het schrijven van
 zijn genealogische boek over Schieland zijn bewaard gebleven. Deze blijken zo
 goed als allemaal te zijn opgenomen in de kroniek. Alleen de aantekeningen uit
 1670-1674, die van later tijdstip zijn dan het eindpunt van de kroniek, waren
 niet opgenomen en zijn daarom eind 19e eeuw nog apart gepubliceerd.`
 
-Hein van Dorth.`Voor de rest geen nieuws. De publieke horizon van een
-17e-eeuwse Rotterdamse regent`  
-BA scriptie UL 2012 vond veel informatie over Lois’ financieen, en liet zien
+Hein van Dorth vond veel informatie over Lois’ financieen, en liet zien
 dat Lois’ onderwerpskeuze veranderde door de publieke rollen die hij ging
-spelen.
-
-Hij bezag ook lokale en internationale gebeurtenissen door een sterk
+spelen. Hij bezag ook lokale en internationale gebeurtenissen door een sterk
 Rotterdamse bril. Hij schrijft oa over de Rotterdamse betrokkenen bij de
 affaire Buat. Lois gebruikte kranten als bron van informatie.
 
@@ -96,6 +92,15 @@ graf voor Witte de With. Hij is kritisch over de Quakers.
 JP 11 08 2023
 
 
-
 ## Literatuur 
 
+J.H.W. Unger en W. Bezemer, *De oudste kronieken en beschrijvingen van
+Rotterdam en Schieland* (Rotterdam, 1895) 547-548, 612, 962`
+
+
+Hein van Dorth.`Voor de rest geen nieuws. De publieke horizon van een
+17e-eeuwse Rotterdamse regent`  
+BA scriptie UL 2021
+
+P.C. Molhuysen, P.J. Blok en Fr.K.H. Kossmann, N*ieuw Nederlandsch
+Biografisch Woordenboek* (NNBW) deel 6 (Leiden, 1924) 962

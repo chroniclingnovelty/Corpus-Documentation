@@ -36,22 +36,19 @@ Voor de afzonderlijke delen van deze kroniek en verdere informatie, zie: [1668_G
 
 ## Notities 
 
-Op de eerste dag van zijn benoeming als politiemeester van Gent begon Justus Billet aan zijn
+Op de eerste dag van zijn benoeming als politiemeester van Gent begon Justus Billet aan
 
 Den polytye boeck, ... beginnende den 22sten augusto in tjaer ons heeren 1658
 (1658-1668), 12 dln ., in-folio. Stadsarchief Gent, Bibliotheek 1GD1  
   
-Hij begon daaraan van ambtswege in opdracht van de hoogbaljuw en het
-schepencollege. Ze bevatten verslagen van zijn bezigheden als stedelijk
-politiemeester, belast met toezicht op openbare werken, maar werden
+Hij deed dat van ambtswege in opdracht van de hoogbaljuw en het
+schepencollege. De delen bevatten verslagen van zijn bezigheden als stedelijk politiemeester, belast met toezicht op openbare werken, maar werden
 geleidelijk ook een soort dagboek, waarin hij van allerlei andere informatie
 noteerde. Billet had in zijn jeugd gereisd maar vervulde al sinds de jaren
 1630 allerlei ambten in de gilden en de stad.
 
 Hij nam in 1668 ontslag vanwege zijn steeds slechter gezichtsvermogen, maar
-leefde nog tot 1682.
-
-In ons corpus zit ook zijn Cleene Chronyke (1666_Gent_Bill_01-5).
+leefde nog tot 1682. In ons corpus zit ook zijn Cleene Chronyke (1666_Gent_Bill_01-5).
 
 Zie over het leven van Billet en zijn geschriften
 
@@ -71,9 +68,9 @@ is in de UB Gent en online.
 [https://books.google.be/books?id=lAFMAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false](https://books.google.be/books?id=lAFMAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
 Informatie uit Johan Decavele, Johan Vannieuwenhuyse, S _TADSARCHIEF VAN GENT-
-ARCHIEFGIDS DEEL I OUD ARCHIEF_ (Gent 1983)
+ARCHIEFGIDS DEEL I OUD ARCHIEF_ (Gent 1983) zegt over deze tekst het volgende
 
-P. 253:
+'P. 253:
 
 Bibliotheek 1LF2 en
 
@@ -102,9 +99,16 @@ interessant…. Ze bevatten verslagen van
 zijn bezigheden als stedelijk politiemeester, belast met toezicht op openbare
 werken, en brengen beschrijvingen van zijn eigen tijd. Dit werk is aldus een
 eersterangsbron voor de kennis van het Gent van het derde  
-kwart van de 17de eeuw.
+kwart van de 17de eeuw.'
 
 
 
 ## Literatuur 
+
+Collumbien, H., (1982) “Justus Billet, Politiemeester van Gent.”,  _Ghendtsche
+Tydinghen_  11(6). doi: <https://doi.org/10.21825/gt.v11i6.7289>
+
+Informatie uit Johan Decavele, Johan Vannieuwenhuyse, S _TADSARCHIEF VAN GENT-
+ARCHIEFGIDS DEEL I OUD ARCHIEF_ (Gent 1983)
+
 

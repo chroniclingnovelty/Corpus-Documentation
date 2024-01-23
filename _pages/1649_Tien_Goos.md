@@ -40,17 +40,15 @@ Auteur Eemont Goossens geboren ca. 1569, overleden 1650. Loopt over periode
 
 Uitgave van een handschrift uit 1649 van Eemont Goossens, rentmeester van
 Tienen. Bevat allerlei vermeldenswaardige feiten uit de geschiedenis van de
-stad..
-
-Werd al eerder uitgegeven door Fr. de Ridder in de Hagelandse gedenkschriften.
+stad. Werd al eerder uitgegeven door Fr. de Ridder in de *Hagelandse gedenkschriften.*
 
 Eemont Goosens was van aanzienlijke afkomst. geb. omstreeks 1569. Was
 ondermeer schepen, burgemeester en rentmeester.
 
-De tekst werd met tussenpauzen opgetekend. NIet te zeggen wanneer. Wat wel
+De tekst werd met tussenpauzen opgetekend. Niet te zeggen wanneer. Wat wel
 opvalt is dat de tekst heen en weer springt in de tijd en min of meer
-thematisch geordend is. Dit doet vermoeden dat de auteur het inderdaad in de
-jaren veertig heeft geschreven toen hij tegen de tachtig liep.
+thematisch geordend is. Dit doet vermoeden dat de auteur de tekst inderdaad in de
+jaren veertig heeft geschreven, toen hij tegen de tachtig liep.
 
 Hij beschrijft eigen herinneringen, herinneringen van zijn grootvader, maar
 dateert ook de bouw van kerken in de middeleeuwen.
@@ -64,4 +62,5 @@ EK
 
 
 ## Literatuur 
+Zie inleiding bezorger
 

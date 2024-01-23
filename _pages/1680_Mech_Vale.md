@@ -56,42 +56,7 @@ geboortich van  _Berchem_  een Dorp onder de Landtdecanye van  _Os_  in het
 Bisdom van s'Hertogen-Bossche; synen Vader is ons onbekent, maer syne Moeder
 vindmen aengeteekent in de Memorien van de Pastorye van Muysen op den naem van
 _Helena Wouters_  Moeder van den Heere Pastoor op het jaer sesthien-hondert
-ses-en-sestigh alsdan oudt synde hondert jaeren, ende wort
-
-|
-
-### Over het gehele werk
-
-#### PLAATSEN
-
-  * over [Mechelen](https://www.dbnl.org/atlas/plaats.php?id=meche001)
-
-  
-
-### Over dit hoofdstuk/artikel
-
-#### PLAATSEN
-
-  * over [Muizen](https://www.dbnl.org/atlas/plaats.php?id=muize002)
-
-  
-
-#### DATUMS
-
-  * [1636](https://www.dbnl.org/calendarium/?d=16360000)
-  * [1648](https://www.dbnl.org/calendarium/?d=16480000)
-  * [1649](https://www.dbnl.org/calendarium/?d=16490000)
-
-  
-  
----|---  
-  
-[p. jv]
-
-|  
-  
-bevonden de selve gestorven te zyn op den ses-thienden january van het
-volgende jaer ses-thienhondert seven-en-sestigh.
+ses-en-sestigh alsdan oudt synde hondert jaeren, ende wort bevonden de selve gestorven te zyn op den ses-thienden january van het volgende jaer ses-thienhondert seven-en-sestigh.
 
 De oorsaeke waerom Remmerus Valerius synen naem verandert ofte gelatinizeert
 heeft, schynt geweest te zyn de gewoonte van dien ende voorgaenden tyde, want
@@ -103,11 +68,9 @@ achterlaeten, hunnen eygen Toenaem ende sommige oock den Voornaem verkeerende
 ende Latinizerende op verscheyde manieren, als onder andere den vermaerden
 Valerius Andreas geboortich van  _Tesschel_  een Dorp onder de Landtdecanye
 
-|  
   
 [p. v]
 
-|  
   
 van  _Geel_  van het Bisdom van s'Hertogen-Bossche wiens eygen Voornaem was
 _Wouter_  ofte  _Wauter_  ende Toenaem  _Driessens_  den welcken de
@@ -120,27 +83,13 @@ veranderen van den Naem, oock in syne jonkheyt ende misschien in de
 Philosophie tot Douay gestudeert heeft, vermits hy de Fransche Tale konde
 schryven welck ten dien tyde in een Brabantschen Kempenaer seer raer was.
 
-|  
   
 #### 1636
 
 Ten jaere ses-thien-hondert ses-en-dertigh ontrent den Feest-dag van de
 geboorte van den  _H. Joannes Baptista_ , is Remmerus Valerius Pastoor
-geworden van de Kercke
+geworden van de Kercke [p. vj] van S. Lambrecht tot Muysen, welck een Dorp is onder de Jurisdictie van Mechelen gebruykende de selve Coustumen ende genietende de selve Vryheden ende Privilegien, gelegen ontrent een half myle van de Stadt.
 
-|
-
-####  
-  
-[p. vj]
-
-|  
-  
-van S. Lambrecht tot Muysen, welck een Dorp is onder de Jurisdictie van
-Mechelen gebruykende de selve Coustumen ende genietende de selve Vryheden ende
-Privilegien, gelegen ontrent een half myle van de Stadt.
-
-|  
   
 #### 1648
 
@@ -152,17 +101,8 @@ gelaten heeft de Baracken gemaekt op het Kerck-hof van Muysen alwaer Remmerus
 Valerius zich heeft moeten contenteren, soo hy selfs schryft in sekere Memorie
 ontrent den jaere 1665., met slechte Huyskens van de Soldaten de welcke door
 ouderdom seer vervallen waren.
-
-|
-
-####  
-  
-|  
-  
 [p. vjj]
 
-|  
-  
 #### 1649
 
 Ten jaere ses-thienhon-dert negen-en-veertigh op den 21. November is door
@@ -177,23 +117,16 @@ In de Kercke van Muysen beneffens den hoogen Autaer aen de zyde van het
 Evangelie ligt eenen Serck-steen waer in synen Ouderdom, Bedieninge ende
 Schriften in't kort seer net beschreven worden in de volgende woorden
 
-|  
-  
+
 [p. vjjj]
 
-|  
-  
-  
-  
 ![illustratie](https://www.dbnl.org/tekst/vale010chro01_01/vale010chro01ill0002.gif)
 
-|  
-  
-.
 
 MVW/JP 11 aug 2023
 
 
 
 ## Literatuur 
+Zie hierboven
 

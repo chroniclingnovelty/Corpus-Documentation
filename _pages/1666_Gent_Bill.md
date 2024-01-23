@@ -53,7 +53,7 @@ Jezus Christus tot 1564. Daarna plande hij 3 delen die tot 1666 doorliepen.
 
 Voor de gebeurtenissen sinds 1658 kon hij gebruik maken van het politieboek,
 dat hij voor het stadsbestuur bijhield sinds zijn benoeming als stedelijk
-politiemeester  en dat ook in ons corpus zit (1668_Gent_Bill_01-06)  De
+politiemeester en dat ook in ons corpus zit (1668_Gent_Bill_01-06)  De
 kroniek leverde de achtergrond bij die politieboeken, die doorlopen tot 1668.
 
 Informatie uit Johan Decavele, Johan Vannieuwenhuyse, S _TADSARCHIEF VAN GENT-
@@ -73,18 +73,23 @@ leefde nog tot 1682.
 In 1638 had hij ook al een ‘Testamentboek’ gemaakt, waarin hij zijn
 familiegeschiedenis en details over zijn eigen ambten noteerde. Hij schreef
 daarin onder andere de genealogische aantekeningen over die mannen en vrouwen
-onder zijn voorouders in de zestiende eeuw al hadden gemaakt. Dat handschrift,
+onder zijn voorouders in de zestiende eeuw al hadden gemaakt. Dat handschrift heet,
 _Den testament boec van Justus Billet, tot een memorie van syne
 naercommelinghen, van haerlieder gheslachte, ende vrienden door hem vergadert
 int jaer ons Heeren 1638_
 
-Dit is in de UB Gent en online.
+Het is in de UB Gent en online.
 
 [https://books.google.be/books?id=lAFMAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false](https://books.google.be/books?id=lAFMAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
   
 
-
-
 ## Literatuur 
 
+Informatie uit Johan Decavele, Johan Vannieuwenhuyse, S _TADSARCHIEF VAN GENT-
+ARCHIEFGIDS DEEL I OUD ARCHIEF_ (Gent 1983) p. 253:)
+
+Zie over het leven van Billet en zijn geschriften
+
+Collumbien, H., (1982) “Justus Billet, Politiemeester van Gent.”,  _Ghendtsche
+Tydinghen_  11(6). doi: <https://doi.org/10.21825/gt.v11i6.7289>

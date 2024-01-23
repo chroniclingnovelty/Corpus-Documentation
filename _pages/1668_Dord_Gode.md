@@ -10,7 +10,7 @@ parent: Chronicles
 
 ### 1668_Dord_Gode 
 
-Godewijck, Pieter van. Dese heerlicke stadt: een zeventiende eeuwse kroniek van Dordrecht. Onder redactie van W.M. van der Schouw. Dordtse bronnen 1. Dordrecht: StadsarchiefDordrecht : Vereniging Oud-Dordrecht, 2006. https://proxy.archieven.nl/46/5DF8D3F998674BD8A627B8AEC775B242. 
+Godewijck, Pieter van. *Dese heerlicke stadt: een zeventiende eeuwse kroniek van Dordrecht*. Onder redactie van W.M. van der Schouw. Dordtse bronnen 1. Dordrecht: StadsarchiefDordrecht : Vereniging Oud-Dordrecht, 2006. https://proxy.archieven.nl/46/5DF8D3F998674BD8A627B8AEC775B242. 
 
 ## Auteursgegevens 
 
@@ -48,16 +48,16 @@ content/uploads/2019/10/DB01_17e_eeuw_dese_heerlicke_stadt.pdf>
 
 Pieter van Godewijck (geb Dordrecht 1593-gest Dordrecht 1669). Begraven in de
 Augustijnenkerk. Bezoekt Latijnse School Dordt, wordt daar in 1619 ‘duytse
-meester’ , en later ook toegelaten als ‘franse schoolmeester’. Getrouwd 1626
+meester’, en later ook toegelaten als ‘franse schoolmeester’. Getrouwd 1626
 met Sara Cornelis Pijpelaersdochter, kreeg twee dochters, Margaretha en
 Cornelia (Cornelia werd dichteres, en kreeg van hem onderwijs oa Italiaans,
 Frans, Engels, sterrenkunde. rekenkunde, wiskunde). Bekend met de gebroeders
-De Witt en lokale auteurs Balen en Van Beverwijck. Dicht zelf ook, oa. Remedie
-voor de Pest (1636).
+De Witt en lokale auteurs als Mathijs Balen en Johan Van Beverwijck. Dicht zelf ook, oa. een Remedie voor de Pest (1636).
 
 JP 9 08 2023
 
 
 
 ## Literatuur 
+Zie inleiding editie
 

@@ -48,5 +48,10 @@ MVW/JP 11 08 2023
 
 
 
-## Literatuur 
+## Literatuur
+
+Hanna de Lange, ‘Bloote gerugten’ en ‘quade tijdingen’
+Vroegmodern nieuws door de ogen van een zeventiende-eeuwse dagboekauteur,
+1672-1673', UvA Masterscriptie (2017)
+ 
 
