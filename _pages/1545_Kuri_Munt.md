@@ -35,7 +35,7 @@ Munters, Christiaan. Dagboek van gebeurtenissen opgetekend door Christiaan Munte
 | Contemporain begin | 1530 | 
 | Plaats onderwerp | Kuringen | 
 
-[<img src="..\..\barplots_chronicles\1545_Kuri_Munt.jpg" width="750"/>](..\..\barplots_chronicles\1545_Kuri_Munt.jpg) 
+
 
 ## Notities 
 

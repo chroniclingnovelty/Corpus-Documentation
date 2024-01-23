@@ -33,7 +33,6 @@ Anoniem. “Kroniekje van Groningen, uit de 16de eeuw.” Edited by W. Zuidema. 
 | Contemporain begin | 1495 | 
 | Plaats onderwerp | Groningen | 
 
-[<img src="..\..\barplots_chronicles\1535_Gron_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1535_Gron_Anon.jpg) 
 
 ## Notities 
 

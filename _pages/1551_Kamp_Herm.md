@@ -16,7 +16,7 @@ Hermans, Geert, Johan van Breda, Heyman Brant, en Cornelis Meeus. ‘Liber Diver
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Johan Breda | 
+| Naam | Johan van Breda | 
 | Geslacht | m | 
 | Geboortedatum | 1480? | 
 | Geboorteplaats | Breda? | 
@@ -35,7 +35,6 @@ Hermans, Geert, Johan van Breda, Heyman Brant, en Cornelis Meeus. ‘Liber Diver
 | Contemporain begin | 1517 | 
 | Plaats onderwerp | Kampen | 
 
-[<img src="..\..\barplots_chronicles\1551_Kamp_Herm.jpg" width="750"/>](..\..\barplots_chronicles\1551_Kamp_Herm.jpg) 
 
 ## Notities 
 

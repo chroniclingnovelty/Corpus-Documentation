@@ -26,7 +26,6 @@ Anoniem. “Chronique de Bruxelles.” Brussel, 1558. KB Brussel.
 | Beschreven begin | -1184 | 
 | Plaats onderwerp | Brussel | 
 
-[<img src="..\..\barplots_chronicles\1558_Brus_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1558_Brus_Anon.jpg) 
 
 ## Notities 
 

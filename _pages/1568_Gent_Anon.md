@@ -30,7 +30,6 @@ Anoniem. “Kroniek van Gent, 1301-1568.” Gent, 1568. Boekentoren, BHSL.HS.248
 | Contemporain begin | ca. 1530 | 
 | Plaats onderwerp | Gent | 
 
-[<img src="..\..\barplots_chronicles\1568_Gent_Anon.jpg" width="750"/>](..\..\barplots_chronicles\1568_Gent_Anon.jpg) 
 
 ## Notities 
 

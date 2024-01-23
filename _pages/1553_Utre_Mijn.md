@@ -16,7 +16,7 @@ Mijnden, Herberen van. ‘Gedenkschriften van Jhr. Herberen van Mijnden’. Onde
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Herbaren Aemstel | 
+| Naam | Herbaren van Aemstel | 
 | Geslacht | m | 
 | Geboortedatum | 1500? | 
 | Datum overlijden | 1566 | 
@@ -32,7 +32,7 @@ Mijnden, Herberen van. ‘Gedenkschriften van Jhr. Herberen van Mijnden’. Onde
 | Contemporain begin | 1520 | 
 | Plaats onderwerp | Utrecht | 
 
-[<img src="..\..\barplots_chronicles\1553_Utre_Mijn.jpg" width="750"/>](..\..\barplots_chronicles\1553_Utre_Mijn.jpg) 
+
 
 ## Notities 
 
