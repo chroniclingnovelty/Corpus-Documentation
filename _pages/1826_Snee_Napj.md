@@ -80,33 +80,12 @@ Sneek.<sup>1</sup>
 **Motief**
 
 De kroniek begint met een voorrede aan den lezer, geschreven door Eelco
-Napjus. Hierin schrijft hij:
-
-‘(..) En in der daad, indien wij geene gedenkschriften hadden, zoo zouden wij
-nog in die zelfde onwetenheid zijn daar tegenwoordig de onbeschaafde volkeren,
-die dit geluk niet hebben gehad, zich in bevinden. Derhalven is het noodig de
-Historien en Gedenkschriften te lezen, niet alleen voor diegene, die eenig
-bewind in lands of stads regering hebben en andere ambtenaren, maar ook zelfs
-voor allerhande soort van lieden. (..) In deze stoffe dan, is mijn’s bedunkend
-ook nog eenig nut te vinden, en met een zoet saam gemengd zijnde, verdient
-hetzelfde bij allen lof, door het bespiegelen der heldendaden van onze
-Voorvaders, onvermoeide ijveraars in het afschudden van het ondragelijk en
-dwingelandsch juk der Saksen, Gelderschen, Bourgondiërs, en vooral dat der
-trotsche Spanjaarden &c.; doch niet te breedvoerig, om deze en andere in dit
-werk voorkomende zaken te beschouwen, zal een ieder zoo ik hoope, eenige
-zoetigheid door de wisselvalligheden derzelfde (want verandering van spijs
-doet menig mensch gretig eten) kunnen ontvangen. Dit zijn de voornaamste
-redenen die mij als een ingeborene dezer stad aangespoord hebben, om dit
-werkje zoo als hij hetzelfe thans ziet, voor den dag te brengen, hierbij kwam
-nog het gedurig vragen na eenige oudheden deze stadt betreffende, van sommige
-inwoners aan mij, die veronderstelden, dat ik haar in deze voldoen
-kon.’<sup>5</sup>
-
+Napjus, waarin hij zijn motieven uiteenzet.
 ** **
 
 **Public Roles**
 
-Geen (voor zover bekend)
+Zie onder 'Professions'
 
 ** **
 
