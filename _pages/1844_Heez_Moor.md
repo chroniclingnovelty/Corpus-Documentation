@@ -58,7 +58,7 @@ pagina's missen.
 
 De auteur tekende ook gebouwen en gewassen.
 
-In 1953 heeft P. Dominicus de Jong een transcriptie verzorgt, die het handschrift getrouw weergeeft; spelling onveranderd. Met
+In 1953 heeft P. Dominicus de Jong een transcriptie verzorgd, die het handschrift getrouw weergeeft; spelling onveranderd. Met
 voetnoten.
 
 
