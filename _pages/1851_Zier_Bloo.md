@@ -15,7 +15,7 @@ Moens van Bloois, A. “Aantekeningen Betreffende de Geschiedenis van Zierikzee,
 ## Auteursgegevens 
 
 | | | 
-| --------------- | --------------- | 
+| --------------- | --------------- |
 | Naam | Adriaan Moens heer van Bloois | 
 | Geslacht | m | 
 | Geboortedatum | 1791 | 
