@@ -25,7 +25,7 @@ Moens van Bloois, A. “Aantekeningen Betreffende de Geschiedenis van Zierikzee,
 | Religie | hervormd | 
 | Publieke rollen | Raad en schepen Zierikzee, lid Provinciale Staten Zeeland | 
 | Beroep | jurist/ rechter | 
-http://www.biografischportaal.nl/persoon/53597092
+| Biografisch portaal | http://www.biografischportaal.nl/persoon/53597092 |
 
 ## Inhoud van de tekst 
 
