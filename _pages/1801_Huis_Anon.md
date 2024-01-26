@@ -33,7 +33,6 @@ Anoniem. “Kroniek van Het Sint-Elisabethsconvent Te Huissen (1667-1752 En 1782
 
 ## Notities 
 
-JP 18 08 2023
 
 Over het onstaan van deze kroniek zeggen de transcribenten het volgende:
 
@@ -49,7 +48,7 @@ klooster op last van Napoleon gesloten.
 
 Wat te lezen is, is een mengsel van verhalen uit het convent zelf, een aantal
 godsdienstige zaken en een blik in het achttiende eeuwse Huissen. Als zodanig
-is het een belangrijke verhalende bron over Pruisisch Huissen. ‘
+is het een belangrijke verhalende bron over Pruisisch Huissen.'
 
 
 

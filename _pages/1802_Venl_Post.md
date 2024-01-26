@@ -16,7 +16,7 @@ Postel, Johannes Chrysostomus van. Het dagboek of De kroniek door Pastoor J(oann
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Johannes Chrysostomus Postel | 
+| Naam | Johannes Chrysostomus van Postel | 
 | Geslacht | m | 
 | Geboortedatum | 1743 | 
 | Geboorteplaats | Antwerpen | 
@@ -58,3 +58,4 @@ zijn leven hebben gespeeld.
 
 ## Literatuur 
 
+J.Chr. van Postel, *Het dagboek of de kroniek*, ed. H.H. Uyttenbroeck (Maasbree 1982)

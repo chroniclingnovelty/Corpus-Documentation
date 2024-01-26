@@ -36,13 +36,12 @@ Goofers, Lambertus. Chroniek Der Stad Weert van 1784 Tot 1802, Geschreven Door D
 
 ## Notities 
 
-Met dank aan Carolina lenarduzzi
 
 Lambertus Goofers is patriot. Hij was betrokken bij de ontvoering door een
-aantal inwoners van Weert van lde Momboir, kanselier en griffier van het
-Soevereine Hof van Gelre te Roermond, en geeft een uitgebreid
-ooggetuigenverslag van dit incident in zijn kroniek. Hij is zoon van een
-landbouwer en waarschijnlijk zelf ook boer: In zijn kroniek schrijft hij “Den
+aantal inwoners van Weert van lde Momboir, de kanselier en griffier van het
+Soevereine Hof van Gelre te Roermond. Goofers geeft een uitgebreid
+ooggetuigenverslag van dit incident in zijn kroniek. Hij is de zoon van een
+landbouwer en waarschijnlijk zelf ook boer. In zijn kroniek schrijft hij:  “Den
 13 Aug. zyn wy voor goet aen het koren gaen mayen”. Uit de kroniek blijkt ook
 dat hij katholiek is, bijvoorbeeld uit het volgende citaat:  “6 Decembris
 [1799] hebben wy borgers en boeren wederom onze Paeters kerck geopent en den
