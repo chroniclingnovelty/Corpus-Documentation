@@ -51,24 +51,25 @@ pedagogie gestudeerd.<sup>2</sup>
 
 Vanaf 18 december 1747 was Pelckmans wijntavenier meesterzoon bij zijn broer
 Jacobus. Op 3 december 1760 werd hij Meester wijntavenier van de eerste eed,
-waarna hij zijn vader als waard opvolgde van het gasthof: “Het Hof van
-Keulen”, welke gelegen is in de huidige Brusselsestraat.<sup>3</sup> Het moet
+waarna hij zijn vader als waard opvolgde van het gasthof “Het Hof van
+Keulen”, dat was gelegen in de huidige Brusselsestraat.<sup>3</sup> Het moet
 een goed pension zijn geweest: keizer Joseph II overnachtte in het pension in
 de periode dat Pelckmans dit beheerde.<sup>4</sup>
 
 Tussen 1779 en 1785 was hij deken van het wijntaverniersambacht waarna hij
 zich in 1786 vestigde als kruidenier van de tweede eed. Om dit te
-bewerkstelligen verliet hij zijn gasthof. Op 7 mei 1793 word hij schepen in
-Leuven. Dit mag echter niet lang duren: op 25 september 1794 wordt Pelckmans
+bewerkstelligen verliet hij zijn gasthof. Op 7 mei 1793 wordt hij schepen in
+Leuven, maar niet voor lang want op 25 september 1794 wordt Pelckmans
 afgezet door het nieuwe Franse bewind.<sup>5</sup>
 
   
 Zijn periode als schepen gaf hem toegang tot gemeentelijke archieven, iets
 waar hij goed gebruik van wist te maken: veel van de informatie uit zijn
-kroniek is uit deze archieven afkomstig. Hierbij spoorde hij tegens meerdere
+kroniek is uit deze archieven afkomstig. Hij spoorde meerdere
 oorkondes en andere bronnen op die anders voorgoed verloren zouden zijn
-geweest. Pelckmans was echter een goede speurder, maar geen goede schrijver:
+geweest. Pelckmans was weliswaar een goede speurder, maar geen goede schrijver:
 zijn kroniek is erg langdradig en soms onduidelijk.  
+
 Een deel van Pelckmans’ kroniek bestaat uit stukken overgeschreven uit een
 zestiende-eeuwse kroniek van Willem Boonen. Hierbij schrijft hij om de pagina
 een stuk kroniek over, gevolgd door zijn aantekeningen daarop. Erg precies

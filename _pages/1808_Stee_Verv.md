@@ -34,10 +34,10 @@ Vervot, G.A. “Register betreffende genealogische inlichtingen over de familie 
 ## Notities 
 
 De kroniek zit in een semi-geleerd verzamelhandschrift met veel wiskunde en
-meetkunde. Het is een alfabetboek met wetenswaardigheden, en bevat ook
-medicijnen en andere recepten. Voor bladzijde 355 staat een kaart van
-Steenvoorde, daarna volgt de kroniek. Het kroniekdeel is vrij omvangrijk:
-kleine letters, volle bladspiegel, en van pagina 35 tot 544. Het gehele
+meetkunde. Het is een alfabetboek met wetenswaardigheden, kennis, geschiedenis en aanwijzingen voor het maken van
+medicijnen en andere recepten. Vóór bladzijde 355 staat een kaart van
+Steenvoorde, daarna volgt de kroniek, die wel in het geheel van het manuscript moet worden bestudeerd. Het kroniekdeel is vrij omvangrijk:
+kleine letters, volle bladspiegel, en het loopt van pagina 35 tot 544. Het gehele
 handschrift is hier gedigitaliseerd.
 
 

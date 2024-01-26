@@ -16,7 +16,7 @@ Quickenborne, François Xavier van. “Beschryvinge van Het Merkweerdigste Dat V
 
 | | | 
 | --------------- | --------------- | 
-| Naam | François Xavier Quickenborne | 
+| Naam | François Xavier van Quickenborne | 
 | Geslacht | m | 
 | Geboortedatum | 1726 | 
 | Datum overlijden | 1814 | 
@@ -36,8 +36,8 @@ Quickenborne, François Xavier van. “Beschryvinge van Het Merkweerdigste Dat V
 
 Volgens een notitie in de bewerkte kopie van dit manuscript door Edouard
 Callion, was Quickenborne azijnlegger. Het manuscript werd aan Callion ter
-beschikking gesteld door de dochter Francisca van Quickenborne, die groot-
-joffrouw was van het groot-begijnhof. <sup>1</sup>
+beschikking gesteld door de dochter Francisca van Quickenborne, die 'groot-
+joffrouw' was van het groot-begijnhof. <sup>1</sup>
 
 Van Quickenborne was waarschijnlijk Patriot; zijn naam is terug te vinden in
 een lijst van Patriotse donateurs in Vlaanderen.<sup>2</sup>

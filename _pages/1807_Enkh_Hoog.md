@@ -54,15 +54,16 @@ er al op 5 jarige leeftijd mee begonnen is, moeten wij aannemen dat hij eerst
 enkele herinneringen heeft opgeschreven. In 1752 trouwde Luijt Hoogland met
 Marijtje Klaesz. Uit dit huwelijk kwamen zes kinderen voort. Zijn vrouw stierf
 in 1770. Na negen jaar trouwde Luijt Hoogland opnieuw, met Ariaantje
-Borselaar; dit huwelijk bleef kinderloos….
+Borselaar; dit huwelijk bleef kinderloos.
 
 Luijt Hoogland maakte het einde van de Franse tijd niet meer mee. Op 10 maart
 1808 overleed hij. Hij was toen 80 jaar, een voor die tijd bijzonder hoge
 leeftijd.’
 
-
-
+Tevens informatie in de inventarisatie egodocumenten van Rudolf Dekker (tot 1814, 22): 
+http://www.egodocument.net/egodocumententot1814-2.html
 
 
 ## Literatuur 
 
+*Chronologische aanteekeningen betrekkelijk de stad Enkhuizen*, ed K.E. Koeman (Enkhuizen 1979)
