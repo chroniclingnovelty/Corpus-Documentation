@@ -16,7 +16,7 @@ Van Walleghem, Jozef. Merckenweerdigste voorvallen en Daegelijcksche gevallen Br
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Jozef Walleghem | 
+| Naam | Jozef van Walleghem | 
 | Geslacht | m | 
 | Geboortedatum | 1757 | 
 | Geboorteplaats | Brugge | 

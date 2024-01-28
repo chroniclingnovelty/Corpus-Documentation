@@ -32,8 +32,6 @@ Reijnierse, Luc. ‘Dagboek van politieke gebeurtenissen te Zierikzee door Luc. 
 
 ## Notities 
 
-CL/JP
-
 We weten weinig van deze auteur, behalve dat hij uitgesproken pro-patriots
 was, en erg voor de Bataafse omwenteling. Hij was lid van de burgersocieteit,
 en vermoedelijk ook lid van de ‘schutterij’ - het vrijkorps dat in 1787 was

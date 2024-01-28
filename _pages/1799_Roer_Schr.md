@@ -33,39 +33,16 @@ Schreurs, Pieter Hendrik. “Kronijk van Pieter Hendrik Schreurs. 1794-1799.” 
 
 ## Notities 
 
-EK Origineel in roermond samen met twee andere kronieken:
+Zie de informatie bij 1819_Roer_Loos en de daar vermelde literatuur.
 
-1001 Oud-archief van de stad Roermond
-
-2. Inventaris2.12. Twaalfde afdeling: Handschriften2.12.1. Kronieken en geschiedenissen
-
-**1884**
-
-**"Chronijck van Roermond door Peter Hendrik Schreurs, griffier bij het
-vredegeregt aldaar", (over de jaren) 1794-1799; Kroniek van Roermond over
-1770-1819 door juffrouw Van Elsacker; Extracten uit een register met
-aantekeningen van Ramaeckers, zoldermeester te Roermond, over gebeurtenissen
-in 1781-1814; Aantekeningen over gebeurtenissen in 1792-1793**
-
-NB:
-
-Actuelere informatie over de toeschrijving aan auteurs in
-
-**Gerard van de Garde**
-
-‘Uit de eerste hand – Tien Roermondse egodocumenten uit de revolutietijd
-(1787-1799)’, _Spiegel van Roermond_ (2004)
-
-
+Volgens de bezorger was de auteur Pieter Hendrik Scheurs griffier bij het
+vredegerecht in Roermond. Andere informatie over de auteur is niet beschikbaar.
 
 <https://www.dbnl.org/tekst/_jaa033186801_01/_jaa033186801_01_0009.php>
 
-Volgens de bezorger was de auteur Pieter Hendrik Scheurs griffier bij het
-vredegerecht in Roermond. Andere informatie hebben we niet over hem gevonden.
-
-In
-
-
 
 ## Literatuur 
+
+Gerard van de Garde, ‘Uit de eerste hand. Tien Roermondse egodocumenten uit de revolutietijd (1787-1799)’, in: *Spiegel van Roermond* (2004)
+
 
