@@ -36,16 +36,14 @@ Moriëns, Egidius. “Afschrift van de Kroniek van Brustem Door Egidius Moriëns
 
 ## Notities 
 
-FM/ JP augustus 2023
-
-Over de auteur
+Over de auteur, zie:
 
 <https://heemkundebrustem.be/onewebmedia/archief/V.D.1.%20Een%20Brustemse%20Kroniek.pdf>
 
 -Moriens of Moria Eugenius.- Br.19.12.1772-+13.01.1803. -z.v. Gerard Moria, Br.1738-+1824, en Catharina Pexters, Zep.1733-Br.+1804. -klz.v. Jan Moriens en Barbara Adjudant. -was in 1797 lid van het Weldadigheidsbureau. -studeerde aan het Klein Seminarie te St-Truiden. -zijn jongere broer, Jean-Arnold, Br.22.05.1774-+25.05. 1819, huwde op 25.10.1795 met Catharina-Elisabeth Van Boven, Ord.17.05.1777. -deze broer was in 1795 en in 1814-1818 in dienst van de Franse bezetter als "adjoint-au-maire". -zijn oudere zuster Johanna-Barbara, 24.07.1771-+28.09. 1801 huwde op 09.02.1796 met Simon Van Ormelingen, Br. 05.07.1768-+22.12.1840, z.v. Egidius Van Ormelingen en Catharina Loix. -woonde in een huis"neffens den kapelhof", dat toebehoorde aan de kerkfabriek.
 
 Was in 1795:armenmeester, labeurman in de Plasstraat. Wordt bestuurslid van
-nieuwe Weldadigheidsbureau, later secretaris.
+nieuwe Weldadigheidsbureau, later secretaris. Zie:
 
 [Microsoft Word - V.B. 77594
 (heemkundebrustem.be)](https://heemkundebrustem.be/onewebmedia/archief/V.B.2.%20Het%20weldadigheidsbureau.pdf)
@@ -56,7 +54,7 @@ Frankrijk, België en Nederland. Beschrijft met name de Brabantse omwenteling
 in 1789-1790. Crisiskroniek.
 
 Bevat een door hem opgesteld rijmgedicht over de moord op de Franse koning in
-1793. Mogelijk zodat mensen de koning op rijm beter zouden herinneren.  
+1793. Mogelijk opdat mensen zich door het rijm de koning beter zouden herinneren.  
 
 
 

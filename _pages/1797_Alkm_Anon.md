@@ -16,7 +16,7 @@ Panders, Jan van. “Kroniek van Alkmaar in de Bataafs-Franse Tijd, 1787-1797.�
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Jan Panders | 
+| Naam | Jan van Panders | 
 | Geslacht | m | 
 | Geboortedatum | 1747 | 
 | Geboorteplaats | Alkmaar | 
@@ -38,7 +38,15 @@ Panders, Jan van. “Kroniek van Alkmaar in de Bataafs-Franse Tijd, 1787-1797.�
 
 ## Notities 
 
-Zie ook Paper: <https://surfdrive.surf.nl/files/index.php/s/dGOKueZOiIb3pvu>
+
+Deze kroniek is door C.W. Bruinvis toegeschreven aan de Alkmaarse Jan van  
+Panders (1747-1809). De auteur was een uitgesproken patriot en bovengemiddeld
+politiek actief. Hij was mede-oprichter van het ‘Patriottisch Gezelschap
+Burgerhart’ in Alkmaar. Publiceerde zelf in patriottische tijdschriften en
+baseerde ook zijn kroniek grotendeels op berichtgeving uit deze tijdschriften. Het is een typische crisiskroniek, achteraf geschreven (retrospectief). Het verhaal breekt af op
+16 februari 1797, het eind is niet bewaard.
+
+Conny Jürgens, 'The Patriot Revolutions, 1781-1797. Changing Political Beliefs of Dutch Chroniclers' (Honours Research Project VU 2020) schreef het volgende over de auteur:
 
 `Jan van Panders was born in 1747 and died in 1809. The period he describes in
 his chronicle happened within his own lifetime, which makes him a contemporary
@@ -70,35 +78,12 @@ activity.`
 newspaper “Vaderlandsche letteroefeningen” several times in 1790 and 1791,
 much of it containing patriotic arguments and phrases. `
 
-  
-  
-
-`sources:`
-
-`P. J. Blok, P. C. Molhuysen, Nieuw Nederlandsch biografisch woordenboek. Deel
-2 (1912) p.1063f`
-
-`https://dbnl.nl/auteurs/auteur.php?id=pand004 – a list of sources from and
-about Jan van Panders, including his own writing.`
-
-  
-
-
-
-Crisiskroniek; achteraf geschreven (retrospectief). Het verhaal breekt af op
-16 februari 1797, het eind is niet bewaard.
-
-Deze kroniek is door C.W. Bruinvis toegeschreven aan de Alkmaarse Jan van  
-Panders (1747-1809). De auteur was een uitgesproken patriot en bovengemiddeld
-politiek actief. Hij was mede-oprichter van het ‘Patriottisch Gezelschap
-Burgerhart’ in Alkmaar. Publiceerde zelf in patriottische tijdschriften en
-baseerde ook zijn kroniek grotendeels op berichtgeving uit deze tijdschriften.  
-Zie ook: C.W. Bruinvis, Het patriotisme te Alkmaar (Alkmaar, 1886).
-
-Er bestaat een dichtstukje van Jan van Panders, die zijn dichterstalenten ook
-al had prijsgegeven in de  _Post van den Neder-Rhijn  _(nr. 1786-37).
+ https://surfdrive.surf.nl/files/index.php/s/dGOKueZOiIb3pvu 
 
 
 
 ## Literatuur 
 
+C.W. Bruinvis, *Het patriotisme te Alkmaar* (Alkmaar, 1886).
+
+Gedicht van Jan van Panders, *Post van den Neder-Rhijn* (nr. 1786-37)

@@ -36,7 +36,7 @@ Deze kroniek loopt tot 1798 en is na 1841 overgeschreven door iemand die er
 nog opmerkingen bij heeft geplaatst. De auteur is zeer pro-Habsburgs en vooral
 geinteresseerd in de wandaden van patriotten en Franse republikeinen, met name
 over de behandeling van geestelijken en kerkgebouwen maar ook in bredere zin.
-Wellicht kerkelijk milieu, maar zelf geen priester, vermoed ik.
+Wellicht kerkelijk milieu, maar zelf vermoedelijk geen priester.
 
 
 
