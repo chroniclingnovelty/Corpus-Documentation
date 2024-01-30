@@ -22,7 +22,7 @@ Buma, Anna Elisabeth. “Kroniek van belangrijke buitenlandse, landelijke, regio
 | Geboorteplaats | IJsbrechtum | 
 | Datum overlijden | 1825 | 
 | Plaats overlijden | Leeuwarden | 
-| Religie | Gereformeerd (remonstrant?) | 
+| Religie | Remonstrants | 
 | Beroep | dichter | 
 | Biografisch portaal | http://www.biografischportaal.nl/persoon/18252441 | 
 
@@ -38,18 +38,8 @@ Buma, Anna Elisabeth. “Kroniek van belangrijke buitenlandse, landelijke, regio
 
 ## Notities 
 
-Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in
-luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
-1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en
-honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.
-
-Zie over haar scriptie Tinka de Haan UL
-
 <https://surfdrive.surf.nl/files/index.php/s/dgRAoZCtD7rEX9x>
 
-
-
-JP 18 8 2023
 
 Kroniek van A.E. Buma 1766-1796: Historisch Centrum Leeuwarden toegangsnummer
 1759, inv.-nr. 374.
@@ -64,19 +54,17 @@ Haar kroniek heeft een zeer brede focus - veel nationale en internationale
 ontwikkelingen, een grote interesse voor luchtballonnen. Op het eind gaat het
 over de Bataafse omwenteling in Leeuwarden, die ze niet toejuicht.
 
-Buma is uitermate goed geinformeerd over europees nieuws, geinteresseerd in
-luchtbalonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
+Buma is uitermate goed geinformeerd over Europees nieuws, geinteresseerd in
+luchtballonnen, pro-oranje en anti-katholiek. Ze eindigt haar kroniek op 13 feb
 1796 als er een frans garnizoen de stad verlaat, er oproer verwacht wordt en
 honderden mensen vluchten. Ze eindigt dan Finis Frisiae/Finis Patriae.
 
 De belangrijkste biografische informatie over Buma is te vinden in een artikel
-in het Digitaal Vrouwenlexicon
+in het Digitaal Vrouwenlexicon: 
 <http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma>:
 
-UL student Tinka de Haan schreef over haar een BA scriptie
-
-**De geleerde juffer; het literaire leven van Anna Elisabeth Buma (1750-1825)
-(2020), met een analyse van haar andere eigen geschriften en brieven.**
+UL student Tinka de Haan schreef een BA scriptie over Buma:'De geleerde juffer; het literaire leven van Anna Elisabeth Buma (1750-1825)'
+(2020), met een analyse van haar andere eigen geschriften en brieven.
 
 Zie over haar onderzoek ook:
 
@@ -84,10 +72,7 @@ Zie over haar onderzoek ook:
 anna-elisabeth-buma/>
 
 
-
-Motief: memory, events, crises
-
-
-
 ## Literatuur 
 
+Zie voor een uitgebreide literatuurlijst:
+https://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Buma
