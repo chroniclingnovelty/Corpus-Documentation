@@ -58,7 +58,7 @@ Syburgh Henrika Royaards.
 4.1. 21 september 1794 - 17 juni 1795.  
 4.2. Aantekeningen over gebeurtenissen bij de komst van het Franse leger in
 Zaltbommel. Slot ontbreekt.  
-5.1. G.J.F.Mes, ed., 'Uit het dagboek van den Zaltbommelschen predikant
+5.1. G.J.F. Mes, ed., 'Uit het dagboek van den Zaltbommelschen predikant
 J.G.Kist (1794-1795)' _Bijdragen en mededelingen Gelre_ VIII(1915) 453-501.  
 5.2. Van der Aa, X, 201; NNBW, X, 518-519.
 
@@ -71,3 +71,6 @@ Caroline Hanken.
 
 ## Literatuur 
 
+G.J.F. Mes, ed., 'Uit het dagboek van den Zaltbommelschen predikant
+J.G.Kist (1794-1795)' _Bijdragen en mededelingen Gelre_ VIII(1915) 453-501
+https://www.dbnl.org/tekst/_bij019190501_01/_bij019190501_01_0024.php

@@ -16,7 +16,7 @@ Aarssen, Jan van. “De Principaelste Geschiedenissen Voorgevallen Binnen Antwer
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Jan (Johannes Lucas) Aarssen | 
+| Naam | Jan (Johannes Lucas) van Aarssen | 
 | Geslacht | m | 
 | Geboortedatum | 1728 | 
 | Geboorteplaats | Rotterdam | 
@@ -67,3 +67,4 @@ https://www.dbnl.org/tekst/_vla010187101_01/_vla010187101_01_0101.php
 
 ## Literatuur 
 
+'Langlevendheid', in: *De Vlaamsche School. Jaargang 17* (Antwerpen 1871) 105-109

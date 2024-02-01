@@ -31,7 +31,7 @@ Anoniem. “Manuscripta Wegens de Stad Maestricht de Anno 998 Usque Anno 1742.�
 
 ## Notities 
 
-Het grootste gedeelte van de kroniek is geschreven door Ludovicus Loyens. Het
+Het grootste gedeelte van de kroniek is geschreven door Ludovicus Franciscus Loyens. Het
 handschrift staat dan ook bekend als de 'Chronijk van Loyens'. Na 16 mei 1746
 wordt de kroniek nog door een anonieme hand voortgezet tot 1795 (349-381),
 gevolgd door een lijst van gouverneurs en commandanten van Maastricht
@@ -40,7 +40,10 @@ gevolgd door een lijst van gouverneurs en commandanten van Maastricht
 der courante valuta en van de middelprijzen (effractiën) der granen 1427-1757.
 Verreweg het grootste deel is echter geschreven door Loyens.
 
+Loyens was katholiek. Hij werd geboren in 1689 en overleed in 1753 te Maastricht. Hij was schepen van Maastricht en griffier van het Luiks Hooggerecht in Maastricht.
+
 
 
 ## Literatuur 
 
+Jos M.H. Eversen, 'Chroniek der stad Maastricht, samengesteld door Ludovicus Franciscus Loyens, griffier bij het Luiksch Hooggerecht te Maastricht', in *Maasgouw* 15-11-1901, nr. 21
