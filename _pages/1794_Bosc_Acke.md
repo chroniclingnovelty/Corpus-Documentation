@@ -57,7 +57,7 @@ _Auteursinformatie_
 
 **Getrouwd:      **7 oktober 1783 met Maria Cornelia Bowier
 
-                            6 kinderen, waarvan één zoon op jonge                                         leeftijd overleed
+                            6 kinderen, waarvan één zoon op jonge                                      leeftijd overleed
 
 **Religie:                **Protestants
 

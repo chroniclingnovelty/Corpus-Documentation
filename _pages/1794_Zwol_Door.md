@@ -39,14 +39,16 @@ Doorenweerd, Bartholomeus. ‘Korte kronijk van Zwoll’. 1. Zwolle, 1794. Bibli
 
 ## Notities 
 
-Met dank aan Nienke Huijbens en Iris Jonker.
+Een uitgebreide biografie en bibliografie is te vinden op: 
+https://resources.huygens.knaw.nl/bwn1780-1830/lemmata/data/Doorenweerd
 
+Uit de scriptie van Nienke Huijbens en Iris Jonker: 
 De kroniek bestaat uit twee delen. Het eerste deel heet “Een korte Kronijk van
 Zwol”, het tweede deel “Kronijk van de Zwolse kerspelkerke ingewijd ter Eere
 van den H: Michaël Aartsengel.” De kroniek is gedurende meerdere jaren
 geschreven, en is afgemaakt in 1794. De tekst gaat over verschillende
 gebeurtenissen in verschillende jaren en het verhaal begint in de Klassieke
-Oudheid. De schrijver van de tekst was een invloedrijke kapelaan uit Zwolle.
+Oudheid. De schrijver van de tekst was een invloedrijke priester uit Zwolle.
 
 De auteur van de kroniek is Bartholomeus Doorenweerd. Hij is geboren in 1767
 in Zwolle, als oudste van drie kinderen. In 1785 begon hij met zijn studie
@@ -60,10 +62,7 @@ artikelen voor tijdschriften, onder andere “Kerkelijke Bibliotheek voor Rooms
 Catholijken in Nederland” en “Minerva, tijdschrift voor Godsdienst,
 Wetenschappen en Kunsten.” Doorenweerd schreef niet altijd onder zijn eigen
 naam: voor het tijdschrift “Kerkelijke Bibliotheek” schreef hij onder het
-pseudoniem Transisalanus, wat “Overijsselaar” betekent. Doorenweerd was
-getrouwd en had drie kinderen, wat vreemd is, aangezien katholieke
-geestelijken niet mogen trouwen. Dit wijst erop dat Doorenweerd al getrouwd
-was en kinderen had toen hij toetrad tot de geestelijkheid. Doorenweerd is in
+pseudoniem Transisalanus, wat “Overijsselaar” betekent. Doorenweerd is in
 1832 gestorven in Kampen.
 
 De kroniek is geschreven in wat een bestaand schrift lijkt te zijn. Dit
@@ -88,7 +87,7 @@ abrupt, zonder nawoord of afsluiting.
 
 Zoals gezegd bestaat het stuk eigenlijk uit twee kronieken of delen: ‘Een
 korte kronijk van Zwol’ en ‘Kronijk van de Zwolse kerspelkerke ingewijd ter
-eere van den H: Michaël Aartsengel’. Het eerste deel, wat aanzienlijk
+eere van den H: Michaël Aartsengel’. Het eerste deel, dat aanzienlijk
 aanzienlijk korter is dan het tweede deel, is niet expliciet een Christelijke
 geschiedenis. De titel duidt ten slotte op een algemene geschiedenis van
 Zwolle. Toch is het Christendom en de verspreiding ervan een erg belangrijk
@@ -128,3 +127,5 @@ baseert op geruchten en verhalen van oudere inwoners.
 
 ## Literatuur 
 
+Zie de uitgebreide literatuurlijst op:
+https://resources.huygens.knaw.nl/bwn1780-1830/lemmata/data/Doorenweerd
