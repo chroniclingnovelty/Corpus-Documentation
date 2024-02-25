@@ -14,7 +14,7 @@ parent: Chronicles
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Hendrik Dominik Nieuwenhuysen | 
+| Naam | Hendrik Dominik van Nieuwenhuysen | 
 | Geslacht | m | 
 | Geboortedatum | 1724 | 
 | Datum overlijden | 1780 | 
@@ -29,22 +29,8 @@ parent: Chronicles
 
 ## Kroniekdelen
 
-Voor de afzonderlijke delen van deze kroniek en verdere informatie, zie: [1776_Mech_Nieu_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_01), [1776_Mech_Nieu_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_02), [1776_Mech_Nieu_03](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_03), [1776_Mech_Nieu_04](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_04), [1776_Mech_Nieu_05](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_05) 
-
-## Notities 
-
-Hendrik Dominik Van den Nieuwenhuysen (1724-1780), kapelaan in de kerk van
-OLV-over-de-Dijle, provisor  
-van het godshuis van Sint-Heilwich, alias de Putterij. Zie zijn Konstminnende
-wandelinge bij DD.
-
-
-
-autograaf; kroniek van Mechelen; vooraan een Franstalige nota, ons informerend
-dat “l'auteur ou le continuateur de cette chronique” H.D. Van den
-Nieuwenhuysen is, met korte biografie
-
-delen: 5 banden in octavo (21,5 x 17 cm), papier in kartonnen band  
+De kroniek bestaat uit vij delene:
+5 banden in octavo (21,5 x 17 cm), papier in kartonnen band  
 1\. 1601-1699 (met losse stukken in een envelop: Klagt-dicht etc.), s.p.  
 2\. 1700-1746, s.p. (met kopie van de Tumulte ...)
 
@@ -53,20 +39,19 @@ delen: 5 banden in octavo (21,5 x 17 cm), papier in kartonnen band
 5\. 1763-1776 + overlijdensbericht Hendrik Dominik Van den Nieuwenhuysen  
 (1724-1780), s.p.
 
+Voor de afzonderlijke delen van deze kroniek en verdere informatie, zie: [1776_Mech_Nieu_01](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_01), [1776_Mech_Nieu_02](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_02), [1776_Mech_Nieu_03](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_03), [1776_Mech_Nieu_04](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_04), [1776_Mech_Nieu_05](https://chroniclingnovelty.github.io/corpus-documentation/chronicles/1776_Mech_Nieu_05) 
 
+## Notities 
 
-JP 28 juli 2023
-
-Tekst wordt voorafgegaan door een reeks lofdichten van vrienden die kennelijk
-allemaal wisten van zijn historische activiteiten.
-
-Getuige onderstaande was de auteur behalve kapelaan ook directeur van de
-Putterij, een armenschool, waar kinderen een ambacht konden leren. Over die
-school, gesticht in gebouw dat was genaast van de graaf van Egmond.
-
+Hendrik Dominik Van den Nieuwenhuysen (1724-1780) was kapelaan in de kerk van
+OLV-over-de-Dijle en provisor van het godshuis van Sint-Heilwich, alias de Putterij, een armenschool, waar kinderen een ambacht konden leren. Over die
+school, gesticht in gebouw dat was genaast van de graaf van Egmond zie:
 <https://www.dbnl.org/tekst/_vla010185501_01/_vla010185501_01_0045.php>
 
-L'auteur ou le Continuateur de Cette chronique est Mr. Henri Dominique Van den
+
+De eigenlijke kroniek wordt voorafgegaan door een reeks lofdichten van vrienden die kennelijk
+allemaal wisten van zijn historische activiteiten. In een van de voorafgaande teksten wordt de volgende informatie over Van den Nieuwenhuysen gegeven:
+'L'auteur ou le Continuateur de Cette chronique est Mr. Henri Dominique Van den
 Nieuwenhuysen né le 4 aout 1724 (jour de St. Dominique), fils de Henri Martin
 et de Marie Thérèse Bollen dicédá le 20 novembre 1780 le quart après 4 heures
 du Matin, prètre, Chapelain des titres de St. Barbe dans l'eglise Collegiale
@@ -81,7 +66,7 @@ l'histoire de Malines, qu'il aima à partager et à faire Connaitre a ses amis,
 aussi bien qu'il sacrifia sont travail jour et nuit par sa lecture assidue
 pour leur procurer des matières quand ils voulaient rediger quelqu' ouvrages
 quoiqu'il ne voulut jamais rien publiez et il etait toujours determiné a
-prèter a d'autre une main secourable.
+prèter a d'autre une main secourable'
 
 
 

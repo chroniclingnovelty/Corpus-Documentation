@@ -16,7 +16,7 @@ Nieuwenhuysen, Hendrik Dominik van den. “Deel 4 Kroniek van Mechelen Door Kape
 
 | | | 
 | --------------- | --------------- | 
-| Naam | Hendrik Dominik Nieuwenhuysen | 
+| Naam | Hendrik Dominik van Nieuwenhuysen | 
 | Geslacht | m | 
 | Geboortedatum | 1724 | 
 | Datum overlijden | 1780 | 
