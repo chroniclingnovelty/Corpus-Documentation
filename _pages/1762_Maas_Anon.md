@@ -34,15 +34,12 @@ Anoniem, en Anoniem. ‘Chronijk (van Maastricht)’. Maastricht, 1762. Handschr
 
 ## Notities 
 
-JP/EK 16 aug 2023
-
-Tekst is tot 1749 overgenomen van 1749_Maas_Anon, met weglating van bijv.
-verhaal over sodomie, en daarna voortgezet door een andere militair, opnieuw
+Tekst is tot 1749 overgenomen van 1749_Maas_Anon, met weglating van bijvoorbeeld een verhaal over sodomie, en daarna voortgezet door een andere militair, opnieuw
 betrokken bij het garnizoen. Heeft iets meer te melden over Brabantse
-ontwikkelingen - misschien kwam hij daar vandaan. Geen aanwijzingen over zijn
+ontwikkelingen - misschien kwam hij daar vandaan. De kroniek bevat geen aanwijzingen over zijn
 religie.
 
-Er zitten, opmerkelijk, 3 verwijzingen naar slaafgemaakten in deze tekst. 1
+Er zitten, opmerkelijk, 3 verwijzingen naar slaafgemaakten in deze tekst. Eén
 stond er ook al in de tekst uit 1749 - en vermeldt dat er geen Turkse slaven
 mogen worden toegelaten zonder attestatie gezondheid, maar er wordt door deze
 auteur daarna ook gemeld dat slaven tewerk gesteld zijn bij de fortificatie

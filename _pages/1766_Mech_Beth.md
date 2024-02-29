@@ -35,12 +35,12 @@ Anoniem. ‘Een cort begrijp van de fondatie ende oprichtinghe des Cloosters van
 
 De kroniek lijkt vanaf de late zestiende eeuw doorlopend te zijn bijgehouden
 door meerdere kloosterzusters. Het stuk begint met een verhaal over de
-lotgevallen van de zusters tijdens de Opstand, als ze moeten vluchten en
-verspreid raken, en de heropbouw van hun convent na 1584. Over de individuele
+lotgevallen van de zusters tijdens de Opstand, wanneer ze moeten vluchten en
+verspreid raken, en over de heropbouw van hun convent na 1584. Over de individuele
 auteurs valt niet veel te zeggen, al zijn er wel hier en daar veranderingen in
 wat en hoe er genoteerd wordt: bijvoorbeeld iemand die bijhoudt welke gebeden
 er worden gezegd, het gebruik van arabische cijfers, en aandacht voor de
-jubilés van de zusters, die gevierd worden met een hoop lekkere dingen en
+jubilea van de zusters, die gevierd worden met een hoop lekkere dingen en
 extra weken recreatie, waar ze volop van genieten.
 
 De kroniek gaat vooral om professies, jubilea, sterfgevallen, electie nieuwe
