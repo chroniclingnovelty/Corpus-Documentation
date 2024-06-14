@@ -38,25 +38,43 @@ Baerntsz, Claes. “Kort Verhaal Der Gedenckwaerdijgste Gheschiedenissen van Wes
 
 ## Notities 
 
-De auteur Claes Barentsz werd in 1574 geboren als bastaardzoon van een
-welvarende vader. Twee familieleden stierven aan de pest. Hij was gereformeerd
-en ouderling. Hij was molenmeester van de Vier Noorder Koggen, wat wil zeggen
+Met dank aan Charlotte Lagerweij en Timo Steenmeijer
+
+De auteur Claes Barentsz werd in 1574 geboren als onecht kind van een
+welvarende vader, Baernt Pietersz uit Hauwert en Adriana Claes. Zijn vader stierf rond 1583 en liet zijn zoon een derde deel van zijn goed na. Claes was op dit moment nog maar 9 jaar. Hij behoorde tot de gegoede ingezetenen van Hauwert. Rond 1600 trouwde Claes met Marij Feeks. Het is niet duidelijk hoeveel kinderen het paar heeft gekregen. Wel weten we dat ze in ieder geval één dochter kregen. Zijn dochter stierf in 1636, net als haar man, aan de pest in Grootebroek.
+Claes Barentsz was gereformeerd
+en ouderling. Daarnaast was hij molenmeester van de Vier Noorder Koggen, wat wil zeggen
 dat hij in die hoedanigheid werkte voor het college van ingelanden van het
 Houtwouderambacht of Hoogwouderambacht.
 
-De tekst begint met allerlei bestuurlijke informatie. Vanaf 1633 wordt het een
-meer gevarieerde kroniek.
+Het is aannemelijk dat Baerntsz delen van zijn kroniek heeft overgenomen uit
+andere bronnen. Vooral in het eerste deel verwijst hij meermaals naar andere
+kronieken (Velius, Winsemius). Vanaf het tweede deel komt hier verandering in: dit is het oorspronkelijke
+werk van Baerntsz. In de inleiding van de kroniek staan de verschillende
+delen van de kroniek vermeld (inclusief jaartallen).
+Baerntsz beschrijft uitgebreid de godsdiensttwisten die tijdens het Bestand
+(Remonstranten tegen Contra-Remonstranten) in de Nederlanden oplaaiden. Claes
+Baerntsz was overtuigd Contra-Remonstrant.  In zijn rol als ‘vredebewaarder’ was Barentsz betrokken bij het geschil over de administratie van kerkelijke goederen,
+dat tussen 1622 en 1625 speelde tussen verschillende dorpen en steden van West-
+Friesland. Hierover schreef hij een tractaat waarvan een achttiende-eeuwse kopie zich in het Westfries Archief bevindt.
+De kroniek begint als een in net geschreven geschiedenis, in de latere delen wordt de inhoud gevarieerder en iets minder zorgvuldig gecomponeerd.
 
-JP/EK juni 2023
+De kroniek heeft een inhoudsopgave, een register en onderwerpsaanduidingen in de marge waaruit blijkt dat het geschreven is als een naslagwerk voor later, bijvoorbeeld voor gebruik in bestuurlijke kringen.
 
 
 
 ## Literatuur 
-Biografische gegevens auteur ontleend aan
 
-<http://www.westfriesefamilies.nl/kwartaalbladen/1976/wf1976_010_012.php>
 
-http://historisch-hauwert.nl/ClaesBaerntsz.html
+Karsten, G., De West-Friesche kroniekschrijver Claes Baerntsz., in: *West-Frieslands Oud en Nieuw* (WFON) 5 (1931), p. 59-62.
 
-Verder niets bekend.
+Kistemaker, Piet, Wie was Claes Barentsz?, in: Westfriese Families 17 (1976), nr. 1, p. 10-12. <http://www.westfriesefamilies.nl/kwartaalbladen/1976/wf1976_010_012.php>
+
+Krijnen, Agnes, Claes Baerntsz, in *Jaarboek 2010 Historisch Genootschap Hauwert*, p.7-10. Zie ook: http://historisch-hauwert.nl/ClaesBaerntsz.html.
+
+Het Vermaanlied van de Hollandse hagepreker Jan Arentsz. (zoals gezongen bij de hagepreken bij Hoorn en Enkhuizen in juli 1566) / met een inleiding van Jurjen Vis; opgetekend door Claes Baerents Hauwert – Enkhuizen (Uitgave: Omnia Current in het Buitenmuseum, 1999).
+
+'Tractaet ofte beschrijvinge van de groote questie ontstaan tusschen den steden van Westvriesland en de dorpen aldaar over de administratie van de kerkelijke pastorie- en costerie-goeden', door Claas Barentsz Hauwert,  
+1622-1630, afschrift 18e eeuw](https://www.westfriesarchief.nl/onderzoek/zoeken?, Westfries Archief, 0216 Collectie handschriften en losse archivalia, 1545-2009, inv. nr. 1317
+
 
