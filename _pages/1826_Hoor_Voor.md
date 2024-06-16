@@ -21,7 +21,7 @@ parent: Chronicles
 | Datum overlijden | 1826 | 
 | Plaats overlijden | Hoorn | 
 | Religie | gereformeerd | 
-| Publieke rollen | Onderofficier compagnie (Patriot) | 
+| Publieke rollen | Onderofficier schutterij | 
 | Beroep | Horloge en klokkenmaker  | 
 
 ## Inhoud van de tekst 
@@ -35,11 +35,11 @@ Voor de afzonderlijke delen van deze kroniek zie: [1826_Hoor_Voor_01](https://ch
 ## Notities 
 Met dank aan: Tom Hanemaaijer, Jip Slooten en Elisabeth van Vliet
 
-Klaas van Voorst werd geboren in 1745 in De Rijp. Hij was de zoon van Hendrik van Voorst, klokkenmaker en de tweede vrouw van zijn vader: Neeltje Claes Cuijper. Zijn vader Hendrik was was een beroemd klokkenmaker en kerkeraadslid in De Rijp. 
-Klaas van Voorst trouwde op 4 december 1774 te Hoorn met Dieuwertje Wit. De gehuwden kregen een zoon die hij vernoemde naar zijn vader: Hendrik van Voorst. Klaas van Voorst was gereformeerd zoals blijkt uit zijn lidmaatregistratie van 12 maart 1766.		
+Klaas van Voorst werd geboren in 1745 in De Rijp. Hij was de zoon van Hendrik van Voorsten diens tweede vrouw, Neeltje Claes Cuijper. Zijn vader Hendrik was was een beroemd klokkenmaker en kerkeraadslid in De Rijp. 
+Klaas van Voorst trouwde op 4 december 1774 te Hoorn met Dieuwertje Wit. De gehuwden kregen een zoon die hij vernoemde naar zijn vader: Hendrik van Voorst. Klaas van Voorst was gereformeerd zoals blijkt uit zijn registratie als lidmaat van 12 maart 1766.		
 Na zijn overlijden werden alle boeken in het bezit van Klaas van Voorst verkocht door boekhandelaar Jan Vermande. Op het voorblad van de gedrukte catalogus staan enkele bijzondere objecten vermeld: ‘Platen, Kaarten, Teekeningen en Liefhebberijen’ waaronder eene fraaije telescoop, van der Bildt, en Microscopen’. Klaas van Voorst bezat veel boeken, ook in het Latijn. Hij was een belezen en onderlegd man, we weten echter niets over zijn schoolloopbaan.
 
-De zeer omvangrijke kroniek wordt vanaf ca. 1779 contemporain. IN de tijd daarvoor gebruikt Van Voorst diverse andere bronnen, met name de kroniek van Fijke Rijp, maar ook de Vaderlandsche Historien van Wagenaar. De kroniek heeft ook veel tekst gemeen met de kroniek van Juriaan Spruijt maar we hebben nog niet uitgezocht of Van Voorst die kroniek kende.
+De zeer omvangrijke kroniek wordt vanaf ca. 1779 contemporain. In de tijd daarvoor gebruikt Van Voorst diverse andere bronnen, met name de kroniek van Fijke Rijp, maar ook de Vaderlandsche Historien van Wagenaar. De kroniek heeft ook veel tekst gemeen met de kroniek van Juriaan Spruijt maar we hebben nog niet uitgezocht of Van Voorst die kroniek kende, mogelijk gebruikten beide kroniekschrijvers dezelfde bronnen.
 Het laatste deel van de kroniek bevat behalve een index heel veel bijlagen zoals een alfabetische lijst van straten, stegen en grachten in Hoorn. Lijsten van Hoornse bestuurders en beambten zoals boongangers, keurmannen en commissarissen van de kleine zaken. Gedrukte overheidspublicaties etc.
 
 
